@@ -1,0 +1,20 @@
+// c#lchus5.baf -PC goes back to area AR thieves' guild
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("C#HUSAM",DestroySelf())
+         LeaveAreaLUAPanic("%EBaldursGate_ThievesGuild%","",[1096.293]%FACE_0%)
+        LeaveAreaLUA("%EBaldursGate_ThievesGuild%","",[1096.293]%FACE_0%)
+        Wait(1)
+        Explore()
+        MoveViewPoint([1096.293],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("C#HUSAM",%STARTDIALOGNOSET%(Player1))
+END 

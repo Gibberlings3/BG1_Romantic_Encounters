@@ -1,0 +1,26 @@
+/* Activate: girdle of gender bender on Eldoth */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderEldoth","GLOBAL",0)
+Gender("Eldoth",FEMALE) HasItem("%tutu_var%BELT05","Eldoth")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderEldoth","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Eldoth */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderEldoth","GLOBAL",1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

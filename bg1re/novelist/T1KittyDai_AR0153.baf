@@ -1,0 +1,15 @@
+IF
+	Global("RE1_KDMeet","GLOBAL",5)
+	Global("RE1_KittyDaiCreation","GLOBAL",1)
+	GlobalGT("SarevokBehavior","GLOBAL",0)
+
+THEN
+	RESPONSE #100
+	SetGlobal("RE1_KittyDaiCreation","GLOBAL",2)
+	CreateCreature("T1KITTY",[919.532]%FACE_3%) // Kitty
+	ActionOverride("T1KITTY",Face(3))
+	CreateCreature("T1DAI",[867.560]%FACE_9%) // Dai
+	ActionOverride("T1DAI",Face(9))
+
+Continue()
+END

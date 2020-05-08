@@ -1,0 +1,26 @@
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+		SetGlobal("C#q11_BuyCow","GLOBAL",3)
+		MoveViewPoint([2064.491],INSTANT) // shifts camera 
+		ActionOverride("c#q11cow",DestroyItem("c#q11001"))
+		ActionOverride("c#q11cow",Kill(Myself))
+//		ActionOverride("c#q11cow",DestroySelf())
+//	CreateCreature("c#q11co2",[2064.491]%FACE_0%)
+        Wait(2)
+		ActionOverride("c#q11wat",JumpToPoint([2086.527])) // 
+		ActionOverride(Player1,JumpToPoint([2012.518])) 
+		CreateCreature("c#q11but",[2122.494]%FACE_3%)
+        	ActionOverride("c#q11wat",Face(12))      
+		ActionOverride(Player1,Face(12))
+       	ActionOverride("c#q11but",Face(3))      
+		ActionOverride("c#q11wat",TakePartyGold(500))
+		ActionOverride("c#q11mrs",DestroySelf())
+	    FadeFromColor([20.0],0)
+	    EndCutSceneMode()
+       ActionOverride("c#q11wat",%STARTDIALOGNOSET%(Player1))
+END 

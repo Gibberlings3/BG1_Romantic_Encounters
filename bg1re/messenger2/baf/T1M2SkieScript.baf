@@ -1,0 +1,61 @@
+/* Skie Asks For Her Letter */
+
+// Activate
+IF %BGT_VAR%
+PartyHasItem("T1M2LET5")
+Global("T1M2SkieLetter","GLOBAL",0)
+GlobalTimerExpired("T1M2LetterTimer","GLOBAL")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("T1M2SkieLetter","GLOBAL",1)
+Continue()
+END
+
+// Initiate
+IF %BGT_VAR%
+PartyHasItem("T1M2LET5")
+Global("T1M2SkieLetter","GLOBAL",1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END 
+
+/* Skie Talks About Her Brother */
+
+// Activate
+IF %BGT_VAR%
+Global("T1M2SkieLetter","GLOBAL",2)
+GlobalTimerExpired("T1M2LetterTimer","GLOBAL")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("T1M2SkieLetter","GLOBAL",3)
+Continue()
+END
+
+// Initiate
+IF %BGT_VAR%
+Global("T1M2SkieLetter","GLOBAL",3)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END 

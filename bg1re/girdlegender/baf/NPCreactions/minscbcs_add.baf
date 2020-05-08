@@ -1,0 +1,26 @@
+/* Activate: girdle of gender bender on Minsc - morning after slumberparty-dialogue */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderMinsc","GLOBAL",5)
+Gender("Minsc",FEMALE) HasItem("%tutu_var%BELT05","Minsc")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderMinsc","GLOBAL",6)
+END
+
+/* Initiate: girdle of gender bender on Minsc */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderMinsc","GLOBAL",6)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

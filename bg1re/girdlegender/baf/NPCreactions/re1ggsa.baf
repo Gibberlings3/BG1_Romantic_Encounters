@@ -1,0 +1,27 @@
+/* Activate: girdle of gender bender on Safana */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderSafana","GLOBAL",0)
+Gender("Safana",MALE) HasItem("%tutu_var%BELT05","Safana")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderSafana","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Safana */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderSafana","GLOBAL",1)
+Gender("Safana",MALE) HasItem("%tutu_var%BELT05","Safana")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

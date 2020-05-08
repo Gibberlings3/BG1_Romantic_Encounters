@@ -1,0 +1,14 @@
+// "fade to black".
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+	SetGlobal("RE1_GirdleGenderMinsc","GLOBAL",6)
+        FadeToColor([20.0],0)
+        Wait(5)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("minsc",%STARTDIALOGNOSET%(Player1))
+END 

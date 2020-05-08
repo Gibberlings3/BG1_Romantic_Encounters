@@ -1,0 +1,14 @@
+// Dawn Priest Blaise, in the Vestibule of the Song of the Morning Temple
+// BG1 AR3401
+// BG Tutu FW3401
+// BGT AR9301 / "Temple_Vestibule"
+
+IF 
+  Global("T1BlaiCreation","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("T1BlaiCreation","GLOBAL",1)
+	CreateCreature("T1BLAI",[160.360]%FACE_14%)
+	Continue()
+END
+

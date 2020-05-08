@@ -1,0 +1,13 @@
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+	MoveViewPoint([3452.3736],INSTANT)
+	CreateCreature("c#lcba02",[3452.3736]%FACE_9%)
+	Wait(1)
+	EndcutSceneMode()
+	SetInterrupt(TRUE)
+	ActionOverride("c#lcbart",%STARTDIALOGNOSET%(Player1))
+END 

@@ -1,0 +1,69 @@
+IF
+	See([ENEMY])
+	Class(LastSeenBy(Myself),FLAMING_FIST)
+THEN
+	RESPONSE #100
+		Enemy()
+END
+
+
+
+IF
+	Global("C#Q11_Necroquest","GLOBAL",2)
+	!Exists("C#Q11mo2")
+	See([PC])
+THEN
+	RESPONSE #100
+		%STARTDIALOGNOSET%(Myself)
+END
+
+IF
+	Global("C#Q11_Necroquest","GLOBAL",14)
+	Exists("C#Q11mo2")
+	See([PC])
+THEN
+	RESPONSE #100
+		%STARTDIALOGNOSET%("C#Q11mo2")
+END
+
+IF
+	Global("C#Q11_Necroquest","GLOBAL",15)
+	!Exists("C#Q11mo2")
+	See([PC])
+THEN
+	RESPONSE #100
+		%STARTDIALOGNOSET%([PC])
+END
+
+/* Cow quest */
+
+IF 
+	Global("C#Q11_CowQuest","GLOBAL",1)
+	See("c#q11mrs")
+	Detect([PC])
+	Range([PC],20)
+THEN
+  RESPONSE #100
+	%STARTDIALOGNOSET%("c#q11mrs")
+END
+
+IF 
+	!Global("C#Q11_CowQuest","GLOBAL",11)
+	Global("C#q11_CowAttacked","GLOBAL",1)
+	Detect([PC])
+THEN
+  RESPONSE #100
+	%STARTDIALOGNOSET%([PC])
+END
+
+
+IF 
+	!Global("C#Q11_CowQuest","GLOBAL",11)
+	!Global("C#q11_BuyCow","GLOBAL",3)
+	!Global("C#q11_CowAttacked","GLOBAL",2)
+	Dead("c#q11cow")
+	Detect([PC])
+THEN
+  RESPONSE #100
+	%STARTDIALOGNOSET%([PC])
+END

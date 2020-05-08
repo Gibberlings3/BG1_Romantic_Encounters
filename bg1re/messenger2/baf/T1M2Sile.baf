@@ -1,0 +1,41 @@
+// BG1RE: The Messenger 2 - The Shop of Silence: init dialogue, and spawning The Ghost.
+
+// Initiating Dialogue to Get the Letter
+
+IF
+	Detect(PLAYER1)
+	!StateCheck(PLAYER1,CD_STATE_NOTVALID)
+	!StateCheck("SILENC",CD_STATE_NOTVALID)
+	PartyHasItem("T1M2LET7") 
+	Global("T1M2SilenceLetter","GLOBAL",0) 
+	NumTimesTalkedToGT(0)
+THEN
+  RESPONSE #100
+    SetGlobal("T1M2SilenceLetter","GLOBAL",1)
+	Continue()
+END
+
+IF 
+	Global("T1M2SilenceLetter","GLOBAL",1) 
+THEN
+  RESPONSE #100
+    StartDialogueNoSet(Player1)
+END
+
+/*
+
+// Barkis is Willing
+// (cloned from Ulcaster)
+IF 
+	GlobalTimerExpired("T1M2SilenceTimer","%EBaldursGate_SilencesShop%")
+	Global("T1M2SilenceLetter","GLOBAL",2)
+THEN
+  RESPONSE #100
+    SetGlobal("T1M2SilenceLetter","GLOBAL",3)
+	CreateCreature("T1M2GHOS",[705.281]%FACE_2%) // TODO set spawn point
+	ActionOverride("T1M2GHOS",DestroyItem("%tutu_var%CLCK16"))
+	GiveItemCreate("%tutu_var%misc50","Silence",0,0,0)
+	Continue()
+END
+
+*/

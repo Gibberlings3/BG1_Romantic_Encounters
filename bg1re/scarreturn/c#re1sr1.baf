@@ -1,0 +1,31 @@
+IF 
+	  Global("C#RE1SR_Announcing","LOCALS",0)
+THEN
+	RESPONSE #100
+	  SetGlobal("C#RE1SR_Announcing","LOCALS",1)
+	  SetGlobalTimer("C#RE1SR_DonnerjanTimer","GLOBAL",2)
+END
+
+IF 
+	Global("Chapter","GLOBAL",%tutu_chapter_7%) 	
+	Global("RE1_ScarFlirt","GLOBAL",1)
+	!Global("C#RE1_ScarRetrieval","GLOBAL",4)
+	GlobalTimerExpired("C#RE1SR_DonnerjanTimer","GLOBAL")
+	See([PC])
+THEN
+	RESPONSE #20
+	  SetGlobalTimer("C#RE1SR_DonnerjanTimer","GLOBAL",20)
+	  %DisplayStringHead%(Myself,@304)
+	RESPONSE #20	
+	  SetGlobalTimer("C#RE1SR_DonnerjanTimer","GLOBAL",20)
+	  %DisplayStringHead%(Myself,@305)
+	RESPONSE #20	
+	  SetGlobalTimer("C#RE1SR_DonnerjanTimer","GLOBAL",20)
+	  %DisplayStringHead%(Myself,@306)
+	RESPONSE #20	
+	  SetGlobalTimer("C#RE1SR_DonnerjanTimer","GLOBAL",20)
+	  %DisplayStringHead%(Myself,@307)
+	RESPONSE #20	
+	  SetGlobalTimer("C#RE1SR_DonnerjanTimer","GLOBAL",20)
+	  %DisplayStringHead%(Myself,@308)
+END

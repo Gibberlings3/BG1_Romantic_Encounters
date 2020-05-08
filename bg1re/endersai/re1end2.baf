@@ -1,0 +1,23 @@
+// re1end2.baf - Player and Ender go 'upstairs'
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("T1ENDER",DestroySelf())
+        LeaveAreaLUAPanic("%FriendlyArmInn_L3%","",[1007.892]%FACE_14%)
+        LeaveAreaLUA("%FriendlyArmInn_L3%","",[1007.892]%FACE_14%)
+        Wait(1)
+	Face(14) //needed for BG1
+	CreateCreature("T1ENDER",[1056.927]%FACE_6%)        
+	ActionOverride("T1ENDER",Face(6)) //needed for BG1
+        Explore()
+        MoveViewPoint([1008.884],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("T1ENDER",%STARTDIALOGNOSET%(Player1))
+END 

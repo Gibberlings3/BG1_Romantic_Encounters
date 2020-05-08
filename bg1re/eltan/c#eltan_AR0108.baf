@@ -1,0 +1,55 @@
+IF
+	Dead("Sarevok")
+	OR(2)
+		Dead("ELTAN")
+		Dead("ELTAN2")
+	Global("C#RE1_SpawnEltan","MYAREA",0)
+THEN
+	RESPONSE #100
+		SetGlobal("SPRITE_IS_DEADELTAN","GLOBAL",0)
+		SetGlobal("SPRITE_IS_DEADELTAN2","GLOBAL",0)
+		SmallWait(1)
+		Continue()
+END
+
+IF
+	Dead("Sarevok")
+	Global("C#RE1_SpawnEltan","MYAREA",0)
+THEN
+	RESPONSE #100
+		CreateCreature("C#RE1ELT",[810.400]%FACE_0%)
+		Continue()
+END
+
+IF
+	Dead("Sarevok")
+	Global("C#RE1_SpawnEltan","MYAREA",0)
+THEN
+	RESPONSE #100
+		SetGlobal("C#RE1_SpawnEltan","MYAREA",1)
+END
+
+/* compatibility with EBG1: only one Duke Eltan shall remain */
+
+IF
+	Dead("Sarevok")
+	Exists("ELTAN") 
+	Exists("C#RE1ELT") 
+	Global("C#st_SpawnEltan","MYAREA",1)
+	Global("C#RE1_SpawnEltan","MYAREA",1)
+THEN
+	RESPONSE #100
+		ActionOverride("C#RE1ELT",DestroySelf())
+		SetGlobal("C#RE1_SpawnEltan","MYAREA",2)
+END
+
+/* bg1re only: Duke Eltan goes after Scar's Return Quest is finished */
+IF
+	Exists("C#RE1ELT") 
+	Global("C#RE1_ScarRetrieval","GLOBAL",16)
+	GlobalLT("C#RE1_SpawnEltan","MYAREA",2)
+THEN
+	RESPONSE #100
+		ActionOverride("C#RE1ELT",EscapeArea())
+		SetGlobal("C#RE1_SpawnEltan","MYAREA",2)
+END

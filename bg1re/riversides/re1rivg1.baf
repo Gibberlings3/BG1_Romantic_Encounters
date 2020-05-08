@@ -1,0 +1,30 @@
+// "fade to black", bring Hanaly across the river, Yvonne restarts the conversation
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+		MoveViewPoint([2469.3377],INSTANT) // shifts camera slightly south of bridge
+		ActionOverride("RE#GHON1",JumpToPoint([2424.3377])) // bring Hanaly across the river.
+		ActionOverride("RE#GHON2",JumpToPoint([2516.3377])) // shift Yvonne slightly.
+        ActionOverride("RE#GHON1",Face(12))               // arranging the two ghosts to face each other
+		ActionOverride("RE#GHON2",Face(4))
+		ActionOverride(Player1,JumpToPoint([2440.3498]))
+		ActionOverride(Player1,Face(8))
+		ActionOverride(Player2,JumpToPoint([2520.3496]))
+		ActionOverride(Player2,Face(8))
+		ActionOverride(Player3,JumpToPoint([2311.3425]))
+		ActionOverride(Player3,Face(10))
+		ActionOverride(Player4,JumpToPoint([2630.3437]))
+		ActionOverride(Player4,Face(6))
+		ActionOverride(Player5,JumpToPoint([2342.3281]))
+		ActionOverride(Player5,Face(14))
+		ActionOverride(Player6,JumpToPoint([2619.3281]))
+		ActionOverride(Player6,Face(2))
+	    FadeFromColor([20.0],0)
+	    EndCutSceneMode()
+        ActionOverride("RE#GHON2",%STARTDIALOGNOSET%(Player1))
+END 

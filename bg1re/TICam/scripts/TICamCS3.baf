@@ -1,0 +1,13 @@
+IF
+	True()
+THEN
+	RESPONSE #100
+        	CutSceneId("TITamah")
+		MoveViewPoint([204.582],INSTANT)
+		IncrementGlobal("TISCRLLove","GLOBAL",1) 
+		AddexperienceParty(50) 
+		%DisplayStringHead%(Myself,@287) 
+		Wait(1)
+		EndcutSceneMode() 
+		ActionOverride("TITamah",%STARTDIALOGNOSET%(Player1))
+END

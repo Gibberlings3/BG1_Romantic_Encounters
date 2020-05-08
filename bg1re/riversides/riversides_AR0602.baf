@@ -1,0 +1,8 @@
+IF
+	Global("BG1RE_EraseJournalRiversides","AR0602",0)
+THEN
+	RESPONSE #100
+		SetGlobal("BG1RE_EraseJournalRiversides","AR0602",1)
+		EraseJournalEntry(@122)
+		Continue()
+END

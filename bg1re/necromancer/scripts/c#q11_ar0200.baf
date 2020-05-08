@@ -1,0 +1,56 @@
+IF 
+  Global("C#Q11_Necroquest","GLOBAL",0)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11wat",[4218.2493]%FACE_2%) //watchman
+	CreateCreature("c#q11mo2",[4193.2563]%FACE_10%) //searching mom
+    SetGlobal("C#Q11_Necroquest","GLOBAL",1)  
+END
+
+/* girl is alive */
+
+IF 
+  GlobalGT("C#Q11_Necroquest","GLOBAL",7) GlobalLT("C#Q11_Necroquest","GLOBAL",11)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11wat",[4218.2493]%FACE_2%) //watchman
+	CreateCreature("c#q11mo2",[4193.2563]%FACE_10%) //searching mom
+	CreateCreature("c#q11gir",[4195.2565]%FACE_10%) //Susan
+    SetGlobal("C#Q11_Necroquest","GLOBAL",14)  
+END
+
+IF 
+  !Exists("c#q11wat")
+  Global("C#Q11_CowQuest","GLOBAL",0)
+  Global("C#Q11_Necroquest","GLOBAL",16)
+  !Dead("C#Q11gir")
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q11_CowQuest","GLOBAL",1)  //Trevor and Mrs. Thirsty
+	CreateCreature("c#q11wat",[2135.646]%FACE_0%)
+	CreateCreature("c#q11mrs",[2075.658]%FACE_0%)
+	CreateCreature("c#q11cow",[2064.491]%FACE_0%)
+END
+
+IF 
+  !Exists("c#q11wat")
+  Global("C#Q11_CowQuest","GLOBAL",0)
+  Dead("C#Q11gir")
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q11_CowQuest","GLOBAL",1)  //Trevor and Mrs. Thirsty
+	CreateCreature("c#q11wat",[2135.646]%FACE_0%)
+	CreateCreature("c#q11mrs",[2075.658]%FACE_0%)
+	CreateCreature("c#q11cow",[2064.491]%FACE_0%)
+END
+
+IF 
+  Dead("c#q11cow")
+  Exists("c#q11mrs")
+THEN
+  RESPONSE #100
+	ActionOverride("c#q11mrs",EscapeArea())
+END
+
+
+

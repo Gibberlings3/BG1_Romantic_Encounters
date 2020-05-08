@@ -1,0 +1,9 @@
+IF 
+	Global("C#NOMetMeilla","GLOBAL",3)
+	See([PC])
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+	RESPONSE #100
+		StartDialog("C#NOjana",[PC])
+END

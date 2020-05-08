@@ -1,0 +1,9 @@
+IF 
+      Global("C#NOMetMeilla","GLOBAL",1)
+THEN
+	RESPONSE #100
+            SetGlobal("C#NOMetMeilla","GLOBAL",2)
+	    CreateCreature("C#NOTAX",[2085.2045]%FACE_0%) //Tax collector
+	    CreateCreature("c#nojana",[2206.2130]%FACE_0%) //Jana
+	Continue()
+END

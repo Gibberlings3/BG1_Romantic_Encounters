@@ -1,0 +1,19 @@
+// c#lclin3.baf -PC goes back to main area AR2303
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("c#lclina",DestroySelf())
+         LeaveAreaLUAPanic("%FriendlyArmInn_L1%","",[795.642]%FACE_0%)
+        LeaveAreaLUA("%FriendlyArmInn_L1%","",[795.642]%FACE_0%)
+        Wait(1)
+        Explore()
+        MoveViewPoint([795.642],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+END 

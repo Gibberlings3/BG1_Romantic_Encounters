@@ -1,0 +1,13 @@
+IF %BGT_VAR%
+      Global("C#RE1SR_WarehouseSpawn","GLOBAL",0)
+	Global("Chapter","GLOBAL",%tutu_chapter_7%)
+		
+THEN
+	RESPONSE #100
+            SetGlobal("C#RE1SR_WarehouseSpawn","GLOBAL",1)
+	    CreateCreature("c#re1sr3",[913.228]%FACE_2%) //Hung
+	    CreateCreature("c#re1sr4",[904.293]%FACE_10%) //Chester
+END
+
+
+

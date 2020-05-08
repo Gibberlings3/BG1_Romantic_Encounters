@@ -1,0 +1,981 @@
+/* Missing lines up to @171 are used in setup.tra! */
+
+@16  = ~Kim~
+
+@19  = ~Scar's Vase~
+@20  = ~This vase you would recognize anywhere. It's the one you nearly knocked off the barrel it was standing on when you followed Scar's invitation into his very tiny private quarters. 
+
+The design is of a Baalor Ale Mug, but the vase is pottered gracefully, the ornamentation drawn artistically. It is clearly not meant to actually serve ale, but to function as a piece of decoration.
+How it got into this vendor's possession is the question you have no answer to.~ 
+@21  = ~Candleholder~
+@22  = ~This is a candleholder. Its surface shows some dents and scratches you would expect from such an item that has been in use for a while. The metal is shiny but of cheap appearance.~ 
+@23  = ~Golden Plate~
+@24  = ~This plate looks delicate and surely belonged to a greater set once.~
+@25  = ~Scar's Body~
+@26  = ~This is Scar's body. It looks remarkably fresh and healthy, considering the way Scar died and the time that has passed since. Priests must have worked on him, before Angelo took over the Flaming Fist and forced them to stop.~
+@27  = ~Transport Receipt~
+@28  = ~This is the receipt Chester and Hung gave you. It gives the transport information about the extra crate Duntrin moved to the warehouse, the one you suspect Scar to be in.~
+@29  = ~Donnerjan~ 
+@30  = ~Donnerjan's Second-Hand Shop~
+@31  = ~Kelder~
+@32  = ~Hung~
+@33  = ~Chester~
+@34  = ~Duntrin~
+@35  = ~I am a man of my word.~ [%tutu_var%SCAR04]
+
+@37  = ~The Shadow Thieves send their regards.~ [%tutu_var%HUSAM03]
+@38  = ~There are too many, retreat!~ [%tutu_var%HUSAM02]
+
+@41  = ~Bartus~
+
+@43  = ~Lina~
+
+@45  = ~Quentin~
+
+@49  = ~Meilla~
+@50  = ~Jana~
+@51  = ~Cragmor~
+@52  = ~Meilla's cat~
+@53  = ~This is Meilla's cat Whisper. Probably as old as Miella, he seems to be comfortable where he is, taking a nap.~
+@54  = ~Letter~
+@55  = ~Dear Meilla, 
+
+it was kind of you to remember my birthday, though I don't really enjoy them much, anymore. I've been thinking of you. I wonder how you are. I wonder what would have happened, if I'd have given it a chance. I know what I was, Meilla, and I know what passed between us, and I'm sorry. Could we meet? Could we try again? I await your reply.
+
+Yours in love, 
+Dhugal~
+
+@57  = ~Harlot~
+@58  = ~Summer Umbrella~
+@59  = ~Schvantz~ /* This name is taken out of the game, from one of the courtensan's dialogues */
+@60  = ~Lars~
+@61  = ~Ariane~ 
+@62  = ~Hello, friend.~ [GENMG06]
+@63  = ~Gunther~ 
+@64  = ~'Ello, friend.~ [GENFG04]
+@65  = ~Old Mab~
+@66  = ~Yes, friend?~ [GENFG05]
+@67  = ~Miss Isobel Whitley~
+@68  = ~Yeah, mate?~ [GENMG12] 
+@69  = ~Pete~
+
+@71  = ~This is Hull's long sword that he gave you after your... farewells in Candlekeep. It's a normal long sword, and not too well-tended, but it's strong and well balanced.
+
+STATISTICS:
+
+Damage:  1D8
+THACO:  +1 bonus
+Damage type:  slashing
+Weight: 4
+Speed Factor: 5
+Proficiency Type: Large Sword
+Type:  1-handed
+Not Usable By:
+ Druid
+ Cleric
+ Mage
+~
+@72  = ~This is Hull's long sword that he gave you after your... farewells in Candlekeep. It's a normal long sword, and not too well-tended, but it's strong and well balanced.
+
+STATISTICS:
+
+Damage:  1D8 (slashing)
+THACO:  +1 bonus
+Speed Factor: 5
+Proficiency Type: Long Sword
+Type: One-handed
+Weight: 4
+~
+
+@79  = ~Molly~
+
+@81  = ~Centeol's Journal~
+@82  = ~This is the journal of Centeol, the woman who was changed into a creature of horrid appearance. It may be a good source for those who want to learn about her past.
+
+"...we talked again. I met him near the House of the Talisman. He was continuing his researches. Oh, how I wish I could help him. I don't care what others would think. I just want his dreams to come true. But...it's fine. At least I can look at him when he's studying his tomes. That should be enough. He would never leave Tanova for me..."
+
+"...he had an argument with the queen. I don't know why; I don't know... but Tanova. She didn't come. She left him alone. My poor beloved... I'll try to support him. I'm not sure how, but I will. I promise."
+
+"He met the queen again. They didn't argue this time. That's good. I don't want to see him alone. Upset. Distanced."
+
+"She - Tanova - left him again. Alone. He spent his whole day ALONE. She didn't even ask if he wants to talk. She doesn't deserve him."
+
+"...she should DIE... She's like a leech..."
+
+"...I WILL do it..."
+
+"I CAN do it."
+
+Some pages are missing; the next entry was made two months later.
+
+"How could he?! I love him so much... she deserved her death. I did everything I could to help him. But he CURSED me! WHY?! But this will end... This...this will end... But I hear them... I hear the eight-legged horror creep inside... they never stop..."
+
+"...no matter how much time will pass, I can never forget..."
+
+"No one will see me. I will stay alone. Alone with my memories. They never leave. They never die."
+
+"Will this end?"
+
+"...I beg for silence! I just want some peace! Please..."
+
+"I'm dead. I'm dead to Faerûn. I'm dead to him."
+
+"...but I can't forget..."
+
+That line is the last one.
+
+Weight: 1 lbs.~
+
+@84  = ~Dark phantasm~
+@85  = ~Phantasm's Mark~
+
+@87  = ~Ool-Garias~
+@88  = ~Is'samya~
+@89  = ~Shady character~
+
+@91  = ~The Great Zudini~
+
+@93  = ~Dawn Priest Blaise~
+@94  = ~Sister Sapientia~
+@95  = ~Dawn Priest Blaise's Book~
+@96  = ~Dawn Priest Blaise's Book
+
+This small, leather-bound book contains the prayers and daily offices of a follower of Oghma, the patron of scholarship. As well as the morning and evening services, it details the rituals and meditations involved in such things as beginning a scholarly treatise, comparing translations or corrupted copies, and annotating texts. It is quite ordinary for its kind except for the illustrations: they glow with lapis lazuli and gold leaf and include among other images the tools of an illuminator's trade, or, growing up the side of a page of dry prose, a blossoming pea-vine.~
+@97  = ~Sister Sapientia's Letter~
+@98  = ~Sister Sapientia's Letter
+
+To Dawn Priest Blaise, of the Song of the Morning Temple, East of Beregost, from Sister Sapientia of the Temple of Oghma, in Candlekeep.
+
+14 Tarsakh: My dear love,
+
+I thought of you this morning while weeding the kitchen garden. The sun cleared the Keep's walls and lit up the dew, making the young spinach and the staked peas rich and strange...
+
+
+22 Tarsakh: There was a plague of frogs in the refectory this morning, and much wailing and flapping of robes as Honoured Scholars fled the hopping menace. I fear that Pink Lightning and Gorion's child are behind this, somehow. I should be outraged at the indignity, but as I write a frog sits on my page, green as new moss and no larger than my thumb-nail. Now, regarding your thoughts on metempsychosis...
+
+
+28 Tarsakh: We have been working lamb skins into parchment for the past week. The smell is atrocious and my hands ache. Thank you for the pens! I have the blackest of black ink...
+
+
+1 Mirtul: Has it been forty years already? Forty years since you asked Candlekeep for a clean copy of Sanderly's Aubades? It is the blink of an eye, my love.
+
+With the roads so dangerous of late I do not know when I can send this, but I will strive to find a reliable messenger.
+
+As ever yours,
+
+Sister Sapientia~ 
+
+@100  = ~Ender Sai~
+
+@102  = ~I'll talk to you, if you wish.~ [LATHAN11]
+@103  = ~Good to see you, friend.~ [LATHAN09]
+@104  = ~I'm not usually prone to violence, but then I don't usually deal with the likes of you.~ [LATHAN17]
+@105  = ~Dai~
+@106  = ~How do you do.  A pleasant day, yes?~ [GNOMEF04]
+@107  = ~Oh, you're fine enough, I suppose.~ [GNOMEF01]
+@108  = ~Don't you start bullying; I'll not have it.~ [GNOMEF02]
+@109  = ~Kitty~
+@110  = ~Kitty and Dai's Rough Draft~
+@111  =  ~Behold: Childe of Candlekeep~
+
+@113  = ~Hanaly~
+@114  = ~Ghost~
+@115  = ~Yvonne~
+@116  = ~Hanaly's Pipe~
+@117  = ~This is the pipe given to you by Hanaly the Ghost.  Though it is old and battered, the scent of fine tobacco still lingers in the bowl and stem.~
+@118  = ~Ghost Stone~
+@119  = ~This small stone was given to you by the ghosts Hanaly and Yvonne when you reunited them.  It has been worn smooth and featureless by the water's flow, and feels comfortable when held in the hand.~ 
+@120  = ~This small stone was given to you by the ghosts Hanaly and Yvonne when you reunited them.  It lay long in the river, smoothed and obscured by the water's flow.  When warmed in the hand, it will briefly share its property of obscuration.
+
+STATISTICS:
+
+Special:  The user becomes Blurred.  This ability may be used once per day.~
+@121  = ~This small stone was given to you by the ghosts Hanaly and Yvonne when you reunited them.  It lay long in the river, smoothed and obscured by the water's flow.  When warmed in the hand, it will briefly share its property of obscuration.
+
+STATISTICS:
+
+Special:  The user becomes Blurred.  
+Charges: 10~
+
+@122  = ~This is the unfinished draft of a light novel loosely based on your recent adventures.  The prose is purple, the humour is broad, and the plot moves at an entertaining speed.
+
+In a good light, it is not *entirely* unlike what actually happened.~
+
+@124  = ~Dead Girl~
+@125  = ~This is the corpse of a dead young woman. She is wearing a fine wooven coat and the remainings of ornaments of dried flower arrangements that look somehow traditional.~
+@126  = ~Necromancer's Diary~
+@127  =  ~This is the necromancer's diary. It contains confirmation of everything he said about his motives, and a lot of self-pity and sorrow. 
+
+He seems to be determined not to spread the dark arts he went into, and states this at several places, "not to spoil others to the dark path I went on". There is no writing about all the knowledge the necromancer must have gained concerning the resurrection of long lost persons. 
+
+Whatever the results of his research, he seems to be determined to take it with him into the grave.~
+@128  = ~Bottle with blood~
+@129  = ~This bottle contains blood of a cow.~
+@130  = ~This bottle contains blood of a cat.~
+@131  = ~This bottle contains blood of a girl.~
+@132  = ~This bottle contains blood of a nymph.~
+@133  = ~Letter of Mrs. Thirsty~
+@134  = ~This is the letter Mrs. Thirsty wrote to farmer Bruns. It has several pages, all lettered in a small, steady hand writing. By glancing on it, you notice the word "Berta" at least five times on each page.~
+@135  = ~Fresh Beef Steaks~ 
+@136  = ~These are the steaks of Berta, Mrs. Thirsty's cow. The meat looks excellent, although you are not sure what to do with it - other than eating it, of course.
+
+When wholly consumed, this meat restores 9 hit points to the person.~
+@137  = ~Berta~ 
+@138  = ~Mrs. Sutherland~ 
+@139  = ~Trevor~ 
+@140  = ~Kitty~ 
+@141  = ~Necromancer~ 
+@142  = ~Susan~ 
+@143  = ~Mrs. Thirsty~ 
+@144  = ~Butcher~ 
+@145  = ~Mourning Mother~ 
+@146  = ~Beth~ 
+
+@148  = ~Thee Oldde Magyck: Volume II~ 
+@149  = ~This is a very old looking magic book. It is written in a language long forgotten, and seems to explain magic runes and signs unknown to you. It might be of great interest to someone studying magic on a very high level.~ 
+@150  = ~Ioun stone~ 
+@151  = ~This is a magical ioun stone.~ 
+
+@153  = ~Curse-Removing Soap~
+@154  = ~Mistress Mirrorshade's Best Curse-Removing Soap
+
+This bottle of liquid soap was concocted to an old gnomish recipe handed down by Gellana Mirrorshade's mother, the cleric Gollumi Myrnickle. The pungent purple lotion, mixed from herbs, holy water, blessed ashes, and the tallow of high-minded sheep, will cleanse the user of some minor curses and spiritual afflictions.
+
+CAUTION: May put hairs on your chest, or remove them.
+
+Abilities:
+
+Remove Curse x 10~
+
+/* Note to translators: "Left" in the sense of "leaving behind */
+@157  = ~Left~ 
+@158  = ~Letter~ 
+@159  = ~The Letter Left Behind~ 
+@160  = ~I had to leave. I'm sorry. But I'll be back.~
+
+@162  = ~Alec~ 
+
+@164  = ~Arlene~
+
+@166  = ~Della May~
+
+@168  = ~Guard~ 
+
+@170  = ~This is the ioun stone Thalantyr gave you in the one private moment you shared. It raises the intelligence of the wearer by 2.
+
+STATISTICS:
+ 
+
+Special: Intelligence increased by 2
+
+Weight: 2~
+
+@172  = ~Mikala~ 
+@173  = ~Cloak of Ice Protection~
+@174  = ~Cloak of Ice Protection
+
+Not much is known about this cloak. Some say it was woven from the white hair of the men charmed by the syrenes, but the material is far too soft and warm for this tale to be true.
+STATISTICS:
+
+Cold resistance:  +50%
+Weight: 3
+~
+@175  = ~The sarcophagus serves as the final resting place of a young woman. Someone took great effort in lining the interior of the sarcophagus with silk cushions.~
+
+@176  = ~Chantelle~
+@177  = ~Magnus~
+@178  = ~White Knights-Errand~
+@179  = ~This is a white knights-errand of a chess set.~
+@180  = ~This is a white knights-errand of a chess set. It is delicately carved out of ivory, and carries the name of the carpenter who made it for you as a very tiny signature in Thorass letters on it's bottom: 'Mehmel'.
+The carpenter sweared to you it's in the same style as of the great ancient Master Aljhumal.~
+@181  = ~Old Chess Piece~
+@182  = ~This is a bishop of a chess set.~
+@183  = ~This is a white bishop of a chess set. It is delicately carved out of ivory, and carries the name of the carpenter who made it for you as a very tiny signature in Thorass letters on it's bottom: 'Mehmel'.
+The carpenter sweared to you it's in the same style as of the great ancient Master Aljhumal.~
+@184  = ~Magic Chess Piece~
+@185  = ~This is a bishop of a chess set.~
+@186  = ~This is a white bishop of a chess set. Master Thalantyr enchanted it with the spell 'Blessing'.
+
+STATISTICS:
+
+Special: Casts Blessing if used (10 charges)~
+@187  = ~This is a white bishop of a chess set. Master Thalantyr enchanted it with the spell 'Blessing'.
+
+STATISTICS:
+
+Special: Casts Blessing if used (once per day)~
+@188  = ~Piece of Ivory~
+@189  = ~This is a uge ivory tooth.~
+@190  = ~This is an old, uge ivory tooth. It still looks complete and valuable, despite the fact that you found it between the ship wreck's clutterings.~
+@191  = ~Master Mehmel~
+
+
+/* New for v2.0 */
+
+@192  = ~Woman~
+@193  = ~Man~
+
+@194  = ~Centeol's Wand~
+@195  = ~It is said that this wand was given to the Spider Lady after her magical powers were discovered. She used it to protect her companions and allies from daggers in the dark, but it seems that after all the incidents, after her heart was broken, the wand was given new abilities.
+The wand is cold and sticky, but the very top of it glows in a soft and warm light.
+
+STATISTICS:
+
+Wand provides 25% resistance to piercing damage. The target is also ignored by all kinds of spiders - even if target attacks them. Both effects last 60 seconds.
+Charges: 10
+Weight: 1~
+@196  = ~Wisdom Increase +1~
+@197  = ~Wisdom has been raised by 1 permanently~
+@198  = ~I wish I had my old tobacco pipe.~ [%tutu_var%HALFL04]
+@199  = ~Halfling Messenger~
+@200  = ~Bartleby's Letter Case~
+@201  = ~Bartleby's Letter Case
+
+A box of letters taken from the body of the messenger Bartleby Quickfoot.  It is sturdy, lined with oiled silk, and built to keep its fragile contents safe from damp, cold, and the terrifying stygian blackness of midnight.~
+@202  = ~Bartleby's Ghost~
+@203  = ~Barkis~
+@204  = ~Garrick's Bloodstone Amulet~
+@205  = ~Garrick's Bloodstone Amulet
+
+A gift to Garrick from a lady friend.  It is quite distinctly unmagical - however he seems quite fond of it, and often runs it through his fingers while humming a lilting tune.~
+@206  = ~Letter to Miss Aspen~
+@207  = ~Miss Maple Willow Aspen
+c/- The Blade and Stars Inn
+Baldur's Gate
+ 
+Since first I saw you in your bower, straight and tall, your hair lit to flame by the autumn sun, I have adored you as the daisy loves the dawn.
+ 
+Our bosky joys might grow sturdy as an oak and sweet as apples.  I wear the willow without you.  Do not leaf me in barren solitude.
+ 
+Your Devoted Admirer,
+ 
+Woodrow duBois~
+@208  = ~Letter From a Fan~
+@209  = ~From Carnatia Carnifex, called The Butcher, to the bard of the Burning Wizard Inn, in Beregost.  
+ 
+My dear Garrick,
+ 
+May I call you Garrick?  I hope that's not too forward.  I doubt you will remember me, just one adventurer among many as I am, and I could not stay to chat after the unpleasantness with those paladins.  But I wanted you to know how deeply I admired your rendition of "Gathering Pease-Blossoms" and afterwards, the smoothness of your modulation into Gilraen's "Frolique in A Major" as I broke a table over Sir Reynald's head was simply sublime.  Marvellous.  Extraordinary.  
+ 
+Enclosed is a small token of my esteem, a ring looted from the grave of an ancient prince and guaranteed curse-free!  It would please me if you wore my colour on your finger.
+ 
+Come away with me.  Be *my* bard.  I will shower you in jewels and silk and string your harp with the guts of my enemies.  (Your fingers are so nimble and sensitive, and your sense of rhythm so exquisite that I find myself wondering how it would be if - but that is a question for another time.)
+ 
+Simply travel eastwards away from the Sword Coast and I will hear of your coming.  And I will find you.
+ 
+Your humble fan,
+ 
+Carnatia~
+@210  = ~Letter From a Dungeoneer~
+@211  = ~To Nesiara Rille, 
+of the Friendly Arm Inn
+
+My Darling Nessie
+
+I've got a lead on a good haul.  Forget about Ulcaster School: old books are boring.  I found an old merchant who sold me a family heirloom - it was pricey but I could just feel the magic sizzling off it and couldn't pass it by.  Poor fellow, if he'd only known what he was selling... but that is not my problem.
+
+Now I have the wardstone to Durlag's Tower!  I'll just toddle off south, clean out that heap of stone, profit, and set up shop at the Inn with the proceeds.
+
+What could possibly go wrong?
+
+I dream of holding you in my arms,
+
+Your Pootsie.~
+@212  = ~Letter to Firebead~
+@213  = ~To Firebead, the Elven-Hair, of Beregost City
+
+I am not patient; I am not kind.  
+ 
+I envy and boast; I serve my own ends, always, but for the promptings of my anger and the hoarded tally of wrongs done against me.  Any virtue you see is through a lens distorted.
+ 
+But I
+ 
+But
+ 
+Allow me to elucidate, my dear.  Of the many quirks of my execrable character, there is one that I have never yet managed to regret: that I cannot deny you anything.  In short, for my maunderings are approaching tedium, in short if you are determined to stay this course then this weary old misanthrope is bound to support you in it, to the farthest limits of your satisfaction.  What I mean to say is -
+ 
+(That is, for as long as you want me.) 
+ 
+I am yours.
+
+M~
+@214  = ~Letter to Skie Silvershield~
+@215  = ~From Lord Eddard Silvershield, Marquis of Dumley, to the Right Honourable Skie Silvershield, at her estate in the City of Baldur's Gate,
+ 
+Greetings and Felicitations, my Dearest Sister.
+ 
+I trust that you have been attending well to your books and your dance lessons, and that your first Season ended with appropriate grandeur.  
+
+My own journey goes well.  With the roads so dangerous, trade goods are much sought after and our simple wagons are often feted by the towns we visit - most bemusing.  We travel quite carefully, avoid the main Trade Routes, and have had not a bit of trouble.  The Forest Animals are quite unafraid, often walking straight up to our Cavalcade, and my sketchbook grows very fat.  I enclose this likeness of a Fox, which I saw lounging by the bole of a tree in the small hours.  It had a louche, piratical air, and stared at me for a good five minutes before slouching off.  I have suffered from a cold since leaving the city, alas - sleeping wrapped in a single blanket under the bare and chilly stars is a Romantic Prospect, but trying to the Constitution of one unused to it.  The pot of Myrnickle's Balsam you gave me has been most helpful.  
+ 
+How odd it is that words to you come so easily on Paper, when they whistle away in my throat when I stand before my Little Sister; when I take refuge in the promptings of an Etiquette Book, inquire prettily as to your well-being, and give my due obeisances to our Father.  But this cold morning it is between us and the paper, and so I give you - a Fox, a Terrible Cold, and this - 
+ 
+When our Mother died it was difficult for me.  I missed her very much and, in my distress, fled the Bonds of Family when I should have striven to tie them tighter around us three.  I was a Fool - and I still am a Fool, to my woe.  I ask you not to inquire as to my reasons for leaving Town; you would not like the answer.
+ 
+Regarding this Musical Friend of whom they speak, all I can say is that I hope the fellow treats you with the Respect and Courtesy that you deserve, Skyling, and pray to Sune that you weather the storms ahead.  Love is an Awkward Beast, as our family knows well.
+ 
+My regards to Father and Step-Mama Brilla.  I am to them, as always, a Dutiful Son.
+
+Your Loving Brother,
+
+Eddard~
+@216  = ~Letter From a Happy Customer~
+@217  = ~To: Madame Alyth Elendara
+From: Master Stephan Re'Cap
+ 
+My dear lady Alyth,
+ 
+My master, Magus Davaeorn, has once again allowed me the pleasure of writing to you to thank you for the latest shipment of fine sweetmeats and wine from Calimshan and to submit our order for next month. Living apart, as we do, from civilization makes me quite grateful not only for such refined fare as you routinely provide, but the opportunity to correspond with such an accomplished and beauteous lady. I have enjoyed reading the personal messages and receiving the small gifts you include with your shipping invoices. The packet of 'candy kisses', for example, was quite a nice treat (is it too saucy of me to inquire if the real ones are as tasty?). As supplier of my victuals, I insist you replenish my supply immediately.
+ 
+In response to your question (or, should I say, your invitation) in your last private note: I would very much appreciate the opportunity to visit your establishment, and yourself, in person. There is only the matter of Magus Davaeorn's permission. I humbly beg your indulgence as my Master is not the most permissive of employers and is unlikely to allow me to leave here. Perhaps you might send a note requesting personal attention to some matter from one of our staff. Then I might more easily broach the subject with him. The chance of seeing you, one way or another, shall enhance my persuasiveness, I am sure.
+ 
+Ever yours,
+ 
+Stephan~
+@218  = ~Letter to Silence~
+@219  = ~Silence in the Sanctuary
+
+
+BARKIS IS WILLING~
+
+
+@220  = ~Cordelia~
+@221  = ~Camryn~
+@222  = ~Yes?~ [TIShf]
+@223  = ~Tamah~
+@224  = ~What do you want?~ [TITamf]
+@225  = ~Book Bag~
+@226  = ~This is a finely decorated leather book bag. It was given by Camryn the Scribe to <CHARNAME> as a going-away present when <PRO_HESHE> left Candlekeep. It is just the right size to carry books.~
+@227  = ~Letter to Tamah~
+@228  = ~Dear Tamah,
+Here, in the silence of my office, I am missing the scratch of your pen, your gentle cough, and the squeak of your chair as you shift. All the small noises which signaled the glorious fact that you, dear you, were nearby me. I did not even have to raise my eyes to know that your delicate little fingers were creating beauty so close to me. I could even stretch out my foot under the table that we shared and brush against your graceful ankles. Those days were heaven; I thought I might have them forever... Only in my reverie, Tamah. Only with my face streaming with tears.
+--C.~
+@229  = ~Sweet Tamah,
+You told me when we first met that I reminded you of your mother's grandfather; an Elvish Scholar of some fame in Trademeet. You felt intimidated by our difference in ages, by the scope and breadth of my knowledge, and by my more extensive experience of life. You said your meager sum of years and knowledge made you feel as if you were inadequate for the job I offered you. Ah, my tempestuous lover! Know now I felt equally inadequate to love such a magnificent woman as you. In my bed and in my arms, my centuries were mere moments in comparison to your instinctive, boundless knowledge of love's satisfaction. I have felt as much a child as you have, my dear, when you have told me of the outer worlds' beauties, explained that stableboy Dreppin's jokes, and, not least, guided me from unreasoning desire to unmatched pleasure. Consider, then, that in this and in most other things, we are properly matched partners regardless of our ages.
+--C.~
+@230  = ~Beloved Tamah,
+This morning when I woke up, alone as is now usual, I thought about the feel of your hair in my hands.  Its weight on my palms just before the silken soft strands slip through my ink-stained fingers.  It is a brilliant, shining halo of glory that adorns your temples, my dear.  I would give all of my remaining mornings if I could once more run your ebony comb through the threads after a night spent with the long, loose ends tickling my lips or spread luxuriously across my pillow.
+--C.~
+@231  = ~My Darling Tamah,
+There is little today in my thoughts that can entirely banish the memory of your eyes.  Wide and deep as a slow moving river.  But oh, how they brightened when you smiled!  They shone like they were lit from within by a fierce inferno of flame.  And for what?  For the centuries old joke of the pedant you said you loved.  Truly, my love, I am both humbled and amazed by the joy  you found in my presence and never cease to wonder at the mystery of it all.
+--C.~
+@232  = ~Dear Tamah,
+My heart stirred with pain, but it took a moment to remember that today marked five years since the day you left.  There is still no space in my grief to enjoy any of the small pleasures that once were in my life.  Why?  Because in 20 brief years you made your imprint upon each small measure of happiness.  I still cannot work, cannot eat, cannot sleep (nay!  Not even reverie) without being reminded of your loss.  The sharp absent presence is ever beside me; a shadow crossing the face of the sun of my life.  How I wish you would return.
+--C.~
+@233  = ~Lovely Tamah,
+Ah, my dear, I feel your absence keenly not just in moments of solitude, but also when in company with those I call my friends. You had such a quick wit that they all respected you despite your youth. You easily traded barbs with Ulraunt and jokes with Gorion. You could discuss an episode of Cormyr history with Phlydia as easily as exchange dirty jokes with Withrop. I had never regarded my own tongue as lacking until I met you. In your presence, it stumbles and stutters over even the slightest word. Only my eyes' expression of love for you was eloquent, engaged as they were in admiring your confidence and joie de vivre.
+--C.~
+@234  = ~My Saucy Tamah,
+I was reminded late one night of when we fell in love. We were working on an edition of Celsor's "Seduction of a Nymph". You were drawing the illustrations and I was to apply colored inks and gold leaf. Ah... such naughty images you created, my dear. Yet also so beautiful. Only a scribe of my long years can appreciate how rarely an illustrator of your talent comes along. Only one like you, who could tease an old elf like myself back to vigorous manhood. We were illustrating the scene where Coreddon caresses Ephemera in the garden, I remember, and your hand brushed against mine. My heart was already yours, my darling, but I feared to speak lest you laugh at an old elf's fantasies. Trembling, I laid my hand on yours, and you asked if you could be my Ephemera. The lips I had once only employed for speaking were put to finer use, beloved; that night, I certainly tried to be Coreddon, although I doubt Ulraunt would have appreciated knowing the use we made of his patch of begonias in Candlekeep's garden!
+--C.~
+@235  = ~Tamah,
+How many ways can I tell you that you were right? That someday I, too, would rage against the walls of Candlekeep like a bird in a cage. I sought out Candlekeep so that I would never have to face my fears, but here I am, gazing solidly at them. Let me speak briefly of my childhood, Tamah. I was born in Waterdeep in 1032 DR, the year the master-mage Aghairon became the first lord of Waterdeep and brought that city a government based on reason instead of the strength of arms. I should know: my parents were his friends and were slain during an attempted uprising by one of the defeated Warlords Aghairon had supplanted. From childhood, therefore, I have been afraid to love anyone. As peaceful as it has become, Waterdeep still seethes with the ambition of its guildmasters. I have never felt safe anywhere save Candlekeep. Yet, my wise Tamah, you were right. Even hidden away in my tower, love found me. Passion briefly ruled my nights and sweet harmony my days. By trying to keep you near me, I drove you away... Alas, I have still lost my dearest friend and companion! With your strength to keep fear at bay, my love, I know I can leave here. With your hand, this life can be changed.
+--C.~
+@236  = ~My Tamah,
+I was looking out the window this afternoon and saw that the swallows had returned to the eaves of the Library. They shelter in the carvings and embellishments of the building. One pair has chosen to build their nest on the window ledge of our... My bedroom. I wept, though I welcome this little pair and their babies to my humble abode. Remind me, my sweet... Did we not once talk of marrying? Of children? Did we not tease each other with our notions of a child with my chin and your eyes? I suppose I could recall every word in reverie if I did not fear that the memory would drive me mad. Families and children have drifted into Candlekeep, my love; Winthrop and Gorion have each adopted a child. The noise of children's feet echo in the Library Halls and <CHARNAME>, Gorion's child, has twice knocked over my ink bottles. I should have been angered, but, instead, I gave <PRO_HIMHER> a colored pencil and a blank scroll to draw on. Did I once have the chance for many such obvious expressions of love with my own children? How could I have been so blind?
+--C.~
+@237  = ~My Beloved Tamah,
+It has been years since you left me, my dear one, and my desk drawers are beginning to be stuffed with letters to you. I desperately need some way to contact you even though I have no idea where you've gone. But then it occurred to me: you are a gifted Illuminator. Far more skilled than I, in fact. From the first, the nobles would pay a premium for samples of your work. And now, a 'Tamah' edition of a book is valuable. I know it would amuse you to discover that one lordling just gained entry to Candlekeep with one of our 'special' editions of Celsor's 'Seduction of a Nymph.' How appalled they would all be if they knew what fine lovemaking occurred just inches away from every edition we created! But I am forgetting my purpose in writing today.Somewhere you must be working for a wealthy family or a private library. If I send out a book... you might read it. You might even remember where we used to hide our love-notes to each other. And find this letter... I shall start inserting my letters into the books of poetry that I copy for patrons. Hopefully, at least one might reach your eyes and tell you of my continuing love for you. I am not concerned with anything that has happened between your departure and when you read this, my beloved. I want you back.
+--C.~
+@238  = ~My Love... My Tamah,
+Ulraunt laughs now whenever I refer to you, dear one. For even with the passage of three decades, I still call you 'my love.' Nor is his attitude unusual. Most humans acquainted with me at the least find this continuing attachment odd, calling it an 'Elven bond' and shaking their heads in pity, as if I were some kind of fool to still love you. Even you, nearest and dearest to my heart, failed to understand how I could have held my heart in reserve for three hundred years until you (!) invaded my life and held such benevolent tyranny over its solitary beat. Know then, darling, that even amongst such curiously faithful beings as elves there are those who astound their own kind with their reclusiveness. I was one such; as a youth, I was cold and unmoved by emotion. My parents named me 'órëlóra' ('heartless') for my detached distance. My attachment has always been to ancient secrets and hidden lore. I became a mage of no small power in my prime, before I forsook magic for the delight of pure knowledge. I laughed at my fellows--Elves and Men alike--who formed bonds of love only to see them sundered by the servants of Time. Imagine, then, my surprise when I met you. I was stirred to life: I ran madly after you in the Library Halls and across the gardens of Candlekeep! I had to immerse myself in contemplation of your beauty and bring you, half-laughing, half-groaning, to pleasure that neither of us had known before. First and last in my heart, Tamah... Of course you are still 'my love'!!
+--C.~
+@239  = ~My Sweet Tamah,
+I write this letter at the truly indecent hour of half past three. I have lain awake for long enough and shall merely start my day early with a note to you. I need not sleep at all, as you know, but reverie lately has brought me only endless repetitions of our final argument and your overly hasty departure. The blankness of sleep, however, has fled from me and left me yearning for your body. I would so love to return to those days when we slept naked and entwined together. I long to smell you, taste you, feel the texture of your skin against my lips and tongue. But alas, my rosebud, only in my memory may I, like the butterfly, breathe your heady perfume and lap nectar from your silky petals. I am utterly alone in these small hours; I must tame my rebellious flesh without your kind assistance. Gods help me!
+--C.~
+@240  = ~To My Dear Tamah,
+Once, when we were talking of marriage, I remember telling you of the most ancient of Elven customs: the exchange of the vows of eternal love. You were surprised to discover that Elves need no church-buildings, no priests, no ceremonies, and no approval of state and local constabulary to bond. Those, my love, are just the trappings to a basic agreement between willing and loving partners. I have never been averse to human weddings--have been invited to more than a few in my time--but find them amusingly repetitive. I would marry you any way you might choose, my dear, but I will always remind you that I am already yours. The words we spoke to each other in Candlekeep Garden when we declared our love for each other were my vow of commitment. I need no other promises to eternally be your man. Take this ring as proof of my words that you are the only woman I wish to be married to.
+--C.~
+@241  = ~Forgive me, Tamah,
+This morning I remembered our final argument... again... but with a difference. In my mind, once again you stormed off in such rage because I would not leave the safety of Candlekeep. Once again, you reminded me that the Keeper of Tomes disliked our pairing and would only begrudgingly permit us to raise children here. My protest that that he did not forbid us--that we could have a family here--fell on nearly deaf ears. I remember that you said you wanted to feel the freedom of a life without the border of stone walls and to daily hear the chorus of young voices around you as you suckle your youngest. You wanted to know that all of them would have open fields and woodland to explore instead of the stale air of the Library halls. The normal noises of nature instead of the murmur of whispers in enforced silence. All of this I remembered, love, but with a difference. This time, knowing what I did not know then--what it meant to live with only your absent presence beside me, I imagined myself giving in and giving you what you so dearly want. Why the difference? órëlóra has become quantë órë... My heart is full...
+--C.~
+@242  = ~My dear <CHARNAME>,
+<DAYANDMONTH>, in the Year of the Banner, <YEAR>.
+I am writing in haste a final note... This time for you. When I got up this morning, I sensed excitement in the air. I felt that something in my life was about to change. Even if this means I am to face my own demise, my whole heart yearns to embrace that change. You might think it foolish of me to believe this, but I am certain that I am to see Tamah today, even if only in whatever afterlife is permitted a man who will not enter Arvanaith without his human lover beside him. But I am rambling and have momentarily forgotten my purpose in writing...I am going to ask something of you, <CHARNAME>, being well aware that you have been kept in the dark about your past (those of us who knew were forbidden to speak of it lest we attract...unwanted...attention). I ask you to embrace change. Refusing to do so can only lead to unhappiness. This is the lesson I wish to pass on to you. Learn it well. I include in this note a small token of my esteem. It has served me well in my life. May it serve you at least as well.
+Ever Your Friend,
+--Camryn~
+@243  = ~Astrophil and Stella~ //"Sonnet 45: Stella Oft Sees" by Sir Philip Sidney
+@244  = ~Stella oft sees the very face of woe
+Painted in my beclouded stormy face,
+But cannot skill to pity my disgrace,
+Not though thereof the cause herself she know;
+Yet hearing late a fable, which did show
+Of lovers never known a grievous case,
+Pity thereof gat in her breast such place
+That, from that sea derived, tears’ spring did flow.
+Alas, if fancy drawn by imaged things,
+Though false, yet with free scope more grace doth breed
+Than servant’s wrack, where new doubts honor brings;
+Then think, my dear, that you in me do read
+Of lover’s ruin some sad tragedy.
+I am not I, pity the tale of me.
+
+(The spine of this book is a bit thicker than usual.)~
+@245  = ~Stella oft sees the very face of woe
+Painted in my beclouded stormy face,
+But cannot skill to pity my disgrace,
+Not though thereof the cause herself she know;
+Yet hearing late a fable, which did show
+Of lovers never known a grievous case,
+Pity thereof gat in her breast such place
+That, from that sea derived, tears’ spring did flow.
+Alas, if fancy drawn by imaged things,
+Though false, yet with free scope more grace doth breed
+Than servant’s wrack, where new doubts honor brings;
+Then think, my dear, that you in me do read
+Of lover’s ruin some sad tragedy.
+I am not I; pity the tale of me.~
+@246  = ~Pamphilia to Amphilanthus~ //"from Pamphilia to Amphilanthus: 4" by Lady Mary Wroth
+@247  = ~When I beeheld the Image of my deere
+With greedy lookes mine eyes would that way bend,
+Fear, and desire did inwardly contend;
+Feare to bee mark’d, desire to drawe still neere,
+And in my soule a speritt wowld apeer,
+Which boldnes waranted, and did pretend
+To bee my genius, yett I durst nott lend
+My eyes in trust wher others seemed soe cleere,
+Then did I search from whence this danger ’rose,
+If such unworthynes in mee did rest
+As my sterv’d eyes must nott with sight bee blest;
+When jealousie her poyson did disclose;
+Yett in my hart unseense of jealous eye
+The truer Image shall in triumph lye.
+
+(The spine of this book is a bit thicker than usual.)~
+@248  = ~When I beeheld the Image of my deere
+With greedy lookes mine eyes would that way bend,
+Fear, and desire did inwardly contend;
+Feare to bee mark’d, desire to drawe still neere,
+And in my soule a speritt wowld apeer,
+Which boldnes waranted, and did pretend
+To bee my genius, yett I durst nott lend
+My eyes in trust wher others seemed soe cleere,
+Then did I search from whence this danger ’rose,
+If such unworthynes in mee did rest
+As my sterv’d eyes must nott with sight bee blest;
+When jealousie her poyson did disclose;
+Yett in my hart unseense of jealous eye
+The truer Image shall in triumph lye.~
+@249  = ~Sonnet 18~
+@250  = ~Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+And summer's lease hath all too short a date:
+Sometime too hot the eye of heaven shines,
+And often is his gold complexion dimmed,
+And every fair from fair sometime declines,
+By chance, or nature's changing course untrimmed:
+But thy eternal summer shall not fade,
+Nor lose possession of that fair thou ow'st,
+Nor shall death brag thou wander'st in his shade,
+When in eternal lines to time thou grow'st,
+So long as men can breathe, or eyes can see,
+So long lives this, and this gives life to thee.
+
+(The spine of this book is a bit thicker than usual.)~
+@251  = ~Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+And summer's lease hath all too short a date:
+Sometime too hot the eye of heaven shines,
+And often is his gold complexion dimmed,
+And every fair from fair sometime declines,
+By chance, or nature's changing course untrimmed:
+But thy eternal summer shall not fade,
+Nor lose possession of that fair thou ow'st,
+Nor shall death brag thou wander'st in his shade,
+When in eternal lines to time thou grow'st,
+So long as men can breathe, or eyes can see,
+So long lives this, and this gives life to thee.~
+@252  = ~Song to Celia~ //"Song: to Celia" by Ben Jonson
+@253  = ~Drinke to me, onely, with thine eyes,
+And I will pledge with mine;
+Or leave a kisse but in the cup,
+And Ile not looke for wine.
+The thirst, that from the soule doth rise,
+Doth aske a drinke divine:
+But might I of Jove’s Nectar sup,
+I would not change for thine.
+I sent thee, late, a rosie wreath,
+Not so much honoring thee,
+As giving it a hope, that there
+It could not withered bee.
+But thou thereon did’st onely breath,
+And sent’st it back to mee:
+Since when it growes, and smells, I sweare,
+Not of it selfe, but thee.
+
+(The spine of this book is a bit thicker than usual.)~
+@254  = ~Drinke to me, onely, with thine eyes,
+And I will pledge with mine;
+Or leave a kisse but in the cup,
+And Ile not looke for wine.
+The thirst, that from the soule doth rise,
+Doth aske a drinke divine:
+But might I of Jove’s Nectar sup,
+I would not change for thine.
+I sent thee, late, a rosie wreath,
+Not so much honoring thee,
+As giving it a hope, that there
+It could not withered bee.
+But thou thereon did’st onely breath,
+And sent’st it back to mee:
+Since when it growes, and smells, I sweare,
+Not of it selfe, but thee.~
+@255  = ~She Walks in Beauty~ //"She Walks in Beauty": by Lord Byron
+@256  = ~I. She walks in beauty, like the night
+Of cloudless climes and starry skies;
+And all that’s best of dark and bright
+Meet in her aspect and her eyes:
+Thus mellowed to that tender light
+Which heaven to gaudy day denies.
+
+II. One shade the more, one ray the less,
+Had half impaired the nameless grace
+Which waves in every raven tress,
+Or softly lightens o’er her face;
+Where thoughts serenely sweet express
+How pure, how dear their dwelling place.
+
+III. And on that cheek, and o’er that brow,
+So soft, so calm, yet eloquent,
+The smiles that win, the tints that glow,
+But tell of days in goodness spent,
+A mind at peace with all below,
+A heart whose love is innocent.
+
+(The spine of this book is a bit thicker than usual.)~
+@257  = ~I. She walks in beauty, like the night
+Of cloudless climes and starry skies;
+And all that’s best of dark and bright
+Meet in her aspect and her eyes:
+Thus mellowed to that tender light
+Which heaven to gaudy day denies.
+
+II. One shade the more, one ray the less,
+Had half impaired the nameless grace
+Which waves in every raven tress,
+Or softly lightens o’er her face;
+Where thoughts serenely sweet express
+How pure, how dear their dwelling place.
+
+III. And on that cheek, and o’er that brow,
+So soft, so calm, yet eloquent,
+The smiles that win, the tints that glow,
+But tell of days in goodness spent,
+A mind at peace with all below,
+A heart whose love is innocent.~
+@258  = ~The Look~ //"The Look": by Sara Teasdale 
+@259  = ~Strephon kissed me in the spring,
+Robin in the fall,
+But Colin only looked at me
+And never kissed at all.
+Strephon’s kiss was lost in jest,
+Robin’s lost in play,
+But the kiss in Colin’s eyes
+Haunts me night and day.
+
+(The spine of this book is a bit thicker than usual.)~
+@260  = ~Strephon kissed me in the spring,
+Robin in the fall,
+But Colin only looked at me
+And never kissed at all.
+Strephon’s kiss was lost in jest,
+Robin’s lost in play,
+But the kiss in Colin’s eyes
+Haunts me night and day.~
+@261  = ~I Loved You First~ //"Monna Innominata (I loved you first)" by Christina Georgina Rossetti
+@262  = ~I loved you first: but afterwards your love,
+Outsoaring mine, sang such a loftier song
+As drowned the friendly cooings of my dove.
+Which owes the other most? My love was long,
+And yours one moment seemed to wax more strong;
+I loved and guessed at you, you contrued me
+And loved me for what might or might not be—
+Nay, weights and measures do us both a wrong.
+For verily love knows not ‘mine’ or ‘thine’;
+With separate ‘I’ and ‘thou’ free love has done,
+For one is both and both are one in love:
+Rich love knows nought of ‘thine that is not mine’;
+Both have the strength and both the length thereof,
+Both of us, of the love which makes us one.
+
+(The spine of this book is a bit thicker than usual.)~
+@263  = ~I loved you first: but afterwards your love,
+Outsoaring mine, sang such a loftier song
+As drowned the friendly cooings of my dove.
+Which owes the other most? My love was long,
+And yours one moment seemed to wax more strong;
+I loved and guessed at you, you contrued me
+And loved me for what might or might not be—
+Nay, weights and measures do us both a wrong.
+For verily love knows not ‘mine’ or ‘thine’;
+With separate ‘I’ and ‘thou’ free love has done,
+For one is both and both are one in love:
+Rich love knows nought of ‘thine that is not mine’;
+Both have the strength and both the length thereof,
+Both of us, of the love which makes us one.~
+@264  = ~When to her Lute Corinna Sings~ //by Thomas Campion
+@265  = ~When to her lute Corinna sings,
+Her voice revives the leaden strings,
+And doth in highest notes appear,
+As any challenged echo clear;
+But when she doth of mourning speak,
+E'en with her sighs, the strings do break,
+And as her lute doth live or die,
+Led by her passion, so must I:
+For when of pleasure she doth sing,
+My thoughts enjoy a sudden spring,
+But if she doth of sorrow speak,
+E'en from my heart the strings do break.
+
+(The spine of this book is a bit thicker than usual.)~
+@266  = ~When to her lute Corinna sings,
+Her voice revives the leaden strings,
+And doth in highest notes appear,
+As any challenged echo clear;
+But when she doth of mourning speak,
+E'en with her sighs, the strings do break,
+And as her lute doth live or die,
+Led by her passion, so must I:
+For when of pleasure she doth sing,
+My thoughts enjoy a sudden spring,
+But if she doth of sorrow speak,
+E'en from my heart the strings do break.~
+@267  = ~The Passionate Shepherd to His Love~ //by Christopher Marlowe
+@268  = ~Come live with me and be my love,
+And we will all the pleasures prove
+That valleys, groves, hills, and fields,
+Woods, or steepy mountain yields.
+
+And we will sit upon the rocks,
+Seeing the shepherds feed their flocks,
+By shallow rivers to whose falls
+Melodious birds sing madrigals.
+
+And I will make thee beds of roses
+And a thousand fragrant posies,
+A cap of flowers, and a kirtle
+Embroidered all with leaves of myrtle;
+
+A gown made of the finest wool
+Which from our pretty lambs we pull;
+Fair lined slippers for the cold,
+With buckles of the purest gold;
+
+A belt of straw and ivy buds,
+With coral clasps and amber studs:
+And if these pleasures may thee move,
+Come live with me, and be my love.
+
+The shepherds’ swains shall dance and sing
+For thy delight each May morning:
+If these delights thy mind may move,
+Then live with me and be my love.
+
+(The spine of this book is a bit thicker than usual.)~
+@269  = ~Come live with me and be my love,
+And we will all the pleasures prove
+That valleys, groves, hills, and fields,
+Woods, or steepy mountain yields.
+
+And we will sit upon the rocks,
+Seeing the shepherds feed their flocks,
+By shallow rivers to whose falls
+Melodious birds sing madrigals.
+
+And I will make thee beds of roses
+And a thousand fragrant posies,
+A cap of flowers, and a kirtle
+Embroidered all with leaves of myrtle;
+
+A gown made of the finest wool
+Which from our pretty lambs we pull;
+Fair lined slippers for the cold,
+With buckles of the purest gold;
+
+A belt of straw and ivy buds,
+With coral clasps and amber studs:
+And if these pleasures may thee move,
+Come live with me, and be my love.
+
+The shepherds’ swains shall dance and sing
+For thy delight each May morning:
+If these delights thy mind may move,
+Then live with me and be my love.~
+@270  = ~The Old Arcadia~ //by Sir Philip Sidney
+@271  = ~Yonder, my Claius, Urania lighted; the very horse, methought, bewailed to be so disburdened: and as for thee, poor Claius, when thou wentest to help her down, I saw reverence and desire so divide thee, that thou didst at one instant both blush and quake, and instead of bearing her wert ready to fall down thyself. There she sat, vouchsafing my cloak (then most gorgeous) under her: at yonder rising of the ground she turned herself, looking back towards her wonted abode, and because of her parting, bearing much sorrow in her eyes, the lightsomeness whereof had yet so natural a cheerfulness that it made even sorrow seem to smile; at that turning she spake to us all, opening the cherry of her lips, and Lord how greedily mine ears did feed upon the sweet words she uttered! And here she laid her hand over thine eyes, when she saw the tears springing in them, as if she would conceal them from other, and yet herself feel some of thy sorrow. But woe is me, yonder, yonder, did she put her foot into the boat, at that instant, as it were, dividing her heavenly beauty between the earth and the sea. But when she was embarked, did you not mark how the winds whistled and the seas danced for joy, how the sails did swell with pride, and all because they had Urania? O Urania, blessed be thou Urania, the sweetest fairness, and fairest sweetness!
+
+(The spine of this book is a bit thicker than usual.)~
+@272  = ~Yonder, my Claius, Urania lighted; the very horse, methought, bewailed to be so disburdened: and as for thee, poor Claius, when thou wentest to help her down, I saw reverence and desire so divide thee, that thou didst at one instant both blush and quake, and instead of bearing her wert ready to fall down thyself. There she sat, vouchsafing my cloak (then most gorgeous) under her: at yonder rising of the ground she turned herself, looking back towards her wonted abode, and because of her parting, bearing much sorrow in her eyes, the lightsomeness whereof had yet so natural a cheerfulness that it made even sorrow seem to smile; at that turning she spake to us all, opening the cherry of her lips, and Lord how greedily mine ears did feed upon the sweet words she uttered! And here she laid her hand over thine eyes, when she saw the tears springing in them, as if she would conceal them from other, and yet herself feel some of thy sorrow. But woe is me, yonder, yonder, did she put her foot into the boat, at that instant, as it were, dividing her heavenly beauty between the earth and the sea. But when she was embarked, did you not mark how the winds whistled and the seas danced for joy, how the sails did swell with pride, and all because they had Urania? O Urania, blessed be thou Urania, the sweetest fairness, and fairest sweetness!~
+@273  = ~The Decameron: Prince Galehaut~ //from "The Decameron" by Giovanni Boccaccio
+@274  = ~As often, most gracious ladies, as, taking thought in myself, I mind me how very pitying you are all by nature, so often do I recognize that this present work will, to your thinking, have a grievous and a weariful beginning, inasmuch as the dolorous remembrance of the late pestiferous mortality, which it beareth on its forefront, is universally irksome to all who saw or otherwise knew it. But I would not therefore have this affright you from reading further, as if in the reading you were still to fare among sighs and tears. Let this grisly beginning be none other to you than is to wayfarers a rugged and steep mountain, beyond which is situate a most fair and delightful plain, which latter cometh so much the pleasanter to them as the greater was the hardship of the ascent and the descent; for, like as dolour occupieth the extreme of gladness, even so are miseries determined by imminent joyance. This brief annoy (I say brief, inasmuch as it is contained in few pages) is straightway succeeded by the pleasance and delight which I have already promised you and which, belike, were it not aforesaid, might not be looked for from such a beginning. And in truth, could I fairly have availed to bring you to my desire otherwise than by so rugged a path as this will be I had gladly done it; but being in a manner constrained thereto, for that, without this reminiscence of our past miseries, it might not be shown what was the occasion of the coming about of the things that will hereafter be read, I have brought myself to write them.
+
+(The spine of this book is a bit thicker than usual.)~
+@275  = ~As often, most gracious ladies, as, taking thought in myself, I mind me how very pitying you are all by nature, so often do I recognize that this present work will, to your thinking, have a grievous and a weariful beginning, inasmuch as the dolorous remembrance of the late pestiferous mortality, which it beareth on its forefront, is universally irksome to all who saw or otherwise knew it. But I would not therefore have this affright you from reading further, as if in the reading you were still to fare among sighs and tears. Let this grisly beginning be none other to you than is to wayfarers a rugged and steep mountain, beyond which is situate a most fair and delightful plain, which latter cometh so much the pleasanter to them as the greater was the hardship of the ascent and the descent; for, like as dolour occupieth the extreme of gladness, even so are miseries determined by imminent joyance. This brief annoy (I say brief, inasmuch as it is contained in few pages) is straightway succeeded by the pleasance and delight which I have already promised you and which, belike, were it not aforesaid, might not be looked for from such a beginning. And in truth, could I fairly have availed to bring you to my desire otherwise than by so rugged a path as this will be I had gladly done it; but being in a manner constrained thereto, for that, without this reminiscence of our past miseries, it might not be shown what was the occasion of the coming about of the things that will hereafter be read, I have brought myself to write them.~
+@276  = ~The Faerie Queene~ //"The Faerie Queene": by Edmund Spenser
+@277  = ~Lo I the man, whose Muse whilome did maske,
+    As time her taught, in lowly Shepheards weeds,
+    Am now enforst a far vnfitter taske,
+    For trumpets sterne to chaunge mine Oaten reeds,
+    And sing of Knights and Ladies gentle deeds;
+    Whose prayses hauing slept in silence long,
+    Me, all too meane, the sacred Muse areeds
+    To blazon broad emongst her learned throng:
+    Fierce warres and faithfull loues shall moralize my song.
+
+(The spine of this book is a bit thicker than usual.)~
+@278  = ~Lo I the man, whose Muse whilome did maske,
+    As time her taught, in lowly Shepheards weeds,
+    Am now enforst a far vnfitter taske,
+    For trumpets sterne to chaunge mine Oaten reeds,
+    And sing of Knights and Ladies gentle deeds;
+    Whose prayses hauing slept in silence long,
+    Me, all too meane, the sacred Muse areeds
+    To blazon broad emongst her learned throng:
+    Fierce warres and faithfull loues shall moralize my song.~
+@279  = ~To the Virgins~ //"To the Virgins, to Make Much of Time" by Robert Herrick
+@280  = ~Gather ye rosebuds while ye may,
+   Old Time is still a-flying;
+And this same flower that smiles today
+   Tomorrow will be dying.
+
+The glorious lamp of heaven, the sun,
+   The higher he’s a-getting,
+The sooner will his race be run,
+   And nearer he’s to setting.
+
+That age is best which is the first,
+   When youth and blood are warmer;
+But being spent, the worse, and worst
+   Times still succeed the former.
+
+Then be not coy, but use your time,
+   And while ye may, go marry;
+For having lost but once your prime,
+   You may forever tarry.
+
+(The spine of this book is a bit thicker than usual.)~
+@281  = ~Gather ye rosebuds while ye may,
+   Old Time is still a-flying;
+And this same flower that smiles today
+   Tomorrow will be dying.
+
+The glorious lamp of heaven, the sun,
+   The higher he’s a-getting,
+The sooner will his race be run,
+   And nearer he’s to setting.
+
+That age is best which is the first,
+   When youth and blood are warmer;
+But being spent, the worse, and worst
+   Times still succeed the former.
+
+Then be not coy, but use your time,
+   And while ye may, go marry;
+For having lost but once your prime,
+   You may forever tarry.~
+@282  = ~Change~ //by Kathleen Jessie Raine
+@283  = ~Change
+Said the sun to the moon,
+You cannot stay.
+
+Change
+Says the moon to the waters,
+All is flowing.
+
+Change
+Says the fields to the grass,
+Seed-time and harvest,
+Chaff and grain.
+
+You must change said,
+Said the worm to the bud,
+Though not to a rose,
+
+Petals fade
+That wings may rise
+Borne on the wind.
+
+You are changing
+said death to the maiden, your wan face
+To memory, to beauty.
+
+Are you ready to change?
+Says the thought to the heart, to let her pass
+All your life long
+
+For the unknown, the unborn
+In the alchemy
+Of the world's dream?
+
+You will change,
+says the stars to the sun,
+Says the night to the stars.
+
+(The spine of this book is a bit thicker than usual.)~
+@284  = ~Change
+Said the sun to the moon,
+You cannot stay.
+
+Change
+Says the moon to the waters,
+All is flowing.
+
+Change
+Says the fields to the grass,
+Seed-time and harvest,
+Chaff and grain.
+
+You must change said,
+Said the worm to the bud,
+Though not to a rose,
+
+Petals fade
+That wings may rise
+Borne on the wind.
+
+You are changing
+said death to the maiden, your wan face
+To memory, to beauty.
+
+Are you ready to change?
+Says the thought to the heart, to let her pass
+All your life long
+
+For the unknown, the unborn
+In the alchemy
+Of the world's dream?
+
+You will change,
+says the stars to the sun,
+Says the night to the stars.~
+@285  = ~A letter falls out of the spine of the book.~
+@286  = ~A letter falls out of the spine of the book, together with a ring.~
+@287  = ~Engagement Ring~
+@288  = ~This is the engagement ring that Camryn sent to Tamah with one of his hidden letters.~
+@289  = ~Camryn's Ring~
+@290  = ~This ring was the property of Camryn, the Master Illuminator and Scribe at Candlekeep. He loved learning and lore and was well-versed in the history of many people, places, and things. He gave this Ring of the Scholars to <CHARNAME> as a final parting gift when he finally left Candlekeep.
+
+STATISTICS:
++1 to intelligence
++5 to Lore~
+@291  = ~Dispero~
+
+/*
+@292  = 
+@293  = 
+@294  = 
+@295  =
+@296  =
+@297  =
+@290  =
+@299  =
+@300  =
+*/
+
+/* new for v3.0 */
+/* Journal entry for Scar's Return */
+@10000 = ~Scar's Body
+
+I found Scar's vase in a chandler's store caled "Donnerjan's Second-Hand Shop" at Baldur's Gate Carnival! I should ask the vendor where he got it from. I know this vase was precious to Scar. I saw it when visiting his private quarters.~

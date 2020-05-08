@@ -1,0 +1,13 @@
+// c#lcbar1.baf - Bardolan and the PC go to his quarters.
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(3)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("c#bardol",%STARTDIALOGNOSET%(Player1))
+END 

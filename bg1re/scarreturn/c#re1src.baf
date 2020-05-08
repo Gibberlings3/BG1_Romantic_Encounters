@@ -1,0 +1,18 @@
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+		MoveViewPoint([1084.402],INSTANT) // shifts camera 
+		ActionOverride("c#re1sr4",JumpToPoint([1162.381])) // 
+		ActionOverride("c#re1sr3",JumpToPoint([1185.420])) // 
+		ActionOverride(Player1,JumpToPoint([1084.402]))  
+		ActionOverride("c#re1sr4",Face(13)) 
+		ActionOverride("c#re1sr3",Face(10))
+		ActionOverride(Player1,Face(11))
+	    FadeFromColor([20.0],0)
+	    EndCutSceneMode()
+       ActionOverride("c#re1sr3",%STARTDIALOGNOSET%(Player1))
+END 

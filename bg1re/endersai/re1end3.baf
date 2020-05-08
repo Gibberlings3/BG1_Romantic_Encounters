@@ -1,0 +1,20 @@
+
+// re1end3 - Nookie! Fade to black, Ender should walk away after
+
+IF
+True()
+THEN
+RESPONSE #100
+CutSceneId(Player1)
+FadeToColor([20.0],0)
+Wait(5)
+Rest() // Everybody gets some shut-eye
+ActionOverride(Player2,Rest())
+ActionOverride(Player3,Rest())
+ActionOverride(Player4,Rest())
+ActionOverride(Player5,Rest())
+ActionOverride(Player6,Rest())
+FadeFromColor([20.0],0)
+ActionOverride("T1ENDER",%STARTDIALOGNOSET%(Player1))
+EndCutSceneMode()
+END

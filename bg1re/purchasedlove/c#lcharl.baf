@@ -1,0 +1,12 @@
+// "fade to black", without initiating dialogue with the player1
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(5)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+END 

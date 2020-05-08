@@ -1,0 +1,27 @@
+/* Activate: girdle of gender bender on Xan */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderXan","GLOBAL",0)
+Gender("Xan",FEMALE) HasItem("%tutu_var%BELT05","Xan")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderXan","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Xan */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderXan","GLOBAL",1)
+Gender("Xan",FEMALE) HasItem("%tutu_var%BELT05","Xan")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

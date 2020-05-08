@@ -1,0 +1,14 @@
+// Sister Sapientia, in Candlekeep
+// BG1 AR2600
+// BG Tutu FW2600
+// BGT AR0015 / "Candlekeep"
+
+IF 
+  Global("T1SapiCreation","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("T1SapiCreation","GLOBAL",1)
+	CreateCreature("T1SAPI",[4116.578]%FACE_3%)
+	Continue()
+END
+

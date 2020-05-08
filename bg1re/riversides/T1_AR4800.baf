@@ -1,0 +1,38 @@
+// The two ghosts, Hanaly and Yvonne, in the Nashkel area
+// BG1 AR4800
+// BG Tutu FW4800
+// BGT AR3700 / "Nashkel"
+
+
+// When a rumour of the ghosts has been heard, it's night-time, and the quest hasn't been completed...
+IF 
+  TimeOfDay(NIGHT)
+  GlobalLT("T1RiverGhostCreation","GLOBAL",2) // DayNight toggle
+  GlobalGT("RE1_RiverGhostQuest","GLOBAL",0)
+  GlobalLT("RE1_RiverGhostQuest","GLOBAL",3)
+THEN
+  RESPONSE #100
+    SetGlobal("T1RiverGhostCreation","GLOBAL",2)
+	CreateCreature("RE#GHON1",[3020.2923]%FACE_3%)
+	ActionOverride("RE#GHON1",Face(3))
+	CreateCreature("RE#GHON2",[2581.3238]%FACE_10%)
+	ActionOverride("RE#GHON2",Face(10))
+	Continue()
+END
+
+// Ghosts should pack themselves away in daylight...
+
+IF 
+  TimeOfDay(DAY)
+  !Detect([PC])
+  GlobalGT("RE1_RiverGhostQuest","GLOBAL",0)
+  GlobalLT("RE1_RiverGhostQuest","GLOBAL",3)
+THEN
+  RESPONSE #100
+    SetGlobal("T1RiverGhostCreation","GLOBAL",1) // DayNight toggle
+	ActionOverride("RE#GHON1",DestroySelf())
+	ActionOverride("RE#GHON2",DestroySelf())
+	Continue()
+END
+
+// Note: attacking either ghost will turn both hostile and set RE1_RiverGhostQuest to 99 so they don't respawn.

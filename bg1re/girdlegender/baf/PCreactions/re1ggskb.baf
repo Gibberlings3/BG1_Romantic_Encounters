@@ -1,0 +1,28 @@
+/* Activate: Skie notices girdle of gender on PC for F-> M */
+IF %BGT_VAR%
+Global("RE1_GirdleSkiePCDidIt","GLOBAL",0)
+HasItemEquiped("%tutu_var%BELT05",Player1)
+Gender(Player1,MALE) 
+CheckStatGT(Player1,10,CHR)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleSkiePCDidIt","GLOBAL",1)
+END
+
+/* Initiate: Skie/PC girdle talk */
+IF %BGT_VAR%
+Global("RE1_GirdleSkiePCDidIt","GLOBAL",1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

@@ -1,0 +1,12 @@
+// BG1RE: The Messenger 2 - moving Stephan into the Elfsong Tavern
+
+IF 
+	Global("TISteLetter","GLOBAL",1)
+	!Dead("STEPHAN")
+	
+THEN
+  RESPONSE #100
+    SetGlobal("TISteLetter","GLOBAL",2)
+	CreateCreature("%tutu_var%STEPHA",[1013.604]%FACE_2%)
+	Continue()
+END

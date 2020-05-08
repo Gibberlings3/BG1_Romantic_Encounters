@@ -1,0 +1,11 @@
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+	ActionOverride("T1M2HAL2",%ReallyForceSpell_T1M2HALF%) //Wis +1
+	Wait(2)
+	EndcutSceneMode()
+	ActionOverride("T1M2HAL2",%STARTDIALOGNOSET%(Player1))
+END 

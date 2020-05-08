@@ -1,0 +1,24 @@
+// c#lclin2.baf - Lina and the PC go to the quarters.
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+        ActionOverride("c#lclina",DestroySelf())
+        Wait(2)
+         LeaveAreaLUAPanic("c#lc05","",[306.311]%FACE_13%)
+        LeaveAreaLUA("c#lc05","",[306.311]%FACE_13%)
+        Wait(1)
+	Face(13) //needed for BG1
+        CreateCreature("c#lclina",[342.339]%FACE_5%) 
+	ActionOverride("c#lclina",Face(5)) //needed for BG1
+        Explore()
+        MoveViewPoint([306.311],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("c#lclina",%STARTDIALOGNOSET%(Player1))
+END 

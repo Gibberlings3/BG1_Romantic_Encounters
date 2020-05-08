@@ -1,0 +1,78 @@
+/* First */
+
+IF 
+	Global("C#LCINT_Spawn","GLOBAL",0)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",1)
+	    CreateCreature("C#LCIN1W",[441.868]%FACE_12%) //Woman
+	    CreateCreature("C#LCIN1M",[460.865]%FACE_4%) //Man
+END
+
+/* Second */
+
+IF 
+	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
+	Global("C#LCINT_Spawn","GLOBAL",2)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",3)
+	    CreateCreature("C#LCIN2W",[441.868]%FACE_12%) //Woman
+	    CreateCreature("C#LCIN2M",[460.865]%FACE_4%) //Man
+END
+
+/* Third */
+IF 
+	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
+	Global("C#LCINT_Spawn","GLOBAL",4)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",5)
+	    CreateCreature("C#LCIN3W",[441.868]%FACE_12%) //Woman
+	    CreateCreature("C#LCIN3M",[460.865]%FACE_4%) //Man
+END
+
+/* 4th */
+IF 
+	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
+	Global("C#LCINT_Spawn","GLOBAL",6)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",7)
+	    CreateCreature("C#LCIN4W",[441.868]%FACE_12%) //Woman
+	    CreateCreature("C#LCIN4M",[460.865]%FACE_4%) //Man
+END
+
+/* 5th */
+IF 
+	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
+	Global("C#LCINT_Spawn","GLOBAL",8)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",9)
+	    CreateCreature("C#LCIN5W",[441.868]%FACE_12%) //Woman
+	    CreateCreature("C#LCIN5M",[460.865]%FACE_4%) //Man
+END
+
+/* 6th */
+IF 
+	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
+	Global("C#LCINT_Spawn","GLOBAL",10)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",11)
+	    CreateCreature("C#LCIN1W",[400.888]%FACE_12%) //Woman
+END
+
+/* 7th - Chapter > 5 - reuses cres from third encounter */
+IF 
+	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
+	GlobalGT("Chapter","GLOBAL",%tutu_chapter_5%)
+	Global("C#LCINT_Spawn","GLOBAL",12)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",13)
+	    CreateCreature("C#LCIN3W",[441.868]%FACE_12%) //Woman
+	    CreateCreature("C#LCIN3M",[460.865]%FACE_4%) //Man
+END
+

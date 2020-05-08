@@ -1,0 +1,19 @@
+// c#lckim3.baf -PC goes back to main area AR2626
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("c#lckim",DestroySelf())
+         LeaveAreaLUAPanic("%Candlekeep_Ch6%","",[3637.2780],0)
+        LeaveAreaLUA("%Candlekeep_Ch6%","",[3637.2780],0)
+        Wait(1)
+        Explore()
+        MoveViewPoint([3637.2780],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+END 

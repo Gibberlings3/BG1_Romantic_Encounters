@@ -1,0 +1,11 @@
+
+IF 
+	!Dead("Poe")
+	!Exists("Poe")
+	Global("PoePoemat","GLOBAL",4)
+THEN
+  RESPONSE #100
+	CreateCreature("%tutu_var%Poe",[183.844]%FACE_11%)
+	ActionOverride("Poe",SetNumTimesTalkedTo(1))
+	Continue()
+END

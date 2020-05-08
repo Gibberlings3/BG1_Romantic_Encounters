@@ -1,0 +1,16 @@
+IF
+	Global("BG1RE_EraseJournalBartus","AR0602",0)
+THEN
+	RESPONSE #100
+		SetGlobal("BG1RE_EraseJournalBartus","AR0602",1)
+		EraseJournalEntry(@46)
+		EraseJournalEntry(@47)
+		EraseJournalEntry(@62)
+		EraseJournalEntry(@64)
+		EraseJournalEntry(@96)
+		EraseJournalEntry(@177)
+		EraseJournalEntry(@184)
+		EraseJournalEntry(@238)
+		EraseJournalEntry(@249)
+		Continue()
+END

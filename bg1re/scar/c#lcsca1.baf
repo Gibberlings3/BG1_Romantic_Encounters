@@ -1,0 +1,25 @@
+// c#lcbar1.baf - Scar and the PC go to his quarters.
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+         LeaveAreaLUAPanic("c#lc01","",[207.207],7)
+        LeaveAreaLUA("c#lc01","",[207.207],7)
+        Wait(1)
+        CreateCreature("%tutu_var%scar",[212.184]%FACE_0%) 
+	ActionOverride("Scar",SetNumTimesTalkedTo(1))
+ActionOverride("Scar",DestroyItem("%tutu_var%sw1h02"))
+ActionOverride("Scar",DestroyItem("%tutu_var%shld04"))
+        Explore()
+        MoveViewPoint([211.186],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("scar",%STARTDIALOGNOSET%(Player1))
+END 
+
+

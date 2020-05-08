@@ -1,0 +1,24 @@
+IF
+	Global("BG1RE_EraseJournalThalantyr","AR0602",0)
+THEN
+	RESPONSE #100
+		SetGlobal("BG1RE_EraseJournalThalantyr","AR0602",1)
+		EraseJournalEntry(@39)
+		EraseJournalEntry(@57)
+		EraseJournalEntry(@81)
+		EraseJournalEntry(@93)
+		EraseJournalEntry(@270)
+		EraseJournalEntry(@275)
+		EraseJournalEntry(@277)
+		EraseJournalEntry(@282)
+		EraseJournalEntry(@283)
+		EraseJournalEntry(@292)
+		EraseJournalEntry(@293)
+		EraseJournalEntry(@307)
+		EraseJournalEntry(@324)
+		EraseJournalEntry(@328)
+		EraseJournalEntry(@380)
+		EraseJournalEntry(@235)
+		EraseJournalEntry(@255)
+		Continue()
+END

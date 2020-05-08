@@ -1,0 +1,27 @@
+IF
+  True()
+THEN
+RESPONSE #100
+  CutSceneId("TITamah")
+  MoveViewPoint([1795.1210],INSTANT)
+  MoveToObject("TIDOPPLE")
+  AttackOneRound("TIDOPPLE")
+  Wait(1)
+  ActionOverride("TIDOPPLE",Kill(Myself))
+  %DisplayStringHead%("TICam",@285)
+  Wait(2)
+  %DisplayStringHead%(Myself,@286)
+  Wait(3)
+/* move this into the dialogue, so Tamah's dialogue for !Dead("TICam") will show 
+  %DisplayStringHead%("TICam",@258)
+  %DisplayStringHead%(Myself,@259)
+  ActionOverride("TITamah",EscapeArea())
+  EndCutSceneMode()
+  ActionOverride("TICam",StartDialogueNoSet(Player1))
+*/
+  SetGlobal("TITamah","GLOBAL",6)
+  SetInterrupt(TRUE)
+  EndCutSceneMode()
+  ActionOverride("TITamah",StartDialogueNoSet(Player1))
+
+END

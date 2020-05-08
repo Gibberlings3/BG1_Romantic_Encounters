@@ -1,0 +1,10 @@
+// Candlekeep, late game
+IF
+Global("RE1_AlecCandlekeep","GLOBAL",9)
+!Dead("RE1Alec")
+THEN
+RESPONSE #100
+CreateCreature("RE1Alec",[2740.1757]%FACE_0%)
+SetGlobal("RE1_AlecCandlekeep","GLOBAL",10)
+Continue()
+END

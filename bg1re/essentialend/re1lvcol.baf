@@ -1,0 +1,13 @@
+// "fade to black".
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(5)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("re1lvcol",%STARTDIALOGNOSET%(Player1))
+END 

@@ -1,0 +1,8 @@
+IF %BGT_VAR%
+Global("O#RE1ZudiniTalk","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("O#Zudini",[2569.886],0)
+SetGlobal("O#RE1ZudiniTalk","GLOBAL",1)
+Continue()
+END

@@ -1,0 +1,55 @@
+/* Activate: girdle of gender bender on Skie */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderSkie","GLOBAL",0)
+Gender("Skie",MALE) HasItem("%tutu_var%BELT05","Skie")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderSkie","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Skie */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderSkie","GLOBAL",1)
+Gender("Skie",MALE) HasItem("%tutu_var%BELT05","Skie")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END
+
+/* Activate: girdle taken off Skie */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderSkie","GLOBAL",2)
+Gender("Skie",FEMALE) 
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderSkie","GLOBAL",3)
+END
+
+/* Initiate: girdle taken off Skie */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderSkie","GLOBAL",3)
+Gender("Skie",FEMALE) 
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

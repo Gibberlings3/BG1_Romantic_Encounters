@@ -1,0 +1,491 @@
+@0    = ~Who would do something like this? Who would take away our dear daughter only a day after we buried her? (sob) I wish they would find her, so we can finally put her to rest. Who would steal bodies of young girls out of their graves?~
+/* new for v3.0: changed location */
+@1    = ~Mourning Mom in Front of the Flaming Fist Headquarters
+
+There is a mourning mother in ront of the Flaming Fist headquarters. Somebody stole her daughter's body out of her grave.~
+@2    = ~Who does something like this? Why steal a young girl out of her grave?...~
+@3    = ~I am sorry for your loss.~
+@4    = ~I know what happened to your daughter's body.~
+@5    = ~I have your daughter here. You can put her to rest now.~
+@6    = ~I must go.~
+@7    = ~Thank you, stranger. Oh, darling...~
+@8    = ~You... you do? Where is she?~
+@9    = ~She was stolen by a necromancer who lost his beloved... rather tragic, actually.~
+@10   = ~I know where she is. I will bring her back to you.~
+@11   = ~Oops, I had your daughter's corpse but I seem to have misplaced it somehow. You didn't really want to have it back, did you?~
+@12   = ~Dear gods! What did he do to my daughter's body?~
+@13   = ~Nothing, whatever his plans were. He was stopped in time.~
+@14   = ~Well... thank you for telling me, stranger... (sigh) What will I do now...~
+@15   = ~Why... why would you say such a thing. Get away from me and let me mourn my daughter's loss.~
+@16   = ~Please, do you know what happened to her?~
+@17   = ~My... my darling! Oh, I thank you, stranger... I am sure the soldiers will take care of the culprit. I just want to put her to rest...~
+/* new for v3.0: changed location */
+@18   = ~Mourning Mom in Front of the Flaming Fist Headquarters
+
+I brought the mourning mother in front of the Flaming Fist headquarters the corpse of her daughter. She was so eager to take it to the temple that she completely forgot about a reward.~
+@19   = ~Oh, that is too sweet of you to say. So many people promised to find her...~
+/* new for v3.0: changed location */
+@20   = ~The woman in front of the Headquarters mourns the theft of her dead daughter's body. Can you give me more information about this?~
+@21   = ~That is a very strange thing, and I am not sure what to make of it. As you already know, the girl's corpse was stolen the night after her burial - after it was laid out for three days and nights in the chapel, as it was wished by the parents. Why anyone would take the efforts to open the grave if he could have taken the body easily the nights before is a mystery to me.~
+@22   = ~Fortunately, it was the only occurrence of this kind here. We had one other disappearing corpse, though - also a young woman, over half a year ago, and no traces as to who did it. We keep an eye open. A lunatic exhuming girls' bodies is not a thing we need right now.~
+@23   = ~Ah, oh, that's a young one, and rather fresh. Doesn't stink at all... Is she prepared in some way? Strange... No, I don't think this will do, ya know. I need a riper one.~
+@24   = ~Pray, if you see her, please make sure she comes home alright!~
+@25   = ~Of course, ma'am. I will keep an eye open for your daughter. ~
+@26   = ~It's just that she sometimes plays in this rotten house. I am very scared about my little darling!~
+@27   = ~I am sure you are, ma'am. As I said, I checked the house, she is not in there now. What is her name again?~
+@28   = ~Susan. Oh, dear, where can she be?...~
+@29   = ~As soon as I see your Susan I will make sure she gets home.~
+@30   = ~I thank you, sir.~
+@31   = ~Poor woman, she is looking for her daughter who seems to have run off this morning. Well, let's hope the girl just forgot the time while playing.~
+@32   = ~Susan Lost
+
+A mother is looking for her daughter Susan in the North of Baldur's Gate city. She seemed very concerned about her daughter's whereabouts.~
+@33   = ~(Somehow this cat managed to come into the house through one of the cracks in the rotten walls. It is a young one, wearing a pink collar. Before you can try to catch her she hisses and hides behind one of the loose planks.)~
+@34   = ~...out of here, before your presence draws more watchmen inside, hm? Come on, kitty, let me...~
+@35   = ~Oh, oh! What did I just say!... Wait, you don't look like Flaming Fist. Get out! This is, er, my house!~
+@36   = ~Your house? This abandoned, rotten house would be your home?~
+@37   = ~Who are you?~
+@38   = ~How about you get out!~
+@39   = ~Not good! It's always not good, if they start asking questions!~
+@40   = ~I cannot be seen here! Maybe someone will come looking for you. But you are not a Watchman! I will take the risk.~
+@41   = ~You are too strong... I cannot leave her. Not yet! I cannot die yet. Please, leave us alone!~
+@42   = ~You followed me! Why can't people be happy to have defeated the opponent. Why do you have to pursue me!~
+@43   = ~You just attacked me!~
+@44   = ~Who are you, residing in caves under a rotten house and attacking passers-by?~
+@45   = ~There's the corpses of dead girls all around!~
+@46   = ~Hm, sorry to disturb the private party! Want to introduce me to one of your girl-friends?~
+@47   = ~Well, common sense would suggest you leave me then, wouldn't it? No, I guess it wouldn't...~
+@48   = ~My name is not important. No, it is not... Not until she can say it again.~
+@49   = ~I... I ordered the body you see laying here, but I am not a threat. I am not dangerous! She wasn't killed for me. I... I...~
+@50   = ~What are you talking about?~
+/* new for v3.0: changed location */
+@51   = ~I met a mother who is mourning the loss of her daughter's corpse, right here in the city!~
+@52   = ~How about you follow me to the headquarters of the Flaming Fist and tell the people there!~
+@53   = ~Prepare to die!~
+@54   = ~Yes, that is the one.~
+@55   = ~I needed the corpses... I need them to... I, I could give them back if that is the problem, you know? I mean, most of them...~
+@56   = ~Leave this place? No, I cannot abandon my work - I cannot abandon *her*!~
+@57   = ~No, we just had this situation! Not yet! Not yet!~
+@58   = ~Sarcasm! I can detect sarcasm, yes, I do.~
+@59   = ~Why don't you just go! Can't you understand that I do not wish to be disturbed?!~
+@60   = ~You have stolen corpses here! I cannot just "go"!~
+@61   = ~The dead are missed by their relatives! You cannot sincerely expect people not to come looking.~
+@62   = ~I want to know about the missing bodies and you better negotiate!~
+@63   = ~You are not worthy of life. I will kill you now!~
+@64   = ~No! Don't think I am pleading for my life because I am scared. I do not fear death. But don't think I will give in easily, either! I just... need some more time.~
+@65   = ~What are you talking about? Answer me!~
+@66   = ~No more words! Prepare to die!~
+@67   = ~Oh, Beth! Beth! I couldn't keep my promise!~
+@68   = ~I will tell you! I will tell you what I am doing here. I... I am doing research. I am a necromancer. Some... coincidence happened and now I am doing my studies. Special studies. I want to raise the dead in a special way, you see?~
+@69   = ~No, I don't understand.~
+@70   = ~There are dead girls laying around! Explain yourself!~
+@71   = ~A special way? And for that you explicitly need young womens' bodies? I think you have to explain that a bit more.~
+@72   = ~No, it's not what you think!...~
+@73   = ~(sigh) I decided not to tell... People don't understand. They never understand...~
+@74   = ~I can't understand if you don't tell, either.~
+@75   = ~You better give an explanation now, or there will be consequences!~
+@76   = ~That - makes sense.~
+@77   = ~The girl in the crypt is my beloved Beth, my love - my only and true love! She is the reason I am doing this... doing this all.~
+@78   = ~Beth and I fell in love, she caught an incurable disease. I promised her to heal her - she died, since then I have been researching how to raise her... Raise her in good health.~
+@79   = ~That's... that's all. Beth, oh Beth...~
+@80   = ~That is tragic, indeed. But you cannot go and steal bodies from all over the Sword Coast!~
+@81   = ~This is your doing? You have to stop it! You cannot continue!~
+@82   = ~And did you find a way?~
+@83   = ~I can't, can I...~
+@84   = ~By the gods! What you have done is evil. You have to stop, now!~
+@85   = ~Nature wanted her dead. You cannot betray nature, my friend.~
+@86   = ~On second thought... Did you find a way?~
+@87   = ~But I promised her...~
+@88   = ~Do you really think she would be happy, being raised this way? If she learned what you have done to get there...~
+@89   = ~Imagine her waking here, between all these corpses and zombies. Would she like it? Would *you* still be the same to her? Do you think she would be happy?~
+@90   = ~She is dead, dead and gone. There are limits to this kind of magic, and it is good this way.~
+@91   = ~You... you are right...~
+@92   = ~(deep sigh) I have to stop this. What have I done? All those corpses I have stolen... dead girls... They were loved and are missed, too... Just like Beth... I took care no one gets hurt. I paid for the corpses to be taken out of the graves, after the ceremony, so the families could say their good-byes. And now...~
+@93   = ~You are strong. Please, be so kind and clean this place from those pitiful creatures I created... Go down the stairs and kill them.~
+@94   = ~I understand your desire and will do this. I expect you to stay here.~
+@95   = ~I might do this, but not before I've brought you to the Flaming Fist headquarters.~
+@96   = ~You want me to face all your creatures? To do what in the meanwhile?~
+@97   = ~Your creations are none of my business.~
+@98   = ~No, I will finish you, right here.~
+@99   = ~I overstepped the border. Even if... She wouldn't be the same... I am not the same... She wouldn't be happy...~
+@100  = ~I... I will not die without a fight!~
+@101  = ~I give you my sincerest thanks.~
+@102  = ~No, I will not come with you. I want them to come down here, to see with their own eyes the monster I have become.~
+@103  = ~My life lost its meaning, there is no place I can go.~
+@104  = ~Mourning the errors I made and the monster I became.~
+@105  = ~Someone has to deal with them, and I don't have the power left to do so.~
+@106  = ~Please, I don't want to talk any more. Just kill those creatures.~
+/* new for v3.0: removed location */
+@107  = ~Oh, and feel free to take the body of that young girl back to her parents. I don't need her any more.~
+@108  = ~I am ready to face my fate...~
+/* new for v3.0: changed location */
+@109  = ~Mourning Mom in Front of the Flaming Fist Headquarters
+
+I found the girl's corpse. It would be a good deed to bring her to her mourning mother in front of the Flaming Fist headquarters before the Flaming Fist sweaps the necromancer's premises and puts her someplace anonymously.~
+@110  = ~I tried a lot of things...~
+@111  = ~(sigh) Why not tell it. In the end it all comes down to this. I cannot do it without blood. Blood of a beloved, female, innocent creature. It has to be collected while the main magic potion is prepared... And the creature has to die while giving it.~
+@112  = ~This is where my experiments came to a halt... and then the Flaming Fist started watching the house.~
+@113  = ~Listen, I have here the body of Scar, the Second in Command of the Flaming Fist. Could you revive him?~
+@114  = ~Blood? You cannot proceed! You have to stop this insanity, right now!~
+@115  = ~You mean freshly killed?~
+@116  = ~Really? That sounds intriguing. So, why haven't you done it already?~
+@117  = ~Who? Well, if this is finished and Beth is revived... I guess I could repeat the procedure, yes... This friend of yours would need a different blood sacrifice, though. I'd have to search for the right one, first.~
+@118  = ~But I won't as long as Beth is still dead. I know what I would need for her. Blood of a beloved, female, innocent creature...~
+@119  = ~Yes, freshly killed for exactly this purpose.~
+@120  = ~I... I started to doubt. I always thought it's just a matter of finding the right magic spell. But now, all that seems to be left is by the means of dark and evil arts and it... it feels wrong.~
+@121  = ~Apart from that I do not wish to kill... I am not sure my consciousness could take this.~
+@122  = ~It is evil indeed. You cannot proceed! You have to stop this insanity, right now!~
+@123  = ~Why would it be wrong? What kind of creatures are we talking about, anyway?~
+@124  = ~Hey, don't worry about the killing, pal, I could do that.~
+@125  = ~No, you don't understand. It's a principle thing, it doesn't matter who does the killing.~
+@126  = ~I am pretty sure it does, since it would be me who had to clean my blades and clothes.~
+@127  = ~You don't have to paint that picture... This is all wrong. What I am doing is wrong...~
+@128  = ~Come on, a bit of killing is fun. You are surrounded by dead bodies anyway, you wouldn't spot the difference.~
+@129  = ~I am not sure... The higher developed the better, I guess...~
+@130  = ~If I bring you the blood, would you find a way to raise Scar?~
+@131  = ~It all comes down to what "creature" would suffice. How many animals get killed every day so we can eat them? We shove them into our mouth, chew and swallow to sutain ourselves. You, on the other hand, want to give life to your beloved... I cannot see a purer purpose for the death of a fellow creature.~
+@132  = ~I will get the blood of an animal for you, if that suffices. I will not kill anything humanoid, don't worry.~
+@133  = ~As I said, I could search for the right sacrifice for him. But I won't, now.~
+@134  = ~You... you are evil. I feel like I finally woke up. What have I done!~
+@135  = ~That is what I try telling myself...~
+@136  = ~Stop trying and actually do it. Just tell me what you need to be reunited with your beloved!~
+@137  = ~Don't think about it. I am here and ready to get you the blood.~
+@138  = ~That sounds reasonable. Yes, I like this idea.~
+@139  = ~Your words raise hope in me I thought already lost...~
+@140  = ~Yes, let's... let's do it. I will prepare the matrix essence. I will be here. Come back in one day at the latest.~
+@141  = ~You will get all the gold I have, and can keep everything you'll find here, except the things I need for the ceremony.~
+@142  = ~Do not worry. I will be here, but I rely on you to make sure the Flaming Fist doesn't come stomping in.~
+@143  = ~(murmurs) Oh, Beth, I hope this is right...~
+@144  = ~Blood for the Necromancer
+
+The necromancer needs blood for his experiment. The blood of an innocent, beloved, female creature. I should choose with care and only kill if I am sure these criteria are fulfilled. I have to deliver the blood in the next 24 hours, or the ritual will not be completed.~
+@145  = ~You have to, or the ritual will be broken. I know it means you won't come further than the nearest surroundings. There... there should be some loved creature to be found in a city, yes? This is destiny, my friend. Either you can do it, or you don't. It will be decided this coming 24 hours.~
+@146  = ~Remember: A female, innocent, beloved creature. Choose with care, as only this blood will be usable.~
+@147  = ~Wait - I have only one day? What if I don't find the blood you need?~
+@148  = ~I am on my way.~
+@149  = ~Yeah, alright, but what do I get out of it?~
+@150  = ~Oh, by the way, necro - don't go far, alright? Just because I might lose interest in making errands for you after all.~
+@151  = ~I have changed my mind. I won't get any blood for you.~
+@152  = ~Too late! You are too late. I stirred and enchanted until the essence was dry...~
+@153  = ~Beth... Oh, my Beth. I couldn't keep my promise.~
+@154  = ~Blood for the Necromancer
+
+The necromancer killed himself. I couldn't prevent it. Maybe he finds peace with his beloved now.~
+@155  = ~Don't make her shy, it's hard enough to catch her as it is.~
+@156  = ~What are you doing here?~
+@157  = ~Are you Susan, by any chance? Your mother is looking for you!~
+@158  = ~How in the nine hells did *you* come in here?~
+@159  = ~Get out of this old house. It is dangerous!~
+@160  = ~I came in through the same way as Kitty. I am still all dusty and dirty!~
+@161  = ~Do you have an idea how dangerous this is?~
+@162  = ~I didn't come here for fun! I am here to catch Kitty. She went in first.~
+@163  = ~I love *her*, yes. It's a she. You can see that by the pink ribbon, you know?~
+@164  = ~What a coincidence. Alright, girl, you may go unharmed. The cat stays. I need her, dead.~
+@165  = ~Indeed. So, that makes two loved, female creatures...~
+@166  = ~Oh... You met my mom?~
+@167  = ~Not exactly, but I know she is searching for you. She seemed to be very worried!~
+@168  = ~This is your kitten? You love it, don't you?~
+@169  = ~Enough talking, girl, I need to kill you to get your blood.~
+@170  = ~You have to get out of here!~
+@171  = ~Get out, now. This place is far too dangerous.~
+@172  = ~What a coincidence. Alright, girl, you may go unharmed. The cat stays. I need her.~
+@173  = ~I tried to return to the street once but Kitty escaped me.~
+@174  = ~We cornered your kitten. Now, grab it and leave this old house. Everyone will be happy to see you back.~
+@175  = ~Then you have to go without her.~
+@176  = ~Well, you don't have to go. It seems I have the perfect use for you, and your kitten.~
+@177  = ~You... you are mean!~
+@178  = ~Blood for the Necromancer
+
+I have the blood of a young (female, beloved) cat. Let's see whether the necromancer has a use for that.~
+@179  = ~If you do that I will complain to the watchman outside!~
+@180  = ~Hm, that is right. Better I kill you, too, then.~
+@181  = ~And tell him you've been in here? I doubt it.~
+@182  = ~Oh, man, seems I have my noble day. Grab your cat and be gone.~
+@183  = ~Help! Help!~
+@184  = ~Susan Lost
+
+I... found Susan. Too bad for her mother I have absolutely no intention of telling anyone else what happened to her.~
+@185  = ~But... Kitty!~
+@186  = ~Do you prefer leaving without her?~
+@187  = ~How about you go and I take your cat. It seems I have just the right use for it. It's better with me anyway.~
+@188  = ~(sigh) You are right, I guess.~
+@189  = ~...the young lady!~
+@190  = ~Of course! I was devastated, you can believe me that. I am *so* glad you found her running down the street! I cannot express my gratitude!~
+@191  = ~Ma'am, I am happy all is well, you can be assured of that.~
+@192  = ~And you, young lady, come home this instant. To give me such a fright! Well, everything is alright now, I guess.~
+@193  = ~Do you want me to take Kitty?~
+@194  = ~I've got her.~
+@195  = ~I don't know what happened, though. She is very distressed about her cat being dead, but she wouldn't say anything more.~
+@196  = ~It's a dangerous house, ma'am. I will see to the door being sealed.~
+@197  = ~That would be fabulous. This house seems so attractive to these young children. It gives me chills thinking about it.~
+@198  = ~Come along, darling. Let us go home.~
+@199  = ~Have a good day, ma'am.~
+@200  = ~Susan Lost
+
+Susan and her family are happily reunited. She was gone looking for her cat. I caught her inside the rotten house.~
+@201  = ~What a happy ending. Well, sort of. The girl came out of the door! I just checked inside only moments before. This rotten house is a real nuisance. I hope someone seals the door before anything happens...~
+@202  = ~What is all this noise! I have to concentrate, and you better not draw the Flaming Fist's attention... (gasp) You killed this girl!~
+@203  = ~No... no, don't say a word. I will take the body downstairs. Quick, she won't be noticed between all the others.~
+@204  = ~I... I have to continue chanting.~
+@205  = ~Blood for the Necromancer
+
+I have the blood of a girl and a (female, beloved) cat. I guess the necromancer should have use for at least one of them.~
+@206  = ~You are a female, innocent creature, and obviously desired by more than one man, right? In this case I need your blood. Nothing personal, just for a friend.~
+@207  = ~Blood for the Necromancer
+
+I got enough blood of a nymph. This should be perfect for the necromancer's purpose.~
+@208  = ~You are an absolute monster!~
+@209  = ~A fine nymph you have there, and you seem to love her dearly. Hand her over, I am in need of her blood.~
+@210  = ~Its a fine nymph, and Ragefast seemed to love her dearly. I would be in need of some of her blood.~
+@211  = ~You, in need of nymph's blood? I do not wish to share the ingredients.~
+@212  = ~You said you want to use her to make gold anyway. Why not sell me some of the blood directly?~
+@213  = ~Don't worry, I will just take it!~
+@214  = ~I said no. Get out of my house!~
+@215  = ~What? Oh, it's you.~
+@216  = ~Let me see what you have got.~
+@217  = ~Well... She is not dead yet, but that makes the blood even fresher. I present: A nymph.~
+@218  = ~Here I have the blood of a cat, beloved by her owner, a young girl. She told me so.~
+@219  = ~This is the blood of a beloved cow...~
+@220  = ~This is the blood of a girl and beloved daughter.~
+@221  = ~Well, I have here the blood of a Dryad from the Cloudpeaks...~
+@222  = ~I have here the blood of a nymph. Loved and desired by at least one man who lost his mind over her.~
+@223  = ~I have nothing for you.~
+@224  = ~But right now, you promised to bring me the blood I need for my Beth. Please, go and search for the blood of a beloved female creature, as we agreed on, and make haste!~
+@225  = ~Hurry! There is not much time left.~
+@226  = ~You won't? (deep sigh) I have to admit I am... kind of glad you say that...~
+@227  = ~Dryad?~
+@228  = ~What, what, what? Dryad? Dryad, my Dryad, <CHARNAME>, you cannot offer *my* dryad's blood for this?!~
+@229  = ~Dryad's blood is no use. Who loved her? Don't tell me her tree loved her. Did it tell you? No, Dryad is no use! You slaughtered the innocent... creature for nothing...~
+@230  = ~No, no, not for nothing. It is highly important, and very, very, very... secret. Take your hands away!~
+@231  = ~A cat? I asked for an innocent creature and you are bringing me the blood of a *cat*? How innocent do you think a baby-bird munching cat is? Even if it was a kitten, this blood is useless!~
+@232  = ~It... it was the kitten from upstairs, was it not? (sigh) Oh, well.~
+@233  = ~A nymph... a beloved nymph...~
+@234  = ~Didn't you say you would not kill anything humanoid? But... a beloved nymph...~
+@235  = ~Perfect. This is the perfect blood of an innocent... Oh, Beth, what am I doing...~
+@236  = ~No need to search further. This *is* the perfect blood.~
+@237  = ~No... NO! This creature is so frail... and innocent. Innocent! I cannot... I cannot... Why did you drag her here, alive, in all her beauty? Were you to kill her *here*?~
+@238  = ~But what am I babbling, it's what I asked of you, is it not?... This... this finally opened my eyes...~
+@239  = ~A... cow. A beloved cow. Yes, I think that should work.~
+@240  = ~Take this, then.~
+@241  = ~Let me search for something more suitable.~
+@242  = ~A g... a girl? The girl from upstairs? You killed her for this? I... I was hoping she gave you a better reason than this...~
+@243  = ~A girl.~
+@244  = ~But, but... You said you wouldn't kill other than an animal! I heard you say that!~
+@245  = ~Oh, Beth (moans). But she is dead now. This should do. A girl is definitely innocent...~
+@246  = ~No, no, the blood of a girl is better than that. It is better...~
+@247  = ~Now I have the needed blood. I thank you... I guess. All I have to do is to stirr it in...~
+@248  = ~That... that would be it. That *is* it! I have the essence I need to resurrect Beth. No more time to think and ponder! I have to do it now...~
+@249  = ~I will be in the crypt. Take whatever you find here as a reward.~
+@250  = ~Why... why doesn't *happen* anything? I did everything according to... Oh!~
+@251  = ~BETH! ...Beth?...~
+@252  = ~But... but what *are* you! A zombie! An undead! ...Cow blood! Cow blood...~
+@253  = ~Whaaaaa...~
+@254  = ~No! Don't... don't even start. Don't even start to seem like a living creature. You are not! You are... (sob) You are dead! Dead!~
+@255  = ~You look alright! You look... (takes in breath) You look alive!~
+@256  = ~Say something, love. You are alive! Say something!!~
+@257  = ~What? What is this mumbling! Your eyes... You don't look at nothing. Do you see me? Do you see me, love? No, you don't. I revived a body... Nothing but a body! And for this, I let you kill a healthy girl! (sob) What have I done!~
+@258  = ~Where... where am I?~
+@259  = ~Oh, Beth! You talk! Your eyes are awake! You are still weak, but fear not, as you will recover in no...~
+@260  = ~I know you... You are the man I love. But what happened to you? You look old... And this place... This is a crypt, is it not?~
+@261  = ~A crypt! So it happened! I was dead. Why am I here again, love? How is this possible? What... what horrors did you do to make this possible? Answer me!~
+@262  = ~I went into the dark magics, love... I let a nymph be killed for this... Was it... Was it wrong?~
+@263  = ~Yes, it was. I cannot live with this knowledge. This is insanity! Let me rest, love. Let me rest, and come to me, when your time has come.~
+@264  = ~You will not stay with me, will you? No, you will not. (sob) Beth, oh Beth...~
+@265  = ~This is what I get from my vanity!... You! You are responsible. You stirred the hopes in me, now see what you have made me do! I betrayed my beloved. I let you kill...~
+@266  = ~It has to be your fault! It has to!~
+@267  = ~Blood for the Necromancer
+
+The necromancer and his beloved are both dead now - the resurrection didn't go as planned, and he made me responsible for it. That fool could have saved himself and me a lot of trouble by just accepting his fate.~
+@268  = ~I am a proud member of the Flaming Fist.  Our headquarters is in Baldur's Gate, though we also operate in Beregost and the Friendly Arm inn.  We are quite concerned about the sudden rarity of iron.  Many think that the nation of Amn is gearing up for war against our great city.  If this were the case, I don't know how well we would do, lacking a resource as important as iron.~
+@269  = ~Greetings, is there something I can help... Wait one moment, you're the ones wanted for murder!~
+@270  = ~What's your business here?~
+@271  = ~I want to report the hideout of a necromancer who is responsible for missing women's corpses all over the country. He is dead now, though.~
+@272  = ~Weren't you the one that's arrested the old lady with her cow?~
+@273  = ~I am to say hello from Mrs. Thirsty.~
+@274  = ~We're here to see Scar.~
+@275  = ~We want a tour.~
+@276  = ~We want to be hired on with the Flaming Fist.~
+@277  = ~Good bye.~
+@278  = ~I've been told to expect you. He's either just down the hall, or outside the entrance. He's been waiting sometime to talk to you, so you should speak with him soon.~
+@279  = ~We give no tours here, sorry.~
+@280  = ~The Fist isn't hiring right now.~
+@281  = ~(sigh) Yes, you witnessed the scene. I never felt so bad. Mrs. Thirsty is my old parent's neighbor in the village I grew up in. She was always so nice, giving me sweets and everything... She came to the city after her old husband died.~
+@282  = ~I am in your debt, you have no idea how much this whole occurrence was troubling me. Poor Mrs. Thirsty will miss her cow, but at least the problem is solved. I have to show you my gratitude!~
+@283  = ~You even arranged for her and her cow to move to a farm! I am in your debt, you have no idea how much this whole occurrence was troubling me. I have to show you my gratitude!~
+@284  = ~Here, take this.~
+@285  = ~Oh, that's nice! Thank you.~
+@286  = ~I have to go on patrolling now, I am on duty. Have a nice day!~
+@287  = ~Is that true? I will directly report it to the Flaming Fist authority. I don't think we will have manpower left to do anything about the place, other than secure it so that no citizen is in danger.~
+@288  = ~But, I heard about corpses going missing, too. It's very good this is solved. In the name of the Flaming Fist, I thank you for clearing this up!~
+@289  = ~Ah, take care with all your weapons, will you? Berta is all I got, so you make sure your sharp things don't hurt her!~
+@290  = ~Misses Thirsty! Am I assuming right that this is your cow?~
+@291  = ~Why, yes, Trevor, is something wrong?~
+@292  = ~Something wrong indeed there is! Aren't you aware that keeping a cow like this inside the city walls is prohibited?~
+@293  = ~But Trevor, you know I lost the farm when Greg died and the kids married all so far away... Berta is all I have left! She reminds me of home, and Greg! I raised her by hand, because our old Greta died before Berta stopped drinking milk, and... I am sure Berta doesn't disturb anyone, does she?~
+@294  = ~I know, Mrs. Thirsty, and I am really sorry... I am afraid it is against the law. As the owner of that cow, I have to charge you a fee of 50 gold for inadequate keeping of a farm animal inside the city walls, if you don't... ahem, remove this animal from inside the city within the next 72 hours.~
+@295  = ~Trevor! 50 gold?! I don't have 50 gold. And I need her here to milk her as long as that's still possible! I wouldn't know where to bring my Berta!~
+@296  = ~I... I am sorry, Mrs. Thirsty, but it's the law. If you don't remove the cow, there will be a butcher to be called.~
+@297  = ~Oh, my gods!...~
+@298  = ~A Cow in Baldur's Gate City
+
+I witnessed an old lady being arrested because she held a cow inside the city walls. She didn't have the money to pay the fee, and she also didn't know where to bring her cow instead. She seemed to love her cow rather dearly, though...~
+@299  = ~You there! Stop your actions at once!~
+@300  = ~You there! Stop where you are!~
+@301  = ~I represent the Flaming Fist and the law of the Grand Dukes. You were witnessed by killing that cow, which was not your property! You are under arrest for robbery.~
+@302  = ~Wait one moment!  We can pay you money; how about 100 gold to let us alone.~
+@303  = ~You don't want to arrest us, especially if we gave you these nice shiny gold coins. 200 of them in fact.~
+@304  = ~We'll cleave you limb from limb, you law abiding do gooders!~
+@305  = ~Don't insult me with bribes!~
+@306  = ~This cannot be tolerated!~
+@307  = ~A Cow in Baldur's Gate City
+
+Maybe I shouldn't have attacked the cow without buying it first.~
+@308  = ~Do not intrude, citizen. This is a matter of the city authority.~
+@309  = ~Oh, don't be daft, Trevor. Surely this helpful man can state his opinion?~
+@310  = ~Oh, don't be daft, Trevor. Surely this helpful woman can state his opinion?~
+@311  = ~Er, of course, Mrs. Thirsty...~
+@312  = ~Uh, what a situation... I cannot return to the headquarters until this is resolved.~
+@313  = ~You mentioned a fine. Maybe I could help.~
+@314  = ~You mentioned a butcher. I had use for this cow, albeit not alive.~
+@315  = ~I changed my mind. I do have use for this cow, albeit not alive.~
+@316  = ~I have the gold now, to pay for the cow.~
+@317  = ~I met a farmer North East from Baldur's Gate who lost his son. If you are still capable of working, I could imagine he might be interested in taking in you and your cow.~
+@318  = ~I met a farmer northeast of Baldur's Gate who lost his son. If you are still capable of working, he would be interested in taking in you and your cow.~
+@319  = ~Good day, then.~
+@320  = ~The only help useful here would be gold to pay the butcher. Or find a place for the cow to stay, outside the city.~
+@321  = ~Then I would like to pay for the cow and the butcher.~
+@322  = ~No, there must be a place for this cow. I'll keep on looking.~
+@323  = ~Oh, but you aren't of the Flaming Fist. (sigh) I was hoping they came to their senses and someone was coming for me...~
+@324  = ~I witnessed your arrest, Mrs. Thirsty.~
+@325  = ~Bringing a cow into the city! What did you think?!~
+@326  = ~Well, good day.~
+@327  = ~Hello! Trevor still insists on me being *arrested*!~
+@328  = ~I changed my mind. I might have a use for this cow, albeit not alive.~
+@329  = ~I gave farmer Brun your letter. He accepts your conditions.~
+@330  = ~I think I know why no-one is coming to you. They don't want you to talk their ears off.~
+@331  = ~Good day to you.~
+@332  = ~My name is Mrs. Thirsty, and has been these last 40 years I was married to my good Greg. May the gods have mercy on him.~
+@333  = ~Oh, did you?~
+@334  = ~I have a cow right here, and I haven't enough gold to pay some obscure fines. They are theatening to butcher my poor Berta! I am really disappointed about Trevor. Trevor is the guard who arrested me.~
+@335  = ~Yes, I am talking about you, young man!~
+@336  = ~Trevor, by all means! I know him from his birth, I sang him lullabies when his parents were busy. Our own kids all married so far away, see, and so when my Greg finally died, I had to give up the farm. Berta is all I have left. Berta is the name of my cow. She is all I have left, and she is dear to me... She really is. Well, I am not a daft old lady. I know that I probably have to sell her, but...~
+@337  = ~Well, it hurts.~
+@338  = ~That's a sad tale, Mrs. Thirsty.~
+@339  = ~Well, I wish you the best.~
+@340  = ~No need for that tone, young one!~
+@341  = ~I... I didn't think it would be a problem. It *is* no problem, except that it is against some city rules only the gods knows who invented. I was scared Berta would be stolen or that she would become ill inside the street. Never would I have imagined I would get problems with the city authorities!~
+@342  = ~Good day, indeed. I could use one.~
+@343  = ~Oh, thank you, dear. Good day to you.~
+@344  = ~Well... yes. Thank you.~
+@345  = ~What... what? Why did you say that? Did you come here to insult me? I am just an old woman, and life wasn't always pleasant to me. Well, it was pleasant at a lot of times, though. I had such a loving husband. And we had the farm...~
+@346  = ~No, but it's fun. I could do it again. Old croak!~
+@347  = ~Oh, don't mind me. I am just an old lady, lost in memories... You know, I really think it is not all right that they charge an old lady with fines. Do you think I could make a request of some sort?~
+@348  = ~I am... not too sure about that.~
+@349  = ~Oh... oh, really? I am not *that* old, you know. I could work for my living! And enjoy it, I would, too. I thought I was too old for the farmer's life and came here into the city, but it makes me ill. Too many people on too little space, and the smells... I miss the stables, the moos and bahs of the cattle and sheep, the barking of the dogs...~
+@350  = ~I mean... Trevor? I can move the cow to another place, yes?~
+@351  = ~Yes, that is correct.~
+@352  = ~You wait a minute, young friend, will you?... Just a little moment...~
+@353  = ~Here you are. Would you mind taking this letter to your friend the farmer? I wrote it all down. I would be happy to be helpful again. But only, look at me, when I say this! *Only* if he takes in Berta, and treats her like one of his own cows! I wrote it in here, too. The same food, and a place inside the stables if it gets too cold! I wrote it in this letter, but you tell him that, will you? Yes? Oh, Berta, this would be our rescue...~
+@354  = ~A Cow in Baldur's Gate City
+
+Mrs. Thirsty gave me a letter for farmer Brun. Seems I have to play the messenger, again...~
+@355  = ~Well, that's what I thought. (sigh) I wouldn't know where to address such a request, anyway. Ah, it's all so complicated in the city.~
+@356  = ~What impertinence! You seem to enjoy this. It is you and me here and a Flaming Fist guard. Be glad, pumkin, or I would have come over and teach you some manners! Pff. Nowaday's youth!~
+@357  = ~That... that is wondeful!~
+@358  = ~Trevor, did you hear that?~
+@359  = ~Thank the gods... I mean, that is good news, indeed.~
+@360  = ~I will go immediately. Immediately!~
+@361  = ~Thank you very much. I thought I'd never get away from here. I took this on because I knew Mrs. Thirsty from my childhood, but I am not sure this was of advantage... I am glad it is solved. The thanks of the Flaming Fist is yours.~
+@362  = ~Berta, come, dear. Mind your step, not to step on the watch man's toes, eh?~
+@363  = ~A Cow in Baldur's Gate City
+
+It is all settled for Mrs. Thirsty and her cow moving to farmer Brun. I should visit at some time to see how it works out...~
+@364  = ~Indeed? This is an interesting turn of...~
+@365  = ~What? Butcher my Berta? Just like that? How would that be a solution to my problem?~
+@366  = ~Insofar, as this good person here could give you as much money for your cow as you think it is worth, including the gold for the milk you expected her to give you.~
+@367  = ~Oh.~
+@368  = ~(And the cow would be out of here forever, thank the gods.)~
+@369  = ~I *heard* th...~
+@370  = ~Mrs. Thirsty, this is no easy task for me, believe me that. But it is either you removing the cow from within the city walls - alive - or it is the butcher. Do you have a different place for your cow to stay? Do you have the gold to pay the fine?~
+@371  = ~N... no, I don't.~
+@372  = ~Then I strongly recommend you to consider this proposition, Mrs. Thirsty.~
+@373  = ~Now to you. Are you proposing to pay the butcher concerning this cow?~
+@374  = ~Yes, if I get the parts I need.~
+@375  = ~Yes, if that takes the fine off the lady's back.~
+@376  = ~First we should agree on how much gold we are talking about.~
+@377  = ~No, I changed my mind. I have no use for any parts of this cow.~
+@378  = ~It will be 50 gold! At least! No penny less!~
+@379  = ~Ahem, make that 500. It is young, and healthy... and Mrs. Thirsty doesn't know the current market prices.~
+@380  = ~500 gold it is. Do you agree?~
+@381  = ~Agreed.~
+@382  = ~Seems I don't have enough money, but I'll come back.~
+@383  = ~We will be here... (sigh) Probably.~
+@384  = ~It's alright, Mrs. Thirsty. I will bring you the money. You, follow me to the cow...~
+@385  = ~A Cow in Baldur's Gate City
+
+I let the cow being butchered. The woman should have enough money for a while now.~
+@386  = ~Oh, now *thank* the gods!~
+@387  = ~With due respect, Mrs. Thirsty, but this doesn't solve your problem, does it?~
+@388  = ~Oh...~
+@389  = ~Then so shall it be.~
+@390  = ~I... I *cannot* witness this...~
+@391  = ~So, all is done. Thank you, Mr. Butcher.~
+@392  = ~'r welcome.~
+@393  = ~Poor Mrs. Thirsty... but there was no other solution, was there?~
+@394  = ~Blood for the Necromancer
+
+I have the blood of a (female, beloved) cow. This should serve for the necromancer's purpose.~
+@395  = ~Brun, you really need to shorten that beard. No need to run around imposing as a barbarian.~
+@396  = ~Hmph.~
+@397  = ~Not that tone again, mister. Tomorrow is market day, and I want you to make a good impression on farmer Harting's widow sister. She's a good gal, and life wasn't nice to her. She needs a new home, and this farm needs a woman.~
+@398  = ~Are you trying to pair me off?~
+@399  = ~No, just stating the obvious. Now, go get shaving.~
+@400  = ~Ah, it's <CHARNAME>! Greetings, young friend. It is always nice to see you.~
+@401  = ~<CHARNAME>, my son was dead when y' found him, but this woman you brought here is t' living reincarnation of my mother.~
+@402  = ~I heard that.~
+@403  = ~Now to you. It's good to see you again. You helped me so much... me and my Berta. And now I have Inga, Gertrud, and Luisa to take care of, as well... (smiles)~
+@404  = ~Mister Brun is such a nice person! Well... he is not really talkative, but I undertand that, with his son dead and all. He said I would talk for two, so that would be enough. Ah, I wished he and my husband would have met. They would have so much to agree upon!~
+@405  = ~Say hello to young Trevor for me, if you see him. Such a fine young lad, a bit duteous, but that's good for a watchman, I guess.~
+@406  = ~A Cow in Baldur's Gate City
+
+Mrs. Thirsty and her cow are all save and sound at farmer Brun's. I hope those two people can bear each other... but it seems to work out well.~
+@407  = ~Stay as long as you want. We don't have much to share but you are welcome whenever you want.~
+@408  = ~There is an elderly lady in Baldur's Gate who would need a place for her cow.~
+@409  = ~Would you have place for another cow?~
+@410  = ~This letter is from Mrs. Thirsty, the elderly woman with the cow I asked about earlier. She takes great concern that her cow would be treated like the others, if you take her in.~
+@411  = ~I have here a letter from Mrs. Thirsty. She is an elderly lady in the city who needs a place for a cow. She would be ready to lend a hand on the farm, if you take her cow into your stables.~
+@412  = ~I am doing well, so far. I won't be able to keep the farm for the rest o' my life, but for now, I'll manage.~
+@413  = ~That is good to hear. Good day to you.~
+@414  = ~I would expect that, after all I did for you.~
+@415  = ~Please, I need to know what happened to my son first.~
+@416  = ~Her cow? What do those nobles of the city think, that I am some kind of animal care? I have problems keeping this farm without my son as it is. I cannot take in another cow!~
+@417  = ~She is no noble, I phrased it wrongly. It is a woman who lived on a farm until not long ago. She is used to work, although she is not the youngest any more. Now she lost her farm, and the cow is all she has left.~
+@418  = ~Would you really have no room for another cow?~
+@419  = ~Well, it was worth a try, but if you haven't got room for a cow, then it doesn't matter.~
+@420  = ~Well then, good day.~
+@421  = ~Ah... That sounds different. Tell her, if she can still work the farm, then she and her cow would be welcome.~
+@422  = ~I have room enough. But even if this noble lady would pay me for keeping her cow, I lack the arms to care for more cattle than I have.~
+@423  = ~Room I have plenty. I am not capable of caring for another cow! I need someone who doesn't shy away from work. If I have a helping hand, another cow would be no problem.~
+@424  = ~A Cow in Baldur's Gate City
+
+Farmer Brun could use a helping hand on his farm, then he wouldn't mind another cow.~
+@425  = ~A letter? Well... Let me have a look. Hm, very clear handwriting...~
+@426  = ~She writes that she has lost her husband and her farm...~
+@427  = ~"...see that I will not, and let me stress this fact, back away from the work I know has to be done..."~
+@428  = ~(sigh) another page. Here we go...~
+@429  = ~"...insist, and I will repeat it, insist that my Berta will be treated like one of your own..." She writes half a page about how she expects me to treat her cow!~
+@430  = ~Yes, she was very... distinct about that point.~
+@431  = ~Is that a yes or a no, then?~
+@432  = ~(sigh) If she works the same amount as she writes, she could be useful... I have not enough to just feed another hungry mouth. She has to earn it. Go and tell her that. I have no more time now, work is waiting. Please excuse me.~
+@433  = ~A Cow in Baldur's Gate City
+
+Farmer Brun agreed to take in Mrs. Thirsty and her cow. Now I have to go back and tell her.~
+@434  = ~Mourning Mom in Front of the Flaming Fist Headquarters~
+@435  = ~Susan Lost~
+@436  = ~Blood for the Necromancer~
+@437  = ~A Cow in Baldur's Gate City~
+
+/* new for v2.4 */
+@438  = ~You, in need of nymph's blood? Why, yes, that's the easiest sell and I don't have use for all of it, anyway. Come back in a tenday and I will have it for you, bottled and sealed.~
+@439  = ~I need it now, or it will be too late.~
+@440  = ~No, now is not possible. Killing her now would spoil all ingedients. Look at how Ragefast had let her deteriorate. She needs to batten for at least two days more before I can use her reasonably. Killing her before that is no option.~

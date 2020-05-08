@@ -1,0 +1,30 @@
+// Candlekeep, prologue
+IF
+Global("RE1_AlecCandlekeep","GLOBAL",0)
+!Dead("RE1Alec")
+THEN
+RESPONSE #100
+CreateCreature("RE1Alec",[1234.547]%FACE_3%)
+SetGlobal("RE1_AlecCandlekeep","GLOBAL",1)
+Continue()
+END
+
+IF
+Global("RE1_AlecCandlekeep","GLOBAL",3)
+!Dead("RE1Alec")
+THEN
+RESPONSE #100
+CreateCreature("RE1Alec",[3859.655]%FACE_2%)
+SetGlobal("RE1_AlecCandlekeep","GLOBAL",4)
+Continue()
+END
+
+IF
+Global("RE1_AlecCandlekeep","GLOBAL",6)
+!Dead("RE1Alec")
+THEN
+RESPONSE #100
+CreateCreature("RE1Alec",[1045.2504]%FACE_14%)
+SetGlobal("RE1_AlecCandlekeep","GLOBAL",7)
+Continue()
+END

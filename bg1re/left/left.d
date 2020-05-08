@@ -1,0 +1,1021 @@
+/* This is a story of a certain male witch called Left. He lives in a ruined house (thought of the one where we meet Drizzt, but maybe there's a better one, somewhere), away from settlements. */
+
+/* All that Left was, by Lava */
+
+//////////////////////////
+///////WITCH BOY//////////
+//////////////////////////
+
+// Variables and items:
+// RE1_LeftTalk - progresses the dialogues.
+// RE1_LeftTimer
+// RE1_LeftFlirt - if Left proposes
+// RE1_LeftSex - if player accepts
+// RE1WBlet - Left's letter: ~I had to leave. I'm sorry. But I'll be back.~  Base SCRL2J.ITM
+
+BEGIN RE1LavWB
+
+//1
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",1) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy01x00
+@0
+==%JAHEIRA_BANTER% IF ~InParty("JAHEIRA") !StateCheck("JAHEIRA",CD_STATE_NOTVALID) Detect("JAHEIRA")~ THEN @1
+==%IMOEN_JOINED% IF ~InParty("%IMOEN_DV%") !StateCheck("%IMOEN_DV%",CD_STATE_NOTVALID)  Detect("%IMOEN_DV%")~ THEN @2
+==%SAFANA_BANTER% IF ~InParty("SAFANA") !StateCheck("SAFANA",CD_STATE_NOTVALID)  Detect("SAFANA")~ THEN @3
+==%KIVAN_BANTER% IF ~InParty("KIVAN") !StateCheck("KIVAN",CD_STATE_NOTVALID)  Detect("KIVAN")~ THEN @4
+==%VICONIA_JOINED% IF ~InParty("VICONIA") !StateCheck("VICONIA",CD_STATE_NOTVALID)  Detect("VICONIA")~ THEN @5
+== RE1LavWB @6
+END
+IF~~THEN REPLY @7 EXTERN RE1LavWB WitchBoy01x01
+IF~~THEN REPLY @8 EXTERN RE1LavWB WitchBoy01x01
+IF~~THEN REPLY @9 EXTERN RE1LavWB WitchBoy01x02
+IF~~THEN REPLY @10 EXTERN RE1LavWB WitchBoy01x03
+
+CHAIN RE1LavWB WitchBoy01x01
+@11
+EXTERN RE1LavWB WitchBoy01x04
+
+CHAIN RE1LavWB WitchBoy01x02
+@12
+EXTERN RE1LavWB WitchBoy01x04
+
+CHAIN RE1LavWB WitchBoy01x04
+@13
+END
+IF~~THEN REPLY @14 EXTERN RE1LavWB WitchBoy01x06
+IF~~THEN REPLY @15 EXTERN RE1LavWB WitchBoy01x06
+IF~~THEN REPLY @16 EXTERN RE1LavWB WitchBoy01x06
+IF~~THEN REPLY @17 EXTERN RE1LavWB WitchBoy01x05
+IF~~THEN REPLY @18 EXTERN RE1LavWB WitchBoy01x03
+
+CHAIN RE1LavWB WitchBoy01x05
+@19
+EXTERN RE1LavWB WitchBoy01x06
+
+CHAIN RE1LavWB WitchBoy01x06
+@20
+END
+IF~~THEN REPLY @21 EXTERN RE1LavWB WitchBoy01x07
+IF~~THEN REPLY @22 EXTERN RE1LavWB WitchBoy01x03
+
+CHAIN RE1LavWB WitchBoy01x07
+@23
+== RE1LavWB @24
+END
+IF~~THEN REPLY @25 EXTERN RE1LavWB WitchBoy01x08
+IF~~THEN REPLY @26 EXTERN RE1LavWB WitchBoy01x03
+IF~~THEN REPLY @27 EXTERN RE1LavWB WitchBoy01x09
+
+CHAIN RE1LavWB WitchBoy01x08
+@28
+== RE1LavWB @29
+EXTERN RE1LavWB WitchBoy01x09
+
+CHAIN RE1LavWB WitchBoy01x09
+@30
+= @31
+END
+IF~~THEN REPLY @32 EXTERN RE1LavWB WitchBoy01x10
+IF~~THEN REPLY @33 EXTERN RE1LavWB WitchBoy01x03
+
+CHAIN RE1LavWB WitchBoy01x10
+@34
+== RE1LavWB @35
+== RE1LavWB @36
+== RE1LavWB @37
+END
+IF~~THEN REPLY @38 EXTERN RE1LavWB WitchBoy01x11
+IF~~THEN REPLY @39 EXTERN RE1LavWB WitchBoy01x12
+
+CHAIN RE1LavWB WitchBoy01x11
+@40
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",2) SetGlobalTimer("RE1_LeftTimer","GLOBAL",ONE_DAY) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT //will come back after a day
+
+CHAIN RE1LavWB WitchBoy01x12
+@41
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",2) SetGlobalTimer("RE1_LeftTimer","GLOBAL",ONE_DAY) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT //will come back after a day
+
+CHAIN RE1LavWB WitchBoy01x03
+@42
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT //leaves forever
+
+//Friend of a friend 
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",1) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber1
+@43
+EXIT
+
+
+//2
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",2) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy02x00
+@44
+END
+IF~~THEN REPLY @45 EXTERN RE1LavWB WitchBoy02x01
+IF~~THEN REPLY @46 EXIT
+
+CHAIN RE1LavWB WitchBoy02x01
+@47
+== RE1LavWB @48
+== RE1LavWB @49
+END
+IF~~THEN REPLY @50 EXTERN RE1LavWB WitchBoy02x02
+IF~~THEN REPLY @51 EXTERN RE1LavWB WitchBoy02x03
+IF~~THEN REPLY @52 EXTERN RE1LavWB WitchBoy02x04
+IF~~THEN REPLY @53 EXTERN RE1LavWB WitchBoy02x05
+
+CHAIN RE1LavWB WitchBoy02x02
+@54
+EXTERN RE1LavWB WitchBoy02x06
+
+CHAIN RE1LavWB WitchBoy02x03
+@55
+EXTERN RE1LavWB WitchBoy02x06
+
+CHAIN RE1LavWB WitchBoy02x04
+@56
+EXTERN RE1LavWB WitchBoy02x06
+
+CHAIN RE1LavWB WitchBoy02x06
+@57
+== RE1LavWB @58
+== RE1LavWB @59
+== RE1LavWB @60
+END
+IF~~THEN REPLY @61 EXTERN RE1LavWB WitchBoy02x07
+IF~~THEN REPLY @62 EXTERN RE1LavWB WitchBoy02x08
+IF~~THEN REPLY @63 EXTERN RE1LavWB WitchBoy02x05
+
+CHAIN RE1LavWB WitchBoy02x07
+@64
+EXTERN RE1LavWB WitchBoy02x09
+
+CHAIN RE1LavWB WitchBoy02x08
+@65
+EXTERN RE1LavWB WitchBoy02x09
+
+CHAIN RE1LavWB WitchBoy02x09
+@66
+END
+IF~~THEN REPLY @67 EXTERN RE1LavWB WitchBoy02x10
+IF~~THEN REPLY @68 EXTERN RE1LavWB WitchBoy02x10
+IF~~THEN REPLY @69 EXTERN RE1LavWB WitchBoy02x05
+
+CHAIN RE1LavWB WitchBoy02x10
+@70
+== RE1LavWB @71
+END
+IF~~THEN REPLY @72 EXTERN RE1LavWB WitchBoy02x11
+IF~~THEN REPLY @73 EXTERN RE1LavWB WitchBoy02x12
+IF~~THEN REPLY @74 EXTERN RE1LavWB WitchBoy02x05
+
+CHAIN RE1LavWB WitchBoy02x11
+@75
+== RE1LavWB @76
+== RE1LavWB @77
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",3) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT //disappear for three days
+
+CHAIN RE1LavWB WitchBoy02x12
+@78
+== RE1LavWB @79
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",3) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) 
+StartCutSceneMode()
+      StartCutScene("RE1F2Bd") ~ EXIT // rest movie etc; //disappear for three days
+
+
+
+CHAIN RE1LavWB WitchBoy02x05
+@80
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT //disappear from game
+
+//Friend of a friend 
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",2) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber2
+@81 EXIT
+
+
+//3
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",3) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy03x00
+@82
+END
+IF~~THEN REPLY @83 EXTERN RE1LavWB WitchBoy03x01
+IF~~THEN REPLY @84 EXTERN RE1LavWB WitchBoy03x02
+IF~~THEN REPLY @85 EXTERN RE1LavWB WitchBoy03x02
+IF~~THEN REPLY @86 EXTERN RE1LavWB WitchBoy03x03
+
+CHAIN RE1LavWB WitchBoy03x01
+@87
+EXTERN RE1LavWB WitchBoy03x04
+
+CHAIN RE1LavWB WitchBoy03x02
+@88
+EXTERN RE1LavWB WitchBoy03x04
+
+CHAIN RE1LavWB WitchBoy03x04
+@89
+== RE1LavWB @90
+== RE1LavWB @91
+== RE1LavWB @92
+END
+IF~~THEN REPLY @93 EXTERN RE1LavWB WitchBoy03x05
+IF~~THEN REPLY @94 EXTERN RE1LavWB WitchBoy03x06
+IF~~THEN REPLY @95 EXTERN RE1LavWB WitchBoy03x03
+IF~~THEN REPLY @96 EXTERN RE1LavWB WitchBoy03x05
+IF~~THEN REPLY @97 EXTERN RE1LavWB WitchBoy03x07
+
+CHAIN RE1LavWB WitchBoy03x05
+@98
+EXTERN RE1LavWB WitchBoy03x08
+
+CHAIN RE1LavWB WitchBoy03x06
+@99
+EXTERN RE1LavWB WitchBoy03x08
+
+CHAIN RE1LavWB WitchBoy03x07
+@100
+EXTERN RE1LavWB WitchBoy03x08
+
+CHAIN RE1LavWB WitchBoy03x08
+@101
+== RE1LavWB @102
+END
+IF~~THEN REPLY @103 EXTERN RE1LavWB WitchBoy03x09
+IF~~THEN REPLY @104 EXTERN RE1LavWB WitchBoy03x10
+IF~~THEN REPLY @105 EXTERN RE1LavWB WitchBoy03x11
+IF~~THEN REPLY @106 EXTERN RE1LavWB WitchBoy03x03
+
+CHAIN RE1LavWB WitchBoy03x09
+@107
+EXTERN RE1LavWB WitchBoy03x12
+
+CHAIN RE1LavWB WitchBoy03x10
+@108
+EXTERN RE1LavWB WitchBoy03x12
+
+CHAIN RE1LavWB WitchBoy03x11
+@109
+EXTERN RE1LavWB WitchBoy03x12
+
+CHAIN RE1LavWB WitchBoy03x12
+@110
+== RE1LavWB @111
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",4) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT //disappear for 3 days
+
+CHAIN RE1LavWB WitchBoy03x03
+@112
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT //disappear from game
+
+
+//Friend of a friend 
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",3) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber3
+@113 EXIT
+
+//4
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",4) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy04x00
+@114
+END
+IF~~THEN REPLY @115 EXTERN RE1LavWB WitchBoy04x01
+IF~~THEN REPLY @116 EXTERN RE1LavWB WitchBoy04x02
+IF~~THEN REPLY @117 EXTERN RE1LavWB WitchBoy04x03
+IF~~THEN REPLY @118 EXTERN RE1LavWB WitchBoy04x04
+
+CHAIN RE1LavWB WitchBoy04x01
+@119
+EXTERN RE1LavWB WitchBoy04x05
+
+CHAIN RE1LavWB WitchBoy04x02
+@120
+EXTERN RE1LavWB WitchBoy04x05
+
+CHAIN RE1LavWB WitchBoy04x03
+@121
+EXTERN RE1LavWB WitchBoy04x05
+
+CHAIN RE1LavWB WitchBoy04x05
+@122
+END
+IF~~THEN REPLY @123 EXTERN RE1LavWB WitchBoy04x06
+IF~~THEN REPLY @124 EXTERN RE1LavWB WitchBoy04x06
+IF~~THEN REPLY @125 EXTERN RE1LavWB WitchBoy04x04
+
+CHAIN RE1LavWB WitchBoy04x06
+@126
+== RE1LavWB @127
+== RE1LavWB @128
+END
+IF~~THEN REPLY @129 EXTERN RE1LavWB WitchBoy04x07
+IF~~THEN REPLY @130 EXTERN RE1LavWB WitchBoy04x04
+
+CHAIN RE1LavWB WitchBoy04x07
+@131
+== RE1LavWB @132
+== RE1LavWB @133
+== RE1LavWB @134
+== RE1LavWB @135
+== RE1LavWB @136
+END
+IF~~THEN REPLY @137 EXTERN RE1LavWB WitchBoy04x08
+IF~~THEN REPLY @138 EXTERN RE1LavWB WitchBoy04x09
+IF~~THEN REPLY @139 EXTERN RE1LavWB WitchBoy04x04
+
+CHAIN RE1LavWB WitchBoy04x08
+@140
+EXTERN RE1LavWB WitchBoy04x10
+
+CHAIN RE1LavWB WitchBoy04x09
+@141
+EXTERN RE1LavWB WitchBoy04x10
+
+CHAIN RE1LavWB WitchBoy04x10
+@142
+== RE1LavWB @143
+== RE1LavWB @144
+== RE1LavWB @145
+END
+IF~~THEN REPLY @146 EXTERN RE1LavWB WitchBoy04x11
+IF~~THEN REPLY @147 EXTERN RE1LavWB WitchBoy04x11
+IF~~THEN REPLY @148 EXTERN RE1LavWB WitchBoy04x04
+
+CHAIN RE1LavWB WitchBoy04x11
+@149
+END
+IF~~THEN REPLY @150 EXTERN RE1LavWB WitchBoy04x12
+IF~~THEN REPLY @151 EXTERN RE1LavWB WitchBoy04x13
+IF~~THEN REPLY @152 EXTERN RE1LavWB WitchBoy04x14
+IF~~THEN REPLY @153 EXTERN RE1LavWB WitchBoy04x04
+
+CHAIN RE1LavWB WitchBoy04x12
+@154
+EXTERN RE1LavWB WitchBoy04x15
+
+CHAIN RE1LavWB WitchBoy04x13
+@155
+EXTERN RE1LavWB WitchBoy04x15
+
+CHAIN RE1LavWB WitchBoy04x14
+@112
+EXTERN RE1LavWB WitchBoy04x15
+
+CHAIN RE1LavWB WitchBoy04x15
+@156
+== RE1LavWB @157
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",5) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT // disappear for 3 days
+
+CHAIN RE1LavWB WitchBoy04x04
+@158
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT // disappear from game
+
+//Friend of a friend 
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",4) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber4
+@159
+== RE1LavWB IF ~InParty("%IMOEN_DV%") !StateCheck("%IMOEN_DV%",CD_STATE_NOTVALID)  Detect("%IMOEN_DV%")~ THEN @160
+== ~%IMOEN_JOINED%~ IF ~InParty("%IMOEN_DV%") !StateCheck("%IMOEN_DV%",CD_STATE_NOTVALID) Gender(Player1,FEMALE)  Detect("%IMOEN_DV%")~ THEN @161
+== ~%IMOEN_JOINED%~ IF ~InParty("%IMOEN_DV%") !StateCheck("%IMOEN_DV%",CD_STATE_NOTVALID) Gender(Player1,MALE)  Detect("%IMOEN_DV%")~ THEN @162
+== RE1LavWB IF ~InParty("%IMOEN_DV%") !StateCheck("%IMOEN_DV%",CD_STATE_NOTVALID)  Detect("%IMOEN_DV%")~ THEN @163
+== RE1LavWB IF ~InParty("Kivan") !StateCheck("Kivan",CD_STATE_NOTVALID)  Detect("Kivan")~ THEN @164
+== ~%KIVAN_JOINED%~ IF ~InParty("Kivan") !StateCheck("Kivan",CD_STATE_NOTVALID)  Detect("Kivan")~ THEN @165
+== RE1LavWB IF ~InParty("Dynaheir") !StateCheck("Dynaheir",CD_STATE_NOTVALID)  Detect("Dynaheir")~ THEN @166
+== ~%DYNAHEIR_JOINED%~ IF ~InParty("Dynaheir") !StateCheck("Dynaheir",CD_STATE_NOTVALID)  Detect("Dynaheir")~ THEN @167
+== ~%DYNAHEIR_JOINED%~ IF ~InParty("Dynaheir") !StateCheck("Dynaheir",CD_STATE_NOTVALID)  Detect("Dynaheir")~ THEN @168
+== ~%DYNAHEIR_JOINED%~ IF ~InParty("Dynaheir") !StateCheck("Dynaheir",CD_STATE_NOTVALID)  Detect("Dynaheir")~ THEN @169 
+EXIT
+
+//5 (after at least one dream)
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",5) GlobalGT("%bgdreams%","GLOBAL",0) !Global("AfterTalk","LOCALS",1) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy05x00
+@170
+END
+IF~~THEN REPLY @171 EXTERN RE1LavWB WitchBoy05x01
+IF~~THEN REPLY @172 EXTERN RE1LavWB WitchBoy05x02
+
+// On the freakish instance that the dreams aren't triggering...
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",5) GlobalLT("%bgdreams%","GLOBAL",%bgdream1%) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy05x00
+@174
+EXIT
+
+CHAIN RE1LavWB WitchBoy05x01
+@175
+== RE1LavWB @176
+END
+IF~~THEN REPLY @177 EXTERN RE1LavWB WitchBoy05x03
+IF~~THEN REPLY @178 EXTERN RE1LavWB WitchBoy05x04
+IF~~THEN REPLY @179 EXTERN RE1LavWB WitchBoy05x02
+
+CHAIN RE1LavWB WitchBoy05x03
+@180
+EXTERN RE1LavWB WitchBoy05x05
+
+CHAIN RE1LavWB WitchBoy05x04
+@181
+EXTERN RE1LavWB WitchBoy05x05
+
+CHAIN RE1LavWB WitchBoy05x05
+@182
+END
+IF~~THEN REPLY @183 EXTERN RE1LavWB WitchBoy05x06-1
+IF~~THEN REPLY @184 EXTERN RE1LavWB WitchBoy05x06-2
+IF~~THEN REPLY @185 EXTERN RE1LavWB WitchBoy05x06-3
+IF~ReputationLT(Player1,10)~THEN REPLY @186 EXTERN RE1LavWB WitchBoy05x06-4
+IF~~THEN REPLY @187 EXTERN RE1LavWB WitchBoy05x02
+
+CHAIN RE1LavWB WitchBoy05x06-1
+@112
+== RE1LavWB @188
+== RE1LavWB @189
+== RE1LavWB @190
+END
+IF~~THEN + WitchBoy05x06-x
+
+CHAIN RE1LavWB WitchBoy05x06-2
+@112
+== RE1LavWB @191
+== RE1LavWB @192
+== RE1LavWB @193
+END
+IF~~THEN + WitchBoy05x06-x
+
+CHAIN RE1LavWB WitchBoy05x06-3
+@112
+== RE1LavWB @194
+== RE1LavWB @195
+== RE1LavWB @196
+END
+IF~~THEN + WitchBoy05x06-x
+
+CHAIN RE1LavWB WitchBoy05x06-4
+@112
+= @197
+= @198
+= @199
+END
+IF~~THEN + WitchBoy05x06-x
+
+CHAIN RE1LavWB WitchBoy05x06-x
+@200
+END
+IF~~THEN REPLY @129 EXTERN RE1LavWB WitchBoy05x07
+IF~~THEN REPLY @201 EXTERN RE1LavWB WitchBoy05x02
+IF~~THEN REPLY @202 EXTERN RE1LavWB WitchBoy05x08
+
+CHAIN RE1LavWB WitchBoy05x07
+@203
+END
+IF~~THEN REPLY @204 EXTERN RE1LavWB WitchBoy05x08
+IF~~THEN REPLY @205 EXTERN RE1LavWB WitchBoy05x02
+
+CHAIN RE1LavWB WitchBoy05x08
+@206
+DO ~SetGlobal("AfterWalk","LOCALS",1) StartCutSceneMode()
+      StartCutScene("RE1F2Ba")~ EXIT //a mini-cutscene; fade to black, wait 2 seconds and fade from black; start 05x09
+
+CHAIN RE1LavWB WitchBoy05x02
+@207
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT //disappear from game
+
+CHAIN IF WEIGHT #-1 ~Global("RE1_LeftTalk","GLOBAL",5) Global("AfterWalk","LOCALS",1)~ THEN RE1LavWB WitchBoy05x09
+@208
+END
+IF~~THEN REPLY @209 EXTERN RE1LavWB WitchBoy05x10
+IF~~THEN REPLY @210 EXTERN RE1LavWB WitchBoy05x10
+IF~~THEN REPLY @211 EXTERN RE1LavWB WitchBoy05x02
+
+CHAIN RE1LavWB WitchBoy05x10
+@212
+== RE1LavWB @213
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",6) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT
+
+//Friend of a friend 
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",5) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber5
+@214 EXIT
+
+//6
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",6) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy06x00
+@215
+END
+IF~~THEN REPLY @216 EXTERN RE1LavWB WitchBoy06x01
+IF~~THEN REPLY @217 EXTERN RE1LavWB WitchBoy06x01
+IF~~THEN REPLY @218 EXTERN RE1LavWB WitchBoy06x02
+
+CHAIN RE1LavWB WitchBoy06x01
+@219
+END
+IF~~THEN REPLY @220 EXTERN RE1LavWB WitchBoy06x03
+IF~~THEN REPLY @221 EXTERN RE1LavWB WitchBoy06x04
+IF~~THEN REPLY @222 EXTERN RE1LavWB WitchBoy06x05
+IF~~THEN REPLY @223 EXTERN RE1LavWB WitchBoy06x02
+
+CHAIN RE1LavWB WitchBoy06x03
+@224
+EXTERN RE1LavWB WitchBoy06x06
+
+CHAIN RE1LavWB WitchBoy06x04
+@225
+EXTERN RE1LavWB WitchBoy06x06
+
+CHAIN RE1LavWB WitchBoy06x06
+@226
+EXTERN RE1LavWB WitchBoy06x07
+
+CHAIN RE1LavWB WitchBoy06x05
+@227
+EXTERN RE1LavWB WitchBoy06x07
+
+CHAIN RE1LavWB WitchBoy06x07
+@228
+END
+IF~~THEN REPLY @229 EXTERN RE1LavWB WitchBoy06x08
+IF~~THEN REPLY @230 EXTERN RE1LavWB WitchBoy06x08
+IF~~THEN REPLY @231 EXTERN RE1LavWB WitchBoy06x02
+
+CHAIN RE1LavWB WitchBoy06x08
+@232
+== RE1LavWB @233
+== RE1LavWB @234
+END
+IF~~THEN REPLY @235 EXTERN RE1LavWB WitchBoy06x09
+IF~~THEN REPLY @236 EXTERN RE1LavWB WitchBoy06x10
+IF~~THEN REPLY @237 EXTERN RE1LavWB WitchBoy06x02
+
+CHAIN RE1LavWB WitchBoy06x09
+@238
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",7) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT //disappear for 3 days
+
+CHAIN RE1LavWB WitchBoy06x10
+@239 //disappear for 3 days
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",7) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT //disappear for 3 days
+
+CHAIN RE1LavWB WitchBoy06x02
+@34
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT //disappear from game
+
+//Friend of a friend 
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",6) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber6
+@240 EXIT
+
+
+//7
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",7) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy07x00
+@241
+END
+IF~~THEN REPLY @242 EXTERN RE1LavWB WitchBoy07x01
+IF~~THEN REPLY @243 EXTERN RE1LavWB WitchBoy07x01
+IF~~THEN REPLY @244 DO ~~ EXIT // disappear from game
+
+CHAIN RE1LavWB WitchBoy07x01
+@245
+END
+IF~~THEN REPLY @246 EXTERN RE1LavWB WitchBoy07x02
+IF~~THEN REPLY @247 EXTERN RE1LavWB WitchBoy07x03
+IF~~THEN REPLY @248 EXTERN RE1LavWB WitchBoy06x02 // disappear from game
+
+CHAIN RE1LavWB WitchBoy07x02
+@249
+EXTERN RE1LavWB WitchBoy07x04
+
+CHAIN RE1LavWB WitchBoy07x03
+@250
+EXTERN RE1LavWB WitchBoy07x04
+
+CHAIN RE1LavWB WitchBoy07x04
+@251
+== RE1LavWB @252
+== RE1LavWB @253
+== RE1LavWB @254
+== RE1LavWB @255
+END
+IF~~THEN REPLY @256 EXTERN RE1LavWB WitchBoy07x05
+IF~~THEN REPLY @257 EXTERN RE1LavWB WitchBoy07x06
+IF~~THEN REPLY @258 EXTERN RE1LavWB WitchBoy07x07
+IF~~THEN REPLY @259 EXTERN RE1LavWB WitchBoy07x08
+IF~~THEN REPLY @260 DO ~~ EXIT // disappear from game
+
+CHAIN RE1LavWB WitchBoy07x05
+@261
+EXTERN RE1LavWB WitchBoy07x09
+
+CHAIN RE1LavWB WitchBoy07x06
+@262
+EXTERN RE1LavWB WitchBoy07x09
+
+CHAIN RE1LavWB WitchBoy07x07
+@263
+EXTERN RE1LavWB WitchBoy07x09
+
+CHAIN RE1LavWB WitchBoy07x08
+@264
+EXTERN RE1LavWB WitchBoy07x09
+
+CHAIN RE1LavWB WitchBoy07x09
+@265
+END
+IF~~THEN REPLY @266 EXTERN RE1LavWB WitchBoy07x10
+IF~~THEN REPLY @267 EXTERN RE1LavWB WitchBoy07x11
+IF~~THEN REPLY @268 EXTERN RE1LavWB WitchBoy07x12
+IF~~THEN REPLY @269 EXTERN RE1LavWB WitchBoy07x13
+IF~~THEN REPLY @270 EXTERN RE1LavWB WitchBoy07x14
+IF~~THEN REPLY @271 DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) ActionOverride("RE1LavWB",EscapeArea())~ EXIT // disappear from game
+
+CHAIN RE1LavWB WitchBoy07x10
+@272
+EXTERN RE1LavWB WitchBoy07x15
+
+CHAIN RE1LavWB WitchBoy07x11
+@273
+EXTERN RE1LavWB WitchBoy07x15
+
+CHAIN RE1LavWB WitchBoy07x12
+@274
+EXTERN RE1LavWB WitchBoy07x15
+
+CHAIN RE1LavWB WitchBoy07x13
+@275
+EXTERN RE1LavWB WitchBoy07x15
+
+CHAIN RE1LavWB WitchBoy07x14
+@276
+EXTERN RE1LavWB WitchBoy07x15
+
+CHAIN RE1LavWB WitchBoy07x15
+@277
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",8) SetGlobalTimer("RE1_LeftTimer","GLOBAL",ONE_DAY) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT // disappear for one day
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",7) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber7
+@278 EXIT
+
+
+//8
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",8) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy08x00
+@279
+END
+IF~~THEN REPLY @280 EXTERN RE1LavWB WitchBoy08x01
+IF~~THEN REPLY @281 EXTERN RE1LavWB WitchBoy08x02
+
+CHAIN RE1LavWB WitchBoy08x01
+@282
+== RE1LavWB @283
+== RE1LavWB @284
+== RE1LavWB @285
+END
+IF~~THEN REPLY @286 EXTERN RE1LavWB WitchBoy08x03
+IF~Gender(Player1,FEMALE)~ THEN REPLY @287 EXTERN RE1LavWB WitchBoy08x04
+IF~Gender(Player1,FEMALE)~ THEN REPLY @288 EXTERN RE1LavWB WitchBoy08x04
+IF~Gender(Player1,MALE)~THEN REPLY @289 EXTERN RE1LavWB WitchBoy08x04
+IF~Gender(Player1,MALE)~THEN REPLY @290 EXTERN RE1LavWB WitchBoy08x04
+IF~~THEN REPLY @291 EXTERN RE1LavWB WitchBoy08x03
+IF~~THEN REPLY @292 EXTERN RE1LavWB WitchBoy08x02
+
+CHAIN RE1LavWB WitchBoy08x03
+@293
+EXTERN RE1LavWB WitchBoy08x05
+
+CHAIN RE1LavWB WitchBoy08x04
+@294
+EXTERN RE1LavWB WitchBoy08x05
+
+CHAIN RE1LavWB WitchBoy08x05
+@295
+END
+IF~~THEN REPLY @296 EXTERN RE1LavWB WitchBoy08x06
+IF~~THEN REPLY @297 EXTERN RE1LavWB WitchBoy08x07
+IF~~THEN REPLY @298 EXTERN RE1LavWB WitchBoy08x02
+
+CHAIN RE1LavWB WitchBoy08x06
+@299
+EXTERN RE1LavWB WitchBoy08x08
+
+CHAIN RE1LavWB WitchBoy08x07
+@300
+EXTERN RE1LavWB WitchBoy08x08
+
+CHAIN RE1LavWB WitchBoy08x08
+@301
+END
+IF~~THEN REPLY @302 EXTERN RE1LavWB WitchBoy08x09
+IF~~THEN REPLY @303 EXTERN RE1LavWB WitchBoy08x10
+IF~~THEN REPLY @304 EXTERN RE1LavWB WitchBoy08x02
+
+CHAIN RE1LavWB WitchBoy08x09
+@236
+END
+IF~~THEN REPLY @305 EXTERN RE1LavWB WitchBoy08x11
+IF~~THEN REPLY @306 EXTERN RE1LavWB WitchBoy08x02
+
+CHAIN RE1LavWB WitchBoy08x11
+@165
+== RE1LavWB @307
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",9) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT // disappear for 3 days
+
+CHAIN RE1LavWB WitchBoy08x02
+@308
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT // disappear from game
+
+CHAIN RE1LavWB WitchBoy08x10
+@309
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT // disappear from game
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",8) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber8
+@310 EXIT
+
+//9
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",9) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy09x00
+@311
+END
+IF~~THEN REPLY @312 EXTERN RE1LavWB WitchBoy09x01
+IF~~THEN REPLY @313 EXTERN RE1LavWB WitchBoy09x01
+IF~~THEN REPLY @314 EXTERN RE1LavWB WitchBoy09x02
+
+CHAIN RE1LavWB WitchBoy09x01
+@315
+== RE1LavWB @316
+DO ~SetGlobal("RE1_LeftFlirt","GLOBAL",1)~
+END
+IF~~THEN REPLY @317 EXTERN RE1LavWB WitchBoy09x03
+IF~~THEN REPLY @318 EXTERN RE1LavWB WitchBoy09x04
+IF~~THEN REPLY @319 EXTERN RE1LavWB WitchBoy09x04
+IF~~THEN REPLY @320 EXTERN RE1LavWB WitchBoy09x02
+IF~~THEN REPLY @321 EXTERN RE1LavWB WitchBoy09x0N
+
+CHAIN RE1LavWB WitchBoy09x03
+@322
+END
+IF~~THEN REPLY @323 EXTERN RE1LavWB WitchBoy09x04
+IF~~THEN REPLY @324 EXTERN RE1LavWB WitchBoy09x04
+IF~~THEN REPLY @325 EXTERN RE1LavWB WitchBoy09x02
+IF~~THEN REPLY @326 EXTERN RE1LavWB WitchBoy09x0N
+
+CHAIN RE1LavWB WitchBoy09x04
+@327
+== RE1LavWB @328
+DO ~SetGlobal("RE1_LeftSex","GLOBAL",1) SetGlobal("RE1_LeftTalk","GLOBAL",10) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) ~
+END
+IF ~~ THEN DO ~StartCutSceneMode()
+      StartCutScene("RE1F2Bb")~ EXIT
+IF ~Gender(Player1,MALE) Global("C#LC_Details","GLOBAL",1) Global("C#LC_DescriptionText","GLOBAL",1)~ THEN EXTERN RE1LavWB WitchBoy09x05M // Description and details enabled
+IF ~Gender(Player1,FEMALE)Global("C#LC_Details","GLOBAL",1) Global("C#LC_DescriptionText","GLOBAL",1)~ THEN EXTERN RE1LavWB WitchBoy09x05F // Description and details enabled
+
+CHAIN RE1LavWB WitchBoy09x05M
+@329
+== RE1LavWB @330
+== RE1LavWB @331
+== RE1LavWB @332
+DO ~StartCutSceneMode()
+      StartCutScene("RE1F2Bb") ~ EXIT // rest movie etc; once CHARNAME wakes up, Left is not there (you may add the dimension door animation, if you want) 
+
+CHAIN RE1LavWB WitchBoy09x05F
+@333
+== RE1LavWB @334
+== RE1LavWB @335
+== RE1LavWB @332
+DO ~StartCutSceneMode()
+      StartCutScene("RE1F2Bb") ~ EXIT // rest etc; once CHARNAME wakes up, Left is not there (you may add the dimension door animation, if you want) - (cut scene will give the letter)
+
+CHAIN RE1LavWB WitchBoy09x0N
+@336
+== RE1LavWB @337
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",10) SetGlobalTimer("RE1_LeftTimer","GLOBAL",THREE_DAYS) SetGlobal("RE1_LeftCreation","GLOBAL",2) EscapeArea()~ EXIT // disappear for 3 days, move to 10v2
+
+CHAIN RE1LavWB WitchBoy09x02
+@338
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT // disappear from game
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",9) NumInParty(2) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber9a
+@339 EXIT
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",9) NumInPartyGT(2) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber9b
+@340 EXIT
+
+//10 (They had sex)
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",10) Global("RE1_LeftSex","GLOBAL",1) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy10x00
+@341
+END
+IF~~THEN REPLY @342 EXTERN RE1LavWB WitchBoy10x01
+IF~~THEN REPLY @343 EXTERN RE1LavWB WitchBoy10x01
+IF~~THEN REPLY @344 EXTERN RE1LavWB WitchBoy10x01
+IF~~THEN REPLY @345 EXTERN RE1LavWB WitchBoy10x02
+
+CHAIN RE1LavWB WitchBoy10x01
+@346
+END
+IF~Gender(Player1,MALE)~THEN REPLY @347 EXTERN RE1LavWB WitchBoy10x03
+IF~Gender(Player1,FEMALE)~THEN REPLY @348 EXTERN RE1LavWB WitchBoy10x03
+IF~~THEN REPLY @349 EXTERN RE1LavWB WitchBoy10x04
+IF~~THEN REPLY @350 EXTERN RE1LavWB WitchBoy10x04
+IF~~THEN REPLY @351 EXTERN RE1LavWB WitchBoy10x02
+
+CHAIN RE1LavWB WitchBoy10x03
+@352
+EXTERN RE1LavWB WitchBoy10x05
+
+CHAIN RE1LavWB WitchBoy10x04
+@353
+EXTERN RE1LavWB WitchBoy10x05
+
+CHAIN RE1LavWB WitchBoy10x05
+@354
+END
+IF~~THEN REPLY @355 EXTERN RE1LavWB WitchBoy10x06
+IF~~THEN REPLY @356 EXTERN RE1LavWB WitchBoy10x02
+
+CHAIN RE1LavWB WitchBoy10x06
+@357
+== RE1LavWB @358
+== RE1LavWB @359
+END
+IF~~THEN REPLY @360 EXTERN RE1LavWB WitchBoy10x07
+IF~~THEN REPLY @361 EXTERN RE1LavWB WitchBoy10x02
+
+CHAIN RE1LavWB WitchBoy10x07
+@362
+== RE1LavWB @363
+== RE1LavWB @364
+== RE1LavWB @365
+== RE1LavWB @366
+END
+IF~~THEN REPLY @367 EXTERN RE1LavWB WitchBoy10x08
+IF~~THEN REPLY @368 EXTERN RE1LavWB WitchBoy10x02
+IF~~THEN REPLY @369 EXTERN RE1LavWB WitchBoy10x02
+IF~~THEN REPLY @370 EXTERN RE1LavWB WitchBoy10x08
+
+CHAIN RE1LavWB WitchBoy10x08
+@371
+END
+IF~~THEN REPLY @372 EXTERN RE1LavWB WitchBoy10x09
+IF~~THEN REPLY @373 EXTERN RE1LavWB WitchBoy10x09
+IF~~THEN REPLY @374 EXTERN RE1LavWB WitchBoy10x02
+
+CHAIN RE1LavWB WitchBoy10x09
+@375
+END
+IF~~THEN REPLY @376 EXTERN RE1LavWB WitchBoy10x10
+IF~~THEN REPLY @377 EXTERN RE1LavWB WitchBoy10x10
+IF~~THEN REPLY @378 EXTERN RE1LavWB WitchBoy10x02
+
+CHAIN RE1LavWB WitchBoy10x10
+@379
+== RE1LavWB @380
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",11)~ EXIT // stay
+
+CHAIN RE1LavWB WitchBoy10x02
+@328
+== RE1LavWB @381
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT // disappear from game
+
+// Friend of a friend talks
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",10) %NOT_ISGABBERPLAYER1%~ THEN RE1LavWB NotIsGabber10
+@382 EXIT
+
+//10b (they didn't make love in talk #9)
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",10) Global("RE1_LeftSex","GLOBAL",0) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy10v2x00
+@383
+END
+IF~~THEN REPLY @384 EXTERN RE1LavWB WitchBoy10v2x01
+IF~~THEN REPLY @345 EXTERN RE1LavWB WitchBoy10v2x02
+
+CHAIN RE1LavWB WitchBoy10v2x01
+@385
+END
+IF~Gender(Player1,MALE)~THEN REPLY @386 EXTERN RE1LavWB WitchBoy10v2x03
+IF~Gender(Player1,FEMALE)~THEN REPLY @386 EXTERN RE1LavWB WitchBoy10v2x03
+IF~~THEN REPLY @349 EXTERN RE1LavWB WitchBoy10v2x04
+IF~~THEN REPLY @350 EXTERN RE1LavWB WitchBoy10v2x04
+IF~~THEN REPLY @351 EXTERN RE1LavWB WitchBoy10v2x02
+
+CHAIN RE1LavWB WitchBoy10v2x03
+@387
+EXTERN RE1LavWB WitchBoy10v2x05
+
+CHAIN RE1LavWB WitchBoy10v2x04
+@353
+EXTERN RE1LavWB WitchBoy10v2x05
+
+CHAIN RE1LavWB WitchBoy10v2x05
+@354
+END
+IF~~THEN REPLY @355 EXTERN RE1LavWB WitchBoy10v2x06
+IF~~THEN REPLY @356 EXTERN RE1LavWB WitchBoy10v2x02
+
+CHAIN RE1LavWB WitchBoy10v2x06
+@357
+== RE1LavWB @388
+== RE1LavWB @359
+END
+IF~~THEN REPLY @389 EXTERN RE1LavWB WitchBoy10v2x07
+IF~~THEN REPLY @361 EXTERN RE1LavWB WitchBoy10v2x02
+
+CHAIN RE1LavWB WitchBoy10v2x07
+@362
+== RE1LavWB @363
+== RE1LavWB @364
+== RE1LavWB @365
+== RE1LavWB @390
+END
+IF~~THEN REPLY @367 EXTERN RE1LavWB WitchBoy10v2x08
+IF~~THEN REPLY @368 EXTERN RE1LavWB WitchBoy10v2x02
+IF~~THEN REPLY @369 EXTERN RE1LavWB WitchBoy10v2x02
+IF~~THEN REPLY @370 EXTERN RE1LavWB WitchBoy10v2x08
+
+CHAIN RE1LavWB WitchBoy10v2x08
+@371
+END
+IF~~THEN REPLY @372 EXTERN RE1LavWB WitchBoy10v2x09
+IF~~THEN REPLY @373 EXTERN RE1LavWB WitchBoy10v2x09
+IF~~THEN REPLY @374 EXTERN RE1LavWB WitchBoy10v2x02
+
+CHAIN RE1LavWB WitchBoy10v2x09
+@375
+END
+IF~~THEN REPLY @376 EXTERN RE1LavWB WitchBoy10v2x10
+IF~~THEN REPLY @377 EXTERN RE1LavWB WitchBoy10v2x10
+IF~~THEN REPLY @378 EXTERN RE1LavWB WitchBoy10v2x02
+
+CHAIN RE1LavWB WitchBoy10v2x10
+@379
+== RE1LavWB @380
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",11)~ EXIT // stay
+
+CHAIN RE1LavWB WitchBoy10v2x02
+@328
+== RE1LavWB @381
+DO ~SetGlobal("RE1_LeftTalk","GLOBAL",99) EscapeArea()~ EXIT // disappear from game
+
+// Friend of a friend talks - see 10a
+
+//11 (this one should stay for the rest of the game unless Left is said to disappear)
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",11) %ISGABBERPLAYER1%~ THEN RE1LavWB WitchBoy11x00
+@391
+END
+IF~~THEN REPLY @392 EXTERN RE1LavWB WitchBoy11x01
+IF~Global("RE1_LeftSex","GLOBAL",1)~THEN REPLY @393 EXTERN RE1LavWB WitchBoy11x02
+IF~RandomNum(3,1)~THEN REPLY @394 EXTERN RE1LavWB WitchBoy11x03-1
+IF~RandomNum(3,2)~THEN REPLY @394 EXTERN RE1LavWB WitchBoy11x03-2
+IF~RandomNum(3,3)~THEN REPLY @394 EXTERN RE1LavWB WitchBoy11x03-3
+IF~~THEN REPLY @395 EXTERN RE1LavWB WitchBoy11x04
+IF~~THEN REPLY @396 EXTERN RE1LavWB WitchBoy11x05
+IF~Global("RE1_LeftSex","GLOBAL",1)~THEN REPLY @397 EXTERN RE1LavWB WitchBoy11x06
+IF~Global("RE1_LeftSex","GLOBAL",1)~THEN REPLY @398 EXTERN RE1LavWB WitchBoy11x07
+IF~~THEN REPLY @399 DO ~ActionOverride("RE1LavWB",EscapeArea())~ EXIT
+
+CHAIN RE1LavWB WitchBoy11x01
+@400
+DO ~StartCutSceneMode()
+    StartCutScene("RE1F2Bc")~ EXIT 
+
+CHAIN RE1LavWB WitchBoy11x02
+@401
+DO ~StartCutSceneMode()
+    StartCutScene("RE1F2Bc")~ EXIT 
+
+CHAIN RE1LavWB WitchBoy11x03-1
+@402
+EXIT
+
+CHAIN RE1LavWB WitchBoy11x03-2
+@403
+EXIT
+
+CHAIN RE1LavWB WitchBoy11x03-3
+@404
+EXIT
+
+CHAIN RE1LavWB WitchBoy11x04
+@405
+EXIT
+
+CHAIN RE1LavWB WitchBoy11x05
+@406
+EXIT
+
+CHAIN RE1LavWB WitchBoy11x06
+@407
+EXIT
+
+CHAIN RE1LavWB WitchBoy11x07
+@408
+EXIT 
+
+// Friend of a friend talks
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",11) %NOT_ISGABBERPLAYER1% RandomNum(3,1)~ THEN RE1LavWB NotIsGabber11a
+@409 EXIT
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",11) %NOT_ISGABBERPLAYER1% RandomNum(3,2)~ THEN RE1LavWB NotIsGabber11b
+@410 EXIT
+
+CHAIN IF ~Global("RE1_LeftTalk","GLOBAL",11) %NOT_ISGABBERPLAYER1% RandomNum(3,3)~ THEN RE1LavWB NotIsGabber11c
+@411 EXIT
+
+

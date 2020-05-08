@@ -1,0 +1,9 @@
+
+IF 
+  Global("C#LC_BartusQuest","GLOBAL",7)
+THEN
+  RESPONSE #100
+    SetGlobal("C#LC_BartusQuest","GLOBAL",8)
+	CreateCreature("c#lcbart",[794.682]%FACE_12%)
+	Continue()
+END

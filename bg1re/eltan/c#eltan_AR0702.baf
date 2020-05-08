@@ -1,0 +1,12 @@
+IF
+	OR(2)
+		Dead("Sarevok")
+		GlobalGT("ENDOFBG1","GLOBAL",0)
+	Exists("ELTAN2")
+	Global("C#RE1_EltanDestroy","MYAREA",0)
+THEN
+	RESPONSE #100
+		ActionOverride("ELTAN2",DestroySelf())
+		SetGlobal("C#RE1_EltanDestroy","MYAREA",1)
+		Continue()
+END

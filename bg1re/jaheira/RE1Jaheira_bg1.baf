@@ -1,0 +1,12 @@
+
+// For original BG1: Chapter 2, at night
+
+IF
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("O#RE1JaheiraLateNight","GLOBAL",1)
+Detect(Player1)
+THEN
+RESPONSE #100
+%STARTDIALOGNOSET%(Player1)
+END

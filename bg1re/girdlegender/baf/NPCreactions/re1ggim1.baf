@@ -1,0 +1,27 @@
+/* Activate: girdle of gender bender on Imoen */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderImoen","GLOBAL",0)
+Gender("%IMOEN_DV%",MALE) HasItem("%tutu_var%BELT05","%IMOEN_DV%")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderImoen","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Imoen */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderImoen","GLOBAL",1)
+Gender("%IMOEN_DV%",MALE) HasItem("%tutu_var%BELT05","%IMOEN_DV%")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

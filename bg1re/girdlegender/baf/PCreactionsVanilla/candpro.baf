@@ -1,0 +1,17 @@
+// Sets a record of Player1 gender, so it can later be used as a reference for girdle of gender checks
+
+IF 
+Global("RE1_PCGender","GLOBAL",0) //Check only happens once
+Gender(Player1,FEMALE) // Originally a girl
+THEN
+RESPONSE 100
+SetGlobal("RE1_PCGender","GLOBAL",1) // '1' equals female gender
+END
+
+IF 
+Global("RE1_PCGender","GLOBAL",0) //Check only happens once
+Gender(Player1,MALE) // Originally a boy
+THEN
+RESPONSE 100
+SetGlobal("RE1_PCGender","GLOBAL",2) // '2' equals male gender
+END

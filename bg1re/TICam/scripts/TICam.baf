@@ -1,0 +1,30 @@
+// TICam.baf
+
+
+/* no randomwalk - too dangerous
+IF
+    !Range("Gorion",49) //if too far away, return to original spawn point
+    !PartyHasItem("TIC0SCRL") //to make sure the script block is no longer true as soon as the player has the letter
+THEN
+    RESPONSE #100
+        MoveToPoint([2777.1792])
+END
+
+IF
+    Range("Gorion",50) //random walk in the range of "50" around Gorion
+    !PartyHasItem("TIC0SCRL") //to make sure the script block is no longer true as soon as the player has the letter
+THEN
+    RESPONSE #100
+        RandomWalk()
+END
+ */
+
+
+IF
+Detect(Player1)
+Global("TICamryn","GLOBAL",2)  // this condition is the same as the dialogue block I want him to start with; I need to increment it in the dialogue, or I will get a loop.
+PartyHasItem("TIC0SCRL")
+THEN
+RESPONSE #100
+        StartDialogueNoSet(Player1)
+END

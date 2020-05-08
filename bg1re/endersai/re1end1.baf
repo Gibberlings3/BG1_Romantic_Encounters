@@ -1,0 +1,27 @@
+// "fade to black", move to another section of the bottom floor, restart conversation
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(5)
+	JumpToPoint([256.619]) // PC shifts to comfy chair
+	Face(3)
+	//ActionOverride("T1ENDER",JumpToPoint([199.640])) // Ender shifts to comfy chair
+        //ActionOverride("T1ENDER",Face(12))
+	ActionOverride("T1ENDER",DestroySelf())
+	CreateCreature("T1ENDER",[199.640]%FACE_12%)        
+	ActionOverride("T1ENDER",Face(12)) //needed for BG1
+	MoveViewPoint([239.630],INSTANT)
+	Rest()		// Everybody gets some shut-eye
+	ActionOverride(Player2,Rest())
+	ActionOverride(Player3,Rest())
+	ActionOverride(Player4,Rest())
+	ActionOverride(Player5,Rest())
+	ActionOverride(Player6,Rest())
+	FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("T1ENDER",%STARTDIALOGNOSET%(Player1))
+END 

@@ -1,0 +1,27 @@
+IF
+  True()
+THEN
+RESPONSE #100
+  CutSceneId("TITamah")
+  MoveViewPoint([1795.1210],INSTANT)
+  ActionOverride("TICam",MoveToObject("TIDOPPLE"))
+  AttackOneRound("TIDOPPLE")
+  MoveToObject("TIDOPPLE")
+  ActionOverride("TIDOPPLE",AttackOneRound("TICam"))
+  Recoil()
+  ActionOverride("TICam",Kill(Myself))
+  ActionOverride("TITamah",MoveToObject("TICam"))
+  %DisplayStringHead%("TITamah",@284)
+  ActionOverride("TIDOPPLE",AttackOneRound("TITamah"))
+  Wait(1)
+  ActionOverride("TITamah",AttackOneRound("TIDOPPLE"))
+  Wait(1)
+  ActionOverride("TIDOPPLE",Recoil())
+  ActionOverride("TIDOPPLE",Kill(Myself))
+  Wait(3)
+  SetGlobal("TITamah","GLOBAL",6)
+  SetInterrupt(TRUE)
+  Wait(1)
+  EndCutSceneMode()
+  ActionOverride("TITamah",StartDialogueNoSet(Player1))
+END

@@ -1,0 +1,49 @@
+/* Spawn Husam in the thief guild, before PC is going down to the maze 
+AR0153
+*/
+
+/* I need to separate this because BG1 doesn't execute Allegiance() in an area script */
+IF
+	Allegiance("HUSAM",ENEMY)
+THEN
+	RESPONSE #100
+		SetGlobal("C#LC_HusamEncounter","GLOBAL",25)
+END
+
+IF
+	Allegiance("HUSAM2",ENEMY)
+THEN
+	RESPONSE #100
+		SetGlobal("C#LC_HusamEncounter","GLOBAL",25)
+END
+
+IF
+	Allegiance("JA#HUSAM",ENEMY) //Jarl's adventurer pack (BG1 more UB)
+THEN
+	RESPONSE #100
+		SetGlobal("C#LC_HusamEncounter","GLOBAL",25)
+END
+
+IF
+	Dead("Sarevok")
+	Exists("C#HUSAM")
+THEN
+	RESPONSE #100
+		ActionOverride("C#HUSAM",DestroySelf())
+		SetGlobal("C#LC_HusamEncounter","GLOBAL",25)
+END
+
+IF %BGT_VAR% //this shouldn't happen if BG1 is finished
+	GlobalGT("DukeThanks","GLOBAL",0)
+	Global("C#LC_HusamEncounter","GLOBAL",5)
+	!Exists("HUSAM")
+	!Exists("HUSAM2")
+//	!Exists("JA#HUSAM") //Jarl's adventurer pack (BG1 more UB)
+	!Dead("HUSAM") 
+	!Dead("HUSAM2") 
+	!Dead("JA#HUSAM")  //Jarl's adventurer pack (BG1 more UB)
+THEN
+	RESPONSE #100
+		CreateCreature("C#HUSAM",[1134.273]%FACE_0%)
+		SetGlobal("C#LC_HusamEncounter","GLOBAL",6)
+END

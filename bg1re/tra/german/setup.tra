@@ -1,0 +1,115 @@
+/* alle nicht-benutzten Nummern werden in der setup_game.tra verwendet */
+
+@0   = ~Baldur's Gate Tutu detected~
+@1   = ~Baldur's Gate Trilogy detected~
+@3   = ~Classic Baldur's Gate detected~
+@4   = ~BG:EE detected...~ 
+@5   = ~Hauptkomponente: Menge an -aehem - Details und BG-Stil vs. Beschreibungstext!~ 
+/*
+@6  = ~Bitte waehlen Sie eine der folgenden Optionen:
+[1] "Jugendfreie Installation". (Achtung: Diese Option ueberspringt Komponenten, die keine jugendfreie Version haben, und laesst manche Inhalte mancher Komponeten aus.)
+[2] "BG-Stil" [nicht jugendfrei]. (Diese Option installiert alle komponenten. Achtung: Inhalte mancher Komponeten, die auf reiner Beschreibung beruhen, werden weggelassen.)
+[3] "Beschreibungstexte" [nicht jugendfrei] (Diese Option installiert alle Komponenten mit Beschreibungstexten, wenn vorhanden.)
+~
+@7   = ~Bitte waehlen Sie 1, 2 oder 3 und bestaetigen Sie die Eingabe.~
+*/
+@8   = ~"Jugendfreie Installation" ist ausgewaehlt.~
+@9   = ~"BG-Stil" [nicht jugendfrei] ist ausgewaehlt.~
+@10  = ~"Beschreibungstexte" [nicht jugendfrei] ist ausgewaehlt.~
+@11  = ~Bardolans Intensive Lagebesprechung, von berelinde~
+@12  = ~Scar's Spare Time, by jastey~
+@13  = ~Kim's Preoccupation, by jastey (WARNING - refer to the readme!)~
+@14  = ~The Component "Amount of -ahem - details and BG-style vs. description text" is either not installed or permission for this component is not given.~
+@15  = ~Erweiterung der Bjornin-Begegnung (Private Wundbehandlung), von jastey~
+@17  = ~No Starch in the Maypole~
+
+@18  = ~Duke Eltan's Spare Minute, by jastey~
+
+@36  = ~Husam's Personal Preparation, by jastey~
+
+@39  = ~Laurels Jagdpause, von jastey~
+
+@40 = ~Bartus' Verführung, von jastey~
+
+@42  = ~Linas Massage, von jastey~
+
+@44  = ~First Night with Quentin, by Kulyok~
+
+@46  = ~Chatting Niklos Up, by Kulyok (mature content. WARNING - refer to the readme!)~
+
+@47  = ~Slythe and Krystin, by Kulyok (mature content. WARNING - refer to the readme!)~
+@48  = ~No Regrets~
+
+@56  = ~Purchased Love, by Thimblerig~
+
+@70  = ~Hull: Heavy Duty, by Lava~
+
+@73  = ~Late Night with Jaheira, by Kulyok~
+@74  = ~Sils Segen, von Lava~
+@75  = ~Melicamp: The Poultry Boy, by Lava~
+@76  = ~Reading with Rinnie, by Western Paladin~
+@77  = ~This component has no teen rated version.~
+@78  = ~Molly the Husband-Grabber, by Kulyok~
+
+@80  = ~The Mourning of Centeol, the Spider Lady, by Lava~ 
+
+@83  = ~Das Essentielle Ende, von Lava (WARNUNG - bitte die Liesmich beachten!)~
+
+@86  = ~Das Nest des Weberknechts, von Lava (nicht jugendfreier Inhalt)~
+
+@90  = ~The Great Zudini, by Kulyok (mature content)~
+
+@92  = ~Der Botengang, von Thimblerig~
+
+@99  = ~Ender Sai, the Hero's Reward, by Thimblerig (WARNING - refer to the readme!)~
+
+@101 = ~The Novelists, by Thimblerig~
+
+@112  = ~Die wahren Luegen der beiden Flussufer, By Lava~ 
+
+@123  = ~Die Noete eines Totenbeschwoerers, von jastey~
+
+@147  = ~Dinner with Thalantyr, by jastey~ 
+
+@152  = ~Girdle of Gender Reactions, by Thimblerig, Kulyok, Domi, Lava, Lastknightleft, Twani, Jastey, Daisy Ninja Girl~ 
+
+@155  = ~The Surgeon's Dream, by Kulyok~
+@156  = ~All That Left Was, by Lava and Thimblerig~
+
+@161  = ~A Childhood Friend, by Kulyok~
+
+@163  = ~Kaeufliche Arlene, von Kulyok~ 
+
+@165  = ~Della May aus Thay, von Kulyok~
+
+@167  = ~A Dirty Guard in Candlekeep, by Kulyok (mature content. WARNING - refer to the readme!)~
+
+@169  = ~Phoenix Flame, by Kulyok (mature content)~
+
+@171  = ~Mikala the Monk, by Twani~
+
+/* von hier an nur noch Nummern mit @99xxx verwenden! */
+
+/*
+@99172  = ~WARNUNG:
+    Manche Komponenten enthalten Inhalte, die fuer Krisenerfahrene ungeeignet sein koennten. Bitte ziehen Sie aufmerksam die Liesmich bzgl. der Inhalte der Komponenten, die mit einer Triggerwarnung versehen sind, hinzu!
+
+    Bitte waehlen Sie eine der folgenden Optionen:
+[1] Komponenten mit Warnung gar nicht erst anzeigen / installieren.
+[2] Alle Komponenten beruecksichtigen.~
+@99173  = ~Bitte druecken Sie die 1 oder 2 und bestaetigen Sie die Eingabe.~
+*/
+@99174  = ~Komponenten mit Warnung werden uebersprungen.~
+@99175  = ~Komponenten mit Warnung werden beruecksichtigt.~
+
+@99176  = ~Minor Disclosures, by jastey~
+@99177  = ~EET erkannt...~
+@99178  = ~The Messenger 2: Rain or Snow or Gloom of Night, by Thimblerig and tibicina~
+@99179  = ~Camryn and Tamah, by tibicina~
+@99180  = ~Verliebte vom Mantelwald, von tibicina~
+@99181  = ~"Jugendfreie Installation" und Komponenten mit Warnung werden uebersprungen.~
+@99182  = ~"Jugendfreie Installation" und alle Komponenten werden beruecksichtigt.~
+@99183  = ~"BG-Stil" [nicht jugendfrei] und Komponenten mit Warnung werden uebersprungen.~
+@99184  = ~"BG-Stil" [nicht jugendfrei] und alle Komponenten werden beruecksichtigt.~
+@99185  = ~"Beschreibungstexte" [nicht jugendfrei] und Komponenten mit Warnung werden uebersprungen.~
+@99186  = ~"Beschreibungstexte" [nicht jugendfrei] und alle Komponenten werden beruecksichtigt.~

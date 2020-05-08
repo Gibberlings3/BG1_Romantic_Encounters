@@ -1,0 +1,27 @@
+/* Activate: girdle of gender bender on Jaheira */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderJaheira","GLOBAL",0)
+Gender("Jaheira",MALE) HasItem("%tutu_var%BELT05","Jaheira")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderJaheira","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Jaheira */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderJaheira","GLOBAL",1)
+Gender("Jaheira",MALE) HasItem("%tutu_var%BELT05","Jaheira")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

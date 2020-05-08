@@ -1,0 +1,237 @@
+@0    = ~<CHARNAME>! Kann ich Euch vielleicht um einen Gefallen bitten? Mir ist zu Ohren gekommen, dass Ihr und Gorion die Festung bald verlassen werdet.~
+@1    = ~Was? Woher wisst Ihr das? Noch vor einer halben Stunde habe selbst *ich* noch nichts davon gewusst!~
+@2    = ~Kann sein, aber ich weiß nicht, wohin.~
+@3    = ~Kümmert Euch um Eure eigenen Angelegenheiten, alte Frau!~
+@4    = ~Passt auf den Straßen gut auf Euch auf, Kind.~
+@5    = ~Hm? Oh... *hkch*... Hallo, Kind.~
+@6    = ~Dann wünsche ich eine sichere Reise, Kind.~
+@7    = ~Wie Ihr wünscht, Kind. Ich werde noch ein Weilchen hier sein, um die Seeluft zu genießen.~
+@8    = ~Meine Ohren mögen alt sein, doch trotzdem bekomme ich noch Vieles mit. Durch die ganzen Schwierigkeiten ist der reguläre Postdienst arg in Mitleidenschaft gezogen worden. Ich weiß, dass Ihr und Gorion weit reisen werdet. Dürfte ich Euch bitten, einen Brief von mir zu überbringen? Wenn Euch Eure Schritte am Lied des Morgentempels östlich von Beregost vorbeiführen, dann geht zu Morgenpriester Blaise im Vestibül und gebt ihm den Brief.~
+@9    = ~Ich weiß noch gar nicht, wann und wohin wir gehen werden. Vielleicht werde ich gar nicht in der Lage sein, ihn zu überbringen.~
+@10   = ~Wenn ich jemals dort vorbeikommen sollte, dann kann ich ihn ja abgeben.~
+@11   = ~Ich werde mein Bestes versuchen!~
+@12   = ~Was springt dabei für mich heraus?~
+@13   = ~Diese Unterhaltung langweilt mich. Ich will Abenteuer erleben! Ich will etwas zerschlagen! Briefe überbringen ist nicht gerade das, was ich aus meinem Leben machen möchte.~
+@14   = ~Ich denke, das Risiko gehe ich ein. Und, Kind, etwas sagt mir, dass Ihr das, was Ihr Euch vorgenommen habt, auch tun *werdet*.~
+@15   = ~Ich kann Euch nur meinen Dank anbieten. Mein Orden verbietet die Anhäufung von Reichtum (stattdessen geben wir alles für Bücher aus). Aber mein ergebenster Dank ist Euch sicher.~
+@16   = ~Ich glaube nicht. Sucht Euch einen anderen Boten.~
+@17   = ~Na schön. Gebt mir den Brief.~
+@18   = ~Ich danke Euch, <CHARNAME>! Hier ist er, in Ölpapier eingewickelt, um ihn vor dem Wetter zu schützen. Denkt daran, auf Eure Füße zu achten, es ist schwer, neue zu bekommen. Und? Habt Ihr die kleine Imoen gesehen? Wir wollten eine weitere Lektion in *seufz* Schönschrift abhalten...~
+@19   = ~Der Botengang: Schwester Sapientias Brief
+
+Schwester Sapientia vom Tempel von Oghma bat mich, einen Brief für einen Morgenpriester Blaise zu überbringen, der beim Lied des Morgentempels, östlich von Beregost, zu finden sein soll. Sie sagte, dass er sich im Vestibül links vom Haupttempel befindet.~
+@20   = ~*hkch* Geht ess Euchhh denn gut?~
+@21   = ~Hey! Ich bin es, Imoen.~
+@22   = ~Oh. Ah. Imoen. Hasst du auch immer deine Pflichten erledigt, Kleiness?~
+@23   = ~Aber ich war doch gar nicht hier. Die ganze letzte Zeit. Genau wie <CHARNAME>. Habt Ihr uns nicht vermisst?~
+@24   = ~Natürlich, ssicherlich. Vergebt mir, *hkch*, mein Gedächtniss isst nicht mehr sso gut.~
+@25   = ~*hkch, hust* Ich habe Husten. Mir geht es nicht gut.~
+@26   = ~Ich habe ein Buch für Euch. Vom Morgenpriester Blaise.~
+@27   = ~Ihr seht nicht besonders gut aus, Schwester Sapientia. Habt Ihr denn geschlafen?~
+@28   = ~Ich habe noch in der Bibliothek zu tun. Vielleicht sehen wir uns später noch.~
+@29   = ~Aber warum sollte - vergesst es. Isst ess wertvoll? *hkch* Ich werde es nehmen.~
+@30   = ~Der Botengang: Das Buch von Blaise
+
+Ich lieferte das Gebetsbuch von Morgenpriester Blaise an Schwester Sapientia aus, obwohl sie überrascht zu sein schien, Geschenke aus der Ferne zu bekommen. Etwas... etwas in der Art, wie sie sprach, kam mir unheimlich vor.~
+@31   = ~In der Nacht war ich unterwegs, *hkch*, jag- ich meine, *in ernssten Gedanken verssunken*. Diesss sind schwierige Zeiten.~
+@32   = ~Der Botengang: Das Buch von Blaise
+
+Ich traf auf Schwester Sapientia, aber bevor ich ihr das Gebetsbuch von Morgenpriester Blaise geben konnte, ging sie plötzlich weg, um nach einer der Katzen von Kerzenburg zu schauen - man könnte es auch als hinterher jagen bezeichnen. Irgendetwas stimmt hier nicht.~
+@33   = ~Ich muss mich auf den Weg machen. Oh! Isst dass eine Katze? Komm her, miez, miez, miez...~
+@34   = ~Geht es Euch denn gut, <CHARNAME>? Ihr seht müde aus.~
+@35   = ~Oh, mein liebes Mädchen! Bist du größer geworden?~
+@36   = ~Ich bin eine große Abenteurerin! Mich und <CHARNAME>, man kennt uns entlang der ganzen Schwertküste! Und ich habe viel gelesen – ich will eines Tages auch eine große Magierin werden. Ich wette, Ihr habt nicht damit gerechnet, dass ich mich einmal mit Büchern beschäftigen werde, oder?~
+@37   = ~Nein, ich habe nicht geglaubt, dass Studien und Gelehrsamkeit einige deiner Haupteigenschaften sein könnten. Aber ich wusste, dass du die Dinge, die du in Angriff nimmst, auch wirklich umsetzt.~
+@38   = ~Äh. Danke?~
+@39   = ~*hkch, hust* Verzeiht, <CHARNAME>, ich bin letzten Monat von einem Husten geplagt worden.~
+@40   = ~Aber es ist nur ein leichter Husten. Ich werde bald wieder wohlauf sein. *hkch, hust*~
+@41   = ~Aber warum sollte... Bei den Göttern! Er hat es fertiggestellt? Da brat mir doch einer einen Storch! Bitte, darf ich es sehen?~
+@42   = ~Oh, seht Euch die Farben an! Und die Details!~
+@43   = ~Ich glaube, Ihr solltet Euren Freund einmal besuchen.~
+@44   = ~Ich habe leider noch in der Bibliothek zu tun. Vielleicht sehen wir uns später noch.~
+@45   = ~Der Botengang: Das Buch von Blaise
+
+Ich lieferte das Gebetsbuch von Morgenpriester Blaise bei Schwester Sapientia ab. Sie war überrascht und erfreut, es zu erhalten, und vertiefte sich gleich in die Seiten, als ich sie verließ.~
+@46   = ~Das könnte ich nicht! Ein alter Knochen wie ich, der auf den Straßen wie ein liebeskranker Teenager herumtollt?~
+@47   = ~Aber das Leben ist ziemlich kurz - wollt Ihr denn nicht wenigstens einmal das Gesicht von Blaise sehen, auch wenn es nur ein einziges Mal in Eurem Leben ist?~
+@48   = ~Als ich Euren Freund im Tempel Lathanders sah, war er schrecklich krank. Er hatte schlimmen Husten und helle grüne Flecken auf der Haut! *Er könnte sterben*.~
+@49   = ~Ihr werdet schon wissen, was Ihr tut, Schwester Sapientia. So lebt denn wohl.~
+@50   = ~Was? Aber... nein... Das kann nicht sein...~
+@51   = ~Und, *und* er war überhaupt nicht daran interessiert, zu lesen. Wenn das kein sichereres Zeichen eines drohenden Unheils ist, dann weiß ich auch nicht!~
+@52   = ~Wollt Ihr denn nicht wenigstens einmal das Gesicht von Blaise sehen, auch wenn es nur ein einziges Mal in Eurem Leben ist?~
+@53   = ~Das ist ein überzeugendes Argument, <CHARNAME>. Na schön, ich werde es wagen!~
+@54   = ~Ich wünsche Euch eine sichere Reise.~
+@55   = ~Der Botengang: Das Buch von Blaise
+
+Ich lieferte das Gebetsbuch von Morgenpriester Blaise bei Schwester Sapientia ab. Sie war überrascht und hoch erfreut, es zu bekommen. Ich schlug ihr vor, ihren Freund einmal zu besuchen, und sie willigte ein.~
+@56   = ~Hier sind 50 Goldstücke. Damit könnt Ihr Euch die Übernachtungen leisten und auf einem Wagen eines Händlers mitfahren.~
+@57   = ~Reist standesgemäß, Schwester Sapientia! Diese 200 Goldstücke sollten für eine komfortable, sichere Reise zum Tempel ausreichen.~
+@58   = ~Ich muss gehen. Und – was immer Ihr auch hier in Eurer alten Heimat zu tun habt... seid bitte vorsichtig. Viele Dinge waren die letzten Tage ziemlich *seltsam*...~
+@59   = ~Grüße, mein Kind. Wenn Ihr Heilung oder andere Dienste benötigt, dann geht zum Haupttempel. Wir sind heute hier alle sehr mit Putzen beschäftigt.~
+@60   = ~Hallo. Wie Ihr sehen könnt, bin ich ziemlich beschäftigt, den Boden zu wischen. *seufz* Oh, was gäbe ich für ein Stück unbeschriebenes Papier und Tinte, um es auszuschmücken...~
+@61   = ~Ich habe einen Brief für Euch von Schwester Sapientia aus Kerzenburg.~
+@62   = ~Ihr scheint beunruhigt zu sein. Kann ich etwas für Euch tun?~
+@63   = ~Sie halten Euch wirklich mit Euren Routinearbeiten auf Trab...~
+@64   = ~Habt Ihr das Buch an Schwester Sapientia übergeben? Geht es ihr gut?~
+@65   = ~Noch nicht, Blaise. Kerzenburg ist eine ziemlich harte Nuss.~
+@66   = ~Das ist etwas schwierig... als ich Kerzenburg verließ, gab sie mir einen Brief für Euch. Und ich... habe ihn verlegt. Aber nun die gute Nachricht, hier ist er!~
+@67   = ~Ich... glaube nicht, das sie diejenige Frau ist, an die Ihr all die Jahre geschrieben hattet...~
+@68   = ~Habe ich, aber... sie war... vergesst es.~
+@69   = ~Das habe ich! Sie, äh... mochte das Buch sehr.~
+@70   = ~Das habe ich! Sie mochte das Buch sehr.~
+@71   = ~Das habe ich! Sie hatte einen leichten Husten, aber sonst ging es ihr ziemlich gut. Sie mochte das Buch sehr.~
+@72   = ~Das habe ich! Sie hatte einen schrecklichen Husten, und Auswurf von der virulenten grünen Sorte. *Sie könnte sterben*. Es würde ihr Herz erfreuen, Euch einmal zu sehen, bevor sie ins Gras beißt, da bin ich sicher.~
+@73   = ~Das habe ich! Sie liebte es und dann erklärte sie, dass sie kommen und Euch sehr bald besuchen wird.~
+@74   = ~Das habe ich! Sie liebte es. Ihr, äh... werdet sehr bald eine nette Überraschung bekommen...~
+@75   = ~Nein, das habe ich nicht. Und ich bin es offengestanden leid, für jeden faulen Bettelmönch, den ich treffe, Botengänge zu erledigen. Bewegt Euer klappriges Hinterteil und *tut* selbst etwas! Hier ist Euer Buch zurück!~
+@76   = ~Ich bedauere, das zu hören.~
+@77   = ~Aber - entschuldigt, junge Dame, Euer lila Haar. Seid Ihr... Imoen aus Kerzenburg?~
+@78   = ~Hast du das gehört, <CHARNAME>? Ich bin berühmt! Eine große Abenteurerin! Man kennt mich entlang der ganzen Schwertküste!~
+@79   = ~Ich bin sicher, dass sie es tun, junge Imoen. Aber ich kenne Euch aus anderen Quellen - ich habe eine Freundin in Kerzenburg, der ich regelmäßig schreibe. Habt Ihr mit Euren Studien auf der Wanderschaft weiter gemacht? Jede Nacht etwas gelesen? Und das Schreiben ist wichtig! Die Fähigkeit, einen ordentlichen, leserlichen Brief zu schreiben, wird Euch in Zukunft bestimmt weiterhelfen. Da bin ich mir sicher.~
+@80   = ~Ähm. Ich übe... Dinge... sehr eifrig. Wenn ich Zeit habe. (Helft mir, <CHARNAME>!)~
+@81   = ~"<CHARNAME>"? Seid Ihr Gorions Kind? Meine Freundin schrieb häufig auch von Euch.~
+@82   = ~Ich habe in meinem Leben noch nie von diesem berühmten Magier und Gelehrten gehört.~
+@83   = ~Ja, er war mein Ziehvater. Aber er verstarb...~
+@84   = ~Ich habe keine Ahnung, worüber Ihr sprecht – ich traf dieses Mädchen mit der rosanen Haarfarbe auf der Straße.~
+@85   = ~Oder kann ich Euch irgendwie anders behilflich sein?~
+@86   = ~Entschuldigt, ich suche Morgenpriester Blaise. Schwester Sapientia aus Kerzenburg hat mich geschickt.~
+@87   = ~Hallo auch - ich bin ein großer Abenteurer. Ich nehme nicht an, dass Ihr irgendwelche kleinen Aufgaben habt, die erledigt werden müssen, um mein Ansehen zu steigern, meine Muskeln zu stählen und möglicherweise dabei auch noch ein wenig Kleingeld zu verdienen?~ ~Hallo auch - ich bin eine große Abenteurerin. Ich nehme nicht an, dass Ihr irgendwelche kleinen Aufgaben habt, die erledigt werden müssen, um mein Ansehen zu steigern, meine Muskeln zu stählen und möglicherweise dabei auch noch ein wenig Kleingeld zu verdienen?~
+@88   = ~Hallo. Ich bin <CHARNAME> aus Kerzenburg. Und Ihr?~
+@89   = ~Ihr scheint beunruhigt zu sein. Gibt es etwas, bei dem ich Euch helfen kann?~
+@90   = ~Nein, ich werde es im Haupttempel versuchen. Danke für Euren Rat.~
+@91   = ~Ich brauche nichts. Ich habe mich nur in der Gegend umgesehen.~
+@92   = ~Ich bin Morgenpriester Blaise. Schwester Sapientia hat Euch geschickt? Geht es ihr gut? Sie hat eine Nachricht für mich? Entschuldigt – ich habe wohl meine Manieren vergessen. Manchmal schrieb sie von den Kindern in Kerzenburg und Ihr seht aus wie... Seid Ihr vielleicht <CHARNAME> aus Kerzenburg? Gorions Zögling?~
+@93   = ~Ja, Gorion war mein Ziehvater. Aber er... er ist gestorben.~
+@94   = ~Ja, ich wurde von Gorion aufgezogen, obwohl wir uns eigentlich nicht... sehr nahe standen.~
+@95   = ~Ich habe noch nie von dieser berühmten Abenteurerin gehört! Aber sie ist anscheinend eine wunderbare Frau. Und hübsch auch noch.~
+@96   = ~Ich habe noch nie von diesem berühmten Abenteurer gehört! Aber er scheint ein klasse Kerl zu sein. Und ziemlich gutaussehend.~
+@97   = ~Ihr kennt Schwester Sapientia? Ah... sie schrieb manchmal von den Kindern in Kerzenburg und Ihr seht einem davon ziemlich ähnlich... Seid Ihr vielleicht <CHARNAME> von Kerzenburg? Gorions Kind?~
+@98   = ~Ich bin Morgenpriester Blaise. <CHARNAME> von Kerzenburg? Ihr müsst Gorions Kind sein.~
+@99   = ~Ihr... kennt mich? Wie viele zwielichtige Verschwörungen und geheime Bündnisse folgen ständig meinen Fußstapfen? Kann man denn nicht einen Moment Privatsphäre haben? Argh!~
+@100  = ~Ich bin bereits berühmt! Bald wird das Echo meiner Fußsohlen die Erde erzittern lassen! Hahahah!~
+@101  = ~Nein, da müsst Ihr einen *anderen* <CHARNAME> meinen. Das ist ein sehr geläufiger Name.~
+@102  = ~Nichts so Finsteres. Ich korrespondiere regelmäßig mit einer Bewohnerin von Kerzenburg. Sie erwähnte Euch mehrmals.~
+@103  = ~Nichts Peinliches, hoffe ich.~
+@104  = ~Lügen, alles Lügen! (Äh, was hat sie nun genau gesagt?)~
+@105  = ~Meint Ihr vielleicht Schwester Sapientia vom Tempel des Oghma?~
+@106  = ~Äh, ich bin sicher, dass sie das werden. Aber ich kenne Euch trotzdem - ich korrespondiere regelmäßig mit einer Bewohnerin von Kerzenburg. Sie erwähnte Euch mehrmals.~
+@107  = ~Aber ja doch, das tue ich!~
+@108  = ~Sie schrieb nur Gutes über Euch und den Rosa Blitz, äh, ich meine die junge Imoen. Da fällt mir etwas ein! Vielleicht könntet Ihr mir bei etwas helfen.~
+@109  = ~Natürlich, natürlich. *Mein Fehler.*~
+@110  = ~Obgleich -~
+@111  = ~Ich trauerte, als die Nachricht von Gorions Tod diesen Tempel erreichte. Die Welt der studierenden Mönche ist ruhig und wird die Welt kaum aus den Angeln heben, aber er war einer unserer hellsten Sterne.~
+@112  = ~Aber da fällt mir etwas ein! Vielleicht könntet Ihr mir bei etwas helfen.~
+@113  = ~Wartet - ich habe einen Brief für Euch!~
+@114  = ~Ich höre.~
+@115  = ~Raus damit.~
+@116  = ~Ein... Brief? Von Schwester Sapientia? Oh, zeigt her!~
+@117  = ~Ihr geht es gut... hm, interessante Gedanken über die Seelenwanderung...~
+@118  = ~Was war das mit den Fröschen?~
+@119  = ~Der Botengang: Schwester Sapientias Brief
+
+Ich fand Morgenpriester Blaise beim Wischen des Bodens im Lied des Morgentempels. Er war erfreut, den Brief von Schwester Sapientia zu erhalten. Es scheint so, als hätten sie sich schon seit vierzig Jahren geschrieben, sich aber nie von Angesicht zu Angesicht gesehen. So ist das Klosterleben wohl, fürchte ich.~
+@120  = ~Frösche? Frösche? Ahahaha. Es gab keine Frösche. Das muss ein unglücklicher Unfall gewesen sein. Unglückliche Unfälle passieren in Kerzenburg ziemlich oft. *Es sind die Bücher*. Mehr weiß ich nicht - jetzt lasst mich gehen!~
+@121  = ~... Fräulein Imoen...?~
+@122  = ~Oh, der *unglückliche Unfall*. Ja, Kerzenburg ist bekannt für seine, äh, Unfälle.~
+@123  = ~Häh?~
+@124  = ~Ich-hatte-nichts-damit-zu-tun-es-war-ein-Unfall-und-Ihr-könnt-gar-nichts-beweisen.~
+@125  = ~Jaaa, das war urkomisch.~
+@126  = ~Schon gut. Oh, habt vielen Dank! Ich wünschte mir nur, dass ich Euch belohnen könnte, aber ich gehöre einem Bettelorden an.~
+@127  = ~Vielleicht solltet Ihr Eure Freundin öfters besuchen - einen Topf Tee zusammen brauen, über alte Zeiten sprechen, all diese Dinge.~
+@128  = ~Wie lange schreibt Ihr Euch denn schon?~
+@129  = ~Wir haben diesen Briefverkehr schon seit, oh, jetzt sind es schon vierzig Jahre. Sapientia und ich haben uns noch nie getroffen. Mönche kommen nicht oft aus ihrem Refugium heraus – Ihr wisst ja wie das ist.~
+@130  = ~Ihr müsst der junge <CHARNAME> sein, Gorions Schützling.~ ~Ihr müsst die junge <CHARNAME> sein, Gorions Schützling.~
+@131  = ~Es ist... nun, eigentlich nur eine unbedeutende Angelegenheit, betrachtet für den Rest der Welt. Doch *mir* bedeutet sie viel. Sehr lange hatte ich mit einer Nonne von Oghmas Tempel in Kerzenburg eine Korrespondenz. Ihr Name ist Schwester Sapientia. Durch die unruhigen Zeiten und mit all den Banditen auf der Straße ist die regelmäßige Post unterbrochen worden. Seit einiger Zeit habe ich keinen Brief mehr von ihr erhalten.~
+@132  = ~(zzzzzz)~
+@133  = ~Dann habe ich gute Neuigkeiten für Euch! Schwester Sapientia hat mir einen Brief für Euch mitgegeben und hier ist er!~
+@134  = ~Ihr habt Recht: das ist eine unbedeutende Angelegenheit.~
+@135  = ~Ah. Ich verstehe. Nun, ich sehe nicht, wie ich Euch dabei helfen kann.~
+@136  = ~Das klingt alles so schrecklich banal. Entschuldigt mich, aber ich muss noch einige Dinge zerschmettern. Ich fühle mich so... Energie geladen, wenn ich Dinge zerschmettere. Guten Tag.~
+@137  = ~Es gibt noch einen weiteren Grund.~
+@138  = ~Zu meinen Pflichten für das Lied des Morgentempels gehört auch meine Arbeit als Buchmacher. Ich fertige Abschriften und mache ihre Seiten farbig und froh vor den Augen Lathanders.~
+@139  = ~Bereits seit einiger Zeit nutzte ich die Fertigkeiten, die ich in Lathanders Diensten lernte, für meine eigenen, selbstsüchtigen Belange. Ich habe ein reich illustriertes Gebetsbuch für meine Freundin angefertigt.~
+@140  = ~Bereits seit einiger Zeit nutzte ich die Fertigkeiten, die ich in Lathanders Diensten lernte, für meine eigenen, selbstsüchtigen Belange. Ich habe ein reich illustriertes Gebetsbuch für Schwester Sapientia von Kerzenburg angefertigt.~
+@141  = ~Eine Nachricht für Schwester Sapientia? Ich kenne sie!~
+@142  = ~(zzzzz)... Was'n? Habt Ihr etwas gesagt?~
+@143  = ~Nun, vielleicht könnte ich das Buch gegen ein kleines Entgelt für Euch abliefern.~
+@144  = ~Ich bin selbst aus Kerzenburg ausgesperrt, solange ich nicht ein einentsprechend wertvolles Buch vorweisen kann, um mir wieder Zugang zu verschaffen.~
+@145  = ~Ich könnte vielleicht in der Lage sein, das Buch für Euch zu überbringen. Irgendwie trage ich auch so schon für die halbe Schwertküste Dinge hin und her.~
+@146  = ~Klingt als wäret Ihr in einer Notlage.~
+@147  = ~Vielleicht...~
+@148  = ~Sollte ich Euch dieses Buch wirklich anvertrauen? Aber nein. Verzeiht mir, Fremder, aber ich kenne Euch nicht und nach Eurem Aussehen zu schließen, würdet Ihr das Buch nehmen und seine Seiten herausreißen, um Euren Hintern damit abzuwischen, anstatt die Blätter des nächsten Busches dafür zu verwenden.~ ~Sollte ich Euch dieses Buch wirklich anvertrauen? Aber nein. Verzeiht mir, Fremde, aber ich kenne Euch nicht und nach Eurem Aussehen zu schließen, würdet Ihr das Buch nehmen und seine Seiten herausreißen, um Euren Hintern damit abzuwischen, anstatt die Blätter des nächsten Busches dafür zu verwenden.~
+@149  = ~Ich... verzeiht mir, wenn ich die Situation falsch beurteilt habe. Aber das Buch und Schwester Sapientia sind sehr kostbar für mich.~
+@150  = ~Sollte ich Euch dieses Buch anvertrauen? Ihr habt eine finstere Miene -  aber Schwester Sapientia mochte Euch. Ich... ich vertraue ihrem Urteil in dieser Angelegenheit.~
+@151  = ~Nehmt Ihr das Buch und kümmert Euch darum, dass es sicher an meine Freundin ausgeliefert wird? Ihr seht robust und fähig aus und seid offensichtlich daran gewöhnt, mit Schwierigkeiten umzugehen. Ich kann Euch kein Gold geben, nur meinen Dank. Werdet Ihr es überbringen?~
+@152  = ~Ist dieses Buch ein so wertvolles Buch, dass es mir Einlass nach Kerzenburg gewähren wird?~
+@153  = ~Ich werde tun, was ich kann.~
+@154  = ~Ich weiß nicht, wohin mich meine Reisen bringen werden, aber wenn Ihr mir dieses Buch anvertraut, schwöre ich, dass ich es überbringen werde, oder jemanden finde, der Zugang zu Kerzenburg hat.~
+@155  = ~Ich wurde aus Kerzenburg ausgesperrt, und ehrlich gesagt habe ich keinen Grund, warum ich jemals dorthin zurückkehren sollte. Findet einen anderen Boten.~
+@156  = ~Ich halte es für unwahrscheinlich, dass ich nach Kerzenburg zurückkehren werde. Es wäre am besten, wenn Ihr Euch einen anderen Boten sucht.~
+@157  = ~Schwester Sapientia schätzt Euch ebenfalls sehr in ihren Gedanken - sie hat mir einen Brief für Euch anvertraut.~
+@158  = ~Nein. Es ist nur ein Buch.~
+@159  = ~Es ist genug.~
+@160  = ~Danke. Oh, *Danke*.~
+@161  = ~Der Botengang: Das Buch von Blaise
+
+Morgenpriester Blaise bat mich, ein kleines Gebetsbuch an Schwester Sapientia im Tempel des Oghma in Kerzenburg abzugeben, falls ich dorthin zurückkehrte. Das Buch ist leider nicht wertvoll genug, als dass es mir Einlass in die Festung gewähren würde, obwohl es farbenprächtig illustriert ist.~
+@162  = ~Ich verstehe. Wenn Ihr Eure Meinung ändern solltet, dann findet Ihr mich hier. *seufz* Beim Wischen der Böden.~
+@163  = ~Ich – sie ist krank. Bei den Göttern! Ich... ich sollte sie baldigst besuchen.~
+@164  = ~Das ist schön zu hören.~
+@165  = ~Sie – sie kommt hierher? Beim Horn eines einmaligen Einhorns!~
+@166  = ~Das tut sie!~
+@167  = ~Seid Ihr darüber besorgt, dass sie vielleicht eine geheimgehaltene Ehefrau und Kinder finden könnte?~
+@168  = ~Das hat sie zumindest gesagt.~
+@169  = ~Oh, mein Herz beginnt laut zu pochen! Nein... es ist gut. Ich muss sofort den Staub von meinen Inkunabeln wischen gehen!~
+@170  = ~Nennt man das jetzt so...?~
+@171  = ~Werdet Ihr sie fragen, ob sie sich Eure Postzeichensammlung ansieht?~
+@172  = ~Ich weiß nicht, wie man sonst noch eine außergewöhnliche Sammlung an alten Druckgraphiken nennen könnte...?~
+@173  = ~Nein, natürlich nicht. Ich werde sie bitten, sich meine *Kolorierungen* anzusehen.~
+@174  = ~Lebt wohl, mein Freund. Ich muss mich vorbereiten.~ ~Lebt wohl, meine Freundin. Ich muss mich vorbereiten.~
+@175  = ~Entschuldigt, ich suche nach Morgenpriester Blaise.~
+@176  = ~Morgenpriester Blaise ist heute mit Routinearbeiten beschäftigt, Kind. Ihr findet ihn im Vestibül westlich des Haupttempels.~
+@177  = ~Da drüben.~
+@178  = ~Er wischt den Boden, wie der Rest von uns, da drüben in der Ecke. Es ist nicht so, dass wir irgend etwas *Besseres* zu tun hätten, als Böden sauber zu halten. Wir *könnten* die Welt in den Augen des Morgenfürsten glorifizieren, indem wir Kranke heilen, hoho, oder sogar ein bisschen das Böse bekämpfen. Aber nein, die Fliesen auf Hochglanz zu bringen, ist natürlich *wichtig*...~
+@179  = ~Der Botengang~
+@180  = ~Morgenpriester Blaise ist tot.~
+@181  = ~Was?! War er krank?  Oh, warum hat er mir dies nicht *mitgeteilt*? Wenn ich dies nur gewusst hätte, wäre ich zu ihm gegangen und hätte ihn gepflegt. Oh, welche Schande...~
+@182  = ~Ja, er, äh... starb im Schlaf. Sehr friedlich. Seine letzten Gedanken galten Euch.~
+@183  = ~Er starb tapfer bei der Verteidigung des Tempels. Jeder Abenteurer wäre stolz darauf.~
+@184  = ~Es war ein schrecklicher Unfall. Das ist alles, was ich Euch sagen kann.~
+@185  = ~Ihr habt immer darauf vertraut, dass ich das Richtige tue, Schwester Sapientia. *Gut* zu sein. Alles, was ich dazu sagen kann ist, dass ihn zu töten... sich *gut* anfühlte. Und was macht Ihr daraus?~
+@186  = ~Das ist schön zu hören. Und dennoch wünschte ich mir, dass ich sein Gesicht noch einmal hätte sehen können, bevor er, nun...~
+@187  = ~Ich trauere mit Euch.~
+@188  = ~Aber über die Jahre und Jahrzehnte saht Ihr beide Euch gegenseitig in die *Herzen*. (Nicht, dass ich etwa Eure Briefe läse, oder etwas in der Art.) Es gibt noch etwas anderes - Blaise hatte ein Buch, von welchem ich denke, dass er wollte, dass Ihr es bekommt.~
+@189  = ~Schade, jetzt ist es ein wenig zu spät dafür.~
+@190  = ~Oh, der arme Mann.~
+@191  = ~Eigentlich ging es sehr schnell. Und - er ließ ein Buch zurück. Ich glaube, es war für Euch bestimmt.~
+@192  = ~Ungewöhnliche, häusliche Unfälle sind eigentlich die *schlimmsten*, habe ich Recht?~
+@193  = ~Ich hätte es vorgezogen, wenn er für den Tempel *gelebt* hätte.~
+@194  = ~Es sieht so aus, als hätte er ein gutes Leben gehabt. Bevor, Ihr wisst schon, *dem*. Aber hier - ich habe dieses Buch gefunden. Ich bin sicher, dass er gewollt hätte, dass Ihr es bekommt.~
+@195  = ~Ich bin sicher, dass sie seine Sachkenntnis mit einem Mopp schätzten.~
+@196  = ~Aber was ist - oh! Er hat es fertig gestellt!~
+@197  = ~(schnieft) Wunderschön...~
+@198  = ~Der Botengang: Der Tod von Blaise
+ 
+Ich überbrachte die Nachricht vom Tod des Morgenpriesters Blaise an Schwester Sapientia. Sie war betrübt, aber das illustrierte Gebetsbuch, welches ich fand, wird ihren Schmerz etwas mildern.~
+@199  = ~Ich danke Euch, mein Kind. Ich werde an meinen Freund denken und versuchen, mich nicht vom Kummer überwältigen zu lassen, sondern mich an die Freude seiner Tage zu erinnern.~
+@200  = ~Der Botengang: Der Tod von Blaise
+ 
+Ich überbrachte die Nachricht vom Tod des Morgenpriesters Blaise an Schwester Sapientia. Sie war betrübt, aber bemühte sich, sich an die Freude zu erinnern, die die beiden mit ihrer Korrespondenz hatten.~
+@201  = ~Ihr seid überaus grausam, <CHARNAME>. Es war vielleicht die Straße, die Euch hat verrohen lassen. Vielleicht wird Euch die Zeit besänftigen? Aber egal. Ich denke an meinen Freund und versuche, nicht an den Kummer seines Dahinscheidens, sondern die Freude seiner Tage zu denken.~
+@202  = ~Der Botengang: Der Tod von Blaise
+ 
+Ich überbrachte die Nachricht vom Tod des Morgenpriesters Blaise an Schwester Sapientia. Einige Leute verstehen einfach keinen Spaß.~
+@203  = ~<CHARNAME>, was ist mit Euch geschehen?~
+@204  = ~Nichts ist geschehen. Ich war immer schon so. Ihr wolltet es nur nicht erkennen.~
+@205  = ~Seit Gorions Tod ist alles so... und diese Träume... helft mir!~
+@206  = ~Ich war so blind...~
+@207  = ~Der Botengang: Der Tod von Blaise
+ 
+Ich erzählte Schwester Sapientia, was ich mit ihrem Freund getan hatte. Endlich sieht die Nonne nun mein wahres *Ich*, anstatt diese Fassade eines dummen Einfaltspinsels, von dem sie dachte, ihn aufgezogen zu haben. Egal: Ich habe anderes in Kerzenburg zu erledigen.~
+@208  = ~Ich glaube nicht, dass ich das kann. Vergebt mir, <CHARNAME>. Oh, mein lieber Blaise...~
+@209  = ~Der Botengang: Der Tod von Blaise
+ 
+Ich erzählte Schwester Sapientia, was ich mit ihrem Freund angestellt hatte. Weiß ich eigentlich noch, warum ich das tat? Ich habe schon so viele getötet, seit ich Kerzenburg verließ - aber *dieser* Tod soll falsch gewesen sein?  Sollte es nicht einfacher sein, den Unterschied zu erkennen?~
+
+@210 = ~Aber jetzt mit all den Schwierigkeiten - der Eisenkrise, den Banditen, die sich hinter jedem Gebüsch verstecken, die Gerüchte über Krieg mit Amn...~
+@211 = ~Es ist schwierig, einen zuverlässigen Boten zu finden.~

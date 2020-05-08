@@ -1,0 +1,28 @@
+// Placing Left in front of the house.
+// vanilla AR4200, Tutu FW4200, BGT AR3100
+// or
+// (BGT)AR9700, FW3800; x 3499, y 1354
+
+IF
+  Global("RE1_LeftCreation","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_LeftCreation","GLOBAL",1)
+	SetGlobal("RE1_LeftTalk","GLOBAL",1)
+    CreateCreature("RE1LavWB",[3251.1838]%FACE_0%) 
+    ActionOverride("RE1LavWB",Face(0))
+    Continue()
+END
+
+// Bringing back Left after timer has expired.
+IF
+  GlobalTimerExpired("RE1_LeftTimer","GLOBAL") 
+  !Global("RE1_LeftTalk","GLOBAL",99)
+  Global("RE1_LeftCreation","GLOBAL",2)
+THEN
+  RESPONSE #100
+	SetGlobal("RE1_LeftCreation","GLOBAL",1)
+    CreateCreature("RE1LavWB",[3251.1838]%FACE_0%) 
+    ActionOverride("RE1LavWB",Face(0))
+    Continue()
+END

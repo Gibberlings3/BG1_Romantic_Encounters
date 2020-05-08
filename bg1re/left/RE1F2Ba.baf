@@ -1,0 +1,13 @@
+// "fade to black", restart dialogue with Player1
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("RE1LavWB",%STARTDIALOGNOSET%(Player1))
+END 

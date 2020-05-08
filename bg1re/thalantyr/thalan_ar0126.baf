@@ -1,0 +1,11 @@
+IF
+Global("C#LC_ThalanRagefastBook","GLOBAL",0)
+PartyHasItem("C#LCTHBO")
+!Dead("Ragefast")
+Exists("Ragefast")
+!Allegiance("Ragefast",ENEMY)
+!StateCheck("Ragefast",CD_STATE_NOTVALID)
+THEN RESPONSE #100
+SetGlobal("C#LC_ThalanRagefastBook","GLOBAL",1)
+ActionOverride("Ragefast",%STARTDIALOGNOSET%([PC]))
+END

@@ -1,0 +1,34 @@
+Areas:
+All areas are empty, no exits, no doors, no containers, no ambients etc.
+
+c#cl01: smaller bedroom (custom area, berelinde). 
+-Bardolan 
+-Scar
+
+c#cl02: AR4600 Bear River
+-Laurel
+-Melicamp
+
+c#cl03: AR2605 Candlekeep infirmary.
+-Kim
+
+c#cl04: Bedrooms, higher standard (AR2303 FriendlyArmInn L3) 
+-Bartus
+
+c#cl05: Bedrooms, high standard (with couch) (AR3305)
+-Bjornin
+-Lina
+
+c#cl06: AR0300 NE Baldur's Gate (outside)
+-Husam
+
+c#cl07: AR0153 Thieves' Guild Baldur's Gate
+-Husam
+
+c#cl08: area for the Harvestman's Lair. With bathtub!
+
+c#thal: custom area edit (living room quarters of Durlag's tower)
+-Thalantyr
+
+
+

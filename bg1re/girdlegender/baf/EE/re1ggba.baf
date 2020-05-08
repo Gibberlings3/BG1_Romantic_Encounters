@@ -1,0 +1,54 @@
+/* Activate: girdle of gender bender on Baeloth */
+IF 
+Global("RE1_GirdleGenderBaeloth","GLOBAL",0)
+HasItemEquiped("%tutu_var%BELT05","Baeloth")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderBaeloth","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Baeloth */
+IF 
+Global("RE1_GirdleGenderBaeloth","GLOBAL",1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END
+
+/* Activate: Baeloth's reaction to girdle on PC */
+IF 
+Global("RE1_GirdleBaelothPCDidIt","GLOBAL",0)
+HasItemEquiped("%tutu_var%BELT05",Player1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleBaelothPCDidIt","GLOBAL",1)
+END
+
+
+/* Initiate: Baeloth's reaction to girdle on PC */
+IF 
+Global("RE1_GirdleBaelothPCDidIt","GLOBAL",1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

@@ -1,0 +1,16 @@
+
+IF 
+  Global("C#LC_HarlotCreation","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("C#LC_HarlotCreation","GLOBAL",1)
+	CreateCreature("c#lcharl",[2350.1368]%FACE_2%)
+	CreateCreature("c#lcharl",[1479.1440]%FACE_10%)
+	CreateCreature("c#lcharl",[1741.390]%FACE_14%)
+	CreateCreature("c#lcharl",[2331.549]%FACE_6%)
+	CreateCreature("c#lcharl",[957.416]%FACE_2%)
+	CreateCreature("c#lcharl",[291.606]%FACE_10%)
+	CreateCreature("c#lcharl",[666.1153]%FACE_14%)
+	CreateCreature("c#lcharl",[700.1711]%FACE_6%)
+	Continue()
+END

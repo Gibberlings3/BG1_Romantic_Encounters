@@ -1,0 +1,11 @@
+// Candlekeep Inn, prologue, second floor
+IF
+Global("RE1_DirtyCandlekeepCop","GLOBAL",0)
+Gender(Player1,FEMALE)
+PartyHasItem("%tutu_var%misc36")
+THEN
+RESPONSE #100
+CreateCreature("RE1DiCop",[242.345]%FACE_3%)
+SetGlobal("RE1_DirtyCandlekeepCop","GLOBAL",2)
+Continue()
+END

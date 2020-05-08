@@ -1,0 +1,10 @@
+IF %BGT_VAR%
+GlobalGT("TICamryn","GLOBAL",0)
+Global("TICBOOK05_Spawn","%Beregost_FeldepostsInn_L2%",0)  
+ 
+THEN
+RESPONSE #100
+ActionOverride("Container5",CreateItem("TITOME05",0,0,0))
+SetGlobal("TICBOOK05_Spawn","%Beregost_FeldepostsInn_L2%",1)
+Continue()
+END

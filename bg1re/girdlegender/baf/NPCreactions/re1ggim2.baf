@@ -1,0 +1,15 @@
+//"re1ggim2"
+
+// During girdle of gender talk, make a short "fade to black", talk again to player
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("%IMOEN_DV%",%STARTDIALOGNOSET%(Player1))
+END

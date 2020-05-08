@@ -1,0 +1,10 @@
+// Spider Forest, west of Larswood
+IF
+Global("RE1_DellaMay","GLOBAL",0)
+Gender(Player1,MALE)
+THEN
+RESPONSE #100
+CreateCreature("RE1Della",[1966.3050]%FACE_0%)
+SetGlobal("RE1_DellaMay","GLOBAL",2)
+Continue()
+END

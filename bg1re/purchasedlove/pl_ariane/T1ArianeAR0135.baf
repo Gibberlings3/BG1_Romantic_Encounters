@@ -1,0 +1,13 @@
+// Ariane, the Low Lantern, the lower deck (courtesans)
+
+
+IF 
+  Global("RE1_ArianeCreation","GLOBAL",0)
+	!Dead("T1ARIAN")
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_ArianeCreation","GLOBAL",1)
+	CreateCreature("T1ARIAN",[758.517]%FACE_2%)
+	Continue()
+END
+

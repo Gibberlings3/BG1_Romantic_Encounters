@@ -1,0 +1,11 @@
+// Friendly Arm Inn, floor number 3
+IF
+Global("O#QuentinRE1","GLOBAL",2)
+THEN
+RESPONSE #100
+CreateCreature("O#Quent",[824.1035]%FACE_6%)
+SetGlobal("O#QuentinRE1","GLOBAL",3)
+Continue()
+END
+
+

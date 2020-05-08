@@ -1,0 +1,10 @@
+IF 
+Global("TICamryn","GLOBAL",0)
+Global("TICBOOK07_Gone","%Gullykin_JenkalsHouse_L1%",0)  //you need a check variable, or the script block will be true always and block everything beneath it
+
+THEN
+RESPONSE #100
+ActionOverride("Bc1",DestroyItem("TITOME07")) //unfortunately, you need the container name, yes. And don't get discouraged if it seem not to work the first time
+SetGlobal("TICBOOK07_Gone","%Gullykin_JenkalsHouse_L1%",1)
+Continue()
+END

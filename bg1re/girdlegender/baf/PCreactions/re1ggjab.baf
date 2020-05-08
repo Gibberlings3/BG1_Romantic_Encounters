@@ -1,0 +1,27 @@
+/* Activate: Jaheira notices girdle of gender on PC */
+IF %BGT_VAR%
+Global("RE1_GirdleJaheiraPCDidIt","GLOBAL",0)
+HasItemEquiped("%tutu_var%BELT05",Player1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleJaheiraPCDidIt","GLOBAL",1)
+END
+
+/* Initiate: Jaheira/PC girdle talk */
+IF %BGT_VAR%
+Global("RE1_GirdleJaheiraPCDidIt","GLOBAL",1)
+HasItemEquiped("%tutu_var%BELT05",Player1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

@@ -1,0 +1,15 @@
+// Happens at rest, not in a dungeon
+IF
+!StateCheck(Myself,CD_STATE_NOTVALID)
+%BGT_VAR%
+InParty(Myself)
+Gender("Minsc",FEMALE) HasItem("%tutu_var%BELT05","Minsc")
+Global("RE1_GirdleGenderMinsc","GLOBAL",3)
+!AreaType("DUNGEON")
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Detect(Player1)
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderMinsc","GLOBAL",4)
+StartDialogueNoSet(Player1)
+END

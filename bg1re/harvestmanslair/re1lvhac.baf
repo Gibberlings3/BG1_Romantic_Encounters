@@ -1,0 +1,15 @@
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+         LeaveAreaLUAPanic("%NBaldursGate%","",[3860.2510]%FACE_12%)
+        LeaveAreaLUA("%NBaldursGate%","",[3860.2510]%FACE_12%)
+        MoveViewPoint([3860.2510],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+END

@@ -1,0 +1,16 @@
+/* Global("C#Q11_SearchBlood","GLOBAL",9) */
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player1)
+		Wait(1)
+		ActionOverride("c#q11nec",ForceSpellPoint([430.321],RED_SWIRL))
+		Wait(1)
+		ActionOverride("c#q11nec",ForceSpellPoint([430.321],RED_SWIRL))
+		CreateCreature("c#q11be1",[430.321]%FACE_0%) //Beth woman
+		Wait(2)
+		EndCutSceneMode()
+		ActionOverride("c#q11nec",%STARTDIALOGNOSET%([PC]))
+END

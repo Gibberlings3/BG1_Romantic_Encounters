@@ -1,0 +1,22 @@
+// Left conjugal fade-to-black, rest, give letter, Left vanishes in a great waking light...
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(3)
+		Rest()	
+		ActionOverride(Player2,Rest())
+		ActionOverride(Player3,Rest())
+		ActionOverride(Player4,Rest())
+		ActionOverride(Player5,Rest())
+		ActionOverride(Player6,Rest())
+		GiveItemCreate("RE1WBlet",Player1,0,0,0)
+		ActionOverride("RE1LavWB",DestroySelf())
+		PlaySound("ACT_07")
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+END 
+

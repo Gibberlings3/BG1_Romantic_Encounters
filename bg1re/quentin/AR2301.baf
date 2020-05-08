@@ -1,0 +1,37 @@
+// Friendly Arm Inn, floor number 1
+IF
+Gender(Player1,FEMALE)
+Race(Player1,HUMAN)
+Global("O#QuentinRE1","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("O#Quent",[543.580]%FACE_7%)
+SetGlobal("O#QuentinRE1","GLOBAL",1)
+Continue()
+END
+
+IF
+Gender(Player1,FEMALE)
+Race(Player1,ELF)
+Global("O#QuentinRE1","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("O#Quent",[543.580]%FACE_7%)
+SetGlobal("O#QuentinRE1","GLOBAL",1)
+Continue()
+END
+
+IF
+Gender(Player1,FEMALE)
+Race(Player1,HALF_ELF)
+Global("O#QuentinRE1","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("O#Quent",[543.580]%FACE_7%)
+SetGlobal("O#QuentinRE1","GLOBAL",1)
+Continue()
+END
+
+
+
+

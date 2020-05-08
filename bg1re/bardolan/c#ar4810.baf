@@ -1,0 +1,12 @@
+/* Spawn Bardolan in AR4810/FW4810/AR3710 */
+
+/* c#ar4810.baf - EXTEND AR4810/FW4810/AR3710, spawns Bardolan in the barracks. Will probably have to assign area script to AR4810. No big deal. */
+
+IF %BGT_VAR% //This really doesn't make sense if BG1 is finished
+    !Exists("c#bardol")
+    Global("C#LC_BardolanMoves","GLOBAL",1)
+THEN
+    RESPONSE #100
+        CreateCreature("c#bardol",[526.282]%FACE_2%)
+        SetGlobal("C#LC_BardolanMoves","GLOBAL",2)
+END 

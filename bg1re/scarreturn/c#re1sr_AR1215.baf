@@ -1,0 +1,12 @@
+IF %BGT_VAR%
+      Global("C#RE1_KederSpawn","GLOBAL",0)
+	Global("Chapter","GLOBAL",%tutu_chapter_7%)
+		
+THEN
+	RESPONSE #100
+            SetGlobal("C#RE1_KederSpawn","GLOBAL",1)
+	    CreateCreature("c#re1sr2",[218.537]%FACE_10%) //Kelder
+END
+
+
+

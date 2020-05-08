@@ -1,0 +1,529 @@
+@0    = ~...what I'm saying is-~
+@1    = ~... but look at it, Dai! It hangs on the tree like a giant red malignant eye! And! And! It's hallucinogenic!~
+@2    = ~And cow-parsley is very invasive. It can take over a field like *that*! If you knew anything about gardening -~
+@3    = ~I know plenty about gardening, Short Stuff.~
+@4    = ~Who are you calling short, you... short person.~
+@5    = ~Hey, you there, yes you. Perhaps you can help us answer a burning philosophical question:~
+@6    = ~Which is scarier -~
+@7    = ~Parsley or nutmeg?~
+@8    = ~Pars-~
+@9    = ~Nutme-~
+@10   = ~I had a traumatic experience with a spice-rack as a child. The very question is -~
+@11   = ~Huh?~
+@12   = ~... oh, suuuure, but...~
+@13   = ~... and it's not like anyone even eats cow-parsley. It's *nasty*.~
+@14   = ~But they could if they wanted to.~
+@15   = ~Unless they confused it with hemlock and poisoned themselves.~
+@16   = ~Well *that's* pretty scary.~
+@17   = ~... Point. Oh, hey, how you doing?~
+@18   = ~...continue...~
+@19   = ~...as the nutmeg is carried in firm-wrapped bales across the Khazari mountains on... yak-back, fending off spice-thieves and land-pirates – all I'm saying is that it earns a certain ferocity in its travels – Oh, hi!~
+@20   = ~... you can't be serious!~
+@21   = ~... and then there's Kara-Turan hedge-parsley...~
+@22   = ~That isn't parsley; it isn't even in the right family - and you call yourself a gardener!~
+@23   = ~It's got 'parsley' in the name: it counts. Oh hey, you again. This is a nice inn, isn't it?~
+@24   = ~...you know what I feel? I feel really *hungry*...~
+@25   = ~... consider the essential categories. Most spices are a bit toxic, it gives them that zest and zing. While herbs have flavour, they keep getting used in cooking for their health-giving properties. I'm saying that herbs are inherently *nurturing*-~
+@26   = ~Oh. *Ohhh*. Are we getting into another Good vs. Evil debate? Are we doing that?~
+@27   = ~Bring it.~
+@28   = ~Oh! Hello again. Now tell my friend that I'm always right.~
+@29   = ~Psst!  <CHARNAME>!~
+@30   = ~Hey there, <CHARNAME>.  A moment of your time?~
+@31   = ~I'm a little busy...~
+@32   = ~Can't talk, fighting now.~
+@33   = ~Kitty, Dai, listen very carefully.  You've stumbled into the Thieves' Guild, a wretched hive of muggers, murderers, masters of mayhem and, and I've heard there might be *street-mimes*.  Get to the door - I'll cover your escape!~
+@34   = ~Less talking, more reading!~
+@35   = ~So what did you think?~
+@36   = ~I liked that speech you gave me in Chapter 7 - "We few, we happy few, we band of..."~
+@37   = ~A cunning portrait in prose - you have me to the life!~
+@38   = ~This is ridiculous - I've killed much more people than that!~
+@39   = ~I would have liked there to be more monkeys.~
+@40   = ~So, um, did you base the romance plot on a real person?  And if so, can I have Delio's address?~
+@41   = ~Well it's... not horrible?~
+@42   = ~Wait, Kitty. Are you thinking what I'm thinking?~
+@43   = ~I am, Dai, I am.~
+@44   = ~We're writers. Writers of popular novels. "Bedazzled: The Dungeon Master's Diva" - "Benighted: The Paladin's Perils"... that sort of thing. You may have heard of us – we write as K. D. Troumpett?~
+@45   = ~Omigosh!  Omigosh!  Can I have your autograph?  Um, I don't have any paper, how about you sign *me*?~
+@46   = ~Sure!~
+@47   = ~Oh look, writers of 'popular novels' grace our presence.  Why, they spring up before us like mushrooms of *joy*...~
+@48   = ~And you are...?~
+@49   = ~Eldoth.~
+@50   = ~Sorry, mate, your name doesn't ring any bells.~
+@51   = ~Though I'm sure we'd like you plenty if we got to know you.~
+@52   = ~Have I heard of you? K. D. Troumpett! Your books got me through adolescence – why, they taught me how to -~
+@53   = ~I vaguely recall the name. Uh, Imoen used to buy them a lot.~
+@54   = ~Candlekeep's library ran more to tomes of wisdom and eldritch lore than... 'popular novels'.~
+@55   = ~No, I haven't heard of you.~
+@56   = ~Only because <CHARNAME> here kept *borrowing* them.~
+@57   = ~Our latest light work -~
+@58   = ~"Bedimmed: Dark Desire" just got sent to the printers, and we're looking for the subject of our next book.~
+@59   = ~And you look like you get around a bit.~
+@60   = ~Have you heard of any interesting heroes or heroines to inspire a great work of deathless light entertainment?~
+@61   = ~Well... there's me?~
+@62   = ~Isn't Drizzt do'Urden passing through the area?~
+@63   = ~I believe Elminster gets around.~
+@64   = ~What about that red-headed warrior, the one with the blue tattoos all down her arm. What was her name...?~
+@65   = ~I keep hearing rumours about this 'Sarevok' fellow – handsome, rich, charming, with a certain driving energy...~
+@66   = ~I can't think of anyone right now.~
+@67   = ~This... 'popular fiction' isn't my thing. I'll leave you two to it.~
+@68   = ~Er, who are you, again?~
+@69   = ~Master do'Urden has a pet bard of his very own.  Got the publishing rights stitched up real good.~
+@70   = ~Oh, *Elminster*.~
+@71   = ~Every time someone says – or writes – his name, he *knows*.~
+@72   = ~And then he gets all the royalties. But a good thought. Mmmmm, silver fox, centuries of expertise, magic in his fingers...~
+@73   = ~Alias! A fine warrior, and a woman of prominence and distinction.~
+@74   = ~Didn't her armour have prominence and distinction, too? What a cover illustration she'd make...~
+@75   = ~She did. Last year. (sigh)~
+@76   = ~...~
+@77   = ~Sarevok...~
+@78   = ~We had some thoughts on those lines. Once.~
+@79   = ~And the...~
+@80   = ~And then they...~
+@81   = ~And after that the *Kara-Turan* came around.~
+@82   = ~All we can say is that the man likes his privacy. And-we-*respect*-that-in-an-up-and-coming-man-of-business.~
+@83   = ~Well, come find us if you think of anyone.~
+@84   = ~Wait, Kitty! Look! That line of jaw, the gleam in the eye...~
+@85   = ~Indeed, I've seen that mop of hair in broadsheets posted all over town. You're <CHARNAME>, right? Hero of the Nashkel Mine? Avenging Angel of Cloakwood?~
+@86   = ~Gosh, from the rumours, you're a shining pillar of righteous virtue and extreme butt-kicking!~
+@87   = ~Great Adventurer™, that's me. Hang on, if I smile at the right angle I can get the light to glint off my teeth.~
+@88   = ~Sometimes it seems like everybody's heard of me, and *everybody* wants me to run their titchy little errands. (sigh)~
+@89   = ~I'm not comfortable with all this fame. I only did what I had to do, one step at a time.~
+@90   = ~I dunno about 'righteous virtue'.  Me and the law aren't exactly... close.  But we all had a good laugh after!~
+@91   = ~Actually, I'm a terrible person. I just give the churches lots of money so they *have* to say nice things about me.~
+@92   = ~You sound like a good person. That can make a decent romance protagonist, especially if you're a bit weatherbeaten around the edges. Someone who's had to make hard choices, sort of thing. Tell us more about yourself.~
+@93   = ~Sure.~
+@94   = ~Meh, I've changed my mind. I don't want to be in your little book after all.~
+@95   = ~Hmm, edgy. Do you buy requiem masses for the souls of your slaughtered enemies?~
+@96   = ~That, and I fund orphanages for their many bereaved children. Those poor (sob) orphans...~
+@97   = ~I'm not really sure what the god-botherers do with it. But it's fun watching them force a smile when I come in through the temple doors.~
+@98   = ~I get a discount in stores if people like me. A few small charitable donations here and there really help my bottom line.~
+@99   = ~I'm seeing some interesting chiaroscuro in the character development. Let's do this.~
+@100  = ~Omigosh! Those distinctive weapons, that furrowed brow, the pervasive aura of doom...~
+@101  = ~Your face is on mugshots plastered all around town!~
+@102  = ~You're <CHARNAME>, right? Please don't kill us! (Can we have your autograph?)~
+@103  = ~I'm misunderstood! I only went into that house because I heard a baby crying! And then I thought I heard it crying from the triple-locked chest on the top floor...~
+@104  = ~I see myself as more of a loveable scoundrel than an outright villain.~
+@105  = ~... I didn't mean to kill that guy.~
+@106  = ~'Pervasive aura of doom', I like that. Maybe I'll let you live a little longer.~
+@107  = ~Actually, I lead a regrettably virtuous and bland life; I just pay bards to blacken my name. The street cred is useful in... fraught situations.~
+@108  = ~Thank you very much, O Mighty One. We can write you up *real good*. Would you like glowing eyes with the raw menace?~
+@109  = ~You have a heart of gold under the shadowy exterior, eh? That's very marketable. Tell us more!~
+@110  = ~A rogue, a rake, and a rapscallion, eh?~
+@111  = ~Oh, we can work with *that*.~
+@112  = ~Sounds great.  Can you do a scene where I swing on a chandelier?~
+@113  = ~Well, come see us again if you change your mind.~
+@114  = ~We'll be here all week.~
+@115  = ~Let me just get out my notebook, lick my silverpoint like so, and we're in business. Tell us of your colourful exploits, <CHARNAME>.~
+@116  = ~I've chopped wood and drawn water for widows all over the Sword Coast.~
+@117  = ~I've smitten a few tasloi and gnolls in my day.~
+@118  = ~Cleaning out foul undead from pits of abomination is a specialty of mine.~
+@119  = ~I roister and rollick, and leave broken hearts in every town.~
+@120  = ~Wandering over the Sword Coast I have made *so much money*...~
+@121  = ~I like to think that, in my own small way, I have contributed to scholarship in the area, if only by retrieving rare books from the ancient school of Ulcaster.~
+@122  = ~There was, ahem, that time with a Girdle of Gender-Changing...~
+@123  = ~Let me tell you how I got this weapon, the one with the spikes and blood-stains...~
+@124  = ~You should have seen Firewine Bridge after I was done with it.~
+@125  = ~I used to notch my belt every time I killed something. Then it fell apart so I had to get a new one.~
+@126  = ~You know that tower down south with all the traps? There was a Demon Knight at the bottom. *Was*.~
+@127  = ~Hey, did you ever wonder what happened to Balduran, founder of this city? *I know*.~
+@128  = ~Well, there's all this mess with the iron shortage, and rumours of war with Amn and all. Nashkel was just the start!~
+@129  = ~I... not long ago I had to stalk through the catacombs under my old home, killing beasts with the faces of everyone I ever loved...~
+@130  = ~Well. As it happens, the blood of a god runs through my veins. It speaks to me in my dreams. Also, I seem doomed to come to blows with my similarly divine half-brother, who has been behind the recent effusion of blood throughout the Sword Coast.~
+@131  = ~Actually, I'm right in the middle of an exploit right now - how about I come back when it's done so I can tell you how the end works out.~
+@132  = ~What else?~
+@133  = ~Sure.  Go knock 'em dead, kid.~
+@134  = ~Be sure to bring back more grist for the writerly mill...~
+@135  = ~That's good for flavour and the first chapter or so, but we need something with more heft for the main plot.~
+@136  = ~Bit of a flirt, eh? That'll go down well, so long as you end up with a True Love™ by the end of the book.~
+@137  = ~That was you that rescued that poor, languishing book? Get <CHARNAME> a drink, Dai.~
+@138  = ~Let me shake you by the hand.~
+@139  = ~Firewine? Seriously?~
+@140  = ~Every halfling and their dog knows there's nothing at Firewine Bridge but twisty little tunnels and *kobolds*.~
+@141  = ~Halfling small-folk, barely in their tweens, go out to Firewine to drink where their nannas won't see. You're giving us Firewine? *Pfeh*.~
+@142  = ~Grrrr.~
+@143  = ~(sigh)~
+@144  = ~Watch your tone.~
+@145  = ~Wading knee-deep through blood, eh? Well, we can work with that.~
+@146  = ~You're the one that went through Durlag's Tower like hot curry through a short grandmother? Nice!~
+@147  = ~A historical! Nice! Any lusty pirate wenches?~
+@148  = ~Ohh, we could do, like, parallel stories between Balduran and <CHARNAME> here. Are you going to found a city? You should really found a city and get our book some serious literary credentials.~
+@149  = ~Ooh, relevant to current interests! Maybe we can slip in some stuff about ancient conspiracies and Mysterious Codes™ hidden in well-known architecture while we're at it. That always goes down well...~
+@150  = ~Oooh, spooky. If it's not too painful to go on? Of course it isn't, or you wouldn't have brought it up...~
+@151  = ~That seems a little... far-fetched.~
+@152  = ~But I guess we can make it work.~
+@153  = ~Go on...~
+@154  = ~Let me tell you some amusing anecdotes and character-development stuff before we get to the main story.~
+@155  = ~Well. It all started on a chilly spring morning in Candlekeep, when my foster-father Gorion told me we had to leave...~
+@156  = ~Uh-huh...~
+@157  = ~(scribble)~
+@158  = ~... zounds, what a shocking swerve!...~
+@159  = ~... what happens next! Tell me! ...~
+@160  = ~... (sigh) That's so beautiful...~
+@161  = ~Gimme the silverpoint, lad, your hand is cramping...~
+@162  = ~Aww, this is great stuff, <CHARNAME>, we'll get a good book out of it.~
+@163  = ~Now. About the Love Interest.~
+@164  = ~I did – Xan here, although I'm not sure how he'd feel about being called 'pretty'.~
+@165  = ~I wouldn't call him a 'Love Interest', but I did rescue Xan here.~
+@166  = ~Why yes, the elven enchanter Xan, although he isn't with me right now.~
+@167  = ~Why yes, the elven enchanter Xan, although he's running an errand elsewhere right now.~
+@168  = ~Can't say I did. Where would anyone get that idea?~
+@169  = ~Well, I rescued somebody, but I don't recall the name.~
+@170  = ~Love Interest? I prefer to play the field. And such a fruitful field it is.~
+@171  = ~But, I met the person I have feelings for in quite a different place.~
+@172  = ~Actually, my throat is dry and I have a lot of pressing errands. I'll come back and tell you the rest later, okay?~
+@173  = ~Sure thing!~
+@174  = ~We'll just be here, organising our notes.~
+@175  = ~And drinking.~
+@176  = ~Yes, and drinking.~
+@177  = ~He's a bit... spindly.~
+@178  = ~Cute, though. I just want to pinch his cheeks. Someone get me a stepladder!~
+@179  = ~Is that a moonblade? Moonblade wielders are popular this year. I understand the attraction...~
+@180  = ~Doomy doom of last-defender-of-elvenhome-and-then-the-sword-eats-your-soul is a rich field for storytelling, but...~
+@181  = ~It would be good to break fresh ground.~
+@182  = ~An enchanter! Mental magic, soul bonds...~
+@183  = ~I may have rescued Xan, and he did travel with me a while, but companionship is as far as it went.~
+@184  = ~I can't see myself and Xan ever making a match of it.~
+@185  = ~Xan and I, uh... (blush)~
+@186  = ~I would rather not discuss my feelings on this matter.~
+@187  = ~Not that I wouldn't be very interested, but I don't think he liked boys *in that way*. (sigh)~
+@188  = ~Who needs facts, anyway?~
+@189  = ~I've always seen facts as more of a *guideline*.~
+@190  = ~We'll just make someone up, no biggy. Whaddaya like?~
+@191  = ~Well, if you're making up an ideal lover, I'd really like a lovely lady to woo.~
+@192  = ~Yes, write me a great guy to sigh over.~
+@193  = ~Can a story not stand without smut or a romance plot awkwardly inserted?~
+@194  = ~Why can't you just write up the person I really care about?~
+@195  = ~Yes, a story can stand without showing its panties. But a flash of lace harms no-one, and adds zest to the day.~
+@196  = ~And it helps our sales like you wouldn't believe.~
+@197  = ~So what do you say?~
+@198  = ~No. Show me your skill as writers. I want to see what you can do outside genre conventions.~
+@199  = ~Well, if you put it like that, I'd really like a lovely lady to woo.~
+@200  = ~In that case, write me a great guy to sigh over.~
+@201  = ~ Well, if you put it like that, I'd really like a lovely lady to woo.~
+@202  = ~Eh. Sometimes we want a bit of a gap between our private feelings and the gilt-and-gaud fiction that's made of them. And I don't see your sweetie volunteering.  Unless...?  No.~
+@203  = ~Then write me up as single, please.~
+@204  = ~Then if it's an ideal lover or nothing, I'd really like a lovely lady to woo.~
+@205  = ~Hmmm. What kind of spicy romance plot can we put together for <CHARNAME>, here?~
+@206  = ~How about...~
+@207  = ~Two girls who're just pals, like sisters, together through thick and thin. Why, they've probably already seen each other naked all the time, but it didn't mean anything 'cause they aren't *like that*. Until, suddenly, one day...~
+@208  = ~A boy and a girl who're just pals, like brother and sister, together through thick and thin. Why, they've probably already seen each other naked once or twice, but it didn't mean anything 'cause they aren't *like that*. Until, suddenly, one day...~
+@209  = ~Two guys who're just pals, like brothers, together through thick and thin. Why, they've probably already seen each other naked all the time, but it didn't mean anything 'cause they aren't *like that*. Until, suddenly, one day...~
+@210  = ~They see each other in a new way. A light in the eyes, a great wealth of shared experience, the adorable awkwardness of renegotiating an established relationship...~
+@211  = ~Sounds great!~
+@212  = ~Seems a bit bland.~
+@213  = ~I'm not feeling the love. What else?~
+@214  = ~Uh. <CHARNAME>? Is this gonna get weird?~
+@215  = ~Nope.~
+@216  = ~Do you... want it to?~
+@217  = ~Heya, could you write me up as a plucky sidekick? You know – the one that's so cool and awesome that the sequel gets written about her?~
+@218  = ~Sure thing, missy.~
+@219  = ~How about a dark sultry romance crossing the border between Life and Death?~
+@220  = ~Vampires! Blood drinkers! Transgressive love!~
+@221  = ~The only undead I've met are bare bones, ghosts, or rotting corpses – not at all attractive. What else do you have?~
+@222  = ~Meh.  What else do you have?~
+@223  = ~My enemy, my love... the chill of her breast compared to my own, her icy hand tangled in my hair, and always there would be the awareness of my beating heart and the red life pulsing through my veins. Ooh, baby.~
+@224  = ~An ancient undead lord, eh? Severe, with a glittering eye. *My enemy*. But somehow, the knowledge that he wanted to eat me would make me feel... desirable.~
+@225  = ~An ancient undead lord, eh? Severe, with a glittering eye. *My enemy*. But somehow, the knowledge that he wanted to eat me would make me feel...desirable.~
+@226  = ~ My enemy, my love... the softness of her white skin, her icy hand tangled in my hair, and always there would be the awareness of my beating heart and the red life pulsing through my veins. Ooh, baby.~
+@227  = ~A matching of high spirits and equal tempers – joyous battle, fierce words traded in anger, terrible misunderstandings, then wandering desolate and apart – the sweetness of renewed love...~
+@228  = ~A fiery romance would suit me well.~
+@229  = ~Ooh, can you do that thing where one of them shoves the other against a wall and then they kiss lots?~
+@230  = ~That sounds exhausting.  Do you have any other options?~
+@231  = ~How about a sweet, gentle love story in contrast with the violence of the rest of your life. Soft words, the pair of you sleeping curled together like two lost children, tending each other's wounds...~
+@232  = ~My teeth hurt from the sweetness already. Yeah, I'll take it.~
+@233  = ~Yes.  It may seem odd in one as bloody-handed as I have become, but I like looking after the people in my life.~
+@234  = ~Actually, I think I'd like to fall in love with my best buddy.~
+@235  = ~Nah, I'll take the vampire romance instead.~
+@236  = ~I'd prefer the romance with vim and vigour, thanks.~
+@237  = ~Meh. None of your romance options sound appealing to me. Can you write the book without a Love Interest?~
+@238  = ~An excellent choice. How, er, explicit would you like us to be?~
+@239  = ~Longing glances, 'accidental' touches, and a lot of charged dialogue that keeps the readers guessing whether we're a couple or not.~
+@240  = ~I want it to be clear what we think and feel and that in private we're having a good time. But leave the physical details behind the bedroom door.~
+@241  = ~I'd like a bit of a look at what's going on - so long as it's tasteful, of course...~
+@242  = ~Could you – could you put in lots of phrases like 'chiselled back', 'cerulean orbs', and 'golden something something of desire'...?~
+@243  = ~(sigh) Very well.~
+@244  = ~Being the star of a work of escapist fiction is a grave and solemn undertaking.~
+@245  = ~Being the star of a work of light romantic fiction is a grave and solemn undertaking.~
+@246  = ~We like your style, <CHARNAME>!~
+@247  = ~Can you be a wonderful monster?~
+@248  = ~Will you find us when we're feeling grey and take us from our safe, dull spaces-~
+@249  = ~Haul us into a world of strangeness and peril and emotional mayhem?~
+@250  = ~Haul us into a world of strangeness and peril and really spicy bedroom scenes?~
+@251  = ~Will you hear us when our hearts say 'Yes'? Will you push us, but never more than we can bear?~
+@252  = ~Will you need us to love you?~
+@253  = ~Ah -~
+@254  = ~Well -~
+@255  = ~I'll do my best.~
+@256  = ~Excellent!~
+@257  = ~Ooh, ooh - can I help?  I know *lots* about <CHARNAME>.  And I'm good at writing.  Here's one of my poems, um, I couldn't find a good rhyme for 'orange' so it isn't done yet, but -~
+@258  = ~How about you... mail us some of your work and we'll get back to you.~
+@259  = ~Once we've had a chance to... look it over.  Now, where were we?  Oh, yes -~
+@260  = ~Sign here, here, and here (red ink for that last, it's traditional), shake hands for luck -~
+@261  = ~And you got yourself a deal!~
+@262  = ~But I didn't -~
+@263  = ~I'm going to be in a story!~
+@264  = ~Gorion told me not to sign things!!~
+@265  = ~Aargh!!!~
+@266  = ~We'll get you an autographed copy when it's done.~
+@267  = ~Oh, we interview these guys for local colour all the time.~
+@268  = ~Niklos and Narlen have the *best* vernacular!~
+@269  = ~We've almost finished the first draft of... *your book*.~
+@270  = ~Since you're passing through and all - wanna take a look?~
+@271  = ~Maybe you could answer some last niggling questions, sort of thing.~
+@272  = ~I'm in the middle of bloodshed and politics.  There's not a moment to spare!~
+@273  = ~This is not the time!  My megalomaniac divine half-brother has laired in the Undercity like a wounded badger!  I need to finish this!~
+@274  = ~You look all done in, <CHARNAME> - you're swaying on your feet. And I'm sure whoever it is can wait a couple of hours.~
+@275  = ~Pull up a chair, wipe that blood off your face, drink a cup of our special late night tea -~
+@276  = ~It's good tea: it's got herbs in it.~
+@277  = ~Relax with the book.  Your smiting duties will go all the better.~
+@278  = ~And we can interview your buddies while you're about it.~
+@279  = ~Everybody wins!~
+@280  = ~No, I have to deal with Sarevok first.  I'll come back later.~
+@281  = ~This is ridiculous and I don't have time for it.~
+@282  = ~Yes, a sit down with a good book sounds great.  Bring forth the tea!~
+@283  = ~I've been wanting to read this for ages!~
+@284  = ~How about I take it and read later...?  Would that be okay?~
+@285  = ~Great!  I'll just brew up the tea - Dai here'll magic you up a copy to read.~
+@286  = ~Great!  Dai here'll just magic you up a copy.~
+@287  = ~Have fun storming the Undercity...~
+@288  = ~We'll... take your thoughts into consideration while we work on the next draft.~
+@289  = ~Oh frabjous day, our Hero likes it!~
+@290  = ~Off you go, <CHARNAME>.  Be sure to note down any interesting scenery or shocking plot swerves...~
+@291  = ~May your final confrontation be swift, decisive, and rife with drama!~
+@292  = ~* * * * * *   BEHOLD: THE CHILDE OF CANDLEKEEP   * * * * * *
+
+
+              being A Novel, based on Current Events, by
+
+
+                                 K D Troumpett~
+@293  = ~Somehow it all came down to this. The half-orc Mulahey incanted prayers to his dark, mad god and in his hands he grasped lightning.
+     "You must know," said <CHARNAME> in a conversational tone, "that I cannot allow your activities to continue." The screech of unsheathed steel echoed through the dark cavern. "This ends here!"...~
+@294  = ~(Keep reading)~
+@295  = ~(Skip to the end)~
+@296  = ~Somehow it always muddled down to messes like this. The half-orc Mulahey incanted prayers to his dark, mad god and in his hands he grasped lightning.
+     "Oh, please," drawled <CHARNAME>, unimpressed. "All this fuss and bother for little old me? Put down the levin-bolt, boyo, and we can work something out, something... agreeable to all concerned parties."...~
+@297  = ~Dawn cracked bleary, red-tinted eyes over Baldur's Gate, Madam of Cities, and stretched her pale trembling fingers over gables and towers and high spires. Arrayed on the ledge around the highest spire of the Ducal Palace a troop of stone-faced Flaming Fist guardsmen surrounded the lone adventurer dangling precariously from the lightning rod.
+     "I can explain!" cried <CHARNAME>, legs wiggling frantically, "It all makes sense in context, I swear!"...~
+@298  = ~"Oh, but why are we wrangling in this wasteful fashion, my fine fierce hawk?" In the enfolding darkness of the cave Davaeorn appeared a wizened gnome offering bags of riches. His voice became a melodious wheedle. "We are alike, you and I. Together we can -"
+     His last words gurgled away unheard as he choked on six inches of sharpened steel.
+     <CHARNAME>'s voice was caught between a snarl and a sob. "I am *nothing* like you!"...~
+@299  = ~"Oh, but why are we wrangling in this wasteful fashion, my fine fierce hawk?" And in the enfolding darkness of the cave Davaeorn spun a tale of dark delights, of the rewards and power to be gained if <CHARNAME> strayed from the path of honour. He wheedled, "Join me, young one, and together we can -"
+     His last words gurgled away, unheard.
+     <CHARNAME> tugged a hooked knife out of the crooked mage's chest and wiped off Davaeorn's black blood. "You'd only slow me down."...~
+@300  = ~     (Marginal Notes)
+
+-----Isn't this starting a little far into the narrative? - D
+
+-----Action first, context later - K~
+@301  = ~     ...The sparks scattered higher as <CHARNAME> poked irritably at the coals with a splintered stick. The scent of pine resin and the nip of a late spring frost hung in the air. Across the campfire Delio's eyes seemed puzzled - <CHARNAME>'s friend had been unsettled of late. "Where will you go now?" Delio's familiar voice was carefully non-committal.
+     "North. Cloakwood. I think you know my reasons."
+     "That I do. <CHARNAME>, I -"
+     Delio broke off as one of their companions grunted in his sleep, the burly warrior wriggling around in his blankets like a drunken bear before settling down to a rasping snore.
+     "... No. We'll talk later."...~
+@302  = ~(Go back to the start)~
+@303  = ~     ...The sparks scattered higher as <CHARNAME> poked irritably at the coals with a splintered stick. The scent of pine resin and the nip of a late spring frost hung in the air. Across the campfire Delio's eyes were discs of amber glowing in the darkness. "Where will you go now?" Delio's voice, mellow and strong as old brandy, was carefully non-committal.
+     "North. Cloakwood. I think you know my reasons."
+     "That I do. <CHARNAME>, I -"
+     Delio broke off as one of their companions grunted in his sleep, the burly warrior wriggling around in his blankets like a drunken bear before settling down to a rasping snore.
+     "... No. We'll talk later."...~
+@304  = ~     ...The sparks scattered higher as <CHARNAME> poked irritably at the coals with a splintered stick. The scent of pine resin and the nip of a late spring frost hung in the air. Across the campfire Delio's eyes glared through <CHARNAME> as if, by vision alone, the young adventurer's very soul could be laid bare. "Where will you go now?" Delio's gruff voice was carefully non-committal.
+     "North. Cloakwood. I think you know my reasons."
+     "That I do. <CHARNAME>, I -"
+     Delio broke off as one of their companions grunted in his sleep, the burly warrior wriggling around in his blankets like a drunken bear before settling down to a rasping snore.
+     "... No. We'll talk later."...~
+@305  = ~     (Marginal Notes)
+
+-----Is it too early to put in 'golden something somethings of desire'? - K
+
+-----It's never too early. - D~
+@306  = ~-----'Familiar voice'?  *Familiar*?  Familiar is boring. - K
+
+-----How about, 'calm, reliable voice.' - D
+
+-----You're killing me, Dai! 'Oh, were you trying to kiss me?  Sorry, you were so *calm* and *reliable* that I fell asleep, wanna try again?' - K
+
+-----We could deepen it a bit.  Maybe Delio stumbled out of late puberty a couple of years early.  Humans do that, bless the precocious little tykes.  Um, 'steady gravelly voice' or 'voice, mellow and strong as old brandy'... - D
+
+-----*That* - the brandy.  Speaking of, I still have half a bottle of the good stuff.  Wanna come over tonight and help me drink it? - K~
+@307  = ~...Delio fisted two hands into the other woman's collar and shoved <CHARNAME> against the wall by main force. <CHARNAME>'s gaze drifted down to Delio's pale, deceptively slender hands and she began to giggle hysterically.
+     "No!" gritted Delio. "We need you not to fall apart right now. *I* need you not to fall apart. The others have gone to ground - they won't thank you for getting strung up like a common felon." Thunder crumpled again through the sky and the long-threatened rain dropped into the alley, slicking Delio's hair into black crow-feathers and soaking <CHARNAME>'s white shift to the adventurer's - no, the *fugitive's* - body.'...~
+@308  = ~"You're hurt," Delio whispered, eyes transfixed by a spreading patch of red soaking through the white fabric beneath her fingers. Swearing, she pulled a collar string and folded back the cloth. She stared at the razor-straight cut running along the column of <CHARNAME>'s slender throat. Unbidden, her hand moved to cover the wound, but too lightly to staunch it, and the red blood stained her fingers as they rested against the gentle throb of <CHARNAME>'s pulse. 
+     <CHARNAME> covered her hand.~
+@309  = ~...Delio fisted two hands into the other man's collar and shoved <CHARNAME> against the wall by main force. <CHARNAME>'s gaze drifted down to Delio's strong, long-fingered hands and he began to giggle hysterically.
+     "No!" gritted Delio. "We need you not to fall apart right now. *I* need you not to fall apart. The others have gone to ground - they won't thank you for getting strung up like a common felon." Thunder crumpled again through the sky and the long-threatened rain dropped into the alley, slicking Delio's hair into black crow-feathers and soaking <CHARNAME>'s white shirt to the adventurer's - no, the *fugitive's* - body.'...~
+@310  = ~"You're hurt," Delio whispered, eyes transfixed by a spreading patch of red soaking through the white fabric beneath his fingers. Swearing, he pulled a collar string and folded back the cloth. He stared at the razor-straight cut running along the column of <CHARNAME>'s strong throat. Unbidden, his hand moved to cover the wound, but too lightly to staunch it, and the red blood stained his fingers as they rested against the gentle throb of <CHARNAME>'s pulse. 
+     <CHARNAME> covered his hand.~
+@311  = ~...Delio fisted two hands into the other's collar and shoved <CHARNAME> against the wall by main force. <CHARNAME>'s gaze drifted down to Delio's strong, long-fingered hands and she began to giggle hysterically.
+     "No!" gritted Delio. "We need you not to fall apart right now. *I* need you not to fall apart. The others have gone to ground - they won't thank you for getting strung up like a common felon." Thunder crumpled again through the sky and the long-threatened rain dropped into the alley, slicking Delio's hair into black crow-feathers and soaking <CHARNAME>'s white shift to the adventurer's - no, the *fugitive's* - body.'...~
+@312  = ~"You're hurt," Delio whispered, eyes transfixed by a spreading patch of red soaking through the white fabric beneath his fingers. Swearing, he pulled a collar string and folded back the cloth. He stared at the razor-straight cut running along the column of <CHARNAME>'s slender throat. Unbidden, his hand moved to cover the wound, but too lightly to staunch it, and the red blood stained his fingers as they rested against the gentle throb of <CHARNAME>'s pulse. 
+     <CHARNAME> covered his hand.~
+@313  = ~...Delio fisted two hands into the other's collar and shoved <CHARNAME> against the wall by main force. <CHARNAME>'s gaze drifted down to Delio's pale, deceptively slender hands and <PRO_HESHE> began to giggle hysterically.
+     "No!" gritted Delio. "We need you not to fall apart right now. *I* need you not to fall apart. The others have gone to ground - they won't thank you for getting strung up like a common felon." Thunder crumpled again through the sky and the long-threatened rain dropped into the alley, slicking Delio's hair into black crow-feathers and soaking <CHARNAME>'s white shirt to the adventurer's - no, the *fugitive's* - body.'...~
+@314  = ~"You're hurt," Delio whispered, eyes transfixed by a spreading patch of red soaking through the white fabric beneath her fingers. Swearing, she pulled a collar string and folded back the cloth. She stared at the razor-straight cut running along the column of <CHARNAME>'s strong throat. Unbidden, her hand moved to cover the wound, but too lightly to staunch it, and the red blood stained her fingers as they rested against the gentle throb of <CHARNAME>'s pulse. 
+     <CHARNAME> covered her hand.~
+@315  = ~The moon broke through a sudden gap in the turgid cloud and shone their wet faces silver.  In the distance the cry of Flaming Fist guardsmen rose up like the hullaballoo of hunting hounds.
+     "Time to go," grinned <CHARNAME>...~
+@316  = ~(Marginal Notes)
+
+-----What is it with you and water scenes? - K
+
+-----Grandeur, interactive scenery, the eternal ineffable wossname of flowing water symbolising strong emotion - and, unexpectedly wet fabric, lovingly plastered to shapely bodies. - D
+
+-----Your argument is compelling. - K~
+@317  = ~(Marginal Notes)
+
+-----We could, I dunno, sneak in a romance subplot among <CHARNAME>'s buddies?  A kissing scene!  Or relationship angst.  By Oghma's carbuncled chillblains, I need some *innuendo*. - K
+
+-----I could help you with your innuendo. - D~
+@318  = ~..."It has all become clear," declared <CHARNAME>, who set off down the street, boot-heels clicking on the tiles. "The warped iron from Nashkel, the mysterious disappearance of the Silverstar heir, the shifting predictions of Galileus i'th'Wood. Even that ridiculous infestation of kobolds at Firewine Bridge."
+     "You don't mean -" cried <CHARNAME>'s loyal henchman.
+     "Indeed I do. To the Ducal Palace!"...~
+@319  = ~...The squat, glowering tower crumpled and sagged half over as <CHARNAME> and party exited at a dead run. "Phew," the adventurer gasped. "At least that's over." Behind them rock after rock skittered to the ground as if time, released from the spell of Durlag Trollkiller's mad dream, sought to crush the tower in an invisible, weighty fist.
+     "And now," declared <CHARNAME>, "we shall return to the city, to Baldur's Gate - to the fine palaces and twisting alleys, the girls who sell oranges on the street curb, the flute-players, the merchants, the sailors, the gentry who sit on fat cushions, and all those mighty adventurers spending up large. I intend to join them. Are you with me, friends?"
+     <CHARNAME>'s ragged band sounded a cheer.
+     "And I can tell you one more thing," muttered <CHARNAME>, "if I never see another shapeshifter I will die *happy*"...~
+@320  = ~...<CHARNAME> leaned into the prow of the ship, leaving behind the murky heat and crazed beasts of Balduran's Lost Isle in the breath of a fierce, clean wind. The adventurer cradled the sword, the golden sacred relic of the city's founder, most efficaceous against skin-changing beasts, and silently chanted a prayer of supplication to Umberlee for fair winds or, better, a vicious gale that cracked the timbers - if only it would give them enough speed. If only they could return to the Gate in *time*...~
+@321  = ~..."Don't you know we all kill what we love the most?" The elderly sage sagged forward, his lined face contorting in agony as <CHARNAME> twisted the knife. The young adventurer caught his frail body and lowered him to the ground, covering his eyes before they could flash silver. "Rest well... father."...~
+@322  = ~(Marginal Notes)
+
+-----Dai?  I get that 'silver-eyed shapeshifters impersonating your loved ones' are everybody's favourite boogey-man right now.  But they are *seriously* starting to creep me out.  What if - call me silly but what if they're real? - K
+
+-----How do you know I'm really me, right?  We need a pass-phrase.  Gargoyle. - D
+
+-----Lemon tart! - K
+
+-----I love you.  - D~
+@323  = ~...<CHARNAME> rested her well-toned arms along the rim of the bathtub and let her head fall back with a thump, wriggling her toes idly. Her breasts bobbed lightly among the bubbles. She sighed, half listening to her lover, half dreaming in the scented water.
+     "... rousted out Jack Stitcher and the Cormyrian from - you don't need to know where - and traded your fancy dagger with the amethyst in the hilt -"
+     "I liked that dagger," said <CHARNAME>, her eyes still shut.
+     " - the upshot being, we'll *all* have fancy frocks for the party at the palace, even the ranger."...~
+@324  = ~"*Please* tell me you're not dressing me up in a hoop skirt." <CHARNAME> opened her eyes and batted them hopefully.
+     "Big skirts are all the rage this year," replied Delio, amber eyes bright. "They show off those wide, erm, child-bearing hips and, of course, there's the necessary conspicuous display of fabric."
+     <CHARNAME> cringed.
+     "It's a battlefield like any other. And we need to get our armour and weapons *right*, or we won't even get in the door... what are you doing?"
+     <CHARNAME> tightened her grip on Delio's wrist and tugged gently but inexorably downwards. "Don't we both need to smell pretty?" she purred.~
+@325  = ~But when Delio leaned over the bath, blocking the light, <CHARNAME> flinched in the water.
+     "Sshh," said Delio, drawing back and twisting so that their hands locked, palm to palm and fingers woven. "I'm me, I am yours, I am not some... silver-eyed *thing*."
+     <CHARNAME> drew in a deep, shuddering breath. "Well then." Her teeth flashed in a sudden grin. "But *I* might be. How, m'dear, could you *possibly* test me to your... satisfaction?"
+     In the flare of lamplight, Delio's eyes became golden and heavy-lidded with desire as they travelled down <CHARNAME>'s muscular form from crown to toe-tip and back up again. "I have some ideas."
+     "I like all your ideas." And she drew Delio down...~
+@326  = ~...<CHARNAME> rested her slender arms along the rim of the bathtub and let her head fall back with a thump, wriggling her toes. Her breasts bobbed lightly among the bubbles. She sighed, half listening to her lover, half dreaming in the scented water.
+     "... rousted out Jack Stitcher and the Cormyrian from - you don't need to know where - and traded your fancy dagger with the amethyst in the hilt -"
+     "I liked that dagger," said <CHARNAME>, her eyes still shut.
+     " - the upshot being, we'll *all* have fancy frocks for the party at the palace, even the ranger."...~
+@327  = ~"*Please* tell me you're not dressing me up in a hoop skirt." <CHARNAME> opened her eyes and batted them hopefully.
+     "Big skirts are all the rage this year," replied Delio, amber eyes bright. "They show off those wide, erm, child-bearing hips and, of course, there's the necessary conspicuous display of fabric."
+     <CHARNAME> cringed.
+     "It's a battlefield like any other. And we need to get our armour and weapons *right*, or we won't even get in the door... what are you doing?"
+     <CHARNAME>'s nimble fingers wrapped around Delio's wrist, her thumb rubbing gentle circles over the pulse-point and then tugged lightly down. "Don't we both need to smell pretty?" she purred.~
+@328  = ~But when Delio leaned over the bath, blocking the light, <CHARNAME> flinched in the water.
+     "Sshh," said Delio, drawing back and twisting so that their hands locked, palm to palm and fingers woven. "I'm me, I am yours, I am not some... silver-eyed *thing*."
+     <CHARNAME> drew in a deep, shuddering breath. "Well then." Her teeth flashed in a sudden grin. "But *I* might be. How, m'dear, could you *possibly* test me to your... satisfaction?"
+     In the flare of lamplight, Delio's eyes became golden and heavy-lidded with desire as they travelled down <CHARNAME>'s lithe form from crown to toe-tip and back up again. "I have some ideas."
+     "I like all your ideas." And she drew Delio down...~
+@329  = ~     ...<CHARNAME> rested his solid arms along the rim of the bathtub and let his head fall back with a thump, idly rubbing his chin and throat. He sighed, half listening to his lover, half dreaming in the scented water.
+     "... rousted out Jack Stitcher and the Cormyrian from - you don't need to know where - and traded your fancy dagger with the amethyst in the hilt -"
+     "I liked that dagger," said <CHARNAME>, his eyes still shut.
+     " - the upshot being, we'll *all* have fancy frocks for the party at the palace, even the ranger."...~
+@330  = ~"*Please* tell me you're not dressing me up in pluderhosen." <CHARNAME> looked at Delio pleadingly.
+     "Big pants are all the rage this year," replied Delio, amber eyes bright. "They show off those wide, erm, child-siring hips and, of course, there's the necessary conspicuous display of fabric."
+     <CHARNAME> cringed.
+     "It's a battlefield like any other. And we need to get our armour and weapons *right*, or we won't even get in the door... what are you doing?"
+     <CHARNAME> tightened his grip on Delio's wrist and tugged gently but inexorably downwards. "Don't we both need to smell pretty?" he purred.~
+@331  = ~But when Delio leaned over the bath, blocking the light, <CHARNAME> flinched in the water.
+     "Sshh," said Delio, drawing back and twisting so that their hands locked, palm to palm and fingers woven. "I'm me, I am yours, I am not some... silver-eyed *thing*."
+     <CHARNAME> drew in a deep, shuddering breath. "Well then." His teeth flashed in a sudden grin. "But *I* might be. How, m'dear, could you *possibly* test me to your... satisfaction?"
+     In the flare of lamplight, Delio's eyes became golden and heavy-lidded with desire as they travelled down <CHARNAME>'s muscular form from crown to toe-tip and back up again. "I have some ideas."
+     "I like all your ideas." And he drew Delio down...~
+@332  = ~...<CHARNAME> rested his lithe arms along the rim of the bathtub and let his head fall back with a thump, idly rubbing his chin and throat. He sighed, half listening to his lover, half dreaming in the scented water.
+     "... rousted out Jack Stitcher and the Cormyrian from - you don't need to know where - and traded your fancy dagger with the amethyst in the hilt -"
+     "I liked that dagger," said <CHARNAME>, his eyes still shut.
+     " - the upshot being, we'll *all* have fancy frocks for the party at the palace, even the ranger."...~
+@333  = ~"*Please* tell me you're not dressing me up in pluderhosen." <CHARNAME> looked at Delio pleadingly.
+     "Big pants are all the rage this year," replied Delio, amber eyes bright. "They show off those wide, erm, child-siring hips and, of course, there's the necessary conspicuous display of fabric."
+     <CHARNAME> cringed.
+     "It's a battlefield like any other. And we need to get our armour and weapons *right*, or we won't even get in the door... what are you doing?"
+     <CHARNAME>'s nimble fingers wrapped around Delio's wrist, his thumb rubbing gentle circles over the pulse-point and then tugged lightly down. "Don't we both need to smell pretty?" he purred.~ ~ "But when Delio leaned over the bath, blocking the light, <CHARNAME> flinched in the water.
+     "Sshh," said Delio, drawing back and twisting so that their hands locked, palm to palm and fingers woven. "I'm me, I am yours, I am not some... silver-eyed *thing*."
+     <CHARNAME> drew in a deep, shuddering breath. "Well then." His teeth flashed in a sudden grin. "But *I* might be. How, m'dear, could you *possibly* test me to your... satisfaction?"
+     In the flare of lamplight, Delio's eyes became golden and heavy-lidded with desire as they travelled down <CHARNAME>'s lean form from crown to toe-tip and back up again. "I have some ideas."
+     "I like all your ideas." And he drew Delio down...~
+@334  = ~(Marginal Notes)
+
+-----To the party!  The great and gorgeous gentlefolk, more pretty dresses than you can shake a stick at, those wonderful staircases and, oh! chandeliers to swing on! - D
+
+-----We can tie up that subplot with the missing Silvershield boy - I mean, "Silverstar" - K
+
+-----And if they don't like getting their pretty party at the palace trashed in popular prose they can give us invitations next time! - D
+
+-----Do you know - does <CHARNAME> use a rapier?  - K~
+@335  = ~(Marginal Notes)
+
+-----Kid looks light of foot in any case.  Weapon of desperation, slid across the marble tiles by a loyal companion, seized in haste as some armoured brute bears down with his two-handed horse-beheading sword, but lo! the slender blade is thrust unerringly in the brute's throat and he falls like an unhappy mountain (need better simile) but there's no time, for across the room behind the up-ended punch table, um... - D
+
+-----Sounds good.  Who did we say the main bad guy was again? - K
+
+-----It will become clear in the fullness of time, I'm sure  - D~
+@336  = ~(Marginal Notes)
+
+-----Unlikely.  How about a dazzling display of magic both of the earth and godly - fire, ice, masonry falling as the palace gets *horribly damaged* from all the spells zipping around, walking skeletons and shades, crowds of screaming people exiting pursued by bears, and the *very fabric of reality* seems shaken and torn.  - D
+
+-----At last, when <CHARNAME> is finally drained of magic spark all seems lost but wait! - <CHARNAME> falls into an ineffable meditative state... - K
+
+-----Booyah!  Lightning bolt to the face of - who did we say the main bad guy was again?  - D
+
+-----It will become clear in the fullness of time, I'm sure  - K~
+@337  = ~(Marginal Notes)
+
+-----Eh, <CHARNAME> seems more of a cut-a-length-of-seasoned-wood-and-maybe-tie-a-knife-on-one-end type to me. No rapiers. - D
+
+-----That's not very Ducal Palace-ish.  How about Belt's blackthorn walking stick, seized in desperation from his unconscious, flaccid hand and wielded with the grace and speed of a born shillelagh-fighter against the... the multitudinous hordes of faceless yet deadly minions now threatening <CHARNAME>'s most dear companions... - K
+
+-----That'd work. - D
+
+-----Who did we say the main bad guy was again?  - K
+
+-----It will become clear in the fullness of time, I'm sure  - D~
+@338  = ~(Marginal Notes)
+
+-----<CHARNAME> seems more of a bare-knuckle bruiser to me.  A *contemplative* bare-knuckle bruiser.  Playing cat-and-mouse games in that hall with the mirrors and screens, in that maze of shifting images tracking enemies by the sounds of their foot-falls and their breath, narrowly avoiding a slinky Kara-Turan ninja with a knife, in the final pinch simply *punching through* the six inch oaken door to hammer the final, vicious opponent... - D
+
+-----Sounds good.  Who did we say the main bad guy was again?  - K
+
+-----It will become clear in the fullness of time, I'm sure  - D~
+@339  = ~(The last chapter is unwritten...)~
+@340  = ~... a giant red malignant eye!~
+
+@341 = ~Rumour has it you rescued someone small and pretty from the Nashkel Mine.~
+@342 = ~What about that hunk of man-meat hovering over your shoulder?~
+@343 = ~You'd look good on the cover, sir. And you could donate your royalties to charity - or spend them on armour-polish. (We don't judge.)~
+@344 = ~Alas, Miss Kitty, Master Dai, I made a solemn promise to my family that I would stay out of... certain kinds of fiction, if I could possibly manage it.~
+@345 = ~Oh, the old "No broadsheets, ballads, or base works of bombastic fiction" vow. I didn't know noble families still did that.~
+@346 = ~My mother values old traditions.~
+@347 = ~What about that blonde statuesque lady right next to you, <CHARNAME>?~
+@348 = ~We could do you up in prose right proper, ma'am.~
+@349 = ~What about that starry night we suddenly needed a needle, <CHARNAME>? 'Twas so enjoyable: we were searching for it in a *very* big haystack.~
+@350 = ~Or that time when - but hush, Kitty, I shall speak it to you away from delicate masculine ears... (whisper)~
+@351 = ~(splutter) That's maybe a bit *too* spicy for our readers. (I never thought I'd say that.)~
+@352 = ~What did she *say*?~
+@353 = ~(Later, Dai.)~
+@354 = ~There comes a time in all our lives when we find ourselves called to a higher purpose. It is terrifying, humbling, and yet, there is a feeling of ineffable rightness... I do humbly offer myself as your book's sex idol.~
+@355 = ~Really, Coran? You?~
+@356 = ~After you skipped town and left us with a half-written "Hanali's Pillowbook: Secrets of the Love-Elf" and unpaid bar-tabs all over town?~
+@357 = ~I mailed the rest of my notes when the temple enforcers stopped chasing me...~
+@358 = ~To our *competitor*.~
+@359 = ~No.~
+@360 = ~But -~
+@361 = ~My dealings with <CHARNAME> are not for public entertainment.~
+@362 = ~(sigh) As the lady would have it.~
+@363 = ~So who do you fancy as a co-star then? How 'bout that warrior woman with the well-used weapons? (Lethal is the new sexy.)~
+@364 = ~You want to put me in a book, little spratlings? I could crush you with just my thumb.~
+@365 = ~(cough) Um, please-don't-feel-any-need-to-demonstrate-for-us.~
+@366 = ~It wouldn't be any trouble. Here - you twist the thumb like so -~
+
+@367 = ~Until it all went to a pile of steaming minotaur droppings down Candlekeep way. Or so we hear.~
+@368 = ~What's the story - have you been playing folks for mugs? Or...~
+@369 = ~I was framed!~
+@370 = ~Look, the law and I aren't exactly *close*, but it sounds a lot worse than it really is. I'm quite nice, really - you can trust an honest, guileless, *trustable* face like mine...~
+@371 = ~I had good reasons for what I did. Believe me, regret walks by my side. But everything I've done, I meant for the best...~

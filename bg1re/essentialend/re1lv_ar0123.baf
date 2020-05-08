@@ -1,0 +1,8 @@
+IF
+Global("RE1_EssentialEnd","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("re1lvCOL",[700.1400],0)
+SetGlobal("RE1_EssentialEnd","GLOBAL",1)
+Continue()
+END

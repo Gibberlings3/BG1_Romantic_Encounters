@@ -1,0 +1,238 @@
+@0    = ~<CHARNAME>! Might I perhaps ask a favour? I hear that you and Gorion are leaving the Keep soon.~
+@1    = ~How did you hear that? What? *I* didn't know until half an hour ago!~
+@2    = ~So I believe, though I know not where.~
+@3    = ~Mind your own business, old woman!~
+@4    = ~Stay safe on the roads, child.~
+@5    = ~Hm? Oh... *hcch*... Hello, child.~
+@6    = ~Then journey safely, child.~
+@7    = ~As you will, child. I shall be here a little longer, taking the air.~
+@8    = ~I have old ears but I hear much. With all the troubles, the regular mail service has been terribly disrupted. I know that you and Gorion will be travelling far. Could I ask you to take a letter for me? If your steps take you past the Song of the Morning Temple east of Beregost, I would have you deliver it to Dawn Priest Blaise who resides there, in the Vestibule.~
+@9    = ~I do not know where we are going or when. I may never be able to deliver it.~
+@10   = ~If we ever chance to pass that way, I suppose I could drop by.~
+@11   = ~I will do my best!~
+@12   = ~What's in it for me?~
+@13   = ~This discussion bores me. I want adventure! I want to smite things! Delivering the mail just isn't what I want to do with my life.~
+@14   = ~I think I will take the chance that you will pass there. And, child, something tells me that what you have set out to do, you *will* do.~
+@15   = ~I can give only my thanks. My order discourages the accumulation of wealth (we spend it all on books, instead). But my thanks are sincere.~
+@16   = ~I think not. Find a different messenger.~
+@17   = ~Very well. Give me the letter.~
+@18   = ~Thank you, <CHARNAME>! Here it is, all wrapped up in oilskin against the weather. Remember to look after your feet as you walk, it is hard to get new ones. And have you seen young Imoen? We are due for another lesson in (sigh) penmanship...~
+@19   = ~The Messenger: Sister Sapientia's Letter
+
+Sister Sapientia of Oghma's Temple asked me to deliver a letter to one Dawn Priest Blaise of the Song of the Morning Temple, to the east of Beregost. She said he could be found in the Vestibule to the left of the main temple.~
+@20   = ~*hcch* Iss it well, then?~
+@21   = ~Heya. It's me, Imoen.~
+@22   = ~Oh. Ah. Imoen. Have you been busy with your choress, then, ssmall one?~
+@23   = ~But. I've been away. All this time. With <CHARNAME>. Didn't you miss us?~
+@24   = ~Of course, of coursse. Forgive me, *hcch*, my memory is not what it wass.~
+@25   = ~*hcch* (cough) I have a cough. I am not well.~
+@26   = ~I have a book for you, from Dawn Priest Blaise.~
+@27   = ~You don't look well, Sister Sapientia. Have you been sleeping?~
+@28   = ~I have business in the library. Perhaps I will see you later.~
+@29   = ~But why would - never mind. Iss it valuable? *hcch* I will take it.~
+@30   = ~The Messenger: Blaise's Book
+
+I delivered Dawn Priest Blaise's book of prayers to Sister Sapientia, though she seemed surprised to be receiving presents from far away. Something... something in the way she spoke made me uneasy.~
+@31   = ~Walking in the night, have I been, *hcch*, hunt- I mean, *thinking ssolemn thoughtsss*. Thesse are troubled timess.~
+@32   = ~The Messenger: Blaise's Book
+
+I found Sister Sapientia but before I could give her Dawn Priest Blaise's book, she went off looking for – or hunting – one of the Candlekeep cats. Something is very wrong here.~
+@33   = ~I musst take my leave. Oh! Iss that a cat? Here, kitty, kitty, kitty...~
+@34   = ~Are you well, then, <CHARNAME>? You look weary.~
+@35   = ~Oh, my dear girl! Have you gotten taller?~
+@36   = ~I'm a great adventurer! Me an' <CHARNAME>, they know us all over the Sword Coast! And I've been reading – I'm gonna be a great mage someday, too. Betcha didn't think I'd hit the books, huh?~
+@37   = ~I did not believe that scholarship and erudition were your guiding passions, no. But I knew that you would prosper in your chosen endeavours, whatever they might be.~
+@38   = ~Uh. Thanks?~
+@39   = ~*hcch* (cough) Sorry, <CHARNAME>, I have been plagued by a cough this last month.~
+@40   = ~It is a slight cough, only. I shall be well soon enough. *hcch* (cough)~
+@41   = ~But why would – oh my! He finished it? Well, I'll be a buttered crumpet! Please, may I see?~
+@42   = ~Oh, look at the colours! And the detail!~
+@43   = ~I think you should go visit your friend.~
+@44   = ~Well, I have business in the library. Perhaps I will see you later.~
+@45   = ~The Messenger: Blaise's Book
+
+I delivered Dawn Priest Blaise's book of prayers to Sister Sapientia. She was surprised and delighted to receive it, and was poring through the pages as I left her.~
+@46   = ~I couldn't! A dried stick like me haring about on the roads like a lovelorn teenager?~
+@47   = ~But everything is for such a short time – don't you want to see Blaise's face, if only just once in your life?~
+@48   = ~When I saw your friend at Lathander's Temple, he was terribly sick. There was a cough, a juicy phlegmy one, and bright green spots! *He might die*.~
+@49   = ~I see you know your own mind, Sister Sapientia. Fare well, then.~
+@50   = ~What? But, no, it can't be...~
+@51   = ~And, *and* he wasn't at all interested in reading. That's a sure sign of impending doom if ever I saw one.~
+@52   = ~Don't you want to see Blaise's face, if only just once in your life?~
+@53   = ~You make a strong point, <CHARNAME>. Very well, I will do it!~
+@54   = ~Travel well on the roads.~
+@55   = ~The Messenger: Blaise's Book
+
+I delivered Dawn Priest Blaise's book of prayers to Sister Sapientia. She was surprised and delighted to receive it. I suggested that she visit her friend, and she agreed.~
+@56   = ~Here, this 50 gold should buy you passage on a merchant wagon and inn rooms on the way.~
+@57   = ~Travel in style, Sister Sapientia! This 200 gold should buy you comfortable, safe passage all the way to the Temple.~
+@58   = ~I must go. And – whatever your business here in your old home, please be careful. Things have been so *strange* these last days...~
+@59   = ~Greetings, child. If you are in need of healing or other services, please go to the main Temple. We are all of us here on cleaning duty today.~
+@60   = ~Hello. As you can see, I am quite occupied in mopping the floors. (sigh) Oh, for a white page and ink to adorn it...~
+@61   = ~I have a letter for you from Sister Sapientia of Candlekeep.~
+@62   = ~You seem troubled. Is there anything I can do for you?~
+@63   = ~They really keep you at your chores...~
+@64   = ~Have you delivered the book to Sister Sapientia? Is she well?~
+@65   = ~Not yet, Blaise. Candlekeep is a hard nut to crack.~
+@66   = ~This is kind of awkward... when I left Candlekeep, she gave me a letter for you.  And I... misplaced it.  But the good news is, here it is!~
+@67   = ~I... don't think she's quite the woman you've been writing to, all these years...~
+@68   = ~I did, but... she was... never mind.~
+@69   = ~I did! She, uh, liked the book very much.~
+@70   = ~I did! She liked the book very much.~
+@71   = ~I did! She had a slight cough, but was otherwise quite well. She liked the book very much.~
+@72   = ~I did! She had a terrible cough, and spots, virulent green ones. *She might die*. It would gladden her heart to see you before she kicks the bucket, I'm sure.~
+@73   = ~I did! She loved it, and then declared that she would come visit you very soon.~
+@74   = ~I did! She loved it. You, uh, may get a nice surprise very soon...~
+@75   = ~No, I haven't and, frankly, I am fed up with playing fetch and carry for every lazy mendicant I meet. Get off your skinny behind and *do* something for yourself! Here's your book back!~
+@76   = ~I am sorry to hear that.~
+@77   = ~But – excuse me, young miss, your pink hair. Are you... Imoen of Candlekeep?~
+@78   = ~Didja hear that, <CHARNAME>? I'm famous I am! A great adventurer! They know me all along the Sword Coast!~
+@79   = ~I am sure that they do, young Imoen. But I knew you from other sources – I have a friend in Candlekeep with whom I correspond regularly. Have you been keeping up with your studies on the road? Reading a little every night? And penmanship drills! The ability to turn a neat straight-letter will stand you in good stead in the future, I am sure.~
+@80   = ~Um. I practice... things... very diligently. When I have time. (Help me, <CHARNAME>!)~
+@81   = ~'<CHARNAME>'? Are you Gorion's child?  My friend wrote frequently of you as well.~
+@82   = ~I have never heard of that illustrious mage and scholar in my life.~
+@83   = ~Yes – he was my foster father. But he died...~
+@84   = ~I don't have a clue who you're talking about – I met this strange, pink-haired girl on the road.~
+@85   = ~Or can I assist you in some other matter?~
+@86   = ~Excuse me, I am looking for Dawn Priest Blaise. Sister Sapientia of Candlekeep sent me.~
+@87   = ~Hiya – I'm a Great Adventurer(TM). I don't suppose you have any little jobs that need doing that would increase my renown, flex my muscles, and possibly earn some cold hard cash?~
+@88   = ~Hello. I am <CHARNAME> of Candlekeep, out and about in the world. And you?~
+@89   = ~You seem troubled. Is there something I can assist you with?~
+@90   = ~No, I'll try the main Temple. Thank you for your directions.~
+@91   = ~I need nothing. I was just exploring the grounds.~
+@92   = ~I am Dawn Priest Blaise. Sister Sapientia sent you? She is well? She has a message? But excuse me – I forget my manners. She wrote about the children of Candlekeep at times and you have a look about you... Would you be <CHARNAME> of Candlekeep? Gorion's child?~
+@93   = ~Yes, Gorion was my foster father. But he... he died.~
+@94   = ~Yes, I was raised by Gorion, though we weren't exactly... close.~
+@95   = ~I have never heard of that illustrious adventurer in my life! But she sounds like a wonderful woman. And pretty, too.~
+@96   = ~I have never heard of that illustrious adventurer in my life! But he sounds like a great guy. And really handsome.~
+@97   = ~You know Sister Sapientia? Ah... she wrote about the children of Candlekeep at times and you have a look about you... Would you be <CHARNAME> of Candlekeep? Gorion's child?~
+@98   = ~I am Dawn Priest Blaise. <CHARNAME> of Candlekeep? You must be Gorion's child.~
+@99   = ~You... know me? How many shadowy conspiracies and secret pacts are stalking my footsteps? Can I not have a moment of privacy? Argh!~
+@100  = ~I'm famous already! Soon the echoes of my footsteps will shake the earth! Heh heh heh.~
+@101  = ~No, you must be thinking of some *other* <CHARNAME> of Candlekeep. It's a very common name.~
+@102  = ~Nothing so sinister. I correspond regularly with a resident of Candlekeep. She mentioned you, several times.~
+@103  = ~Nothing embarrassing, I hope.~
+@104  = ~It's lies, all lies! (Er, what did she say, exactly?)~
+@105  = ~Could you mean Sister Sapientia, of the Temple of Oghma?~
+@106  = ~Um, I'm sure they will. But I knew you otherwise - I correspond regularly with a resident of Candlekeep. She mentioned you, several times.~
+@107  = ~Why yes, yes I do!~
+@108  = ~She wrote nothing but good of you and Pink Light- er, I mean, young Imoen. But, I have a thought! Perhaps you could help me with something.~
+@109  = ~Of course, of course. *My mistake.*~
+@110  = ~Even so -~
+@111  = ~I mourned when news of Gorion's death reached this Temple. The world of monastic scholarship is quiet and unlikely to shake the world, but he was one of our bright stars.~
+@112  = ~But I have a thought! Perhaps you could help me with something.~
+@113  = ~Wait - I have a letter for you!~
+@114  = ~I'm listening.~
+@115  = ~Say on.~
+@116  = ~A... letter? From Sister Sapientia?  Oh, let me see!~
+@117  = ~She is well... hm, interesting thoughts on metempsychosis...~
+@118  = ~What's this about frogs?~
+@119  = ~The Messenger: Sister Sapientia's Letter
+
+I found Dawn Priest Blaise mopping floors at the Song of the Morning Temple. He was delighted to receive Sister Sapientia's letter. Turns out they have been corresponding faithfully for forty years, and never yet met face to face. That's the monastic life, I guess.~
+@120  = ~Frogs? Ah ha ha. There were no frogs. It must have been a freak accident. Freak accidents happen in Candlekeep all the time. *It's the books*. I know nothing more - now leave me to go!~
+@121  = ~... Miss Imoen...?~
+@122  = ~Oh, the *freak accident*.  Yes, Candlekeep is well known for its, uh, freak accidents.~
+@123  = ~Huh?~
+@124  = ~I-had-nothing-to-do-with-that-it-was-an-accident-you-can't-prove-anything.~
+@125  = ~Yeah, that was hilarious.~
+@126  = ~Never mind. Oh, but thank you so much! I only wish that I could reward you as you deserve, but I belong to a mendicant order.~
+@127  = ~Maybe you should go visit your friend more – brew up a pot of tea, catch up on old times, that sort of thing.~
+@128  = ~How long have you two been writing?~
+@129  = ~We have been trading letters back and forth for, oh, forty years now. Sapientia and I have never met, though. Monastics don't get out much – you know how it is.~
+@130  = ~You must be young <CHARNAME>, Gorion's child.~
+@131  = ~It is... well, when I say it is a small matter, I refer only to the number of participants and our relative importance to the world at large. It means a great deal to *me*. I have for some time been corresponding with a nun of Oghma's Temple in Candlekeep, one Sister Sapientia. With the troubled times and all the bandits on the road, the regular mail has been disrupted. I have not received one of her letters for quite some time.~
+@132  = ~(zzzzzz)~
+@133  = ~Then I have good news for you! Sister Sapientia entrusted me with such a letter, and here it is!~
+@134  = ~You are right: that is a small matter.~
+@135  = ~Ah. I see. Well, I don't see how I can help you with that.~
+@136  = ~This all sounds terribly banal. Excuse me, but I'm off to smite something. I feel so... energised when I smite things. Good day.~
+@137  = ~There is another matter.~
+@138  = ~Among my duties for the Song of the Morning Temple is my work as an illuminator. I prepare manuscripts and make their pages joyful in the eyes of Lathander.~
+/* new for v2.6: lines @139, @140 split in two */
+@139  = ~For some time I have been using the skills I learned in Lathander's service for somewhat selfish reasons – I have been making a book of prayers and daily offices as a gift for my dear friend.~
+@140  = ~For some time I have been using the skills I learned in Lathander's service for somewhat selfish reasons – I have been making a book of prayers and daily offices as a gift for my dear friend Sister Sapientia of Candlekeep.~
+@141  = ~A message for Sister Sapientia? I know her!~
+@142  = ~(zzzzz)... Whuzzat? You were saying something?~
+@143  = ~Well, perhaps I could deliver the book for you, for a small fee.~
+@144  = ~I am myself barred from Candlekeep, without a book of wonder and mystery to buy me entrance.~
+@145  = ~I might be able to take the book for you. I seem to fetch and carry for half the Sword Coast as it is.~
+@146  = ~Sounds like you're in a right pickle.~
+@147  = ~Perhaps...~
+@148  = ~Should I entrust this book to you? But no. Forgive me, stranger, but I do not know you and, from the look of you, you would take the book and rip out its pages to wipe your bottom instead of raiding the nearest bush for leaves.~
+@149  = ~I... forgive me if I have misjudged the situation. But this book, and Sister Sapientia, are precious to me.~
+@150  = ~Should I entrust this book to you? You have a sinister mien – but Sister Sapientia liked you. I... I will trust her judgement in this matter.~
+@151  = ~Will you take the book, and care for it, and deliver it safely to my friend? You look sturdy and capable and used to resolving difficulties. I have no gold to give, just my thanks, though they would be sincere. Will you deliver it?~
+@152  = ~Is this book a tome of mystery and wonder such that Candlekeep would allow me in?~
+@153  = ~I will do what I can.~
+@154  = ~I do not know where my travels will take me, but if you entrust me with this book, I swear I will deliver it or find someone reliable to take it past the gates.~
+@155  = ~I have been barred from Candlekeep and, frankly, I don't see why I would ever want to return there. Find another messenger.~
+@156  = ~I don't think it likely I will return to Candlekeep. It would be best to look for another messenger.~
+@157  = ~Sister Sapientia also holds you dear in her thoughts - she entrusted me with a letter for you.~
+@158  = ~No. It is just a book.~
+@159  = ~It is enough.~
+@160  = ~Thank you. Oh, *thank you*.~
+@161  = ~The Messenger: Blaise's Book
+
+Dawn Priest Blaise has asked me to deliver a small book of prayers to Sister Sapientia of the Temple of Oghma in Candlekeep if I should return there. Alas, the book is not a tome of mystery and wonder that would allow me entrance to the Keep, although it is nicely illuminated.~
+@162  = ~I understand. If you ever change your mind, I will be here. (sigh) Mopping the floors.~
+@163  = ~I – she is ill. Oh dear, oh dear. I... I should visit her soon.~
+@164  = ~That is good to hear.~
+@165  = ~She – she is coming here? By the horn of the improper unicorn!~
+@166  = ~She is indeed!~
+@167  = ~Are you worried she'll find a secret wife and kids stashed out back?~
+@168  = ~That's what she said.~
+@169  = ~Oh, my heart is all a-flutter! No... it's fine. I must dust off my incunabula immediately!~
+@170  = ~Is that what they're calling it now?~
+@171  = ~Will you ask her up to see your etchings?~
+@172  = ~I don't know what else to call an incunable collection...?~
+@173  = ~No, of course not. I will ask her up to see my *illuminations*.~
+@174  = ~Farewell, my friend. I must prepare.~
+@175  = ~Excuse me, I'm looking for Dawn Priest Blaise.~
+@176  = ~Dawn Priest Blaise is on household chores today, child. He can be found in the vestibule to the west of the main temple.~
+@177  = ~Over there.~
+@178  = ~He's mopping, like the rest of us, over there in the corner. It's not like we've got anything *better* to do than clean floors. We *could* be glorifying the world in the eyes of the Dawn Lord, curing the sick, whoa, even smiting a little evil. But no, getting the tiles to a mirror shine is *important*...~
+@179  = ~The Messenger~
+@180  = ~Dawn Priest Blaise is dead.~
+@181  = ~What?! Was he ill? Oh, why didn't he *tell* me, if only I'd known, I could have gone there and nursed him, if, if only. Oh, my dear...~
+@182  = ~Yes, he, uh... died in his sleep. Very peacefully. His last thoughts were of you.~
+@183  = ~He died bravely, defending the Temple of Lathander. Any adventurer would be proud.~
+@184  = ~It was a horrible accident, is all I can tell you.~
+@185  = ~You always trusted me to do the right thing, Sister Sapientia. To be *good*. I never knew why. All I can say is that... killing him... felt *good*.  And what of that?~
+@186  = ~That is good to hear. And yet, I wish I could have seen his face just once before he, well...~
+@187  = ~I grieve with you.~
+@188  = ~But for years, decades, the two of you saw each others *minds*. (Not that I read your letters or anything.) There's another thing - Blaise had a book, which I think he wanted you to have.~
+@189  = ~Too bad, it's a bit late now.~
+@190  = ~Oh, the poor man.~
+@191  = ~It was quick, at least. And - he left a book. I think he meant it for you.~
+@192  = ~Freak janitorial accidents are just the *worst*, am I right?~
+@193  = ~I would have preferred that he *lived* for the Temple.~
+@194  = ~It looked like he'd had a good life. Before, you know, *that*. But here - I found this book. I'm sure he would have wanted you to have it.~
+@195  = ~I'm sure they valued his expertise with a mop.~
+@196  = ~But what is - oh! He finished it!~
+@197  = ~(sniff) It's beautiful...~
+@198  = ~The Messenger: Blaise's Death
+ 
+I delivered news of Dawn Priest Blaise's death to Sister Sapientia. She was grieved, but the illuminated prayerbook I found may ease her pain a little.~
+@199  = ~Thank you, my child. I will think on my friend, and try to remember not the grief of his passing, but the joy of his days.~
+@200  = ~The Messenger: Blaise's Death
+ 
+I delivered news of Dawn Priest Blaise's death to Sister Sapientia.  She was grieved, but will strive to remember the joy the pair of them had in their correspondence.~
+@201  = ~You are cruel beyond need, <CHARNAME>.  It is the road that has roughened you, perhaps.  And perhaps time will soften you?  But no matter.  I will think on my friend, and try to remember not the grief of his passing, but the joy of his days.~
+@202  = ~The Messenger: Blaise's Death
+ 
+I delivered news of Dawn Priest Blaise's death to Sister Sapientia.  Some people just can't take a joke.~
+@203  = ~<CHARNAME>, what happened to you?~
+@204  = ~Nothing happened.  I've always been like this.  You just didn't want to see it.~
+@205  = ~Since Gorion died it's all been... and these dreams... help me!~
+@206  = ~I've been so blind...~
+@207  = ~The Messenger: Blaise's Death
+ 
+I told Sister Sapientia what I'd done to her little friend.  Finally the nun sees the real *me* instead of that facade of a simpering simpleton she thought she'd raised.  No matter: I have other business in Candlekeep.~
+@208  = ~I don't think I can.  Forgive me, <CHARNAME>. Oh, my dear Blaise...~
+@209  = ~The Messenger: Blaise's Death
+ 
+I told Sister Sapientia what I did to her friend. Do I even remember why? I've killed so many since I left Candlekeep - but *this* death was wrong? Shouldn't it be easier to tell the difference?~
+/* new for v2.6 (second half of line @139) */
+@210 = ~But now, with all the troubles – the Iron Crisis, the bandits jumping about the hedgerows and coppices, rumours of war with Amn...~
+@211 = ~It is difficult to find a reliable messenger.~

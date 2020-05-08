@@ -1,0 +1,11 @@
+IF 
+	Global("TICamryn","GLOBAL",3)
+	GlobalGT("TITamah","GLOBAL",0)
+	Global("TICamryn_DeleteJournalEntry","MYAREA",0)
+THEN
+	RESPONSE #100
+		SetGlobal("TICamryn_DeleteJournalEntry","MYAREA",1)
+		EraseJournalEntry(#%TAMAH_Journal_State4%)
+		EraseJournalEntry(#%TAMAH_Journal_State5%)
+		EraseJournalEntry(#%TAMAH_Journal_State6%)
+END

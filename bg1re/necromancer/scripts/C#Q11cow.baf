@@ -1,0 +1,6 @@
+IF
+	AttackedBy([GOODCUTOFF],DEFAULT)
+THEN
+	RESPONSE #100
+		SetGlobal("C#q11_CowAttacked","GLOBAL",1)
+END

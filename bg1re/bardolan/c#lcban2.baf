@@ -1,0 +1,21 @@
+// c#lcbar2.baf - returns the PC to the barracks
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+        ActionOverride("c#bardol",DestroySelf())
+        LeaveAreaLUAPanic("%Nashkel_Garrison%","",[465.335],10)
+        LeaveAreaLUA("%Nashkel_Garrison%","",[465.335],10)
+        Wait(1)
+        CreateCreature("c#bardol",[503.306]%FACE_2%) 
+        Explore()
+        MoveViewPoint([211.186],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+   EndcutSceneMode()
+        ActionOverride("c#bardol",%STARTDIALOGNOSET%(Player1))
+END 

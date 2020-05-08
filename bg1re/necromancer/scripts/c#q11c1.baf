@@ -1,0 +1,11 @@
+
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player1)
+		Wait(2)
+		ActionOverride("c#q11nec",DestroySelf())
+		EndCutSceneMode()
+END

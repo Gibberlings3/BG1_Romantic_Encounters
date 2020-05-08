@@ -1,0 +1,28 @@
+IF
+	Global("BG1RE_EraseJournalNecromancer","AR0602",0)
+THEN
+	RESPONSE #100
+		SetGlobal("BG1RE_EraseJournalNecromancer","AR0602",1)
+		EraseJournalEntry(@1)
+		EraseJournalEntry(@18)
+		EraseJournalEntry(@109)
+		EraseJournalEntry(@32)
+		EraseJournalEntry(@184)
+		EraseJournalEntry(@200)
+		EraseJournalEntry(@144)
+		EraseJournalEntry(@154)
+		EraseJournalEntry(@178)
+		EraseJournalEntry(@205)
+		EraseJournalEntry(@207)
+		EraseJournalEntry(@267)
+		EraseJournalEntry(@394)
+		EraseJournalEntry(@298)
+		EraseJournalEntry(@307)
+		EraseJournalEntry(@354)
+		EraseJournalEntry(@363)
+		EraseJournalEntry(@385)
+		EraseJournalEntry(@406)
+		EraseJournalEntry(@424)
+		EraseJournalEntry(@433)
+		Continue()
+END

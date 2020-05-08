@@ -1,0 +1,20 @@
+// Player comes for a regular nap.
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(3)
+	Rest() 
+	ActionOverride(Player2,Rest()) 
+	ActionOverride(Player3,Rest()) 
+	ActionOverride(Player4,Rest()) 
+	ActionOverride(Player5,Rest()) 
+	ActionOverride(Player6,Rest()) 
+        FadeFromColor([20.0],0)
+        Wait(1)
+	EndcutSceneMode()
+		END 
+

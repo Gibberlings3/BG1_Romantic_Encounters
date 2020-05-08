@@ -1,0 +1,23 @@
+// re1end4 - PC changes mind, and they return downstairs
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("T1ENDER",DestroySelf())
+         LeaveAreaLUAPanic("%FriendlyArmInn_L1%","",[354.655]%FACE_8%)
+        LeaveAreaLUA("%FriendlyArmInn_L1%","",[354.655]%FACE_8%)
+        Wait(1)
+	Face(8) //needed for BG1
+        CreateCreature("T1ENDER",[351.621]%FACE_0%) 
+	ActionOverride("T1ENDER",Face(0)) //needed for BG1
+        Explore()
+        MoveViewPoint([354.655],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("T1ENDER",%STARTDIALOGNOSET%(Player1))
+END 

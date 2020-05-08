@@ -1,0 +1,26 @@
+// BG1RE: The Messenger 2 - Creating the Halfling Messenger's Ghost, after timer run
+
+
+/* all letters have been delivered - set short timer */
+IF 
+  Global("RE1_RainSnow","GLOBAL",9)
+THEN
+  RESPONSE #100
+	SetGlobal("RE1_RainSnow","GLOBAL",10)
+	SetGlobalTimer("T1M2LetterTimer","GLOBAL",30)
+END
+
+/* Bartelby says thank you */
+
+IF 
+  Global("RE1_RainSnow","GLOBAL",10)
+  GlobalTimerExpired("T1M2LetterTimer","GLOBAL")
+  %CombatCounter_0%
+  %AreaType_Outdoor%
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+THEN
+  RESPONSE #100
+	SetGlobal("RE1_RainSnow","GLOBAL",11)
+	ActionOverride(Player1,CreateCreature("T1M2HAL2",[-1.-1]%FACE_0%))
+	SetGlobalTimer("T1M2LetterTimer","GLOBAL",ONE_DAY) //to prevent follow-up dialogues to happen directly
+END

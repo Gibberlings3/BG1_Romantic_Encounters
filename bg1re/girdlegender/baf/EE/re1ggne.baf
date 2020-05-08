@@ -1,0 +1,54 @@
+/* Activate: girdle of gender bender on Neera */
+IF 
+Global("RE1_GirdleGenderNeera","GLOBAL",0)
+HasItemEquiped("%tutu_var%BELT05","Neera")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderNeera","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Neera */
+IF 
+Global("RE1_GirdleGenderNeera","GLOBAL",1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END
+
+/* Activate: Neera's reaction to girdle on PC */
+IF 
+Global("RE1_GirdleNeeraPCDidIt","GLOBAL",0)
+HasItemEquiped("%tutu_var%BELT05",Player1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleNeeraPCDidIt","GLOBAL",1)
+END
+
+
+/* Initiate: Neera's reaction to girdle on PC */
+IF 
+Global("RE1_GirdleNeeraPCDidIt","GLOBAL",1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

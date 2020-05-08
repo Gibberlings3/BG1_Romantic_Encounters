@@ -1,0 +1,22 @@
+IF
+True()
+THEN
+RESPONSE #100
+CutSceneId(Player1)
+Wait(1)
+FadeToColor([20.0],0)
+Wait(1)
+SetGlobal("O#SlytheKrystinRE1","GLOBAL",1)
+JumpToPoint([781.256])
+ActionOverride("Krystin",JumpToPoint([790.300]))
+ActionOverride("Slythe",JumpToPoint([732.285]))
+Wait(1)
+ActionOverride("Slythe",%FACEOBJECT_PC_10%)
+ActionOverride("Krystin",%FACEOBJECT_PC_08%)
+%FACEOBJECT_Slythe_2%
+MoveViewObject(Player1,INSTANT)
+Wait(1)
+FadeFromColor([20.0],0)
+Wait(1)
+ActionOverride("Slythe",%STARTDIALOGNOSET%(Player1))
+END

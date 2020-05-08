@@ -1,0 +1,22 @@
+// c#lchus4.baf - HUSAM and the PC to a secret place...
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+         LeaveAreaLUAPanic("c#lc07","",[547.663]%FACE_9%)
+        LeaveAreaLUA("c#lc07","",[547.663]%FACE_9%)
+        Wait(1)
+	Face(9) //needed for BG1
+        CreateCreature("C#HUSAM",[581.631]%FACE_1%) 
+	ActionOverride("C#HUSAM",Face(1)) //needed for BG1
+        Explore()
+        MoveViewPoint([547.663],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("C#HUSAM",%STARTDIALOGNOSET%(Player1))
+END 

@@ -1,0 +1,19 @@
+// This uses the two triggers from the NPC Project's Caravan Quest to make a global that I can use later when talking to Skie.
+
+IF
+	Global("T1M2DeadEddy","GLOBAL",0)
+	PartyHasItem("X#SILSH")
+THEN
+  RESPONSE #100
+	SetGlobal("T1M2DeadEddy","GLOBAL",1)
+	Continue()
+END
+	
+IF
+	Global("T1M2DeadEddy","GLOBAL",0)
+	GlobalGT("X#KagainCaravan","GLOBAL",3)
+THEN
+  RESPONSE #100
+	SetGlobal("T1M2DeadEddy","GLOBAL",1)
+	Continue()
+END

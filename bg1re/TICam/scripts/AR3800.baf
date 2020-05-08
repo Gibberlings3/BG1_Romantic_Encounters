@@ -1,0 +1,8 @@
+IF %BGT_VAR%
+Global("TICamrynTamah4","GLOBAL",1)  
+ 
+THEN
+RESPONSE #100
+SetGlobal("TICamrynTamah4","GLOBAL",2)
+Continue()
+END

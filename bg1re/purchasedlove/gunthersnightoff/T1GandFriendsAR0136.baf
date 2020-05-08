@@ -1,0 +1,70 @@
+/* // The Low Lantern, the bottom-most deck, storage crates and an illicit drinking party
+
+
+
+// Gunther
+
+IF 
+  Global("RE1_GuntherCreation","GLOBAL",0)
+	!Dead("T1GUNTH")
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_GuntherCreation","GLOBAL",1)
+	CreateCreature("T1GUNTH",[488.366]%FACE_5%)
+	Continue()
+END
+
+// Old Mab
+
+IF 
+  Global("RE1_MabCreation","GLOBAL",0)
+	!Dead("T1MAB")
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_MabCreation","GLOBAL",1)
+	CreateCreature("T1MAB",[424.378]%FACE_9%)
+	Continue()
+END
+
+// Lady Isobel Whitlock
+
+IF 
+  Global("RE1_IsobelCreation","GLOBAL",0)
+	!Dead("T1ISOB")
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_IsobelCreation","GLOBAL",1)
+	CreateCreature("T1ISOB",[437.321]%FACE_1%)
+	Continue()
+END
+
+// Pete
+
+IF 
+  Global("RE1_PeteCreation","GLOBAL",0)
+	!Dead("T1PETE")
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_PeteCreation","GLOBAL",1)
+	CreateCreature("T1PETE",[376.341]%FACE_13%)
+	Continue()
+END
+
+*/
+
+IF
+  Global("RE1_GuntherCreation","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_GuntherCreation","GLOBAL",1)
+    CreateCreature("T1GUNTH",[488.366]%FACE_5%) // Gunther
+
+ActionOverride("T1GUNTH",Face(5))
+    CreateCreature("T1MAB",[424.378]%FACE_9%) // Old Mab
+ActionOverride("T1MAB",Face(9))
+    CreateCreature("T1ISOB",[437.321]%FACE_1%) // Lady Isobel Whitlock
+ActionOverride("T1ISOB",Face(1))
+    CreateCreature("T1PETE",[376.341]%FACE_13%) // Pete
+ActionOverride("T1PETE",Face(13))
+    Continue()
+END

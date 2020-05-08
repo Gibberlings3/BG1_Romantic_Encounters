@@ -1,0 +1,9 @@
+//in front of the Flaming Fist Headquarters
+IF 
+      Global("C#Q11_MomSpawning","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q11_MomSpawning","GLOBAL",1)
+	    CreateCreature("C#Q11mom",[1295.1460]%FACE_0%) //
+		Continue()
+END

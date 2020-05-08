@@ -1,0 +1,39 @@
+ /* confrontation in front of the Jovial Juggler */
+
+
+
+
+
+IF 
+	Global("C#LC_BartusQuest","GLOBAL",4)
+	Allegiance("c#lcbart",ENEMY)
+THEN
+  RESPONSE #100
+    SetGlobal("C#LC_BartusQuest","GLOBAL",20)
+END
+
+
+IF 
+	Global("C#LC_BartusQuest","GLOBAL",4)
+	!Dead("c#lcbart")
+//	!Allegiance("c#lcbart",ENEMY)
+THEN
+  RESPONSE #100
+    SetGlobal("C#LC_BartusQuest","GLOBAL",5)
+	CreateCreature("c#lcbart",[3461.3676]%FACE_16%)
+	CreateCreature("c#lcba01",[3507.3703]%FACE_7%)
+	Continue()
+END
+
+IF 
+	GlobalLT("C#LC_BartusQuest","GLOBAL",5)
+	!Dead("c#lcbart")
+//	!Allegiance("c#lcbart",ENEMY)
+  	Gender(Player1,MALE)
+THEN
+  RESPONSE #100
+    SetGlobal("C#LC_BartusQuest","GLOBAL",5)
+	CreateCreature("c#lcbart",[3461.3676]%FACE_16%)
+	CreateCreature("c#lcba01",[3507.3703]%FACE_7%)
+	Continue()
+END

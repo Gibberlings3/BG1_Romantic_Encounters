@@ -1,0 +1,10 @@
+//EXTEND_BOTTOM AR1400.bcs Fishing village, Farmer Bruns
+
+IF 
+	Global("C#Q11_CowQuest","GLOBAL",7)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q11_CowQuest","GLOBAL",8)
+	CreateCreature("c#q11mrs",[3385.2297]%FACE_0%)
+	CreateCreature("c#q11cow",[3843.2193]%FACE_0%)
+END

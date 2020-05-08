@@ -1,0 +1,20 @@
+IF
+True()
+THEN
+RESPONSE #100
+CutSceneId(Player1)
+Wait(1)
+FadeToColor([20.0],0)
+Wait(1)
+SetGlobal("O#NiklosRE1","GLOBAL",1)
+JumpToPoint([1031.935])
+ActionOverride("niklos",JumpToPoint([1004.992]))
+Wait(1)
+ActionOverride("niklos",%FACEOBJECT_PC_10%)
+%FACEOBJECT_Niklos_2%
+MoveViewObject(Player1,INSTANT)
+Wait(1)
+FadeFromColor([20.0],0)
+Wait(1)
+ActionOverride("niklos",%STARTDIALOGNOSET%(Player1))
+END

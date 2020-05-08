@@ -1,0 +1,19 @@
+// c#lclin3.baf - Laurel and the PC go back to main area AR4600
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("c#lclaur",DestroySelf())
+         LeaveAreaLUAPanic("%BearRiver%","",[1343.806]%FACE_7%)
+        LeaveAreaLUA("%BearRiver%","",[1343.806]%FACE_7%)
+	Face(7) //needed for BG1
+        Wait(1)
+        MoveViewPoint([1306.838],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+END 

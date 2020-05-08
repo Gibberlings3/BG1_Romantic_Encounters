@@ -1,0 +1,17 @@
+// BG1RE: Centeol, after Poe's poem
+
+
+
+/* Centeol shows her gratitude */
+
+IF 
+  Global("RE1_CenteolPoeRequest","GLOBAL",2)
+  GlobalTimerExpired("RE1_CenteolPoe","GLOBAL")
+  %CombatCounter_0%
+  %AreaType_Outdoor%
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+THEN
+  RESPONSE #100
+	SetGlobal("RE1_CenteolPoeRequest","GLOBAL",3)
+	ActionOverride(Player1,CreateCreature("c#lccens",[-1.-1]%FACE_0%))
+END

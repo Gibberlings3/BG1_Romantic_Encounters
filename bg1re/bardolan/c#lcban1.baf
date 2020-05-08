@@ -1,0 +1,22 @@
+// c#lcbar1.baf - Bardolan and the PC go to his quarters.
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+        ActionOverride("c#bardol",DestroySelf())
+        Wait(2)
+         LeaveAreaLUAPanic("c#lc01","",[207.207],7)
+        LeaveAreaLUA("c#lc01","",[207.207],7)
+        Wait(1)
+        CreateCreature("c#bardol",[212.184]%FACE_0%) 
+        Explore()
+        MoveViewPoint([211.186],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("c#bardol",%STARTDIALOGNOSET%(Player1))
+END 

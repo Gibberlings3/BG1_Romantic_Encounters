@@ -1,0 +1,12 @@
+// The Low Lantern, the middle deck
+
+IF 
+  Global("T1LarsCreation","GLOBAL",2)
+	!Dead("T1LARS1")
+THEN
+  RESPONSE #100
+    SetGlobal("T1LarsCreation","GLOBAL",3)
+	CreateCreature("T1LARS1",[768.510]%FACE_14%)
+	Continue()
+END
+

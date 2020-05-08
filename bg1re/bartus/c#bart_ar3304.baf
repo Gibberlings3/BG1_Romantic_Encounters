@@ -1,0 +1,21 @@
+
+IF 
+  Global("C#LC_BartusQuest","GLOBAL",0)
+      Gender(Player1,FEMALE)	
+THEN
+  RESPONSE #100
+    SetGlobal("C#LC_BartusQuest","GLOBAL",1)
+	CreateCreature("c#lcbart",[706.506]%FACE_0%)
+	Continue()
+END
+
+IF 
+  Global("C#LC_BartusQuest","GLOBAL",2)	
+	!Dead("c#lcbart")
+	!Exists("c#lcbart")
+THEN
+  RESPONSE #100
+    SetGlobal("C#LC_BartusQuest","GLOBAL",3)
+	CreateCreature("c#lcbart",[599.728]%FACE_0%)
+	Continue()
+END

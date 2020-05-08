@@ -1,0 +1,43 @@
+/* Garrick Asks For His Letter */
+
+
+//Set timer after Garrick joins
+IF %BGT_VAR%
+PartyHasItem("T1M2LET2")
+Global("T1M2GarrickLetter","GLOBAL",0)
+InParty(Myself)
+THEN
+RESPONSE #100
+SetGlobal("T1M2GarrickLetter","GLOBAL",1)
+SetGlobalTimer("T1M2LetterTimer","GLOBAL",150)
+END
+
+
+// Activate
+IF %BGT_VAR%
+PartyHasItem("T1M2LET2")
+Global("T1M2GarrickLetter","GLOBAL",1)
+GlobalTimerExpired("T1M2LetterTimer","GLOBAL")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("T1M2GarrickLetter","GLOBAL",2)
+END
+
+// Initiate
+IF %BGT_VAR%
+PartyHasItem("T1M2LET2")
+Global("T1M2GarrickLetter","GLOBAL",2)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END 

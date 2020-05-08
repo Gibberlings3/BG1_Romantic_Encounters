@@ -1,0 +1,10 @@
+
+IF 
+  Global("C#LC_LinaSpawn","GLOBAL",0)
+     Gender(Player1,MALE)	
+THEN
+  RESPONSE #100
+    SetGlobal("C#LC_LinaSpawn","GLOBAL",1)
+	CreateCreature("c#lclina",[826.718]%FACE_0%)
+	Continue()
+END

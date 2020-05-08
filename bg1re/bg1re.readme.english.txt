@@ -1,0 +1,1593 @@
+		Baldur's Gate Romantic Encounters Modification (BG1RE)
+	for BG1 (with TotSC), BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET
+					Version 3.0
+				A Gibberlings Three Mod
+				http://www.gibberlings3.net
+
+
+Contents
+
+I.    Introduction
+II.   General Info
+	1.  Rating 
+	2.  Component Types 
+	3.  Style of Descriptions
+III.  Description of Components
+	0.  Install Choices [required component]
+     	1.  Bardolan's Briefing, by berelinde (mature content / teen version)
+     	2.  Scar's Spare Time, by jastey (mature content / teen version)
+     	3.  Kim's Preoccupation, by jastey (mature content / teen version - WARNING, ref. below)
+     	4.  Extension of Bjornin Encounter (Personal Wound Treatment), by jastey
+     	5.  No Starch in the Maypole, by jastey
+     	6.  Duke Eltan's Spare Minute, by jastey
+     	7.  Husam's Personal Preparation, by jastey (mature content / teen version)
+     	8.  Laurel's Post-Hunting, by jastey
+     	9.  Bartus' Seduction, by jastey
+     	10. Lina's Massage, by jastey (mature content / teen version)
+     	11. First Night with Quentin, by Kulyok (mature content / teen version)
+     	12. Chatting Niklos Up, by Kulyok (mature content)
+     	13. Slythe and Krystin, by Kulyok (mature content)
+     	14. No Regrets, by Anonyme
+     	15. Purchased Love, by Thimblerig
+     	16. Hull: Heavy Duty, by Lava Del'Vortel
+     	17. Late Night with Jaheira, by Kulyok
+     	18. Sil's Blessing, by Lava Del'Vortel
+     	19. Melicamp: The Poultry Boy, by Lava Del'Vortel
+     	20. Reading with Rinnie, by Western Paladin
+     	21. Molly the Husband-Grabber, by Kulyok
+     	22. The Mourning of Centeol, the Spider Lady, by Lava Del'Vortel
+     	23. The Essential End, by Lava Del'Vortel
+     	24. The Harvestman's Lair, by Lava Del'Vortel
+     	25. The Great Zudini, by Kulyok
+     	26. The Messenger, by Thimblerig
+     	27. Ender Sai: The Hero's Reward, by Thimblerig
+     	28. The Novelists, by Thimblerig
+     	29. The Honest Lies of Two Riversides, by Lava Del'Vortel
+     	30. Necromancer's Trouble, by jastey
+     	31. Dinner with Thalantyr, by jastey
+     	32. Girdle of Gender Reactions, by Thimblerig, Kulyok, Domi, Lava, Lastknightleft, 
+					   Twani, Jastey, and Daisy Ninja Girl
+     	33. The Surgeon's Dream, by Kulyok
+     	34. All That Left Was, by Lava Del'Vortel and Thimblerig
+     	35. A Childhood Friend, by Kulyok 
+     	36. Arlene the Working Girl, by Kulyok
+     	37. Della May from Thay, by Kulyok
+     	38. A Dirty Guard in Candlekeep, by Kulyok (mature content - WARNING, ref. below)
+     	39. Phoenix Flame, by Kulyok (mature content)
+     	40. Mikala the Monk, by Twani
+	41. The Messenger 2: Rain or Snow or Gloom of Night, by Thimblerig and tibicina
+     	42. Camryn and Tamah, by tibicina
+	43. Minor Disclosures, by jastey
+	44. Cloakwood Lovers, by tibicina
+	Bonus Quest: Scar - The Return, by jastey 
+IV.   List of Serious Encounters and Quests
+V.    List of Encounters, Sorted by Location 
+VI.   Installation
+VII.  Compatibility
+VIII. Known Issues
+IX.   Crossmodding
+X.    Credits
+XI.   Tools Used
+XII.  History
+XIII. Legal Information
+
+
+----------------
+I. Introduction
+----------------
+
+Baldur's Gate Romantic Encounters Modification (BG1RE) is a mod for classic BG1:TotSC, BG1Tutu v4, EasyTutu, BGT, and BG:EE, adding several encounters and quests all over the game. 
+
+For BG1RE, not every component deals with the PC trying to sneak into someone's pants or vice versa. BG1RE aims at populating BG1 with romantic encounters, intense dialogues, unexpected private dinners, romantic traces of long lost times, and real quests that all deal with true love, fulfilled or unfulfilled. 
+It also offers encounters for the PC's quick relief, of course, with either paid companions or willing strangers. For some encounters, the PC should brush him-/herself, as it might be (s)he comes out flustered if (s)he doesn't stop in time.
+
+
+Note: The "Extension of Bjornin Encounter" formerly included in the mod Baldur's Gate Mini Quests and Encounters Modification (BGQE) is now included in this mod, with a little addition.
+
+
+This mod is a group effort including lots of components from different authors. Thank you to all who contributed to make this mod possible!
+
+
+
+----------------
+II. General Info
+----------------
+
+1.  Rating 
+-----------------
+The ratings of this mod's components are first differentiated into Teen and Mature content. 
+
+Second, it is differentiated into components with trigger warnings vs. "all components".
+
+Teen content in this mod means: no description or mentioning of explicit sexual content. It does include (non-explicit) preludes and the aftertalks, but any sexual content is skipped and indicated by a fade-to-black.
+
+Mature content: contains explicit descriptions of intimate actions (though not explicit enough to be called porn) either as action description or in the characters' dialogues (including verbal mentioning of fantasies). 
+
+Trigger warnings are put to components that feature any content that include intimacies in a threatening atmosphere, discussion of consent issues, attempts of sexual coercion, (nonsexual) violence to children, or other instances that might be triggering to some players. These components are tagged with a warning accordingly and can be skipped during install.
+
+
+2.  Component Types 
+-----------------
+The components are classified in different "Types" to give an idea of what awaits the player.
+
+The types are:
+
+  1. Encounters. These either create a new character or extend an existing game character. All action is handled in the dialogue; no quest is attached. All components giving the PC the possibility for intimacies are flagged "Encounters".
+
+  2. Quest. These include solving a problem or doing at least a fed-ex errand. They have no possibility for intimacies for the PC.
+
+  3. Dialogue. These will either extend an original game character's dialogue or create an encounter with a custom character, but there won't be anything more than talking.
+
+  4. Reply option. This does exactly what it says: adding additional reply options, but not necessarily new reactions of the game characters in question.
+
+
+3.  Style of Descriptions
+-----------------
+The mod offers the choice between descriptive texts and non-descriptive versions. If the "descriptive version" is chosen on install, components that offer descriptive text will have it enabled. There will be some adult content, obviously. 
+
+The non-descriptive version is called "BG-style". It has as little descriptive content as possible, which is more in-line with the original style of the BG-games, in my opinion. Instead of description text, this style offers "dialogue based" content instead. Some components, which rely heavily on descriptive text, might be shortened for this style type. This install choice contains adult content. 
+
+
+----------------
+III. Description of Components
+----------------
+
+The mod consists of a number of optional components.
+
+Please, feel free to use all variables listed below for your own NPC reactions. Please note the section "Crossmodding" below for details on how to use the variables!
+
+
+0.  Main Component: ~Amount of -ahem- details and BG-style vs. description text!~ (Required)
+------------------------------------------------------------------
+The mod offers different basic install choices in respect to the rating and the style of descriptions. This component is a required component.
+
+The install choices distinguish between teen/mature content and no components with warning/all components. The latter refers to the components marked with trigger warnings. Please read the notes in this readme carefully before chosing the components. The components in question are marked with (WARNING).
+
+During install you have the choice between rating and descriptiveness:
+
+- "Teen version": Automatically installs the Teen versions of all components that also offer mature content, leaving out additional content for some encounters. Will skip whole encounters that offer no Teen version. 
+
+- "BG-style": This component has Adult content. It leaves out descriptive content, but offers "dialogue based" content instead. With this install choice all components can be installed.
+
+- "Descriptive version": This will have description texts for the encounters that offer a descriptive version. Adult content, obviously. With this install choice all components can be installed.
+
+Any of the three above is coupled with:
+
+- Skip components with warnings: the components tagged with warnings will be skipped completely.
+
+- Show/install all components.
+
+
+
+
+1.  Bardolan's Briefing, by berelinde (mature content / teen version)
+------------------------------------------------------------------
+
+Type: Encounters (extended original game character)
+Availability: Nashkel. Starts at first visit, follow up has no time restriction.
+Rating: mature content, teen version available (some slightly suggestive language, but no explicit content or descriptions) 
+PC restrictions: none
+Variables: Global("RE1_BardolanFlirt","GLOBAL",1) if you follow Bardolan into his private quarters
+Global("RE1_BardolanSex","GLOBAL",1): if the PC gets intimate with him.
+
+Bardolan is the Amnish Commander who greets the PC on their first visit to Nashkel. With Captain Brage gone the way he is, all the responsibility now lays on Bardolan's shoulders. He is very anxious and stressed. Your PC can help him ease it, up to a very... personal level. In all cases, Bardolan will be very thankful for any short time out.
+
+
+
+2.  Scar's Spare Time, by jastey (mature content / teen version)
+------------------------------------------------------------------
+
+Type: Encounters (extended original game character)
+Availability: Baldur's Gate. Possibilities to talk to Scar are added to several stages of his quests. The encounter can be triggered once Scar states that "I finally have something I could call free time, a rare occasion."
+Rating: mature content, teen version available (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: PCs of no evil alignment, Rep > 11 for talking, Rep > 15 for going to his quarters; intimacies are restricted to female PCs.
+Variables: Global("RE1_ScarFlirt","GLOBAL",1) if you follow him into his private quarters.
+Global("RE1_ScarSex","GLOBAL",1) if the PC agrees to have sex.
+
+Now any PC can have a more private chat with Scar and help him relax a little from his stressing duty. Female PCs can also show this humble bachelor that he is a hell of an attractive man. No matter how far it goes, don't expect the duties of a Second in Command of the Flaming Fist allow a long-term committment, though.
+
+Note: To be able to play the "Scar - The Return" bonus quest, the PC has to at least have been in Scar's private quarters, even if nothing else evolves.
+
+
+
+3.  Kim's Preoccupation, by jastey (mature content / teen version - WARNING)
+------------------------------------------------------------------
+
+Warning: This encounter leaves the sexual fulfillment of an otherwise helpless quest character to the PC's decision. While there is no physical violence involved, the content may be triggering for some players.
+
+Type: Encounters (custom character)
+Availability: Candlekeep, Chapter 6.
+Rating: mature content, teen version available (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: none (NPC gender opposite to the PC's)
+Variables: Global("RE1_KimFlirt","GLOBAL",1) if the PC offers intimacies.
+Global("RE1_KimSex","GLOBAL",1) if the PC indeed lends a hand.
+
+Kim had a bad accident. And sometimes, bones don't heal as well as they should. That is why Kim's arms haven't been in use for a very long time, and won't be for at least some more weeks... And in that state, some thoughts just gain a prominence that you would not as a healthy person consider possible.
+
+
+
+4.  Extension of Bjornin Encounter (Personal Wound Treatment), by jastey
+------------------------------------------------------------------
+
+Type: Encounters (extended original game character)
+Availability: Beregost, Jovial Juggler. Adds several dialogue options to different stages of Bjornin's half-ogre quest, and after. The encounter will be available after, if the PC wanted to chat.
+Rating: teen content (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: for talking: Rep > 9; for going to his quarters: no evil alignment, Rep > 17 
+Variables: Global("RE1_BjorninFlirt","GLOBAL",1) if you go with him to his personal quarters
+
+Bjornin, the hurt paladin in Beregost, intrigued my PC when meeting him the first time. So she wanted to be able to talk to him some more.
+
+This component enables PCs (male and female) of reputations greater than 9 to have a more extensive conversation with Bjornin. A PC who gains his trust can now also give him a thorough wound treatment. Bjornin will enjoy it, but for a romantic encounter, not much can be expected from an injured and hurting paladin.
+
+Note: This component contains all content of the former BGQE component "Extension of Bjornin Encounter".
+
+
+
+5.  No Starch in the Maypole, by jastey
+------------------------------------------------------------------
+
+Type: Reply option (extended original game character)
+Availability: First subterranean level of the Cloakwood mines
+Rating: teen content (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: none
+Variables: Global("RE1_StarchFlirt","GLOBAL",1), if a suggestive answer is chosen
+
+This component is not really meant seriously, albeit it is not a joke component. It adds to the one watchman on the second level of the Cloakwood Mines who unwantedly asks the PC for advice concerning his "latenight life" because all the stress took "a little starch out of my maypole, if ye get me meaning." With this component installed, the PC can give him advice, or at least (s)he can try.
+
+
+
+6.  Duke Eltan's Spare Minute, by jastey
+------------------------------------------------------------------
+
+Type: Dialogue (Extended dialogue options for original game character)
+Availability: Chapter 7, Harbor Master's building, after bringing Duke Eltan there
+Rating: teen content (suggestive wording in one reply option)
+PC restrictions: none
+Variables: Global("RE1_EltanFlirt","GLOBAL",1) if the PC offers intimacies.
+
+You just saved the man from being poisoned. He is weak, and eager for you to stop the conspiracy. This component gives the PC the possibility to talk to him some more, but expect a Duke to be rather short with you, especially with the task of stopping the Iron Throne on your hands.
+
+Note: This component has to be installed for the bonus quest "Scar - The Return".
+
+
+
+7.  Husam's Personal Preparation, by jastey (mature content / teen version)
+------------------------------------------------------------------
+
+Type: Encounters (extended original game character)
+Availability: Chapter 7, before searching for the murderers in the Undercellar, and the Thieves' Guild before entering the maze.
+Rating: mature content, teen version available (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: none
+Variables: Global("RE1_HusamFlirt","GLOBAL",1) if the PC goes with Husam, 
+Global("RE1_HusamSex","GLOBAL",1) if there are intimacies
+
+Husam has many faces. He impersonates a drunk to be able to talk to the PC in disguise, and yet his mind is all sharp and smart. He just knows that sometimes, some things have to be done to get to your goal, and has no objection to laying on hands himself, either. 
+
+So, he is very understanding if you tell him that, to hunt Duke Entar's and Scar's murderers in the Undercellar, you definitely need to relieve some pressure first, before being able to concentrate on your task down there. So it's up to you to find out just how deft a Shadow Thief can handle his tools...
+
+After the first, ahem, personal preparation, Husam will make a second approach in the Thieves' Guild before the PC descends down into the maze to follow Sarevok.
+
+
+
+8.  Laurel's Post-Hunting, by jastey
+------------------------------------------------------------------
+
+Type: Encounters (extended original game character)
+Availability: Bear River
+Rating: teen content (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: only for male PC with rep 15 or higher.
+Variables: Global("RE1_LaurelFlirt","GLOBAL",1) if the PC follows Laurel behind the bushes, 
+Global("RE1_LaurelSex","GLOBAL",1) if there are intimacies
+
+Laurel is a paladin, and she is on a mission. She doesn't have much time, but she is sensible enough to know that there is more to a healthy body than eating and resting, if the PC knows what he wants.
+
+
+
+9.  Bartus' Seduction, by jastey
+------------------------------------------------------------------
+
+Type: Encounters 
+Availability: first meeting: Beregost (male PC), Jovial Juggler (female PC)
+Rating: teen content (some slightly suggestive language, but nothing explicit)
+PC restrictions: accidental kiss only for female PC
+Variables: Global("RE1_BartusFlirt","GLOBAL",1) after Bartus accidentally kisses the PC
+Global("RE1_BartusSex","GLOBAL",1) if Bartus gives the PC the Hero's Reward
+
+Bartus is a sweet guy, a courtesan, currently assigned to whom he calls his "sweet ladies", noble ladies that let themselves be seduced by Bartus in turns. He is not the brightest, though, and that could be why he accidentally kisses a female PC in the dim light of the tavern aisle. This might not turn out to be his greatest problem, though, and he might need some help soon after. For male PCs, the quest starts from here. If rescued, Bartus can be met again in Baldur's Gate Low Lantern where he needs some convincing to go for his dreams.
+
+For v1.4, the quest now continues from the first meeting in the tavern, and is also open to male players.
+
+
+
+10.  Lina's Massage, by jastey (mature content / teen version)
+------------------------------------------------------------------
+
+Type: Encounters 
+Availability: Friendly Arm Inn, ground floor
+Rating: mature content, teen version available (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: only for male PC
+Variables: Global("RE1_LinaFlirt","GLOBAL",1) after the PC agrees to a personal massage, 
+Global("RE1_LinaSex","GLOBAL",1) if there are intimacies
+
+Lina is all impressed by you, the magnificent adventurer, with all your armor and weapons.  And she likes to help you relax and forget the dirty road for a while. She is surprised herself as to how far she will take you, actually.
+
+
+
+11. First Night with Quentin, by Kulyok (mature content / teen version)
+------------------------------------------------------------------
+
+Type: Encounters
+Availability: Friendly Arm Inn, near the bar, all chapters
+Rating: mature content, teen version available (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: female human, half-elven, elven protagonists
+Variables: RE1_QuentinFlirt, if you come up and talk to Quentin in his room
+RE1_QuentinSex, if you choose to engage in an intimate encounter
+
+Visit the Friendly Arm inn, and you'll find a stranger at the bar. It's simple, isn't it? But it might appeal to those players who often think about their bruised, tired and hungry girl entering the Friendly Arm Inn for the first time. Maybe she wants some comfort? Or perhaps she is numb and she doesn't care, and when a handsome stranger makes her an offer, she thinks: why not? Or maybe it's past time she lost her virginity on an adventure with a handsome stranger?
+
+The choice is yours. Visit the Friendly Arm Inn and check out a young man with a short bow near the bar.
+
+
+
+12. Chatting Niklos Up, by Kulyok (mature content - WARNING)
+------------------------------------------------------------------
+
+Warning: This encounter includes attempts at sexual coercion. While all involved parties ultimately make free choices, the content may be triggering for some players.
+
+Type: Encounters (extended original game character)
+Availability: Baldur's Gate, between Elfsong and Sorcerous Sundries, ONLY LOAD THE SAVES WHERE YOU HAVEN'T BEEN TO BALDUR'S GATE YET
+Rating: mature content
+PC restrictions: female protagonists
+Variables: RE1_NiklosFlirt, if you go with Niklos
+RE1_NiklosSex for, well, sex
+
+Remember the guy in Baldur's Gate near the Elfsong Inn and Sorcerous Sundries who gives you 50 gold just to listen to his boss? The guy from the Thieves' Guild? Aye, that's Niklos, and this one's got a dirty, dirty mouth. DAT ASS... (snicker). The encounter is available to all female protagonists and should be compatible with the rest of Niklos' dialogue.
+
+Note: you REALLY should load a saved game where you haven't been to Baldur's Gate yet(since the mod adds a death variable to Niklos). Install the mod, then start a new game, or load an old game from before you entered the city.
+
+
+
+13. Slythe and Krystin, by Kulyok (mature content - WARNING)
+------------------------------------------------------------------
+
+Warning: This encounter involves intimacies in a threatening atmosphere. While all involved parties ultimately make free choices, the content may be triggering for some players.
+
+Type: Encounters (extended original game character)
+Availability: Baldur's Gate, Chapter 7, Undercellars
+Rating: mature content
+PC restrictions: female protagonists with Charisma of 13 and higher
+Variables: RE1_SlytheKrystinFlirt for coming with Slythe and Krystin and RE1_SlytheKrystinSex for having a threesome of sorts.
+
+Slythe and Krystin are memorable villains from the Undercellars. They're also evil assassins who have great loot, and, therefore, must die. Before that, however, an attractive girl may choose to have some real fun, some sense of living dangerously, a chance to end things peacefully(uh-huh, you wish), and, of course, the sex is good. The encounter may end rather suddenly, however, so be on your guard! Again, the encounter should be compatible with any other mods that modify these characters' dialogue.
+
+
+
+14. No Regrets, by Anonyme
+------------------------------------------------------------------
+
+Type: Quest 
+Availability: NE Baldur's Gate (lower level), "House 1" in Dudleyville's walkthrough (AR0305)
+Rating: teen content
+PC restrictions: none
+Variables: none
+
+An old woman, at the end of her life. A letter she cannot read any more, and a lot of what-ifs that will stay even after she has passed away.
+
+Help Meilla remember by reading the letter one last time to her. Oh, and please take the cat to the neighbors, because he needs to be fed.
+
+
+
+15. Purchased Love, by Thimblerig
+------------------------------------------------------------------
+
+Type: Encounters
+Availablilty: Undercellar and Low Lantern, all Chapters
+Rating: Teen - suggestive language, but fade-to-black cuts over otherwise explicit content
+PC restrictions: available to all PCs
+Variables:
+- Summer Umbrella - RE1_SumUmTalk to track conversational topics, RE1_SumUmFlirt if you proposition her;
+- the Harlots of the Undercellar - RE1_HarlotSex if you go to bed with any of them;
+- Schvantz - RE1_SchvantzFlirt, sets if you ask about 'private sessions', RE1_SchvantzSex if you go to bed with him;
+- Ariane - RE1_ArianeFlirt if you go somewhere... *private* with her; RE1_ArianeSex if you want more than just a massage;
+- Lars - RE_1LarsFlirt - increments if you talk to him or ask about his name; he will occasionally shift decks, so if you can't find him then try a different level;
+- Gunther and Friends - no relevant variables.
+
+
+Purchased Love extends the Undercellar and the Low Lantern in Baldur's Gate with courtesans available for service to all PCs. The mod-added courtesans in the Undercellar are named Harlots to distinguish from the game ones.
+
+In the Low Lantern, the component adds Ariane and the male courtesans mentioned in the game: Schvantz and Gunther. Gunther is on his night off, though, so he won't be on duty; he can be found in the lowest level of the Low Lantern drinking beer and aged brandy with his pals.
+
+Also added to the Low Lantern are entertainers one would expect in such an establishment: Lars will dance for the customers, and Summer Umbrella will try to afford the PC some intellectually enjoyable hours. Or just a cup of tea. 
+
+
+
+16. Hull: Heavy Duty, by Lava Del'Vortel
+------------------------------------------------------------------
+
+Type: Encounter (extended original game character)
+Availability: Candlekeep
+Rating: Teen content (some slightly suggestive language, but no explicit content or descriptions)
+PC Restrictions: any PC with a minimum of 13 Charisma
+Variables: Global("RE1_HullFlirt","GLOBAL",1) if you go with Hull around the corner.
+
+Candlekeep... even that place has its own people. They have their own past, their good moments and their desires. Hull is one of them - the Watchman, the Sentinel, the Guardian. Not always perfect, but who is? He never tried to be seductive, or someone who would use you.
+
+Everyone needs some company. Everyone needs a friend – some of them offer benefits. If you're going to leave, why don't you say 'goodbye' to Hull?
+
+
+
+17. Late Night with Jaheira, by Kulyok
+------------------------------------------------------------------
+
+Type: Dialogue
+Availability: after entering Nashkel for the first time; Tutu/BGT/BG:EE: at rest; BG!: at night in a tavern.
+Rating: teen content
+PC restrictions: all protagonists
+
+Jaheira is one of the most popular companions. She is also a good friend, sometimes even a mother figure. What if she asked you what kind of a partner you were looking for? Told you something about her relationship with Khalid? Gave some unwanted advice, shared a drink and sent you to bed? The encounter is available at Chapter 2 or later, at rest or at night(BG1).
+
+
+
+18. Sil's Blessing, by Lava Del'Vortel
+------------------------------------------------------------------
+
+Type: Dialogue (extended original game character)
+Availability: Lighthouse area
+Rating: Teen content
+PC restrictions: No restrictions
+
+On the coast lives a strange tribe. Its members aren't crude beasts, but neither are they lawful celestial creatures. They are women of weaving and pearls. They are women of poison and song. They are sirines who lure men, who protect their land, and who have seen many men and women die. Bow and hail Lady Sil and she may tell you a tale of a tragic love.
+
+This component, thanks to Jastey, is compatible with The Lure of the Sirine's Call.
+
+
+
+19: Melicamp: The Poultry Boy, by Lava Del'Vortel
+------------------------------------------------------------------
+
+Type: Encounter (extended original game character)
+Availability: The High Hedge (Thalantyr's home), after Melicamp was successfully retransformed
+Rating: Teen content (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: No restrictions
+Variables: Global("RE1_MelicampFlirt","GLOBAL",1) if you go with Melicamp somewhere private.
+Global("RE1_MelicampSex","GLOBAL",1) if Melicamp and the PC kiss.
+
+
+Cluck cluck... cluck! How tempting clucking can be, right?
+
+Help Melicamp and dispel the magic that turned him into a chicken. Once he's free of the curse, he may want to say thank you. Can you accept his offer? Would you like to join him on a small trip? Talk and rest for a moment?
+
+
+
+20. Reading with Rinnie, by Western Paladin
+------------------------------------------------------------------
+
+Type: Encounter (extended original game character)
+Availability: The house with the striped awning in AR0200 (FW0200 in Tutu), near the Grand Duke's palace
+Rating: Teen - some slightly suggestive language, but no explicit content or descriptions
+PC restrictions: Available to any male character
+Variables: RE1_RinnieEncounter (if you talk to her about her poem)
+RE1_RinnieSex (if things get intimate)
+
+Rinnie, a bard in Baldur's Gate, is looking for an obscure book about an obscure place. She's looking for inspiration and insight. She's also looking for a friendly, well-read adventurer to spend some time with - if you talk to her by yourself, you might find out more. 
+
+NOTE: The additional reply options for this encounter will only show, if the PC is alone with Rinnie.
+
+
+
+21. Molly the Husband-Grabber, by Kulyok
+------------------------------------------------------------------
+
+Type: Dialogue
+Availability: after entering Baldur's Gate, near the city gates
+Rating: teen content
+PC restrictions: all protagonists, special content for every male party member, including the PC
+
+This one is supposed to be comic relief. Ahem. Remember Salvanas the lecherous elf? Or that mom in the Temple District who wanted to get money for her little girl? Well, *this* girl is all grown up, and she wants a husband. There might just be one in your group, so be warned! And keep Xzar well away... or not. A little crazy, a little annoying, but certainly innocent and not evil. Much. Available near the entrance to Baldur's Gate, in the area with the Sorcerous Sundries.
+
+
+
+22. The Mourning of Centeol, the Spider Lady, by Lava Del'Vortel
+------------------------------------------------------------------
+
+Type: Quest (extending original game characters)
+Availability: Centeol's hideout, and Firewine Bridge (Poe)
+Rating: Teen content
+PC restrictions: No restrictions
+
+Love can hurt. Passion may curse. Envy may cause more suffering than any other sin. There's a very small, sometimes even invisible, line that separates love, commitment, and grief. There was a woman who once experienced each of these. All women and men have their limits, though. Many saw her fall and there was one who cursed her, who turned her into a pathetic being, lonely and mad.
+
+This component is a small mini-quest that shows exactly what Centeol felt before her fate was done. It also lets the player order a specal poem to make sure she won't be forgotten.
+
+
+
+23. The Essential End, by Lava Del'Vortel (mature content / teen version - WARNING)
+------------------------------------------------------------------
+
+Warning: This encounter includes attempts at sexual coercion. While all involved parties ultimately make free choices, the content may be triggering for some players.
+
+Type: Encounter
+Availability: Undercity
+Rating: mature content, teen version available (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: No restrictions
+Variables: Global("RE1_EssentionFlirt","GLOBAL",1) if the PC asks for the spirits power.
+SetGlobal("RE1_EssentionSex","GLOBAL",1) if the PC accepts the unition.
+
+...Every being has its own shade,
+Everyone from Essence was made.
+Let them feel your loud rage,
+And forever break the cage...
+
+...find me and I may give you power...
+
+
+
+24. The Harvestmen Lair, by Lava Del'Vortel
+------------------------------------------------------------------
+
+Type: Encounter
+Availability: N Baldur's Gate, outside The Three Kegs
+Rating: Mature content
+PC restrictions: No restrictions
+Variables: Global("RE1_HarvestmanFlirt","GLOBAL",1) if the PC follows the man into the hidden rooms (set at first visit).
+Global("RE1_HarvestmanSex","GLOBAL",1) if the PC agrees to intimate actions.
+
+
+Are you a fan of dark pleasures? Are you always looking for some new experience that can warm up every inch of your skin? Let these dark and deadly creatures take care of you. Tell them what you want. Use them the way you want. Take them both, or just one – you set up the rules.
+
+Visit Baldur's Gate, which – from now on – may offer something more than the Undercellar. Find a man outside The Three Kegs and listen to his offer and maybe you'll discover a new, well hidden area.
+
+
+
+25. The Great Zudini, by Kulyok
+------------------------------------------------------------------
+
+Type: Dialogue
+Availability: near the Diviner's tent in Central Baldur's Gate
+Rating: mature content
+PC restrictions: all protagonists, special content for every female party member, including the PC
+
+A counterpart for Molly, The Great Zudini is a fortune-teller for the ladies. All of them, including CHARNAME and ten lovely NPCs: Alora, Branwen, Dynaheir, Faldorn, Imoen, Jaheira, Safana, Shar-Teel, Skie and Viconia. Given how many of these ladies(or their husbands) meet a gruesome end in BG2, though, it's rather dark, hence the mature content warning. Oh, and don't forget to wash your hands before dinner! Because *that's* always good advice. 
+
+
+
+
+26. The Messenger, by Thimblerig
+------------------------------------------------------------------
+
+Type: Quest
+Availability: the Temple of Oghma in Candlekeep, the Prologue; the Vestibule of the Temple of Lathander (any chapter);
+Rating: general content
+PC Restrictions: none
+NPC Interactions: Imoen has a few things to say, but her presence is not required
+Variables: RE1_Messenger (1 met Sapientia, 2 taken Sapientia's quest, 3 met Blaise, 4 taken Blaise's quest, 5 random unhappy ending, 6 and 7 happy quest resolutions)
+
+An aged resident of Candlekeep, Sister Sapientia, would like you to pass a message to her friend Dawn Priest Blaise of the Temple of Lathander. Can old love ripen? Includes gentle romance, gentle humour, and people who cared about Charname before s/he got famous.
+
+Author's Notes:
+- The quest isn't very taxing, but there may be an unpleasant surprise in it.
+- If you don't get the quest from Sister Sapientia, you can pick it up halfway from Dawn Priest Blaise 
+
+
+
+27. Ender Sai: The Hero's Reward, by Thimblerig (WARNING)
+------------------------------------------------------------------
+
+Warning: This encounter discusses consent issues.  While all involved parties ultimately make free choices, the conversation may be triggering for some players.
+
+Type: Encounters (extended original game character)
+Availablilty: The Friendly Arm Inn, Chapter 4 (like, he will be gone in Chapter 5)
+Rating: Teen - no explicit content, but involves discussion of the consent issues tied to an old story trope
+PC Restrictions: available to all PCs, includes dialogue options for a range of alignments
+NPC Interactions: Jaheira and Khalid have a related banter
+Variables: RE1_EnderProposal - sets when either you or Ender raises the issue; RE1_EnderFlirt - if the pair of you go to his room; RE1_EnderSex - if you spend the night with him
+
+Ender Sai, the clever, soft-footed thief held captive in Tazok's Bandit Camp. You might have rescued him from his bonds, or maybe he just happened to survive. Either way, he feels he owes you for the continued existence of his battered hide and he's grateful... Find him in the common room of the Friendly Arm Inn, to the left of the bar to talk, drink, and discuss the Hero's Reward. 
+
+
+
+28. The Novelists, by Thimblerig
+------------------------------------------------------------------
+
+Type: Encounter
+Availability: the Blade and Stars common room, any chapter you're in the city; the Thieves' Guild, after the fight at the Ducal Palace;
+Rating: Gen-to-Teen, for mildly suggestive language;
+PC Restrictions: none;
+NPC Interactions: Skie, Eldoth, Xan, Imoen, and Garrick have minor interjections, none have to be present;
+Crossmod Interactions: If the BG1 NPC Project is installed, Ajantis, Branwen, Dynaheir, and Shar-Teel (if in a committed romance), Coran (if he's flirting with you in any form), and Xan (if he has the misfortune to be in the party) might have something to say;
+Variables: RE1_KDMeet 5 means they've committed to writing your book;
+
+Earning notoriety can have its rewards. Talk to Kitty and Dai in the Blade and Stars to find out how!
+
+Author's Notes: If they don't know who you are, push your Reputation to a high or low extreme to open up more dialogue; having major adventures under your belt when you interview Kitty and Dai will yield more options for the final content. 
+
+
+
+29. The Honest Lies of Two Riversides, by Lava Del'Vortel
+------------------------------------------------------------------
+
+Type: Quest
+Availability: Nashkel, at Night, and after having heard a rumour about them (from the bartender or the temple priest)
+Rating: Teen content
+PC restrictions: No PC restrictions
+Variables: No relevant variables
+
+There are stories of love and death. Of life and hatred. Sometimes these two mix: death becomes never-ending life, love becomes hatred, and lies turn into truth. Sometimes time is the most cruel torturer.
+
+Listen to two very specific ghosts and decide if you want to end their torture, if you want to finally free them so they can hold each other, feel, and together leave this world to which they are bound.
+
+
+
+30. Necromancer's Trouble, by jastey 
+------------------------------------------------------------------
+
+Type: Quest 
+Availability: N Baldur's Gate, the house with the blue roof, at the far right. Sidequests: Nashkel cemetary, N Baldur's Gate behind the Temple of Helm.
+Rating: Teen content
+PC restrictions: No restrictions
+Variables: No relevant variables
+
+Young girls' bodies are being stolen all of the Sword Coast! A necromancer is raising a deadly army! But... what does he need young girls for, then? Before the PC makes any more assumptions, best to search the old house and find out his true reasons.
+
+This quest can develop in different directions, depending on the PC's choices. Help the necromancer finish - for this, the PC needs blood, and there will be several choices, all introduced in N Baldur's Gate. Or convince him that it is evil what he is doing - then of course, the PC has two side quests to solve, one of them is what to do with a cow in Baldur's Gate? She surely doesn't belong there, so maybe there is a farm somewhere near Baldurs gate city that could need another helping hand? Or - maybe CHARNAME fancies a juicy piece of meat?
+
+You can also bring the blood of Abela the nymph to the necromancer, but beware, because killing a nymph results in a huge reputation loss (this is canon, I didn't change it).
+
+Note: In Chapter 7, the main quest and side quests can still be done, but there will be no reward from the Flaming Fist for it.
+
+
+
+31. Dinner with Thalantyr, by jastey
+------------------------------------------------------------------
+
+Type: Encounter (after item fed-ex, extended original game character)
+Availability: After the end of the Melicamp quest, a new reply option will appear. Learn about the book Thalantyr is searching for, bring it to him, and the great master Thalantyr can be talked into sharing a dinner with the PC.
+Rating: Teen. There is not even dirty language involved.
+Variables: RE1_ThalantyrFlirt, if the PC follows Thalantyr into his private quarters
+
+Ever wondered what happened to Thalantyr, the great master wizard, that made him hide away in a tower guarded by flesh golems? Well, after this component, you won't know, either, but your PC'll have a better idea of it for sure, plus having eaten a fine, warm dinner, and getting the warm and fuzzy fealing of pride that you, <CHARNAME> of Candlekeep, convinced a solitary, grumpy, mighty mage to actually share a dinner with you and feel oddly pleased about serving a young and naive adventurer as you!
+After finishing Melicamp's quest, Thalantyr will mention a book he is searching for. The PC can bring the book to him, and if <CHARNAME> does not accept gold for it, the mighty and rather grumpy old mage will have to think of something else to offer in return!... 
+
+As of v1.4, the component was expanded with "A Game of Chess with Thalantyr": After you shared dinner, talk to Thalantyr again to get an invitation to a game of chess with the mighty old mage. Well, of course he won't be enthousiastic about it. And, well, there is also a chess piece missing that would have to be replaced...  
+
+Note: ***spoiler***
+ The book in question can be found in Ragefast's home. He will give it freely if asked or/and not object to the PC just taking it.
+For the chess piece, the mod introduced a carpenter at the Nashkel Carnival. The ivory needed can be found in the ship wreck.
+
+
+
+32. Girdle of Gender Reactions, by Thimblerig, Kulyok, Domi, Lava, Lastknightleft, Twani, Jastey, and Daisy Ninja Girl
+------------------------------------------------------------------
+
+Type: Dialogue
+Availability: Triggers when the cursed girdle of masculinity/femininity is equipped on a character
+Rating: General, dialogue only, phrasing is sometimes a touch spicy but nothing a child couldn't read
+Variables: "RE1_GirdleGender#NPC#" (sets when girdle is equipped on them);"RE1_Girdle#NPC#PCDidIt" (sets when they notice the PC is equipped) ; "RE1_PCGender" (vanilla BG1 only: 1 for female, 2 for male)
+
+The ogre's girdle, the cursed belt, the sudden source of unexpected genitalia - some of your companions might find it a bit of a shock. Others might be intrigued, or reminded of past adventures... This component allows them to voice their thoughts on the matter.
+
+Features:
+
+- almost complete responses from NPCs equipped with the girdle (excluding Ajantis, Edwin, and Shar-Teel - see end notes);
+- partial responses from NPCs to equipping your PC;
+- a cheaper form of Remove Curse, for experimenters - talk to Gellana Mirrorshade (Friendly Arm Inn) with the belt in your inventory to get her solution.
+
+NPC Responses to Wearing the Girdle:
+
+Alora - no interjections - by Thimblerig
+Baeloth - no interjections - by Jastey
+Branwen - no interjections - by Kulyok
+Coran - no interjections - by Domi
+Dorn - no interjections - by Twani and Thimblerig 
+Dynaheir - no interjections - by Thimblerig
+Eldoth - interjection by Skie - by Kulyok
+Faldorn - no interjections - by Domi
+Garrick - Eldoth, Skie interject - by Thimblerig
+Imoen - Khalid, Viconia interject - by Thimblerig
+Jaheira - Khalid interjects - by Thimblerig
+Kagain - no interjections - by Thimblerig
+Khalid - Jaheira interjects - by Thimblerig
+Kivan - no interjections - by Domi
+Minsc - Alora, Branwen, Dynaheir, Faldorn, Imoen, Jaheira, Neera, Safana, Skie, Shar-Teel, and Viconia interject - by Thimblerig, with Kulyok, Jastey, and DaisyNinjaGirl
+Montaron - no interjections - by Thimblerig
+Neera - no interjections - Jastey and Twani 
+Quayle - Tiax interjects - by Lava
+Rasaad - no interjections - by Twani 
+Safana - no interjections - by Thimblerig
+Skie - Eldoth, Garrick interject - by Lava, with Thimblerig
+Tiax - no interjections, additional comment if you keep it on a while - by Lastknightleft
+Tiax-Safana Girdle Banter - by Lastknightleft
+Viconia - no interjections - by Thimblerig and Jastey
+Xan - no interjections - by Kulyok
+Yeslick - no interjections - by Thimblerig
+
+
+NPC Responses to PC Wearing the Girdle:
+
+Baeloth - F to M; M to F - by Jastey 
+Branwen - F to M; M to F - by Kulyok
+Coran - F to M; M to F; romanced - various bits by Domi or Thimblerig
+Dorn - full - by Jastey
+Dynaheir - F to M; M to F; romance - by Domi
+Faldorn - F to M - by Domi
+Garrick - F to M; M to F - by Domi
+Imoen - F to M; M to F - by Thimblerig
+Jaheira - full - by Domi
+Kagain - full, interjection by Yeslick - by Thimblerig
+Khalid - full - by Thimblerig
+Kivan - F to M; M to F - by Domi, and Thimblerig
+Neera - F to M; M to F - by Jastey and Twani
+Rasaad - F to M; M to F - by Jastey
+Safana - F to M - by Domi
+Shar-Teel - F to M - by Domi
+Skie - F to M, if PC has reasonable CHR - by Thimblerig
+Xan - full - by Kulyok
+
+Notes:
+
+- Ajantis, Edwin, and Shar-Teel have reactions present in the BG1 NPC Project, and so are not dealt with here. (Romanced Ajantis from BG1 NPC will also have something to say if the PC puts on the belt.)
+
+- For players of vanilla BG1 - if you install this halfway through a game, the NPCs will not notice your PC wearing the belt unless you manually set the Global "RE1_PCGender" - 1 for female PC, 2 for male PC.
+
+- If you are playing with the BG1 NPC Project (version 20 or lower), be advised that equipping the girdle on your PC may start romances with 'same sex' characters. This is BG1 NPC code, and is mentioned only because playing with the girdle is more likely to trigger the situation.
+
+Coders: Thimblerig, Jastey, Kulyok, Lava, and Berelinde
+
+
+
+
+33. The Surgeon's Dream, by Kulyok
+------------------------------------------------------------------
+
+Type: Encounters (extended original game character)
+Availability: Shipwreck's Coast (West from High Hedge)
+Rating: teen content (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: female protagonists
+Variables: RE1_SurgeonFlirt, if you choose to come away with the Surgeon
+RE1_SurgeonSex, if you choose to engage in an intimate encounter
+
+A lonely healer on the forsaken shore. A man who still feels guilty for not stopping his brother Davaeorn from becoming a slaver and a murderer, and thus heals all passing adventurers in penance. Among them - a certain young woman, who, whether she knows it or not, might be in a very similar situation... Will they pass like ships in the night? Or will the lightning strike, drawing them to each other?
+
+Talk to the Surgeon and decide. But be wary - you only have one chance at this. Otherwise he will heal your party and be gone.
+
+ATTENTION: The encounter only triggers if you ask the Surgeon about himself(last option)! If you just agree to the healing, he'll leave! 
+
+
+
+
+34. All That Left Was, by Lava Del'Vortel and Thimblerig
+------------------------------------------------------------------
+
+Type: Encounters
+Availability: by the Submerged House, near the road South of Beregost; Left will disappear between conversations for one to three days
+Rating: Teen content, with a fade-to-black for any intimacies
+PC restrictions: No restrictions
+Variables: RE1_LeftFlirt, if Left proposes; RE1_LeftSex, if the PC accepts
+
+Have you ever heard of a male witch? Have you ever met one in the forest? Have you ever wondered why they are so bound to their very own sanctuaries?
+
+Meet Left – a mysterious man who lives in a ruined house, who can see things no one else can see, and who can surprise you with a tale or two. Visit him from time to time, if you wish to know more about him, or leave him behind.
+
+This component offers ten talks that let the player develop a relationship with the male witch and discover his secrets. 
+
+
+
+35. A Childhood Friend, by Kulyok 
+------------------------------------------------------------------
+
+Type: Encounters
+Availability: Candlekeep, prologue and late game
+Rating: teen content
+PC restrictions: all protagonists
+Variables: none
+
+What if you had another good childhood friend in Candlekeep? Alec, an initiate of Oghma, is not going to become your full-time companion, but there is more than enough content for a story. This encounter introduces five conversations in total:
+1) prologue, near the Candlekeep Inn;
+2) prologue, near the shrine of Oghma;
+3) prologue, west of the barracks(come after dark if you want to enjoy the atmosphere fully);
+4) late game, near the entrance to the library;
+5) late game, the first floor of the Candlekeep Inn.
+You can cut your conversation short at any time. Doing so will end the encounter, however. And you'll miss the sock story!
+
+
+
+36. Arlene the Working Girl, by Kulyok 
+------------------------------------------------------------------
+
+Type: Encounters
+Availability: Beregost, Jovial Juggler, first floor, left from the door, in the corner
+Rating: teen content (some slightly suggestive language, but nothing explicit)
+PC restrictions: male protagonists
+Variables: RE1_ArleneSex, if you do the deed
+
+There are more than enough prostitutes in Beregost, but, alas, none would agree to perform any, ahem, services for a strapping lad fresh out of Candlekeep. This component introduces just such a woman - Arlene is a working girl, and she's all too happy to introduce you to some forbidden pleasures. This mod includes ten mini-encounters which can be played at any time in the game.
+
+Warning: nine of the encounters require a fee - 40 gold for the night. A girl has to earn a living, after all.
+
+
+
+37. Della May from Thay, by Kulyok 
+------------------------------------------------------------------
+
+Type: Encounters
+Availability: Spider Wood, east of Larswood. South of the Red Wizards' encampment, next to a tall fur tree.
+Rating: teen content (some slightly suggestive language, but nothing explicit)
+PC restrictions: male protagonists
+Variables: RE1_DellaFlirt, if you agree to come away with Della,
+RE1_DellaSex, if you agree to her proposal.
+
+Not every day a young Red Wizard tries to kill you, especially if this wizard is female. We already know that bounty hunters are very, very interested in our hero, but Della's interest is special. If you ask, she may even tell you more. But for now, you only need to know one thing: she's an acolyte of Thay, and she's been ordered to kill you. Although she really, really, really doesn't want to...
+
+Edwin may have a few words during the encounter, too. Denak's colleagues from the Spider Forest are mentioned, but they don't participate in the encounter. Fortunately.
+
+Warning: Della will attack if you cut the encounter short. She's been sent to kill you, after all.
+
+
+
+38.  A Dirty Guard in Candlekeep, by Kulyok (mature content - WARNING)
+------------------------------------------------------------------
+
+Warning: This encounter includes attempts at sexual coercion towards the PC. While all involved parties ultimately make free choices, the content may be triggering for some players.
+
+Type: Encounters
+Availability: prologue, Candlekeep Inn, second floor, if you steal the pearl out of the second room (counted from the stairs, locked chest for some games)
+Rating: mature content
+PC restrictions: female protagonists
+Variables: RE1_DirtyGuardWhipping, if he performs the punishment,
+RE1_DirtyGuardSex, if the heroine agrees to something more
+
+This encounter is only recommended if you enjoy roleplaying "a corrupt guard catches a female thief and decides to punish her himself, and she likes to be punished to avoid arrest" situations. The heroine can leave at any time, and the guard doesn't press or threaten her with anything beyond telling about her stealing (and it's likely she'd just be given a warning and not be otherwise punished), but please, be warned: the encounter involves whipping and lots of dirty talk. There's also a sexual encounter - but only if the heroine agrees to it.
+
+
+
+39.  Phoenix Flame, by Kulyok (mature content)
+------------------------------------------------------------------
+
+Type: Encounters (extended original game character)
+Availability: Nashkel, if you click the grave with "Mark D" text on it
+Rating: mature content
+PC restrictions: female protagonists
+Variables: RE1_PhoenixFlirt, if you agree to go with the wizard;
+RE1_PhoenixSex, if you agree to the intimacy;
+RE1_PhoenixRitual, if you perform the ritual to the end.
+
+That wizard in Nashkel's graveyard... the one that summons his Phoenix Guards. He's up to something big, is he? Up to something really interesting? What can it be? What if he can grant you a promise of immortality - and a dangerous ritual to go through with it? And what if this ritual involves... intimacy?
+
+There is only one way to find out. 
+
+
+
+40. Mikala the Monk, by Twani
+------------------------------------------------------------------
+Type: Encounters 
+Availability: Nashkel, Belching Dragon, after clearing the Nashkel Mines (Chapter 3 or higher)
+Rating: mature content, teen version available (some slightly suggestive language, but no explicit content or descriptions)
+PC restrictions: female protagonists (human, elf, half-elf, halforc (except BG1))
+Variables: RE1_MikalaFlirt = 1, if you agree to drink wine with her;
+RE1_MikalaSex = 1, if you agree to the intimacy;
+
+The Hero of Nashkel. A fine title after all the work our heroine has done in stopping the Iron Crisis. In the Belching Dragon awaits a woman quite interested in meeting the saviour of the mines. Join her for a drink, and perhaps something more...
+
+
+
+41.  The Messenger 2: Rain or Snow or Gloom of Night, by Thimblerig and tibicina
+------------------------------------------------------------------
+Type: Quest
+Availability: Coast Way
+Rating: General. Some morbid humour when you talk to Bartleby.
+PC restrictions: none
+Variables: "RE1_RainSnow" spawns the messenger and also counts the delivered letters
+
+Not rain nor snow nor gloom of night shall stay a messenger of the Longwalker Messenger Guild from their duty but a bandit attack will. A dying halfling on the Coast Way wants you to deliver his last package of letters: a bundle of love, laughter, and loss for various inhabitants of the Sword Coast.
+
+(Some minor quest rewards per delivery, plus an extra if you deliver all of them.)
+
+*
+*
+*
+
+If you get stuck:
+- Find Bartleby Quickfoot on the Coast Way, near a downed caravan;
+- Maple Willow Aspen, second floor of the Blade and Stars, SE Baldurs Gate;
+- Garrick, in Beregost, or while he is a member of your party; has a follow-up dialogue if he is removed from the party;
+- Nessie, in the Friendly Arms Inn;
+- Firebead Elvenhair, in his house in Beregost;
+- Skie, when first meeting her, or while she is a member of your party; has a follow-up dialogue;
+- Stephan, in the Cloakwood Mines after killing Davaeorn, then in the Elfsong Tavern; Alyth, in the Elfsong Tavern;
+- Silence, in the Shop of Silence, in E Baldurs Gate;
+- Bartleby's Ghost should appear after the final letter has been delivered.
+
+
+
+42.  Camryn and Tamah, by tibicina
+------------------------------------------------------------------
+Type: Quest
+Availability: Candlekeep, when returning Phlydia's Book; Tamah in Mutamin's Garden (Stone to Flesh scroll is needed)
+Rating: General. For Teen Version, three letters with slightly suggestive language will be skipped.
+PC restrictions: none
+Variables: "TICamryn" counts the quest progress with regard to Camryn, "TITamah" is for quest progress with Tamah. "TICamrynTamah4" > 0 is set if the PC was rude to Tamah after de-petrification; "TISCRLLove" is incremented for every love letter the PC brings to Tamah; "RE1Cam_RewardLetters" = 1 if the PC demands to be paid for the letters.
+
+Before the departure from Candlekeep, the PC is told the story of the love-affair and eventual breakup of Camryn, the Master Illuminator and Scribe for Candlekeep, and his headstrong lover, Tamah. Should the PC be willing, s/he can collect up to thirteen (teen version: ten) letters written by Camryn and expressing his feelings on different aspects of his love for Tamah. These letters, if taken to Tamah, will influence the outcome of the pair's long-standing love-affair.
+
+Note:
+The letters are hidden in books, as the PC learns if returning the book to Phlydia in Candlekeep. To make the books unique, they are given a slight different image than the normal books in BG1. To remove the letters from the books, place each book into the quick item slot and "execute" via quick item bar. For each book, this will put the book (without letter) and a letter into the inventory.
+
+*
+*
+*
+
+If you get stuck:
+The books with hidden letters can be found:
+-House #2 (Friendly Arm Inn)
+-Friendly Arm Inn (Level 3)
+-Landrin's House (Beregost)
+-Firebead's House, 2nd Floor
+-Feldepost's Inn (Level 2: Tranzig's room)
+-Jenkal's House, Gullykin
+-Beregost (Travenhurst Manor)
+-Cloakwood Mines (Davaeorn's Quarters)
+-Ramazith's Tower (Level 4)
+-Ragefast's House
+
+For non-Teen Version, three more books can be found:
+-Nashkel (Manor House)
+-Nashkel Carnival (Zordral's Tent)
+-Cloakwood Lodge
+
+List of references of used poems see below.
+
+
+
+43.  Minor Disclosures, by jastey
+------------------------------------------------------------------
+Type: Series of encounters
+Availability: Elfsong Tavern, 2nd floor, in the small room in the northwest corner
+Rating: teen content, with slightly suggestive language.
+PC restrictions: none
+Variables: "C#LCINT_Spawn" is incremented along the encounters.
+
+Elfong Tavern has a neat little room for private encounters but it's difficult to have private meetings when there is no door that can be locked... So, it's not the PC's fault if s/he interrupts a flirtatious dinner by walking into it once or twice, or thrice... is it?
+
+Note: There are 7 encounters in total. Timer between encounters is one hour real time (or 12 days for BG1:TotSC). The last encounter does not happen before chapter 6.
+
+
+
+44.  Cloakwood Lovers, by tibicina
+------------------------------------------------------------------
+Type: Encounter
+Availability: Cloakwood Mines, Level 3, in the chapel
+Rating: teen content
+PC restrictions: none
+Variables: Global("TICLove","GLOBAL",2) after the encounter is run
+
+There's a chapel and altar in the mines. Why not a wedding? Love, as we all know, can happen anywhere, and bandits and mercenaries have feelings, too. Of course, Cordelia and Dispero have chosen the worst possible day to have their wedding when they get uninvited guests - you!
+
+
+
+Bonus quest: Scar - The Return, by jastey
+------------------------------------------------------------------
+
+Type: Quest
+Availability: Precondition is the visiting of Scar's private quarters. Later, talk to Duke Eltan about how Scar was murdered (in the Harbour master's house). This will trigger the quest to find Scar's body. (Components "Scar's Spare Time" and "Duke Eltan's Spare Minute" have to be installed AND the PC has to visit Scar in his private quarters at least shortly)
+Rating: Teen content. Nothing in terms of sexual, but we are dealing with the search for the corpse of a murdered man.
+Variables: None of interest for crossmod romance conflict
+
+Ever felt bad about Scar's murder? Ever wanted to look for his vanished body, cuddle him in your arms and cry "NOOOOOOO!"? This component gives you the possibility to do so. It also gives your PC the possibility to say good bye to the former Second in Command in person, if you sneak one last time to the harbor master's building before following Sarevok into the maze. But psst - Scar wants you to keep his profile low, because one death is just enough.
+
+Note: You can also prepare Scar's resurrection without having to deal with his body at all. Just tell the appropriate persons that Duke Eltan should be informed, and it will happen behind the scenes. This is for people who do not like the thought of corpses in their back pack.
+
+
+More spoilers: *** After talking to Duke Eltan about Scar's murder, go search for Donnerjan's Second Hand Shop (he is in a public area in Baldur's Gate City), buy the right item from him (the PC will remember), and talk to him again. From there, the PC has to talk to several different ex-servants of the Flaming Fist, each giving the needed next step until finally the trail can be followed to locate Scar's body. Duke Eltan has to be talked to several times about it. After Duke Eltan has told about Scar's funeral, a timer of one day will start. After this timer run out and the PC unmasked Sarevok in the Palace (before following him into the maze), Scar can be met in the Harbor Master's Building. Talk to Duke Eltan again to trigger the meeting. ***
+
+
+
+
+----------------
+IV. List of Serious Encounters and Quests
+---------------- 
+
+BG1 Romantic Encounters has quite a few components that do not deal with intimacies for the PC at all. Others can be played without them and leave a very nice encounter or even a quest.
+This post gives a list of these componens, because a lot of work and love went into them and they are worth being noted as serious quest encounters!
+ 
+IV.1 Components with absolutely no offer for intimacies:
+ 
+6.  Duke Eltan's Spare Minute (prerequisition for bonus component "Scar - The Return")
+14. No Regrets
+17. Late Night with Jaheira
+18. Sil's Blessing
+22. The Mourning of Centeol, the Spider Lady
+25. The Great Zudini
+26. The Messenger
+28. The Novelists
+29. The Honest Lies of Two Riversides
+30. Necromancer's Trouble
+31. Dinner with Thalantyr
+32. Girdle of Gender Reactions
+41. The Messenger 2: Rain or Snow or Gloom of Night
+42. Camryn and Tamah
+43. Minor Disclosures
+44. Cloakwood Lovers
+Bonus Quest: Scar - The Return
+ 
+IV.2 Components that can be played without them and offer extended dialogues, encounters or even a quest:
+ 
+2.  Scar's Spare Time (prerequisition for bonus component "Scar - The Return")
+9.  Bartus' Seduction
+19. Melicamp: The Poultry Boy
+27. Ender Sai
+34. All That Left Was
+35. A Childhood Friend 
+
+
+
+
+
+----------------
+V. List of Encounters, Sorted by Location
+---------------- 
+
+
+-------------------------------------------------------------------------
+Baldur's Gate 
+-----------------
+Central, area with the carnival: 			The Great Zudini, 
+							Scar - The Return
+
+N, The house with the striped awning: 			Reading with Rinnie
+
+N, outside The Three Kegs: 				The Harvestmen Lair
+
+N, the house with the blue roof, at the far right: 	Necromancer's Trouble
+
+NE, lower level, "House 1" in Dudleyville's walkthrough: No Regrets
+
+NE, The Undercellars: 					Purchased Love, 
+							Slythe and Krystin 
+
+NW, Entar Silvershield's Estate, 2nd floor		The Messenger 2: Rain or Snow or Gloom of Night
+
+E, area with the Sorcerous Sundries: 			Molly the Husband-Grabber, 
+							Chatting Niklos Up
+
+E, Elfsong Tavern, ground floor: 			Husam's Personal Preparation, 
+
+E, Thieves' Guild: 					Husam's Personal Preparation (2nd), 
+
+E, Silence's Shop: 					The Messenger 2: Rain or Snow or Gloom of Night
+							The Novelists (if accepted)
+
+SW, Flaming Fist Headquarters and in front of it: 	Scar's Spare Time
+
+SE, Blade and Stars ground floor: 			The Novelists
+							The Messenger 2: Rain or Snow or Gloom of Night
+
+W, Ragefast's House: 					Dinner with Thalantyr 
+							Camryn and Tamah
+
+Docks, Harbor Master's building, Chapter 7: 		Duke Eltan's Spare Minute, 
+							Scar - The Return
+
+Docks, the Low Lantern: 				Purchased Love
+							Bartus' Seduction
+
+
+-------------------------------------------------------------------------
+Bear River						Laurel's Post-Hunting
+
+
+-------------------------------------------------------------------------
+Beregost
+--------------
+Main area:						Bartus' Seduction
+							The Messenger 2: Rain or Snow or Gloom of Night
+
+Feldepost's Inn, Level 2: 				Camryn and Tamah
+
+Firebead Elvenhair's house, 1st floor:			The Messenger 2: Rain or Snow or Gloom of Night
+
+Firebead Elvenhair's house, 2nd floor: 			Camryn and Tamah
+
+Jovial Juggler: 					Arlene the Working Girl, 
+							Extension of Bjornin Encounter, 
+							Bartus' Seduction (female PC)
+
+Landrin's House: 					Camryn and Tamah
+
+Temple, vestibule: 					The Messenger 
+
+Travenhurst Manor: 					Camryn and Tamah
+
+
+-------------------------------------------------------------------------
+Candlekeep
+---------------
+Prologue: 						Alec (A Childhood Friend), 
+							Dirty Guard,  
+							Hull: Heavy Duty, 
+							The Messenger
+							Camryn and Tamah
+
+Chapter Six: 						Alec (A Childhood Friend), 
+							Kim's Preoccupation
+							Camryn and Tamah
+
+-------------------------------------------------------------------------
+Cloakwood
+-------------
+Centeol's spider nest: 					The Mourning of Centeol, the Spider Lady
+
+Mines, First subterranean level: 			No Starch in the Maypole
+
+Mines, Third subterranean level: 			Cloakwood Lovers
+
+Mines, 4th subterranean level: 				The Messenger 2: Rain or Snow or Gloom of Night
+							Camryn and Tamah
+
+
+-------------------------------------------------------------------------
+Coast Way
+-------------
+Main area:						The Messenger 2: Rain or Snow or Gloom of Night
+
+
+-------------------------------------------------------------------------
+Elfsong Tavern
+-------------
+2nd floor:						The Messenger 2: Rain or Snow or Gloom of Night
+								Minor Disclosures,		
+
+-------------------------------------------------------------------------
+Firewine Bridge						
+--------------
+Main area:						The Mourning of Centeol, the Spider Lady (dialogue with Poe if the PC has the diary)
+
+
+-------------------------------------------------------------------------
+Friendly Arm Inn
+--------------
+Ground floor: 						Lina's Massage, 
+								First Night with Quentin, 
+								Ender Sai: The Hero's Reward (Chapter 4)
+								The Messenger 2: Rain or Snow or Gloom of Night
+
+Level 3:						Camryn and Tamah
+
+House:							Camryn and Tamah
+
+
+-------------------------------------------------------------------------
+Gullykin
+--------------
+Jenkal's House: 					Camryn and Tamah
+
+-------------------------------------------------------------------------
+High Hedge
+--------------
+Thalantyr's home: 					Melicamp: The Poultry Boy, 
+							Dinner with Thalantyr
+
+
+-------------------------------------------------------------------------
+Lighthouse Area						Sil's Blessing
+
+
+-------------------------------------------------------------------------
+Low Lantern						Purchased Love
+
+
+-------------------------------------------------------------------------
+Nashkel
+-------------- 
+Main area:						Bardolan's Briefing, 
+							Late Night with Jaheira, 
+							Phoenix Flame 
+							The Honest Lies of Two Riversides
+							Necromancer's Trouble
+
+Belching Dragon: 					Mikala the Monk
+
+Carnival:						Dinner with Thalantyr (A Game of Chess) 
+
+Carnival, Zordral's Tent: 				Camryn and Tamah
+
+Manor House: 						Camryn and Tamah
+
+
+-------------------------------------------------------------------------
+Ramazith's Tower
+--------------
+Level 4:						Camryn and Tamah
+
+-------------------------------------------------------------------------
+Spider Wood	 					Della May from Thay
+
+
+-------------------------------------------------------------------------
+Shipwreck Coast						The Surgeon's Dream
+							Dinner with Thalantyr (A Game of Chess) 
+
+
+-------------------------------------------------------------------------
+South Beregost Road
+--------------
+by the Submerged House: 				All That Left Was
+
+
+-------------------------------------------------------------------------
+Undercity						The Essential End
+
+
+
+
+----------------
+VI. Installation
+----------------
+ 
+General (Windows, Mac OS X, and Linux)
+Make sure you back up your dialog.tlk file (and dialogf.tlk, if it exists), just to be sure. Extract the contents of the mod archive to your game's main folder.
+
+
+Note: Before installation, uninstall any version of BGQE older than v.9, or the Bjornin encounter will be choked. There is no automatic detection! 
+
+
+To install the mod, follow the instructions:
+
+NOTE: For BG:EE it is important that you istall the mod to the language version you are playing the game in. Otherwise, the dialogues of the mod will not show but give error messages.
+If you have BG:EE / SoD from Steam or GOG, please note that you need to run the modmerger first. Otherwise, installing the mod might break the game. 
+Link: https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
+
+Link (deprecated): https://forums.beamdog.com/discussion/50441/modmerge-merge-your-steam-gog-zip-based-dlc-into-something-weidu-nearinfinity-dltcep-can-use
+
+Windows
+On successful extraction, there should be an bg1re folder and a setup-bg1re.exe file in your game folder. To install, simply double-click setup-bg1re.exe and follow the instructions on screen.
+Run setup-bg1re.exe in your game folder to reinstall, uninstall or otherwise change components.
+
+Mac OS X
+Make sure you have the Mac OS X version of the mod (named "OSX-bg1re-vx.zip"). If properly extracted, you should have a bg1re folder, setup-bg1re, and setup-bg1re.command in your game's main directory folder. To install, simply double-click setup-bg1re.command and follow the instructions on screen.
+
+Linux
+Download the latest version of WeiDU for Linux from WeiDU.org and copy WeiDU and WeInstall to /usr/bin. Following that, open a terminal, cd to your BG installation directory, run 'tolower' and answer Y to both queries. You can avoid running the second option (linux.ini) if you have already ran it once in the same directory. To save time, the archive is already tolowered, so there is no need to run the first option (lowercasing file names) either if you have extracted only this mod since the last time you lower cased file name. If you are unsure, running tolower and choosing both options is the safe bet.
+Run WeInstall setup-bg1re in your game folder to install the mod. Then run wine BGMain.exe and start playing.
+
+
+NOTE: BG(II):EE are actively supported games. Please note that every patch update will wipe your current mod setup! If in the middle of a modded game you might want to delay the patch update as even after reinstalling the mods, you might not be able to continue with your old savegames. 
+
+For DEINSTALLATION, double click the exe again and chose [u] uninstall (for Windows. Analogous for the other systems).
+
+You have to start a new game to play the mod.
+
+If you have installation problems or encounter any bugs, please post your bug report in one of the forums given below.
+
+Direkt links: 
+English forum: http://gibberlings3.net/forums/index.php?showforum=191
+
+
+----------------
+VII. Compatibility
+----------------
+
+Baldur's Gate Romantic Encounters Modification is coded using WeiDU and does not overwrite any files. It should be compatible with most other (WeiDU) mods. 
+
+If you play it with the original BG, the mod is compatible with MotSC (= TWM)
+
+For compatibility, please stick to the install order:
+
+bg1npc project - bg1re - bg1ub - Jarl's Adventure Pack (v0.7)
+
+----------------
+VIII. Known Issues
+----------------
+
+-Items in bags might not be recognized by quest NPCs. Take items out of bags / inventory containers before talking to quest NPCs. This happened for some letters of "Camryn and Tamah" and is an engine issue. The letters were recognized after opening the bag once before reinitiating dialogue with Tamah.
+
+-classic BG1(TotSC): the cutscene in AR0200 does not blacken the area graphics. This seems to be a glitch of the area.
+
+----------------
+IX. Crossmodding
+----------------
+
+
+You are welcome to add reactions to the encounters to your own mod. The variables for crossmod content are given for each component in the description above. In general, there is the Global variable "RE1_characternameFlirt" to check whether the PC showed interest in intimate activities ("flirted"), and the Global variable "RE1_characternameSex" if sexual activities really occurred.
+
+Please note: For some encounters the "Flirt" variable can be of higher value then "1" (e.g. Lars in the Low Lantern). Thus, we advice to check for GlobalGT("RE1_characternameFlirt","GLOBAL",0) and GlobalGT("RE1_characternameSex","GLOBAL",0), respectively.
+
+
+
+
+
++++++++++++++++Please do not translate below here ++++++++++++++++++++++++
+
+
+
+----------------
+X. Credits
+----------------
+
+Balquo: coder
+berelinde: the mod's initiator, contributor, coder, alpha tester, proof reader
+Cahir: beta tester
+Claire Luna: beta tester
+Contessa: beta tester
+Daisy Ninja Girl: alpha tester
+David Fanany (Western Paladin): contributor, alpha tester
+Deltarno: beta tester
+Dyara: Beta tester v1.2
+Eryrwyn: beta tester
+Greenhorn: beta tester
+jastey: mod maintenance, contributor, coder, alpha tester, beta tester
+justthisguyrevamp: beta tester
+Kulyok: contributor, coder, alpha tester, beta tester
+Lava Del'Vortel: contributor, coder, alpha tester, area edits, BAM artist
+LastnightLeft: contributor
+Lingz: beta tester
+Miloch: area edits
+mimikoi: beta tester 
+MissBehave: beta tester
+MrWallac: beta tester
+Notabarbiegirl: beta tester
+nurgles_herald: beta tester
+NybCR: beta tester
+Runa: beta tester
+SapphireIce101: beta tester
+Sebastian W: beta tester
+SharDaSlayer: beta tester
+StoneDog: proof reader
+Tarlonniel: beta tester, proof reader
+Thimblerig: contributor, coder, alpha tester, beta tester, proof reader
+tibicina: contributor, alpha tester, proof reader
+Twani: contributor, alpha tester, proof reader
+Vanguard: beta tester
+
+German translations: Gerri, jastey. 
+
+----------------
+XI. Tools Used
+----------------
+
+Infinity Explorer			http://infexp.sourceforge.net
+IESDP					https://gibberlings3.github.io/iesdp/index.htm
+Near Infinity				https://forums.beamdog.com/discussion/30593/new-versions-of-nearinfinity-available/p1
+WeiDU					https://github.com/WeiDUorg/weidu/releases/latest
+ 					(formerly: http://www.weidu.org)
+BAM Workshop				http://wwww.teambg.eu/?page=tools&cat=32
+
+grepWin					http://tools.stefankueng.com/grepWin.html
+WinMerge				http://winmerge.org/
+
+Modding communities, tutorials and technical assistance:
+
+The Gibberlings Three			https://www.gibberlings3.net/
+Pocket Plane Group			http://pocketplane.net
+Spellhold Studios			http://www.shsforums.net/
+Kerzenburgforum (German)		https://www.baldurs-gate.de/index.php
+
+Further Links:
+DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
+
+
+
+----------------
+XII. History
+----------------
+
+Version 3.0:
+-installer of main component changed to SUBCOMPONENTs (substitute for READLN, for compatibility with ALIEN's Project Infinity)
+-new German translation by Gerri ("Cloakwood Lovers", "No Regrets")
+-"Sil's Blessing": Cordyr's quest can be completed even if the Sirene's are not killed; compatibility with Lure of Sirine's Call improved (Sirines will not get hostile if PC states that they want to loot the treasure if Sil just stated vir LoSC that they may do so.)
+-"The Novelists": will remain in the thieves guild until player read the book (also until after Sarevok's death if game continues)
+-"Bardolan's Briefing": no "No Valid Links or Replies" error if playing the non-descriptive version
+-"Mikala the Monk": Mikala won't "have nothing to say" in case she was talked to with another NPC first (trigger NumTimesTalkedTo(0) replaced with a variable)
+-"Scar's Return": Donnerjahn's Second Hand Shop has mapnote now. Donnerjahn shouldn't stand inside commoner.
+-"Della May from Thay": should be female; PC should not say that Denak et al are dead if they aren't.
+-"Cloakwood Lovers": should not talk to invisible NPC.
+-"Camryn and Tamah": letters items should not be stackable.
+-"Childhood Friend": -Alec should not be powerful mage with droppable robe and many XP. Alec should only spawn at next meeting if he wasn't killed. Alec should turn hostile if attacked.
+-"Girdle Reactions": Kivan should not mix up male/female PC reactions.
+-(BG1:TotSC) "Honest Lies of both Riversides": Reward stone should vanish after charges are up.
+-(BGT) "Dinner with Thalantyr": Ragefast can be talked to after Abela left even if Ramazith's quest was not accepted
+"The Essential End": tagged with warning as it contains elements of coercive sexual actions.
+-"Necromancer's Trouble": no longer tagged with warning because there is no sexual abusive content.
+-(Tutu) %tutu_var% added to bardol.cre patching 
+-#8 changed to #32 for script name patching
+-(BG:EE) Alora(6).cre does not need override script patching
+-bg1re.ini added to support ALIEN's Project Infinity
+
+Version 2.7:
+-(German version) "The Messenger": text of Dawn Priest Blaise does not display lines from setup.tra
+-List of Serious Encounters and Quests added to readme
+-readme renamed to unique name "bg1re.readme.english.txt"
+-update to WeiDU v246
+
+Version 2.6:
+-"Girdle of Gender Reactions" fixed Kivans PC M->F reaction. TotSC: All interjections of other NPC will show for Minsc's girdle change
+-"The Honest Lies of Two Riversides" journal entry about Brage will no longer be doubled (entry added by mod matches the original one). Stone pepple now gives the real spell "Blur" with AC and saving throw bonuses, for 120 s.
+-"Sil's Blessing" (TotSC) Sil can only be talked to once for her blessing.
+-(TotSC) "The Messenger" All lines of Dawn Priest Blaise will now show in dialogue (rearranged CHAIN syntax a bit)
+- "Husam's Personal Preparation" Husam will disappear after PC descended into the maze to follow Sarevok (is in changelog for v2.0 but wasn't present yet)
+
+
+Version 2.5: 
+- "Eltan's Spare Time" (BGT, EET): Eltan no longer spawns twice in the Harbormaster's Building; Duke Eltan will be gone after Sarevok is dead (for BGT, unless Scar's return is still open)
+- "Scar's Return": (BGT) Scar can also be met after Sarevok is dead, if the quest proceded until the point where Eltan told about the funeral before.
+-"All that Left Was": resting at Left's at the second meeting no longer hangs the cutscene
+-reworked legal note according to Wizards' Fan Content Policy. 
+-update to WeiDU v245 (Windows)
+
+
+Version 2.4:
+-"Necromancr's Trouble": Ramazith now agrees to sell Nymph's blood (but his conditions are inacceptable).
+-(BGT) all journal entries will be deleted upon transition to BGII
+-(German version) "Bardolan": changed "Kommandant" to "Hauptmann"
+-(compatibility) changed DV of %tutu_var%poe back to "poe" (compatibility with bg1npc and MotSC (= TWM)!)
+-g3_bgee_cpmvars.tpa corrected (Post dialogue for Dynaheir and Jaheira - not important for this mod)
+
+
+Version 2.3:
+
+-("Bardolan's Briefing": compatibility with JAP) original Bardolan now disappears after the first meeting at the bridge in case he didn't (so bg1re's meeting in the barracks can take place.) Encounter variable "C#LC_BardolanMoves" now closes to 5 if private meeting is rejected, as well.
+-new German translation by Gerri: "Bartus' Seduction"
+
+Version 2.2:
+
+-("Camryn and Tamah") original journal entry (dlg state 4,5,6) of Tamah's quest will be removed as soon as it's written (by area script)
+-("Camryn and Tamah") added one more journal entry for Tamah if PC demanded her house
+-(BGT, Tutu; BG:EE, EET) ("The Messenger 2: Rain or Snow or Gloom of Night") quest spell doesn't show at spell table any more
+-(EET) ("The Honest Lies of Two Riversides", "The Novelists", "Necromancer's Trouble") area scripts are now correctly patched with quest script blocks
+-(compatibility) ("Bardolan's Briefing") altered Bardolan's reaction at first meeting a tiny bit to introduce another line so the variable for his meeting will be set (if BG1NPC is installed and Kivan / SharTeel are interjecting into the dialogue, there was an instance where the variable did not get set and Bardolan wouldn't show in the barracks.)
+-(SoD from GOG/Steam) Mod won't install on Steam/GOG SoD if your SoD game is not modmerged.
+
+Version 2.1:
+-fixed installer from leftover backup infos
+-(Readme) added tibicina to the credits!
+-backup folder now contains all mrk files
+-updated to WeiDu v242 (Windows)
+
+Version 2.0:
+-(bug fix) "First Night with Quentin": added missing option for PC to change her mind for the install choice "Descriptive version"
+
+-(bug fix) "Lina's Massage": fixed a wrong transition
+
+-(New component) "The Messenger 2: Rain or Snow or Gloom of Night", by Thimblerig and tibicina
+
+-(New component) "Camryn and Tamah", by tibicina
+
+-(New component) "Interruptions", by jastey
+
+-(New component) "Cloakwood lovers", by tibicina
+
+-(Additional content) "The Mourning of Centeol, the Spider Lady": PC gets Centeol's wand as quest reward if Poe finished his poem
+
+-(compatibility) added direct EET compatibility
+
+-(compatibility) "Duke Eltan's Spare Minute", BGT+EET: The mod version of Duke Eltan will be removed if Sarevok is defeated
+
+-(compatibility) removed / added %BGT_VAR% to enable / disable quests in BGII-part of EET as appropriate (The Great Zudini will not show for BGII)
+
+-(game fix) "Husam's Personal Preparation": mod fixes broken transition for original HUSAM.dlg that would pevent Husam from leaving the thieves' Guild; BGT + EET: Husam will leave after Sarevok is defeated; BG1(TotSC): fixed broken spawn of Husam before PC goes down into the maze
+
+-(internal) optimized the tra handling to prevent doubled setup.tras
+
+-(internal) changed the patched script names of ingame cres to the cre file name instead of the creature's ingame name (and hope that this was a good idea)
+
+-(translations) completed german translation for "necromancer's trouble" by Gerri and jastey
+
+-(typos) changed Faerun to Faerûn
+
+-Readme: Added a paragraph "Known Issues"
+
+Version 1.6
+"Late Night with Jaheira":
+--(BGT) fixed wrong dream script patching that would break Jaheira's BGII romance night talks
+
+Version 1.5
+"Dinner with Thalantyr": Fixed dialogue loop at the end of the dinner and several small oversights in the "game of chess" addition
+"Bartus' Sduction" / "The Honest Lies of Two Riversides": Fixed install warnings for BG1(TotSC)
+
+Version 1.4
+"Purchased Love", Summer Umbrella:
+--corrected doubled "DO ~SetGlobal("RE1_SumUmTalk","GLOBAL",7)~"
+
+"Extension of Bjornin Encounter (Personal Wound Treatment)":
+-- fixed incompatibility with RE Bjornin cre 
+
+"Bartus Seduction": 
+--new version finished
+
+"Scar's Return": 
+--Donnerjan's Second Hand Shop now announces himself if the wares are available
+--reworked triggers in Donnerjan's dialogue to close holes if PC cannot play Scar's Return quest
+--Duke Eltan no longer mentions the possible whereabouts of Scar's body if the PC wasn't in Scar's quarters.
+
+"Duke Eltan's Spare Minute": 
+--Duke Eltan now tells the story mentioned in the Faerûn Wiki (http://forgottenrealms.wikia.com/wiki/): A doppelganger took on Scar's identity to approach him and attack him afer Scar was murdered.
+
+"Dinner with Thalantyr"
+--new addition: Dinner with Thalantyr now expanded with "A Game of Chess with Thalantyr"
+--added reply options so the dinner with Thalantyr does not automatically end after chosing the reply option "Flattery? I am speechless."
+
+"Honest Lies on both Riversides":
+--Fixed infinite XP reward for PC with INT > 13
+--Talking to Nalin (priest) about the ghosts will now add the journal entry about Brage, too
+
+"Laurel's Post Hunting"
+--no longer fully explores the area BearRiver
+
+"Necromancer's Trouble"
+--no longer spoils Arkion's quest if talked to him first time with the mourning mother's daughter 
+
+"Bardolan's Briefing"
+-Bardolan no longer initiates dialogue inside the garrison
+
+-more German translations 
+
+-typo corrections
+
+-g3_bgee_cpmvars.tpa: corrected spelling errors (not relevant for bg1re, though)
+
+-changed the bmps for BG:EE to BAMs (compatibility to v2.x)
+
+-update to weidu v240
+
+
+Version 1.3
+-Hull's sword now has the proficiency "Long Sword" for BGII engine + B:EE
+-BG:EE: Thalantyr's dialogue no longer crashes the game
+-more German translations added
+
+Version 1.2
+-Reading with Rinnie: fixed error in cutscene call
+-The Mourning of Centeol: Poe now takes the diary when asked to make it into a poem
+-Necromancer's Trouble: No longer prevents the Chapter increment and the movie etc. upon entering Nashkel for the first time
+-(BGT) All that Left Was: Fixed Imoen's script variable for one of her interjections
+-All that Left Was: inserted "Detect("npcname")" triggers for the NPC interjections
+-Extention of Bjornin Encounter (Personal Wound Treatment): rearranged the reply options leading to the wound treatment a bit, also the rep check so the reply options is easier to find. Added journal entry, also tweaked dialogue a bit more, and Bjornin now reacts to the PC being half-orc.
+-German part version added (thank you to Gerri for the first translated components)
+-typos
+-Bjornin now has one extra line for a half-orc PC
+-removing of utf-8 formatted tra-files: HANDLE_CHARSETS now handles the text formatting
+-update to WeiDU v237
+-cre-file of priest Blaise provided with script name and dialogue file (no change of the tp2)
+
+Version 1.1
+-tweaking of text line to make the private Bjornin encounter less ambiguous
+-tweaking of Dirty Guard encounter to remove verbal threats towards the PC
+-shortened the Bartus component to remove too dark content
+-re-arranged the installer for a new install choice "skip components with warnings" plus according readme-edits
+-removed listing of vanilla BG1 from the readme's compatibility list
+
+Version 1
+-initial release
+
+
+
+----------------
+XIII. Legal Information
+----------------
+
+=============================================================================
+This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+This mod is also not developed, supported, or endorsed by BioWare, Black Isle Studios, Interplay Entertainment Corp., Overhaul Games or Beamdog. All other trademarks and copyrights are property of their respective owners.
+=================================================================================
+
+
+=============================================================================
+REDISTRIBUTION NOTE: The Baldur's Gate Romantic Encounters Modification was created to be freely enjoyed by all Baldur's Gate players and may not be sold.
+=============================================================================
+
+List of references of used poetry for the books in "Camryn and Tamah":
+----------------------------------------------------------------------
+"Astrophil and Stella": "Sonnet 45: Stella Oft Sees" by Sir Philip Sidney
+"Pamphilia to Amphilanthus": "from Pamphilia to Amphilanthus: 4" by Lady Mary Wroth 
+"Sonnet 18": by William Shakespeare
+"Song to Celia": "Song: to Celia" by Ben Jonson
+"She Walks in Beauty": by Lord Byron
+"The Look": by Sara Teasdale 
+"I loved you first": "Monna Innominata (I loved you first)" by Christina Georgina Rossetti
+"When to Her Lute Corinna Sings": by Thomas Campion
+"The Passionate Shepherd to His Love": by Christopher Marlowe
+"The Old Arcadia": by Sir Philip Sidney
+"The Decameron: Prince Galehaut": from "The Decameron" by Giovanni Boccaccio
+"The Faerie Queene": by Edmund Spenser
+"To the Virgins": "To the Virgins, to Make Much of Time" by Robert Herrick
+"Change": by Kathleen Jessie Raine
+

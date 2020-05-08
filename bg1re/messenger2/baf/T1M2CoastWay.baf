@@ -1,0 +1,31 @@
+// BG1RE: The Messenger 2 - Creating the Halfling Messenger, on the Coast Way
+
+IF 
+  Global("RE1_RainSnow","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_RainSnow","GLOBAL",1)
+	CreateCreature("T1M2HALF",[1964.3255]%FACE_14%)
+	Continue()
+END
+
+
+// BG1RE: The Messenger 2 - This uses the two triggers from the NPC Project's Caravan Quest to make a global to use later when talking to Skie.
+
+IF
+	Global("T1M2DeadEddy","GLOBAL",0)
+	PartyHasItem("X#SILSH")
+THEN
+  RESPONSE #100
+	SetGlobal("T1M2DeadEddy","GLOBAL",1)
+	Continue()
+END
+	
+IF
+	Global("T1M2DeadEddy","GLOBAL",0)
+	GlobalGT("X#KagainCaravan","GLOBAL",3)
+THEN
+  RESPONSE #100
+	SetGlobal("T1M2DeadEddy","GLOBAL",1)
+	Continue()
+END 

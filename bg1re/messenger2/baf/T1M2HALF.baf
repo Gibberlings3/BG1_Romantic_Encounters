@@ -1,0 +1,21 @@
+// Bartleby Exercises His Vocal Chords
+
+IF
+	Detect(PLAYER1)
+THEN
+	RESPONSE #10
+		%DisplayStringHead%(Myself,~'Rain nor snow nor gloom of night' my taut and shapely buttocks...~)
+		Wait(10)
+	RESPONSE #10
+		%DisplayStringHead%(Myself,~(wheeze) Can anybody hear me?~)
+		Wait(10)
+	RESPONSE #10
+		%DisplayStringHead%(Myself,~Feet don't fail me now - do I still have feet?  All kinda numb down there...~)
+		Wait(10)
+	RESPONSE #10
+		%DisplayStringHead%(Myself,~I'd rather be fishing. (cough)~)
+		Wait(10)
+	RESPONSE #10
+		%DisplayStringHead%(Myself,~Ow.~)
+		Wait(10)
+END 

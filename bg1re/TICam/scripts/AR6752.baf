@@ -1,0 +1,14 @@
+
+IF %BGT_VAR%
+  Global("TITamah","GLOBAL",1)
+        !Dead("TITamah")
+        !Exists("TITamah")
+THEN
+  RESPONSE #100
+    SetGlobal("TITamah","GLOBAL",2)
+        CreateCreature("TITamah",[204.582]%FACE_0%)
+//	%ApplySpellRES("TITamah",WIZARD_STONE_TO_FLESH)%
+        Continue()
+  END
+
+

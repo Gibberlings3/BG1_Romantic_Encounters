@@ -1,0 +1,114 @@
+/* Activate: girdle of gender bender on Tiax */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderTiax","GLOBAL",0)
+Gender("Tiax",FEMALE) HasItem("%tutu_var%BELT05","Tiax")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderTiax","GLOBAL",1)
+SetGlobalTimer("RE1_GirdleTiaxTimer","GLOBAL",TEN_DAYS)  
+END
+
+/* Initiate: girdle of gender bender on Tiax */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderTiax","GLOBAL",1)
+Gender("Tiax",FEMALE) HasItem("%tutu_var%BELT05","Tiax")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END
+
+/* Activate: girdle taken off Tiax, before Tiax has come to terms */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderTiax","GLOBAL",2)
+Gender("Tiax",MALE) 
+!GlobalTimerExpired("RE1_GirdleTiaxTimer","GLOBAL")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderTiax","GLOBAL",3)
+END
+
+/* Initiate: girdle taken off Tiax, before Tiax has come to terms */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderTiax","GLOBAL",3)
+Gender("Tiax",MALE)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END
+
+/* Activate: Tiax embraces feminine side */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderTiax","GLOBAL",2)
+Gender("Tiax",FEMALE) HasItem("%tutu_var%BELT05","Tiax")  // wearing belt
+GlobalTimerExpired("RE1_GirdleTiaxTimer","GLOBAL")  // ten days have passed
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderTiax","GLOBAL",4)
+END
+
+/* Initiate: Tiax embraces feminine side */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderTiax","GLOBAL",4)
+Gender("Tiax",FEMALE) HasItem("%tutu_var%BELT05","Tiax")  // wearing belt
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END
+
+/* Activate: girdle taken off Tiax, after Tiax likes it */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderTiax","GLOBAL",5)
+Gender("Tiax",MALE)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderTiax","GLOBAL",6)
+END
+
+/* Initiate: girdle taken off Tiax, after Tiax likes it */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderTiax","GLOBAL",6)
+Gender("Tiax",MALE)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

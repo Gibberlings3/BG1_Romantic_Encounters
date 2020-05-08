@@ -1,0 +1,6 @@
+IF
+Global("C#LC_ThalanChesspieces","GLOBAL",0)
+THEN RESPONSE #100
+CreateCreature("C#LCTH01",[2810.3367]%FACE_0%)
+SetGlobal("C#LC_ThalanChesspieces","GLOBAL",1)
+END

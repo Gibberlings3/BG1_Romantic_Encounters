@@ -1,0 +1,43 @@
+IF %BGT_VAR%
+  Global("C#Q11_SearchBlood","GLOBAL",3)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11nec",[467.359]%FACE_3%) //Necromancer
+	ActionOverride("c#q11nec",Face(3))
+    SetGlobal("C#Q11_SearchBlood","GLOBAL",4)  
+END
+
+/*
+
+Global("C#Q11_SearchBlood","GLOBAL",6): cow
+Global("C#Q11_SearchBlood","GLOBAL",7):girl
+Global("C#Q11_SearchBlood","GLOBAL",8): nymphe
+
+*/
+
+IF %BGT_VAR%
+  Global("C#Q11_SearchBlood","GLOBAL",6)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11nec",[467.359]%FACE_3%) //Necromancer
+	ActionOverride("c#q11nec",Face(3))
+    SetGlobal("C#Q11_SearchBlood","GLOBAL",9)  
+END
+
+IF %BGT_VAR%
+  Global("C#Q11_SearchBlood","GLOBAL",7)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11nec",[467.359]%FACE_3%) //Necromancer
+	ActionOverride("c#q11nec",Face(3))
+    SetGlobal("C#Q11_SearchBlood","GLOBAL",10)  
+END
+
+IF %BGT_VAR%
+  Global("C#Q11_SearchBlood","GLOBAL",8)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11nec",[467.359]%FACE_3%) //Necromancer
+	ActionOverride("c#q11nec",Face(3))
+    SetGlobal("C#Q11_SearchBlood","GLOBAL",11)  
+END

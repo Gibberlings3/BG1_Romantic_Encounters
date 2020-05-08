@@ -1,0 +1,51 @@
+/* Spawn Mikala in the Belching Dragon 
+AR4809
+
+female human, elf, half-elf, or half-orc
+who has cleared the Nashkel mines -> this should be sufficient by a chapter check? Or Dead("Mulahei")?
+*/
+
+
+
+
+IF 
+	Gender(Player1,FEMALE)
+	Race(Player1,HUMAN)
+	!Exists("M3Mikala")
+	!Dead("M3Mikala") 
+	Global("RE1_MikalaSpawn","GLOBAL",0)
+	GlobalGT("CHAPTER","GLOBAL",%tutu_chapter_2%) //after clearing the Nashkel mines)
+THEN
+	RESPONSE #100
+		SetGlobal("RE1_MikalaSpawn","GLOBAL",1)
+		CreateCreature("M3Mikala",[735.410]%FACE_5%) 
+	Continue()
+END
+
+IF 
+	Gender(Player1,FEMALE)
+	Race(Player1,ELF)
+	!Exists("M3Mikala")
+	!Dead("M3Mikala") 
+	Global("RE1_MikalaSpawn","GLOBAL",0)
+	GlobalGT("CHAPTER","GLOBAL",%tutu_chapter_2%) //after clearing the Nashkel mines)
+THEN
+	RESPONSE #100
+		SetGlobal("RE1_MikalaSpawn","GLOBAL",1)
+		CreateCreature("M3Mikala",[735.410]%FACE_5%) 
+	Continue()
+END
+
+IF 
+	Gender(Player1,FEMALE)
+	Race(Player1,HALF_ELF)
+	!Exists("M3Mikala")
+	!Dead("M3Mikala") 
+	Global("RE1_MikalaSpawn","GLOBAL",0)
+	GlobalGT("CHAPTER","GLOBAL",%tutu_chapter_2%) //after clearing the Nashkel mines)
+THEN
+	RESPONSE #100
+		SetGlobal("RE1_MikalaSpawn","GLOBAL",1)
+		CreateCreature("M3Mikala",[735.410]%FACE_5%) 
+	Continue()
+END

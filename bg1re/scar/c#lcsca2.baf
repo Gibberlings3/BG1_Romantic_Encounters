@@ -1,0 +1,20 @@
+// c#lcsca2.baf - returns the PC outside
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+        ActionOverride("scar",DestroySelf())
+        LeaveAreaLUAPanic("%SWBaldursGate%","",[1534.1445],10)
+        LeaveAreaLUA("%SWBaldursGate%","",[1534.1445],10)
+        Wait(1)
+        Explore()
+        MoveViewPoint([1568.1439],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("scar",%STARTDIALOGNOSET%(Player1))
+END 

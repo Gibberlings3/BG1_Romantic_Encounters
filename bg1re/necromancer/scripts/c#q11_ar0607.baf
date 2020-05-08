@@ -1,0 +1,24 @@
+//EXTEND_BOTTOM AR0607.bcs Flaming Fist Headqaurters
+
+
+IF 
+	!GlobalGT("Chapter","GLOBAL",6)
+	!Dead("c#q11wat")
+//	GlobalGT("C#Q11_CowQuest","GLOBAL",6) //v3.0: should be in the FFHQ from the start
+	Global("C#Q11_PrisonSpawn","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q11_PrisonSpawn","GLOBAL",1)  //
+	CreateCreature("c#q11wat",[1074.896]%FACE_0%)
+END
+
+
+
+IF
+	GlobalGT("Chapter","GLOBAL",6)
+	Exists("c#q11wat")
+THEN
+	RESPONSE #100
+		ActionOverride("c#q11wat",DestroySelf())
+END
+

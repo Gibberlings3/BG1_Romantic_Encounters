@@ -1,0 +1,25 @@
+// c#lcbjo1.baf - Bjornin and the PC go to the quarters.
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+         LeaveAreaLUAPanic("c#lc05","",[183.317],10)
+        LeaveAreaLUA("c#lc05","",[183.317],10)
+        Wait(1)
+	Face(10) //needed for BG1
+        CreateCreature("c#lcbjor",[226.292]%FACE_2%) 
+	ActionOverride("c#lcbjor",Face(2)) //needed for BG1
+	ActionOverride("c#lcbjor",DestroyItem("%tutu_var%PLAT01"))
+	ActionOverride("c#lcbjor",DestroyItem("%tutu_var%SPER02"))
+	ActionOverride("c#lcbjor",DestroyItem("%tutu_var%SHLD04"))
+        Explore()
+        MoveViewPoint([183.317],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("c#lcbjor",%STARTDIALOGNOSET%(Player1))
+END 

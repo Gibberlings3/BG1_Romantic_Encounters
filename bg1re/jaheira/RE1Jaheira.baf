@@ -1,0 +1,17 @@
+// Happens at rest, not in a dungeon, not outdoors, Chapter 2 or later, for any PC
+IF
+!StateCheck(Myself,CD_STATE_NOTVALID)
+%BGT_VAR%
+InParty(Myself)
+!RealGlobalTimerNotExpired("X#DreamTalk","GLOBAL")
+Global("O#RE1JaheiraLateNight","GLOBAL",0)
+GlobalGT("Chapter","GLOBAL",%tutu_chapter_1%)
+!AreaType("DUNGEON")
+!AreaType("OUTDOOR")
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Detect(Player1)
+THEN
+RESPONSE #100
+SetGlobal("O#RE1JaheiraLateNight","GLOBAL",1)
+StartDialogueNoSet(Player1)
+END

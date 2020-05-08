@@ -1,0 +1,10 @@
+IF %BGT_VAR%
+GlobalGT("TICamryn","GLOBAL",0)
+Global("TICBOOK13_Spawn","%WBaldursGate_RagefastsHouse%",0)  
+ 
+THEN
+RESPONSE #100
+ActionOverride("Container3",CreateItem("TITOME13",0,0,0))
+SetGlobal("TICBOOK13_Spawn","%WBaldursGate_RagefastsHouse%",1)
+Continue()
+END

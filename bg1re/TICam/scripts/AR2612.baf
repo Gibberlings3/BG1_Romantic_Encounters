@@ -1,0 +1,29 @@
+
+IF Global("chapter","GLOBAL",%tutu_chapter_6%)
+  Global("TICamryn","GLOBAL",4)
+	!Dead("TICam")
+        !Dead("TITamah")
+	!Exists("TICam")
+        !Exists("TITamah")
+THEN
+  RESPONSE #100
+    SetGlobal("TICamryn","GLOBAL",5)
+        CreateCreature("TICam",[1756.1188]%FACE_4%)
+        CreateCreature("TITamah",[1760.1255]%FACE_13%)
+        CreateCreature("TIDOPPLE",[1795.1210]%FACE_0%) 
+        Continue()
+  END
+
+
+/*
+IF 
+Global("TICamryn","GLOBAL",0)
+Global("TICBOOK14_Gone","%Candlekeep_Library_L5%",0)  //you need a check variable, or the script block will be true always and block everything beneath it
+
+THEN
+RESPONSE #100
+ActionOverride("Container6",DestroyItem("TITOME14")) //unfortunately, you need the container name, yes. And don't get discouraged if it seem not to work the first time
+SetGlobal("TICBOOK14_Gone","%Candlekeep_Library_L5%",1)
+Continue()
+END
+*/

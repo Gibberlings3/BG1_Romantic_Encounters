@@ -1,0 +1,41 @@
+IF %BGT_VAR%
+  Global("C#Q11_Necroquest","GLOBAL",2)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11ne2",[161.243]%FACE_2%) //Necromancer
+	CreateCreature("c#q11cat",[134.267]%FACE_10%) //Kitty
+    SetGlobal("C#Q11_Necroquest","GLOBAL",3)  
+END
+
+IF %BGT_VAR%
+  Global("C#Q11_Necroquest","GLOBAL",6)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11gir",[161.243]%FACE_2%) //girl
+    SetGlobal("C#Q11_Necroquest","GLOBAL",7)  
+END
+
+IF %BGT_VAR%
+	Dead("C#Q11gir")
+	Global("C#Q11_Necroquest","GLOBAL",11)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11nec",[167.221]%FACE_0%) //Necromancer
+	SetGlobal("C#Q11_Necroquest","GLOBAL",12)
+END
+
+IF %BGT_VAR%
+	Exists("C#Q11cat")
+	Global("C#Q11_Necroquest","GLOBAL",8)
+THEN
+  RESPONSE #100
+	ActionOverride("C#Q11cat",DestroySelf())
+END
+
+IF %BGT_VAR%
+	Exists("C#Q11cat")
+	Global("C#Q11_Necroquest","GLOBAL",9)
+THEN
+  RESPONSE #100
+	ActionOverride("C#Q11cat",DestroySelf())
+END

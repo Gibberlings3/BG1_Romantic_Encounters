@@ -1,0 +1,22 @@
+
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+         LeaveAreaLUAPanic("c#thal","",[529.153]%FACE_3%)
+        LeaveAreaLUA("c#thal","",[529.153]%FACE_3%)
+        Wait(1)
+	Face(4) //needed for BG1
+        CreateCreature("C#LCTHAL",[471.160]%FACE_11%) 
+	ActionOverride("C#LCTHAL",Face(12)) //needed for BG1
+       // Explore()
+        MoveViewPoint([529.153],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("C#LCTHAL",%STARTDIALOGNOSET%(Player1))
+END 

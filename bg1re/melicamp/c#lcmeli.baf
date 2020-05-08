@@ -1,0 +1,24 @@
+// c#lcmeli.baf - Melicamp and the PC outside
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+         LeaveAreaLUAPanic("c#lc02","",[209.224]%FACE_1%)
+        LeaveAreaLUA("c#lc02","",[209.224]%FACE_1%)
+        Wait(1)
+	Face(1) //needed for BG1
+        CreateCreature("c#lcmelc",[282.227]%FACE_4%) 
+	ActionOverride("c#lcmelc",Polymorph(MAGE_MALE_HUMAN%_LOW%))
+        Wait(1)
+	ActionOverride("c#lcmelc",Face(4)) //needed for BG1
+        Explore()
+        MoveViewPoint([1657.1053],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("c#lcmelc",%STARTDIALOGNOSET%(Player1))
+END 

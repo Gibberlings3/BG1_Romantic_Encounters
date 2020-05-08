@@ -1,0 +1,27 @@
+/* Activate: girdle of gender bender on Quayle */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderQuayle","GLOBAL",0)
+Gender("Quayle",FEMALE) HasItem("%tutu_var%BELT05","Quayle")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderQuayle","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Quayle */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderQuayle","GLOBAL",1)
+Gender("Quayle",FEMALE) HasItem("%tutu_var%BELT05","Quayle")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

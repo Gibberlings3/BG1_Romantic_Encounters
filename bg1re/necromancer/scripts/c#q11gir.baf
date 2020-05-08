@@ -1,0 +1,7 @@
+IF
+	Global("C#Q11_Necroquest","GLOBAL",7)
+	See([PC])
+THEN
+	RESPONSE #100
+		%STARTDIALOGNOSET%([PC])
+END

@@ -1,0 +1,20 @@
+IF 
+	Global("C#lcKimSpawn","GLOBAL",0)
+      Gender(Player1,MALE)
+THEN
+	RESPONSE #100
+            SetGlobal("C#lcKimSpawn","GLOBAL",1)
+	    CreateCreature("C#lcKimw",[3637.2780]%FACE_0%) //Kim (female)
+	Continue()
+END
+
+IF 
+	Global("C#lcKimSpawn","GLOBAL",0)
+      Gender(Player1,FEMALE)
+THEN
+	RESPONSE #100
+            SetGlobal("C#lcKimSpawn","GLOBAL",1)
+	    CreateCreature("C#lcKim",[3637.2780]%FACE_0%) //Kim (male)
+	Continue()
+END
+

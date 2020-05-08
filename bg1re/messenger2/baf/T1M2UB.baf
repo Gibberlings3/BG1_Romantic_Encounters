@@ -1,0 +1,12 @@
+// This uses the trigger from Unfinished Business' Caravan Quest to make a global that I can use later when talking to Skie.
+
+IF
+	Global("T1M2DeadEddy","GLOBAL",0)
+	See("DLOSTKAG")
+	Range("DLOSTKAG",6)
+THEN
+  RESPONSE #100
+	SetGlobal("T1M2DeadEddy","GLOBAL",1)
+	Continue()
+END
+	

@@ -1,0 +1,15 @@
+IF %BGT_VAR%
+  Global("C#Q11_Necroquest","GLOBAL",4)
+THEN
+  RESPONSE #100
+	CreateCreature("c#q11nec",[236.268]%FACE_2%) //Necromancer
+    SetGlobal("C#Q11_Necroquest","GLOBAL",5)  
+END
+
+IF %BGT_VAR%
+  Allegiance("c#q11nec",ENEMY)
+  Global("C#Q11_Necroquest","GLOBAL",5)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q11_Necroquest","GLOBAL",6)  
+END

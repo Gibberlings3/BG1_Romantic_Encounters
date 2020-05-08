@@ -1,0 +1,19 @@
+// c#lclin2.baf -PC goes back to main area AR3304
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("c#lcbjor",DestroySelf())
+         LeaveAreaLUAPanic("%Beregost_JovialJuggler_L1%","",[495.860],0)
+        LeaveAreaLUA("%Beregost_JovialJuggler_L1%","",[495.860],0)
+        Wait(1)
+        Explore()
+        MoveViewPoint([495.860],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+END 

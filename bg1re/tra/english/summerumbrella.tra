@@ -1,0 +1,271 @@
+@0    = ~Greetings, honoured guest. I am Summer Umbrella, an artist of the Low Lantern. I will serve you tea, if you wish, or recite poetry for you.~
+@1    = ~Hello again, my young friend.~
+@2    = ~Enjoy your time in the Low Lantern, my young friend.~
+@3    = ~As you will. Please pass on my regards to Schvantz. He is a sweet young man with a kind heart.~
+@4    = ~What would you, honoured guest?~
+@5    = ~Would you please serve me some tea, Summer Umbrella?~
+@6    = ~I would like to hear some poetry, please.~
+@7    = ~Your name, 'Summer Umbrella', is strange to me. Would you tell me about it?~
+@8    = ~Would you tell me more about your name, Summer Umbrella?~
+@9    = ~Your hair is black, Summer Umbrella, but something in the way you speak suggests a richness in years. Do you have any children?~
+@10   = ~How did you come to this life?~
+@11   = ~You trained as a dancer?  So how come you're just serving tea?~
+@12   = ~Do you have any regrets?~
+@13   = ~I just dropped by to say hello.  Hello!~
+@14   = ~Do you give private sessions, Summer Umbrella?~
+@15   = ~Summer Umbrella, are you *quite sure* you don't, er, 'chase people in the night'?~
+@16   = ~I must be going.~
+@17   = ~I would be delighted.~
+@18   = ~(Wait patiently while she prepares the drink.)~
+@19   = ~(Fidget as she messes with her tea-making apparatus.)~
+@20   = ~I changed my mind, let us do something else.~
+@21   = ~I changed my mind – I must be going.~
+@22   = ~(Summer Umbrella serves you black tea that tastes a lot like smoke and a little like camel. As you drink she discusses journeys in caravans across dry deserts, the bawl of the camels and the grey chill of early morning among the scattered tents...)~
+@23   = ~(Summer Umbrella serves you tea in a clay bowl mixed with butter and salt, and tells you stories of the high bare mountains, and the people there who live in stone houses and speak to the gods.)~
+@24   = ~(You drink this tea strong and bitter, and keep a lump of dark sugar between your teeth as you sip it.)~
+@25   = ~(This tea is very light and mixed with jasmine; it smells like sunlight in a garden.)~
+@26   = ~(Summer Umbrella adds water to powdered tea in a roughly-made bowl and whisks it briskly until it foams. The bowl feels warm and light in your hands as you drink with measured, noisy sips.)~
+@27   = ~(This tea is served in cups of bone porcelain with delicate handles. You add neat cubes of sugar with dainty tongs, and eat tiny pastries as you drink.)~
+@28   = ~(Summer Umbrella fills an ornate and heavy brass pot with pure water and lights a fire in the pot's inner chimney. As the water slowly heats you sit and speak comfortably of many things. In time she stews tea over the chimney and you drink it, mixing the thick brew to your taste with hot water from the pot. In this manner, you sit and drink and talk for hours.)~
+@29   = ~(Summer Umbrella serves you black tea infused with fruit syrup. Small bubbles of tapioca bounce and dance in the drink.)~
+@30   = ~Of course, honoured guest.~
+@31   = ~This is a heavy, black tea, carried across harsh deserts on camel back. I can always taste smoke in it.~
+@32   = ~Try some buttered tea. They drink it like this in the high mountains - it is very strengthening!~
+@33   = ~Ah, this tea is quite bitter. Best to hold a sugar lump between your teeth and sip it slowly.~
+@34   = ~Enjoy the fragrance of your jasmine tea, honoured guest.~
+@35   = ~I shall serve you green tea in the old style. Please be patient while I whisk the tea powder until it is light and foamy in your drinking bowl.~
+@36   = ~There, fragrant milk tea in bone china cups. Please, have another little cake as we drink.~
+@37   = ~Please enjoy this tea, mixed with peach syrup and milk. The bubbles come from a little tapioca.~
+@38   = ~I would love to.~
+@39   = ~(listen)~
+@40   = ~I changed my mind. Could we talk about something else?~
+@41   = ~Actually, I think I'll be going.~
+@42   = ~There was a poet, once, who lived in a house so ugly and great that he could not see the end of it. And he loved a woman.~
+@43   = ~This is what he wrote to her.~
+@44   = ~You walk unaware
+Of the slender gazelle
+That moves as you move
+And is one with the limbs
+That you have.~
+@45   = ~You live unaware
+Of the faint, the unearthly
+Echo of hooves
+That within your white streams
+Of clear clay that I love~
+@46   = ~ Are in flight as you turn,
+As you stand, as you move,
+As you sleep, for the slender
+Gazelle never rests
+In your ivory grove.~
+@47   = ~A song in the rustic mode, then.~
+@48   = ~Two country-women sat at leisure
+Speaking of their husbands.
+One said, "Mine is sweet and good
+For all day long, he gives my chickens food
+While I take my pleasure."~
+@49   = ~Cluck cluck cluck
+The pullet and the little cock~
+@50   = ~He is sweet and good
+Cluck cluck cluck.~
+@51   = ~He sounds like a really nice guy, doing all the chores like that!~
+@52   = ~Um... is 'little cock' some kind of euphemism?~
+@53   = ~I think it's really sweet that she tells everyone how great her husband is!~
+@54   = ~I see. That's very... rustic. Perhaps we could talk of something else?~
+@55   = ~Chickens, farming women, oh very well. But I shall be going.~
+@56   = ~My little friend, you are very adorable right now.~
+@57   = ~I'm not little!~
+@58   = ~May we speak of something else?~
+@59   = ~I think I'll go, now.~
+@60   = ~In the late summer before the rains come we like to sit on our roofs, in this city, and drink, and look at the night sky. This is a song for that time -~
+@61   = ~Drink down the moon, she desires this
+And dances, scattering tart sweat drops.~
+@62   = ~Would that I might touch her,
+Trace her form with my tasting hands, yet -~
+@63   = ~Lying here, I look on lightfulness
+And so imbibe her with my eyes.~
+@64   = ~Hmmm, a prose-poem then, about a small white flower who is a girl, or a girl who is a flower...~
+@65   = ~I can see myself - I can see myself!~
+@66   = ~Oh, how fragrant I am!~
+@67   = ~Up in the little garret there stands, half-dressed, a little Dancer. She stands now on one leg, now on both; she despises the whole world; yet she lives only in imagination.~
+@68   = ~She pours water out of the teapot over a piece of stuff which she holds in her hand; it is the bodice; cleanliness is a fine thing. The white dress is hanging on the hook; it was washed in the teapot, and dried on the roof. She puts it on, ties a saffron-colored kerchief round her neck, and then the gown looks whiter.~
+@69   = ~How can a girl be a flower?~
+@70   = ~How can a flower be a girl?~
+@71   = ~Did you know this girl?~
+@72   = ~Many things can happen, in poetry.~
+@73   = ~I don't understand...~
+@74   = ~Oh, well, if it's *poetry*...~
+@75   = ~Perhaps I did, once.~
+@76   = ~But that was long ago.~
+@77   = ~I will give you a short verse from a poet and mystic of Calimshan -~
+@78   = ~Look to the rose that blows about us -- "Lo,
+Laughing," she says, "into the world I blow:
+At once the silken tassel of my purse
+Tear, and its treasure on the garden throw."~
+@79   = ~Don't be silly. Roses can't talk. And they don't have any treasure either. Or *do* they...? To the flower garden!~
+@80   = ~If the rose can talk, does that mean it is really a person?~
+@81   = ~Is this a hint that I should give more to charity? Because, uh, I know it *seems* that adventuring is lucrative but there are a lot of expenses. Like... weapon oil! And gem merchants pay hardly *anything* for loot! Uh...~
+@82   = ~I like that – living in the sun and wind feels very free. Is that what the poet meant?~
+@83   = ~Poems can mean many things, all at once.~
+@84   = ~If the rose that talks is a person, do you know her?~
+@85   = ~It seems very uncomfortable, being more than one thing at the same time.~
+@86   = ~I know her very well!~
+@87   = ~And yet, we all manage somehow.~
+@88   = ~A verse by a Calimshite.~
+@89   = ~(Sigh)~
+@90   = ~Oh, come with old Khayyam, and leave the wise
+To talk; one thing is certain, that life flies;
+One thing is certain, and the rest is lies;
+The flower that once has blown forever dies.~
+@91   = ~I don't get it.~
+@92   = ~That's... dreary.~
+@93   = ~Old Khayyam, whoever he was, knew what he was about.~
+@94   = ~Well – I know no-one would resurrect a *flower*, but I'm sure if *I* died then my companions would bring me back. I'm... pretty sure.~
+@95   = ~I... forgive me, but I do not wish to discuss this one. I should not have brought it up.~
+@96   = ~Here is advice to a young man courting -~
+@97   = ~Then wear the gold hat, if that will move her;	
+If you can bounce high, bounce for her too,	
+Till she cry “Lover, gold-hatted, high-bouncing lover,	
+I must have you!"~
+@98   = ~Though whether it is advice to be followed is up to you.~
+@99   = ~I quite agree. I would and will do anything to please the one I court.~
+@100  = ~You think I need to get a gold hat? Where can I get one? Is it from the same place they make those fancy pantaloons? Oh, this is all so complicated!~
+@101  = ~I... would rather not see that particular apparel on someone seeking my affections.~
+@102  = ~Gold hats sound wonderful! So shiny and smart! Hey, do you think I could get the young swains after me to wear... other things, as well?~
+@103  = ~Gold hats, hmm? I imagine they would be very bright, to catch the eye. But not for me, I think.~
+@104  = ~It does sound like intriguing headgear...~
+@105  = ~Too gaudy, and I would feel like a target.~
+@106  = ~A brief song of longing -~
+@107  = ~Western wind, when will you blow?
+The small rain down can rain?
+Sune! - that my love were in my arms
+And I in my bed again!~
+@108  = ~A comment, from one who had been in love -~
+@109  = ~I thought to pick for myself the flower of forgetting -~
+@110  = ~But found it~
+@111  = ~Already growing in your heart.~
+@112  = ~A song of numbers and counting, for you:~
+@113  = ~How many times do I love thee, dear?	 
+  Tell me how many thoughts there be	 
+In the atmosphere	 
+Of a new-fall'n year,	 
+Whose white and sable hours appear	         
+  The latest flake of Eternity:	 
+So many times do I love thee, dear.~
+@114  = ~How many times do I love again?	 
+  Tell me how many beads there are	 
+In a silver chain
+Of evening rain,	 
+Unravell'd from the tumbling main,	 
+  And threading the eye of a yellow star:	 
+So many times do I love again.~
+@115  = ~But you can't count that, the numbers don't end!~
+@116  = ~Snowflakes and rain seem a bit... wafty, to me.  And more importantly, cold.~
+@117  = ~Chains of rain?  Flakes of eternity?  Is this one of those metaphor thingies?~
+@118  = ~No, they don't.~
+@119  = ~I'd prefer to count warm clinches, and kisses by the thousand.~
+@120  = ~Do people... *like* that sort of thing, when you're courting them?~
+@121  = ~I've seen a bit too much weather in all its indignities to really like this sort of verse.~
+@122  = ~Alas, it is so.~
+@123  = ~Many do.~
+@124  = ~We who profess to entertain, who live in this world of flowers and drifting water, we often take on working names.~
+@125  = ~I find that putting on my name in the early evening is as essential as my face paint and my robes of grace. Perhaps you find that strange...?~
+@126  = ~Would you tell me why you chose that name?~
+@127  = ~I... think I see?  But perhaps we could speak of something else.~
+@128  = ~I think I'll go now.~
+@129  = ~There were two times that I thought of, when I named myself. The first -~
+@130  = ~The first light rain of summer, when the rain-drops begin to caress the warm earth, and the scent that rises then – ah!~
+@131  = ~And later, near the end of the season when the heavy rains have begun. You walk down the streets; someone steps beside you. You share one umbrella and so you must stay close together. Splash! - you step through the puddles; hiss! - the curtains of rain; the low murmur of your friend's voice, and the heat of them as you walk through the coolness...~
+@132  = ~It still seems a silly name to me.~
+@133  = ~I like it. I like names with stories behind them.~
+@134  = ~I think it suits you.~
+@135  = ~Ah. I... think I see?~
+@136  = ~As you like, my young friend.~
+@137  = ~I'm not young!~
+@138  = ~Thank you, little one.~
+@139  = ~I have no children of the body, young one. But of the mind: many.~
+@140  = ~When I was eight my parents needed money, quite badly.~
+@141  = ~So I was apprenticed - or indentured, if you prefer - to a school that teaches dance and music.~
+@142  = ~It was a stern school but the teaching was of the finest.  By my sixteenth birthday I was accounted a dancer of some skill, though I was only ever passing indifferent on the dragon lute or the flute.~
+@143  = ~The world of drifting water was kind, and I paid off the debt in only a few years.~
+@144  = ~So your family... sold you?~
+@145  = ~You started training that young?  It must have been hard, when other children were playing and climbing trees.~
+@146  = ~I see.  Could we speak of something else?~
+@147  = ~Huh.  Thank you for telling me.  Well, I have other business.~
+@148  = ~I would consider that an overly harsh way of defining the situation.  I supported my family, as is good and honourable, in a respectable trade.  Should I complain because I started young?~
+@149  = ~When you put it like that, it makes sense.~
+@150  = ~Yes, but, it still seems a bit...~
+@151  = ~Children shouldn't have to feed their parents!~
+@152  = ~My family sent me to a career in which I could prosper.  And I have prospered, child, never doubt it - I was a *great* dancer in my youth.  Leave any weeping in the past.~
+@153  = ~I like serving tea.~
+@154  = ~*Only* tea?~
+@155  = ~And reciting poetry, yes.  But do you ever dance?~
+@156  = ~Indeed.  May I have another cup?~
+@157  = ~With my knees as stiff as they are?  Have pity for an old woman's pride!~
+@158  = ~You're not old, Summer Umbrella!~
+@159  = ~I'm sure you would dance beautifully.~
+@160  = ~I have no pity!  And I would see you dance.~
+@161  = ~Oh, well.~
+@162  = ~Flatterer!~
+@163  = ~No.  Even as charming as you are.~
+@164  = ~I could ask you the same thing, you with your hands hardened from the heft of a weapon, and the shadows in your eyes.~
+@165  = ~I never killed anything that didn't deserve it!~
+@166  = ~I've done a few things that I'm not proud of, but I think I can live with myself.~
+@167  = ~I've pillaged and plundered up and down the Sword Coast, and I enjoyed every bit of it, thanks.~
+@168  = ~With all the good I've done, I should sleep like a baby.  But I have bad dreams...~
+@169  = ~I see.~
+@170  = ~You are young, yet.~
+@171  = ~How did the old verse go?  'In my eyes, the sorrows of the world -~
+@172  = ~And on my lips, the joy of life mingle...'~
+@173  = ~My daughter, if she had lived, would have been your age.~
+@174  = ~Count that regret enough.~
+@175  = ~My son, if he had lived, would have been your age.~
+@176  = ~And hello to you, too!~
+@177  = ~Are you well?  You look tired.~
+@178  = ~I am well enough.~
+@179  = ~I have a slight cold, but otherwise I am quite well.~
+@180  = ~I'm fine, don't fuss!~
+@181  = ~But there's a smudge on your cheek.  Here, let me...~
+@182  = ~Aargh.~
+@183  = ~Oh, very well...~
+@184  = ~You brighten my day, child.~
+@185  = ~But we are having a private session now, are we not?~
+@186  = ~I suspect, not in the way that you meant, however. I am an art practitioner. I sing, I recite, I serve tea and speak with the guests.~
+@187  = ~If you wish a different sort of company then downstairs there are artists who will 'chase you in the night'. Or who will enjoy being chased, if you prefer.~
+@188  = ~Ah, I see.  Would you pour me some tea, then?~
+@189  = ~In that case, I would like to hear some poetry.~
+@190  = ~Downstairs, you say?  I'll be off, then.~
+@191  = ~That was enlightening.  However, I have other business here.~
+@192  = ~Have I not already made my position clear?  Such impertinence!~
+@193  = ~I was just teasing.~
+@194  = ~I know but - I like you.~
+@195  = ~No harm in asking.~
+@196  = ~I was hoping we had... an understanding.  That I was more than just another customer, passing through.~
+@197  = ~Hmmmph.~
+@198  = ~Oh, child.~
+@199  = ~No?~
+@200  = ~I'm a great adventurer! I have muscles!~
+@201  = ~I may be small in stature, but I have a great wealth of experience!~
+@202  = ~No. May we speak of something else before my pride falls to tatters?~
+@203  = ~No, definitely not. And I must be going.~
+@204  = ~Ah, I spoke with affection, as one might to a promising child.~
+@205  = ~Please – I meant no offense.~
+@206  = ~Well, alright then... grr...~
+@207  = ~I'd rather you didn't.~
+@208  = ~No-one has spoken to me as if I were a child since Gori- since my fath- since-~
+@209  = ~I will try to remember, lit- honoured guest.~
+@210  = ~Oh, I see.~
+@211  = ~I'm at least twenty!~
+@212  = ~My voice stopped cracking at least a year ago!~
+@213  = ~But look at my beautiful whiskers!~
+@214  = ~Do the curves and dips of my figure not suggest a certain maturity?~
+@215  = ~I may be a little thin and – under-developed – but I assure you, all of my lady-parts are present and in working order!~
+@216  = ~My years may be brief, but I have walked far, fought hard, and learnt – such things. I will never be young again.~
+@217  = ~Forgive me, then, my y- my friend. At my time of life, almost everyone looks like a child.~
+@218  = ~Hush hush, little one. Let me hold you. Yes, rest your head here.~
+@219  = ~Get your hands off me, woman!~
+@220  = ~(Sniff)~
+@221  = ~I don't do... hugs.~
+@222  = ~I don't do hugs! I'm rough and mean! But, er, I can stay here a little longer. To be polite, you understand...~
+@223  = ~The world is wicked, is it not? Rest out of the wind a while.~
+@224  = ~...~
+@225  = ~I... forgive me, honoured guest. I was unforgivably forward.~

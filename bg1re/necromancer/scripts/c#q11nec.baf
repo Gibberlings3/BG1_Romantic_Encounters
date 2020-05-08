@@ -1,0 +1,81 @@
+IF
+	Global("C#Q11_Necroquest","GLOBAL",4)
+	HitBy([PC],PIERCING)
+THEN
+	RESPONSE #100
+		SetGlobal("C#q11_GotHit","LOCALS",1)
+		%STARTDIALOGNOSET%([PC])
+END
+
+IF
+	Global("C#Q11_Necroquest","GLOBAL",4)
+	HitBy([PC],CRUSHING)
+THEN
+	RESPONSE #100
+		SetGlobal("C#q11_GotHit","LOCALS",1)
+		%STARTDIALOGNOSET%([PC])
+END
+
+IF
+	Global("C#Q11_SearchBlood","GLOBAL",2)
+
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q11_SearchBlood","GLOBAL",3)
+		ClearAllActions()
+		StartCutsceneMode() 
+		StartCutscene("c#q11c2")
+END
+
+IF
+	Global("C#Q11_Necroquest","GLOBAL",4)
+	HPLT(Myself,10000)
+THEN
+	RESPONSE #100
+		SetGlobal("C#q11_GotHit","LOCALS",1)
+		%STARTDIALOGNOSET%([PC])
+END
+
+
+IF
+	Global("C#Q11_Necroquest","GLOBAL",3)
+	See([PC])
+THEN
+	RESPONSE #100
+		%STARTDIALOGNOSET%([PC])
+END
+
+IF
+	Global("C#Q11_Necroquest","GLOBAL",5)
+	See([PC])
+THEN
+	RESPONSE #100
+		%STARTDIALOGNOSET%([PC])
+END
+
+IF
+	Global("C#Q11_Necroquest","GLOBAL",12)
+	See([PC])
+THEN
+	RESPONSE #100
+		%STARTDIALOGNOSET%([PC])
+END
+
+IF
+	Global("C#Q11_SearchBlood","GLOBAL",4)
+	See([PC])
+THEN
+	RESPONSE #100
+		%STARTDIALOGNOSET%([PC])
+END
+
+IF
+	!Exists("c#q11be1")
+	!Exists("c#q11be2")
+	GlobalGT("C#Q11_SearchBlood","GLOBAL",8) 
+	GlobalLT("C#Q11_SearchBlood","GLOBAL",12)	
+	See([PC])
+THEN
+	RESPONSE #100
+		%STARTDIALOGNOSET%([PC])
+END

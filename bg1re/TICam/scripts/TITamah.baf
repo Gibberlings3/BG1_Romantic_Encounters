@@ -1,0 +1,10 @@
+// TITamah.baf
+IF
+	Global("TITamah","GLOBAL",4)
+	See("TIDOPPLE")
+	Detect([PC])
+THEN
+	RESPONSE #11
+		SetGlobal("TITamah","GLOBAL",5)
+		ActionOverride("TITamah",StartDialogueNoSet([PC]))
+END

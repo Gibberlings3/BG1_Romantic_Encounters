@@ -1,0 +1,338 @@
+@0    = ~Hey. (wheeze)~
+@1    = ~Ye wouldn't (wheeze) have a pipe and baccy about?~
+@2    = ~Maybe I could do something about the gaping wounds first?~
+@3    = ~Sorry, mate, I don't smoke.  That stuff'll kill ya.~
+@4    = ~I was planning on looting your corpse as soon as you stopped squirming, but sure, here you go.~
+@5    = ~I was working up to that.  Didn't want to seem too (wheeze) forward.~
+@6    = ~I hear it stunts yer growth.~
+@7    = ~Ye're a piece of work.~
+@8    = ~Heh.~
+@9    = ~Took a hit when bandits attacked the wagons.  Last I saw young Eddy was (wheeze) fending 'em off while I... crawled off to die, I guess. Good kid. Nobleman's brat. Badge is a shield argent. Gave me a letter.~
+@10   = ~You saw my brother?~
+@11   = ~The Silvershield boy's around here? *Finally*.~
+@12   = ~I bet he was laying waste to those stinky bandits. He must be around here somewhere...~
+@13   = ~You're the little skyling, then, girly. Pretty as he said.~
+@14   = ~(sob)~
+@15   = ~(cough) Crappy way for a Longwalker to go. (cough) Not like this. Not with me satchel full...~
+@16   = ~I can take a look at your wounds, before we talk of dying.~
+@17   = ~We can take a look at your wounds, before we talk of dying.~
+@18   = ~Have a sip of water, mate.~
+@19   = ~Got anything stronger?  *cough, splutter*  Yeah, that's the stuff...~
+@20   = ~Can I have my brow mopped by a beauteous maiden?  Yeah, that's the stuff...~
+@21   = ~... So will I ever play the steam-powered dragon-lute again, sawbones?~
+@22   = ~Even the mightiest warrior must fall in his time, my little friend...~
+@23   = ~This is beyond my skills, young'n.  I'm sorry.~
+@24   = ~In my home we would have cut his throat and moved on long since.  This... dragging out serves nothing and no one.~
+@25   = ~(cough)~
+@26   = ~Well, you won't be dancing the springlering, buddy.~
+@27   = ~It... doesn't look good.~
+@28   = ~My innards are out-ards?~
+@29   = ~You may feel a draft.~
+@30   = ~To put it mildly.~
+@31   = ~How can you find this funny?~
+@32   = ~From fore to aft?  Heheh - ye made my day, kid. (cough)~
+@33   = ~Uh, you're welcome?~
+@34   = ~I takes my joys where I finds my joys.~
+@35   = ~End of the road for me, ain't it? (wheeze)~
+@36   = ~It... happens sometimes, th-that we're just too l-late, <CHARNAME>, and we have to let them fall.  It... happens.~
+@37   = ~And none of that lip about hauling my carcase to a Temple and wasting money better spent on widows and orphans.  One life for *me*: always been my rule.~
+@38   = ~But you gotta *do* something for me, kid.~
+@39   = ~M'name's Bartleby.  Bartleby Quickfoot, member in good standing of the Longwalker Messenger Guild.~
+@40   = ~'Not rain or snow or gloom of night shall stay us in our duty.'  Bandits now, screw 'em.~
+@41   = ~Take my satchel.  Deliver the letters.  Sacred trust, innit?  If I never finished my last job it'd just kill m...~
+@42   = ~...~
+@43   = ~Hey.~
+@44   = ~Ai! Ghost!!~
+@45   = ~How's life treating you, Bartleby?~
+@46   = ~What's up? Been busy?~
+@47   = ~You're kidding, right?~
+@48   = ~Well I'm dead, to begin with.~
+@49   = ~Heh. Joking aside, you did good. All my letters, sent on their proper way. Does my heart good, it does.~
+@50   = ~It was no trouble - I was trudging through mud all over the Sword Coast *anyway*.~
+@51   = ~I am glad I could honour your last request.~
+@52   = ~I didn't do it for *you* - I wanted to shake out some pocket change from the deliverees. And they were *very* *disappointing*.~
+@53   = ~Whate'er your reasons, you helped me out of a jam.~
+@54   = ~Thank'ee kindly, <CHARNAME>, child of Gorion.~
+@55   = ~How did you know my name? (Though I'll probably regret asking.)~
+@56   = ~You're well-informed for a ghost.~
+@57   = ~Yes, yes, your point?~
+@58   = ~Casting a bit of a shadow in the realms, you are.~
+@59   = ~I may have said too much there, lass. But you did me a good turn, and us halfling deaders do right by our helpers. Hold still a moment.~
+@60   = ~I may have said too much there, lad. But you did me a good turn, and us halfling deaders do right by our helpers. Hold still a moment.~
+@61   = ~What are you -~
+@62   = ~Tingly...~
+@63   = ~If you touch me I will blast you out of what remains of your existence, ghost.~
+@64   = ~Yikes. Touchy, much?~
+@65   = ~All these little lives swarming about. All their woes and their joys and their boring little business transactions. Drops in a bucket. Drops in an ocean, <CHARNAME>, an' their tides do move us. Remember that, when you reach the Throne. Whoops - now I really have said too m-~
+@66   = ~If your name is Maple Willow Aspen I have a letter for you, but you may not like -~
+@67   = ~What's this?  Oh...~
+@68   = ~Are you mocking me?  Now you have to make fun in PROSE as WELL?~
+@69   = ~Me?  Never!  I'm just the messenger.  You're barking up the wrong tree, lady.  Uh-~
+@70   = ~I think it's best I just leaf quietly, er, *leave*, um-~
+@71   = ~Not my letter.  Say, miss, while we're talking could you give me directions?  I'm new in town.~
+@72   = ~Before we speak of that... I've a letter for you, lad.~
+@73   = ~(gasp)  A letter from the Lady in Red!~
+@74   = ~She noticed how I changed the music to match the mood when the fight broke out!  When she threw that berserker through the window and jumped after shouting that she'd make us pay, she'd make us all pay, I thought I'd never see her again, nossir.~
+@75   = ~I'm glad she's well.~
+@76   = ~What's this about a ring?~
+@77   = ~It must have gotten lost in transit.~
+@78   = ~Here you go, buddy.~
+@79   = ~The post is notoriously unreliable these days.  We should do something about that.  It can be an Adventure!~
+@80   = ~Gosh, it sure is pretty.  Like a drop of heart's blood.  I'll just tuck it away somewhere safe...~
+@81   = ~So, how about my proposal? Protecting my mistress!~
+@82   = ~So can I join you?  Can I?  Well can I?  I know I can be useful!~
+@83   = ~Yessir, it sure is a beautiful time to be adventuring.  The birds are chirping, the flowers are springing... not much mud...~ [GARRK17]
+@84   = ~... beautiful company...~
+@85   = ~Why, thank you, Garrick.~
+@86   = ~I may gag.~
+@87   = ~Stow it, Eldoth, nobody likes you.~
+@88   = ~(sigh)~
+@89   = ~Are we not ballad-worthy enough for you, Garrick?~
+@90   = ~Gotta admit, the 'thrilling' and 'spilling' is cut with a lot of 'trudging' and 'drudging'.~
+@91   = ~Regrets, little bard?~
+@92   = ~No, it's great!  I just... miss my old audience already.~
+@93   = ~I had regulars back when I was turning tunes with Silke at the Burning Wizard.  There was that half-orc merc that liked apple wine and could belch the first eight bars of "Sunshine Nancy" and the Hobson twins that always said such nice things about my instrumental pieces, oh, and this ferocious little elf in crimson leather who broke things in time to the music, 'cept she was only there for one night so I can't really call her a regular...~
+@94   = ~Speaking of audiences, I think I picked up some fan mail for you.~
+@95   = ~Oh, hey, I found a scrap of paper with your name on it.~
+@96   = ~Or maybe I'll go East and look up the Lady in Red...~
+@97   = ~Did you go looking for your Scarlet Lady?  What was her nickname, again... "The Butcher"?~
+@98   = ~Oh... her.~
+@99   = ~That... happened.~
+@100  = ~Is the weather getting hotter right now?  I feel very warm, do you feel warm?  But moving on - not that I'm changing the subject or anything - shall we move on?~
+@101  = ~I did not, for my affections are engaged elsewhere, though I would not embarrass that lady by bandying about her name carelessly.  A ship at sea can have only one guiding star.  As the flower loves but a single bee so do I pine, faithful...~
+@102  = ~Does the adventuring road await?~
+@103  = ~I have a letter for a Nesiara Rille who lives around here.~
+@104  = ~That's me!  'Nesiara' for special and 'Nessie' for everyday.  Oh my, a letter from Petronius already!~
+@105  = ~Here now.  This letter says my sweetie is going to Durlag's Tower!~
+@106  = ~Does it?~
+@107  = ~Not that I'm saying I read your private mail, but it might.~
+@108  = ~Built by Durlag Trollkiller?~
+@109  = ~Who's Durlag?~
+@110  = ~I take it that's a bad thing?~
+@111  = ~Durlag who killed dragons and, driven mad by the loss of his family, rebuilt his tower and lovingly crafted it inch by subtle inch into a cunning death-trap baited with shining gewgaws to lure in fools, generation after generation?~
+@112  = ~Well...~
+@113  = ~So it would seem, miss.~
+@114  = ~I see nothing wrong with this plan!  Oh, I do hope he brings back some rubies.  I love a good ruby.~
+@115  = ~There goes another fiance, I guess...~
+@116  = ~Say, you look a likely lad.  Have you ever considered settling down while you still have the use of all your body-parts?~
+@117  = ~Uh, not that you don't seem very nice, Nessie, but...~
+@118  = ~Sure!  After I've settled all that nasty business with the assassins, bounty notices, and unseen lethal enemies, I'll come right back with a ring.~
+@119  = ~I'm sorry.  He... might not die?~
+@120  = ~Oh dear.  Well, I must be off.  You know how it is - people to see, things to kill...~
+@121  = ~Thank you kindly for bringing me the letter.  Here's a little money for your trouble, friend.  Enjoy the rest of your stay here.~
+@122  = ~I'm looking for someone by the name of Nesiara Rille.~
+@123  = ~Nesiara, eh?~
+@124  = ~You look a good sort, but we can't be too careful in these dark days, as that fella who made a fuss on the stairs can testify.~
+@125  = ~Your reason for asking?~
+@126  = ~I have a missive, sir.~
+@127  = ~Look, there's a piece of paper with her name on it, that's all I care about.~
+@128  = ~A missive?~
+@129  = ~Indeed so.  One might even call it a correspondence.~
+@130  = ~A correspondence?~
+@131  = ~You divine my meaning.  A note, an epistle, of the family of memoranda, a dispatch, a sweet billet-doux.  Dare I describe it as... a letter? ~
+@132  = ~She's out on the floor, bussing tables.~
+@133  = ~Ah, can I help you?  I did not hear you knock - I have been quite immersed in Umm Lahab's Satires for hours.~
+@134  = ~I believe this missive is for you, sir.~
+@135  = ~Yes yes, there's a letter for you burning a hole in my pocket.  I'll sell it to you for 20 gold.~
+@136  = ~This is what the postal service has come to in these degenerate times, mere banditry... here then, child.~
+@137  = ~What's this?  Ah, a happy coincidence, I see.  "I am not patient; I am not kind"... that is true.  "Execrable character," eh?  Ha!  I have eyes of my own, my dear...~
+@138  = ~"But", what does she mean by this "but"...~
+@139  = ~Oh, Mayyasah!~
+@140  = ~You... must excuse me, my friend.  I- I need a moment to compose myself.~
+@141  = ~There's a letter for your ladyship...~
+@142  = ~I bring sad tidings.  Your brother met his end in the wilderness just north of Beregost.~
+@143  = ~From my brother?  And so soon.  I shall read it this evening, after dinner.~
+@144  = ~Oh yes, a tip for you, my good woman.~
+@145  = ~Oh yes, a tip for you, my good fellow.~
+@146  = ~Farewell, m'lady.~
+@147  = ~There are sadder tidings.  Your brother met his end in the wilderness just north of Beregost.~
+@148  = ~If that's what you give for a letter, how much for news of your brother's untimely demise?~
+@149  = ~Now that I see the inside of your estate, I can't help but notice all the objets d'art.  So lovely,  and so very valuable.  Hmm...~
+@150  = ~You can see yourself out, I'm sure.~
+@151  = ~Hold up there, missy.  Before we speak of such things - I've a message from your brother.~
+@152  = ~You brought me a letter?  Fetching the post doesn't seem very... adventure-worthy.  But wait - this means I can Reward you for your Quest!  O Brave Adventurer, I thank thee from the bottom of my heart. Have this Bag of Gold, but a poor trifle in return for what you have vouchsafed me. (giggles)~
+@153  = ~So may I come with you?  I yearn to be with my brave Eldoth.~
+@154  = ~I bring more news than a letter.  Your brother met his end in the wilderness just north of Beregost.~
+@155  = ~D-dead?  Eddard?~
+@156  = ~(Hssst, <CHARNAME>, not so loud about that.  Not that it's any business of mine, mind you.)~
+@157  = ~Who are you to interrupt, little sir?  Never mind that now - your leader brought news of, news of my brother.~
+@158  = ~I'm sorry.  From the signs around his body, he died very bravely.~
+@159  = ~Bandits attacked his caravan.  For what it's worth, it was probably quick.~
+@160  = ~This makes you the heir, does it not?  And he died so conveniently far away - no-one could possibly blame *you*...~
+@161  = ~What...?~
+@162  = ~What are you suggesting?~
+@163  = ~Merely that people will talk, young miss, and that you need to be prepared.~
+@164  = ~If someone is killing off Silvershield heirs - you might be next.  It pays to be careful.~
+@165  = ~I could... massage... my story of how I found him, however you liked.  For sufficient incentive, that is.~
+@166  = ~Of *course* no-one could conceive of blaming you, Skie, my own, my sweet, my precious lamb.  My friend is merely concerned for your safety.  (You have the subtlety of a purblind bullock, <CHARNAME>; let *me* handle this.)~
+@167  = ~Why, you horrible...~
+@168  = ~I have to get out of here!~
+@169  = ~Oh Eldoth, hold me.  Take me away from this awful house.~
+@170  = ~Hush, my girl, my brave girl.  Shelter in my arms a while.  The wolves that gather about you and your newfound inheritance will have to go through *me* first.  I, who know your inner beauty, your wisdom, and your innocence of soul - I will fall in my tracks before I allow another to harm you.  (That's how it's done, <CHARNAME>.  That's how it's *done*.)~
+@171  = ~Eldoth, I - I love you.  I can come, then?~
+@172  = ~Sure thing, kid.  Looks like *someone's* got to look after you.~
+@173  = ~(When you smile like that, Eldoth, I can see aaaaaalllll your teeth.)  Welcome to the group, Lady Skie!~
+@174  = ~At this time I firmly believe that you would be better in the arms of your family.  Farewell.~
+@175  = ~I used to sneak out of my father's house all the time, to climb the roofs and see the street people.  It was such an adventure!  But now that I can't go home...~
+@176  = ~You aren't embracing timidity now, sweet thing?~
+@177  = ~I'll be brave, I will!  But the world seems so much *bigger* now.  And I keep thinking about my brother.~
+@178  = ~Eddard, right?  I found a letter from him earlier - there just hadn't seemed a good time to give it to you.~
+@179  = ~Now that you mention it, he scribbled a note for you.~
+@180  = ~I think he wrote this to you before he died.~
+@181  = ~Can I have it? I'll read it... later.~
+@182  = ~So... that letter from my brother?~
+@183  = ~Were you two close?~
+@184  = ~It must have been nice, to know that he was thinking of you.~
+@185  = ~Letter...?  Oh right, that.~
+@186  = ~I hardly knew him.  He was always off at the Counting House or one of the trading costers, looking after the family investments, and I would see him perhaps once a week, over a very formal cup of tea in which he hardly spoke a word to me.  I thought I bored him.  I thought... I thought he didn't care when Mother died.~
+@187  = ~More fool you?~
+@188  = ~And the letter changes things?~
+@189  = ~That must have been very lonely for you.~
+@190  = ~Yes, yes, the problems of people dripping in money...  *So* much more important than mine.~
+@191  = ~All of this... stuff was inside him, so many feelings, and I never knew.~
+@192  = ~Maybe everybody has secret worlds hidden inside them, for good or ill.~
+@193  = ~My foster father Gorion always *said* he loved me, but the way he looked at me sometimes... like I was going to sprout another head or carve up the Candlekeep cats to see what made them tick.~
+@194  = ~And now you do.  Is this knowledge helpful to you?~
+@195  = ~Huh.  That sounds like one of Eldoth's songs.~
+@196  = ~And what do you think is hidden inside *him*... for good or ill?~
+@197  = ~And what do you think was hidden inside *him*... for good or ill?~
+@198  = ~Yes, Eldoth is clever with his tongue, isn't he.  Always telling people what they want to hear.~
+@199  = ~Yes, Eldoth was clever with his tongue, wasn't he.  Always telling people what they wanted to hear.~
+@200  = ~When Eldoth tells me he loves me, I feel so warm and brave, and, and *special*, like the heroine in a novel.  So *what* if he's rough with his words, sometimes.  Isn't everybody, when they're tired or worried?  Should I give up on someone lightly?  What would that make me, <CHARNAME>, if I hung around only when things are *perfect*.  Someone I wouldn't like very much, I think.  So I believe him when he tells me he loves me, and that's all there is to it.~
+@201  = ~He l-loves me.~
+@202  = ~Oh, honey.~
+@203  = ~I like you fine, Skie, just the way you are.~
+@204  = ~So long as you carry your weight, princess, I really don't care.~
+@205  = ~Does it matter, <CHARNAME>?  He's gone now.~
+@206  = ~That must have been very unnerving.~
+@207  = ~Oh, his instincts were right.  *I* know how black my soul is painted.~
+@208  = ~I still tried to please him.  Can't think why.  Maybe I wanted to prove him wrong.~
+@209  = ~It was just one more reason to hate that foolish, fond old man.  I detest insincerity - when it's directed at me, that is.~
+@210  = ~He was the kindest, most patient man I knew.  And when you can never be *good* enough for someone like that, never quite acceptable...~
+@211  = ~Eh, what does it matter.  He's dead now.~
+@212  = ~Oh no!  I'm sure he was proud of you in - in his own way.~
+@213  = ~Um, probably.~
+@214  = ~Surely?~
+@215  = ~Who couldn't be proud of someone as heroic as *you*?~
+@216  = ~You must think I'm very stupid.~
+@217  = ~Yes, but you have useful skills, and your aristocratic connections may come in handy.~
+@218  = ~Not at all.  I think you're bright and enthusiastic.  Everybody has to start somewhere.~
+@219  = ~I think a lot of people are stupid.  Don't let that get you down.~
+@220  = ~Hooboy - Immie here could tell you some of my more... inappropriate moments.~
+@221  = ~You betcha.~
+@222  = ~That's my value to you, then?  My 'use'?~
+@223  = ~It makes things very simple, for me and for you.~
+@224  = ~Forgive me, princess, I left my romanticism behind with my foster-father, choking on his own blood in the dark.~
+@225  = ~'Use' is leverage; 'use' is *power*.  My belongings, my home, my friends and my family, everything I love - these can all be taken away.  But my skills stay while I yet am breathing, and my 'use' to other people gives them an interest in keeping me that way.  Consider that, Skie.~
+@226  = ~And why else should I keep you around, Miss Break-A-Nail?~
+@227  = ~Really?~
+@228  = ~Just pull your weight in the group, and we're good.~
+@229  = ~I like you better than your bard, if we want to be brutally honest.~
+@230  = ~I speak more harshly than I should, perhaps.  Sometimes.  But understand: while you guard my back, I *will* guard yours.~
+@231  = ~I suppose it does.~
+@232  = ~I'm... sorry for your pain, <CHARNAME>.~
+@233  = ~I don't know what to say, <CHARNAME>.~
+@234  = ~<CHARNAME>?  You really are a jerk.~
+@235  = ~We - we really should move on.~
+@236  = ~There's a letter for Lady Skie.~
+@237  = ~I bear a letter entrusted to the Lady Skie, from her brother.~
+@238  = ~Hold on a minute! I have a letter here. I think you wrote it. Is it yours?~
+@239  = ~Do you ship many places?  Like the Cloakwood?~
+@240  = ~Who are you sending your wares to - a mining concern, perhaps?~
+@241  = ~I think you have an out-of-town customer come to see you.~
+@242  = ~So... Stephan...~
+@243  = ~I send imported delicacies all over the Sword Coast.  Cloakwood, Gullykin... retired wizards in the woods...  Half of them pay extra for anonymity, which is a thing of value in itself.~
+@244  = ~I'll be sure to give them a good room then, and point them to the tourist attractions in the city.  It pays to accommodate my customers.~
+@245  = ~Ah, the boy.  A nervous one, that, and I doubt he'll stay long.  No matter.  Sometimes an independent woman wants a relationship that isn't... *complicated*.~
+@246  = ~But I cannot talk long - I've an out-of-town shipment to pack.~
+@247  = ~And I am not the type to pry into things that are not my business. Show me your wares.~
+@248  = ~Sure.~
+@249  = ~Your brow cocks to a question.  What troubles you?~
+@250  = ~If you are Silence, and this is your Sanctuary, then I think this is for you.~
+@251  = ~I've a message long-carried - 'Barkis is willing'.~
+@252  = ~He's willing, aye?  Trouble is, Barkis is dead.~
+@253  = ~But I've a place to rest his bones, sure enough.  There's too many as wander on this dark earth to turn away a soul world-worn.~
+@254  = ~... when... goes... the light... what... passes...?~
+@255  = ~... sooo... cold...~
+@256  = ~... little lights... in... the dark...~ ~... watch... them... burn...~
+@257  = ~... I... fear... the end...~
+@258  = ~... god... child...~
+@259  = ~... I'm... so... tired...~
+@260  = ~When out burns the candle, Barkis, what happens then?  You sleep.~
+@261  = ~I'll not have you scraping the nerves of my other customers, shadeling.~
+@262  = ~Lie easy, boy.  Lie easy.~
+@263  = ~Bartleby the Longwalker
+
+I found a halfling messenger near some wrecked caravans on the Coast Way - one more death on the Sword Coast. His last wish was for me to deliver the contents of his messenger bag. There are letters to Old Firebead and Garrick the Bard in Beregost town; Nesiara Rille in the Friendly Arm Inn; a Lady Skie Silvershield and Miss Maple Willow Aspen up north in Baldur's Gate; and two without addresses, to 'Lady Alyth Elendara' and 'Silence in the Sanctuary'.~
+@264  = ~Bartleby the Longwalker
+
+I delivered a 'love letter' to Maple Willow Aspen. Gosh, when a joke takes root people really make it flourish. Poor girl.~
+@265  = ~Bartleby the Longwalker
+
+Garrick the bard seemed pleased to know of such an enthusiastic admirer of his artistic endeavours.~
+@266  = ~Bartleby the Longwalker
+
+Garrick took advantage of his sojourn from my party to visit the adventurer Carnatia Carnifex. He is cagy on the details, but seems unscathed, if not unchafed.~
+@267  = ~Bartleby the Longwalker
+
+Nesiara Rille received her missive in good order. May her Pootsie pile up the promised precious jewels for her pleasure.~
+@268  = ~Bartleby the Longwalker
+
+Nesiara Rille received her missive in good order - and that may be the only good order in this, for she fears her fiance's imminent death in Durlag's Tower. They say the only thing worse than *being* an adventurer is *loving* one, sometimes...~
+@269  = ~Bartleby the Longwalker
+
+Nesiara Rille received her missive in good order - and that may be the only good order in this, for he's off on a fool's errand to what's left of Durlag's Tower. He's welcome to my leavings.~
+@270  = ~Bartleby the Longwalker
+
+I found old Firebead back in Beregost and delivered a message from an old friend. He went quite pale as he read it, and I feared for his heart.~
+@271  = ~Bartleby the Longwalker
+
+I gave young Lady Silvershield a message from her older brother Eddard. She thanked me, though the two of them did not appear to be close.~
+@272  = ~Bartleby the Longwalker
+
+I gave young Lady Silvershield a message from her dead brother Eddard. Glad as she was to have it, she seemed more inclined to weep than read his last words.~
+@273  = ~Bartleby the Longwalker
+
+I found the author of one of my letters - slavers, murderers, and torturers want their little treats too.~
+@274  = ~Bartleby the Longwalker
+
+I've helped bring together a most unlikely pair of lovers, although, in Stephan and Alyth's case, I doubt it will be a situation of 'happily ever after'.~
+@275  = ~Bartleby the Longwalker
+
+I found the Cloakwood Mine's supplier of sweetmeats and delicacies. Alyth was close-mouthed on her dealings with the Iron Throne, and I don't think she knew much. She'd better keep quiet on *my* dealings, or we'll be having ourselves... a nice chat.~
+@276  = ~Bartleby the Longwalker
+
+Madame Silence takes her pledge to shelter stray souls *really* seriously, is all I can say.~
+@277  = ~Bartleby the Longwalker~
+@278  = ~Ummm... Yes. I wrote this to my...my friend Alyth. I'll take it back, thank you. With my master dead, I guess I can bring it to her myself.~
+@279  = ~Alyth, you say? The address on the letter says she resides in Baldur's Gate.~
+@280  = ~Hmmm....~
+@281  = ~Sounds like my next trip should be to the Elfsong Tavern, then.~
+@282  = ~Oh, no! No! Alyth just supplies our rations! She has no idea that we're working for the Iron Throne! She doesn't even know her victuals go to a mine!! I beg you!! Please don't hurt her!!~
+@283  = ~Shut up. Get out of my sight, you coward. Who I see in Baldur's Gate is my business.~
+@284  = ~So now you're a hero, huh? Changed your mind about facing us?~
+@285  = ~I spared you, didn't I? I'm not the monster that your...uh...former boss was. Now go!~
+@286  = ~Oh, NO!  It's you!!~
+@287  = ~What are you doing here, Stephan?~
+@288  = ~I'm beginning to regret that I let you live.~
+@289  = ~You aren't trying to follow me, are you?~
+@290  = ~I'm uh... Just standing down here minding my own business.~
+@291  = ~Please don't say that! You were very kind to me... I've reformed my life! Really!~
+@292  = ~Oh, no.  No, never. It's uh... just coincidence that we're both here right now.~
+@293  = ~I'm not doing anything wrong. I'm just having a little drink here... Before I go upstairs to see my girlfr... My friend Alyth.~
+@294  = ~It seems more like you're skulking back here in the corner. Does Alyth know you're here?~
+@295  = ~Coincidence? Hardly. You were afraid we'd get to Alyth before you did.~
+@296  = ~Your friend?~
+@297  = ~It's not like that! (Pauses.) You think the kind things she wrote on the invoices weren't true. But they were!~
+@298  = ~Of course I was afraid! I was worried about her... I was afraid of what you'd do to someone who cares about me!~
+@299  = ~What do you mean by that? Of course she's my friend. More than that, even! She's written little notes to me on every invoice!~
+@300  = ~She really cares about me! You'll see!!~
+@301  = ~You think you're so smart, huh? But you really don't know anything! Alyth loves me! Why, this morning, she even fed me breakfast before she put me out with the cat!!~
+@302  = ~Bartleby the Longwalker
+
+Bartleby took his last job really seriously - even as a ghost, he monitored me delivering the letters, and his reward was generous. Brave little man, I hope he'll find rest now.~
+
+@303  = ~Bartleby the Longwalker
+
+Bartleby took his last job really seriously - even as a ghost, he monitored me delivering the letters. I didn't let him touch me, though. Let's hope he'll find rest now.~
+

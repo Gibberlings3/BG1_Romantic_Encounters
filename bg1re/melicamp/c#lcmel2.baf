@@ -1,0 +1,20 @@
+// c#lcmel2.baf -PC goes back to main area AR0300
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("c#lcmelc",DestroySelf())
+         LeaveAreaLUAPanic("%HighHedge_ThalanthyrsAbode%","",[213.310]%FACE_0%)
+        LeaveAreaLUA("%HighHedge_ThalanthyrsAbode%","",[213.310]%FACE_0%)
+        Wait(1)
+        Explore()
+        MoveViewPoint([213.310],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("Melicamp",%STARTDIALOGNOSET%(Player1))
+END 

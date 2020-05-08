@@ -1,0 +1,7 @@
+IF
+	Detect(Player1)
+	NumTimesTalkedTo(0)
+THEN
+	RESPONSE #100
+		Dialogue(Player1)
+END

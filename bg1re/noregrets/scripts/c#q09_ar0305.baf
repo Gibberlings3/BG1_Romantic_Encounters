@@ -1,0 +1,10 @@
+IF 
+      Global("c#no_MeillaCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+	    CreateCreature("c#nomeil",[354.160]%FACE_0%) //Miella
+	    CreateCreature("c#nocat",[402.151]%FACE_0%) //Whistler
+            SetGlobal("c#no_MeillaCreation","GLOBAL",1)
+END
+
+

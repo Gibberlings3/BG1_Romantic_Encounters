@@ -1,0 +1,27 @@
+/* Activate: girdle of gender bender on Faldorn */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderFaldorn","GLOBAL",0)
+Gender("Faldorn",MALE) HasItem("%tutu_var%BELT05","Faldorn")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderFaldorn","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Faldorn */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderFaldorn","GLOBAL",1)
+Gender("Faldorn",MALE) HasItem("%tutu_var%BELT05","Faldorn")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

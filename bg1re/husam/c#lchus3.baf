@@ -1,0 +1,19 @@
+// c#lchus3.baf -PC goes back to main area AR0300
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("C#HUSAM",DestroySelf())
+         LeaveAreaLUAPanic("%NEBaldursGate%","",[1160.1395]%FACE_0%)
+        LeaveAreaLUA("%NEBaldursGate%","",[1160.1395]%FACE_0%)
+        Wait(1)
+        Explore()
+        MoveViewPoint([1160.1395],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+END 

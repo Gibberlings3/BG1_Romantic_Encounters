@@ -1,0 +1,21 @@
+IF %BGT_VAR%
+	Global("C#RE1_ScarShopkeep","GLOBAL",0)		
+THEN
+	RESPONSE #100
+		SetGlobal("C#RE1_ScarShopkeep","GLOBAL",1)
+		CreateCreature("c#re1sr1",[1774.168]%FACE_0%) //Storekeep
+		AddMapNote([1774.168],@30)
+END
+
+IF
+	PartyHasItem("c#re1sr1")
+	Global("C#RE1_TalkToScarShopkeep","GLOBAL",0)		
+THEN
+	RESPONSE #100
+		AddJournalEntry(@10000%QUEST%)
+		SetGlobal("C#RE1_TalkToScarShopkeep","GLOBAL",1)
+END
+	
+
+
+

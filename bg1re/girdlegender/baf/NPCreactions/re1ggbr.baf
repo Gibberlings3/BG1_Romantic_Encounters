@@ -1,0 +1,27 @@
+/* Activate: girdle of gender bender on Branwen */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderBranwen","GLOBAL",0)
+Gender("Branwen",MALE) HasItem("%tutu_var%BELT05","Branwen")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleGenderBranwen","GLOBAL",1)
+END
+
+/* Initiate: girdle of gender bender on Branwen */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderBranwen","GLOBAL",1)
+Gender("Branwen",MALE) HasItem("%tutu_var%BELT05","Branwen")
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

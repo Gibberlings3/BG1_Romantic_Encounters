@@ -1,0 +1,37 @@
+IF
+InParty(Myself) 
+InParty("Khalid")
+!StateCheck("Khalid",CD_STATE_NOTVALID) 
+See("Khalid")
+Global("RE1_EnderProposal","GLOBAL",1)
+Global("RE1#HRBanter1","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("RE1#HRBanter1","GLOBAL",1)
+	SetGlobalTimer("RE1_EnderJaheiraTimer","GLOBAL",ONE_DAY)
+END
+
+IF
+InParty(Myself) 
+InParty("Khalid")
+!StateCheck("Khalid",CD_STATE_NOTVALID) 
+!StateCheck(Myself,CD_STATE_NOTVALID)  
+See("Khalid") 
+Global("RE1#HRBanter1","GLOBAL",1)
+GlobalTimerExpired("RE1_EnderJaheiraTimer","GLOBAL")
+THEN
+  RESPONSE #100
+    SetGlobal("RE1#HRBanter1","GLOBAL",2)
+END
+
+IF
+InParty(Myself) 
+InParty("Khalid")
+!StateCheck("Khalid",CD_STATE_NOTVALID)
+!StateCheck(Myself,CD_STATE_NOTVALID)  
+See("Khalid")
+Global("RE1#HRBanter1","GLOBAL",2)
+THEN
+  RESPONSE #100
+    %STARTDIALOGNOSET%("Khalid")
+END

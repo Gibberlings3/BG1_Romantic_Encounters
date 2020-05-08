@@ -1,0 +1,11 @@
+IF %BGT_VAR%
+Global("C#LC_Details","GLOBAL",1) //only for enabled details
+GlobalGT("TICamryn","GLOBAL",0)
+Global("TICBOOK09_Spawn","%Nashkel_ManorHouse_L1%",0)  
+ 
+THEN
+RESPONSE #100
+ActionOverride("Container7",CreateItem("TITOME09",0,0,0))
+SetGlobal("TICBOOK09_Spawn","%Nashkel_ManorHouse_L1%",1)
+Continue()
+END

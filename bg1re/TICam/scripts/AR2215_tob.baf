@@ -1,0 +1,14 @@
+/* This letter will not be available for teen version */
+
+IF %BGT_VAR%
+Global("C#LC_Details","GLOBAL",1)
+GlobalGT("TICamryn","GLOBAL",0)
+Global("TICBOOK11_Spawn","%CloakwoodLodgeHuntingLodge%",0)  
+ 
+THEN
+RESPONSE #100
+ActionOverride("Container1",CreateItem("TITOME11",0,0,0))
+SetGlobal("TICBOOK11_Spawn","%CloakwoodLodgeHuntingLodge%",1)
+Continue()
+END
+

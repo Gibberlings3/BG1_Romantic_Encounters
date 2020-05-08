@@ -1,0 +1,12 @@
+// The Low Lantern, the lower deck (courtesans)
+
+IF 
+  Global("RE1_SchvantzCreation","GLOBAL",0)
+	!Dead("T1LARS1")
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_SchvantzCreation","GLOBAL",1)
+	CreateCreature("re1thsch",[952.640]%FACE_3%)
+	Continue()
+END
+

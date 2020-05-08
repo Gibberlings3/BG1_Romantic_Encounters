@@ -1,0 +1,17 @@
+/* Activate: girdle of gender bender on Minsc - slumberparty-dialogue 
+
+//activate:
+variable Global("RE1_GirdleGenderMinsc","GLOBAL",4) set by tavern scripts */
+
+/* Initiate: girdle of gender bender on Minsc - slumber party */
+IF %BGT_VAR%
+Global("RE1_GirdleGenderMinsc","GLOBAL",4)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END

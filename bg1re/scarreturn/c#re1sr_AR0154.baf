@@ -1,0 +1,12 @@
+IF %BGT_VAR%
+      Global("C#RE1SR_InnSpawn","GLOBAL",0)
+	GlobalGT("Chapter","GLOBAL",%tutu_chapter_6%)
+		
+THEN
+	RESPONSE #100
+            SetGlobal("C#RE1SR_InnSpawn","GLOBAL",1)
+	    CreateCreature("c#re1sr5",[913.228]%FACE_12%) //Duntrin
+END
+
+
+

@@ -1,0 +1,38 @@
+// Ender Sai, in the Friendly Arms Inn bar
+// BG1 AR2301
+// BG Tutu 2301
+// BGT AR6801 / "FriendlyArmInn_L1"
+
+IF 
+  Global("T1EnderCreation","GLOBAL",0)
+  Global("Chapter","GLOBAL",%tutu_chapter_4%)
+THEN
+  RESPONSE #100
+    SetGlobal("T1EnderCreation","GLOBAL",1)
+	CreateCreature("T1ENDER",[363.628]%FACE_11%)
+	Continue()
+END
+
+// Remove Ender after chapter 4
+
+IF
+  GlobalGT("Chapter","GLOBAL",%tutu_chapter_4%)
+THEN
+  RESPONSE #100
+    SetGlobal("T1EnderCreation","GLOBAL",99)
+	ActionOverride("T1ENDER",DestroySelf())
+	Continue()
+END
+
+// Remove Ender after sex
+
+IF
+  Global("RE1_EnderSex","GLOBAL",1)
+THEN
+  RESPONSE #100
+    SetGlobal("T1EnderCreation","GLOBAL",99)
+	ActionOverride("T1ENDER",DestroySelf())
+	Continue()
+END
+
+

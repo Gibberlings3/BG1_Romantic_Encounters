@@ -1,0 +1,11 @@
+IF %BGT_VAR%
+Global("TICamryn","GLOBAL",1)
+!Dead("TICam")
+!Exists("TICam")
+
+THEN
+RESPONSE #100
+SetGlobal("TICamryn","GLOBAL",2)
+CreateCreature("TICam",[2777.1792]%FACE_0%)
+Continue()
+END

@@ -1,0 +1,11 @@
+IF
+	Global("RE1_KittyDaiCreation","GLOBAL",0)
+THEN
+RESPONSE #100
+	SetGlobal("RE1_KittyDaiCreation","GLOBAL",1)
+	CreateCreature("T1KITTY",[184.331]%FACE_8%) // Kitty
+	ActionOverride("T1KITTY",Face(8))
+	CreateCreature("T1DAI",[230.281]%FACE_4%) // Dai
+	ActionOverride("T1DAI",Face(4))
+Continue()
+END

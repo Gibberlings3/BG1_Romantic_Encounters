@@ -1,0 +1,11 @@
+// The Low Lantern, the middle deck
+
+IF 
+  Global("T1SumUmCreation","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("T1SumUmCreation","GLOBAL",1)
+	CreateCreature("T1SumUm",[916.607]%FACE_3%)
+	Continue()
+END
+

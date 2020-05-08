@@ -1,0 +1,25 @@
+IF %BGT_VAR%
+	Global("C#Q11_MonsterCreation","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q11_MonsterCreation","GLOBAL",1)
+	CreateCreature("%tutu_var%skelet",[181.255]%FACE_0%)
+	CreateCreature("%tutu_var%zombie",[417.214]%FACE_0%)
+	CreateCreature("%tutu_var%zombie",[601.137]%FACE_0%)
+	CreateCreature("%tutu_var%zombie",[868.395]%FACE_0%)
+	CreateCreature("%tutu_var%zombie",[1058.353]%FACE_0%)
+	CreateCreature("%tutu_var%carrio",[595.290]%FACE_0%)
+END
+
+IF 
+	Global("C#Q11_KillAllCreatures","GLOBAL",1)
+THEN
+  RESPONSE #100
+	SetGlobal("C#Q11_KillAllCreatures","GLOBAL",0)
+	SetGlobal("C#Q11_SearchBlood","GLOBAL",2)
+END
+
+
+
+
+	

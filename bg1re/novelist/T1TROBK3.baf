@@ -1,0 +1,15 @@
+IF
+  Global("RE1_NovelistOpenBook","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_NovelistOpenBook","GLOBAL",1)
+    %STARTDIALOGNOSET%([PC])
+END
+
+IF
+  Global("RE1_NovelistOpenBook","GLOBAL",2)
+THEN
+  RESPONSE #100
+    SetGlobal("RE1_NovelistOpenBook","GLOBAL",0)
+    DestroySelf()
+END

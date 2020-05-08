@@ -1,0 +1,22 @@
+IF 
+Global("TICamryn","GLOBAL",0)
+Global("TICBOOK09_Gone","%Nashkel_ManorHouse_L1%",0)  //you need a check variable, or the script block will be true always and block everything beneath it
+
+THEN
+RESPONSE #100
+ActionOverride("Container7",DestroyItem("TITOME09")) //unfortunately, you need the container name, yes. And don't get discouraged if it seem not to work the first time
+SetGlobal("TICBOOK09_Gone","%Nashkel_ManorHouse_L1%",1)
+Continue()
+END
+
+/* This letter will not be available for teen version */
+IF 
+Global("C#LC_Details","GLOBAL",0)
+Global("TICBOOK09_Gone","%Nashkel_ManorHouse_L1%",0)  //you need a check variable, or the script block will be true always and block everything beneath it
+
+THEN
+RESPONSE #100
+ActionOverride("Container7",DestroyItem("TITOME09")) //unfortunately, you need the container name, yes. And don't get discouraged if it seem not to work the first time
+SetGlobal("TICBOOK09_Gone","%Nashkel_ManorHouse_L1%",1)
+Continue()
+END

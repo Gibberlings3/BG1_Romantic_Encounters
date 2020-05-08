@@ -1,0 +1,88 @@
+IF
+	HitBy([GOODCUTOFF],CRUSHING)
+THEN
+	RESPONSE #100
+		Shout(99)
+		Continue()
+END
+
+IF
+	AttackedBy([GOODCUTOFF],DEFAULT)
+	Allegiance(Myself,NEUTRAL)
+THEN
+	RESPONSE #100
+		Shout(99)
+		Enemy()
+END
+
+IF
+	Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		SetGlobal("C#LC_BartusQuest","GLOBAL",20)
+		EscapeArea()
+END
+
+
+
+IF
+  !See([ENEMY])
+  Global("C#LC_BartusQuest","GLOBAL",1)
+  See(Player1)
+  Range(Player1,5)
+	Allegiance(Myself,NEUTRAL)
+  !StateCheck(Player1,STATE_INVISIBLE)
+  !StateCheck(Player1,STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    %STARTDIALOGNOSET%(Player1)
+END
+
+IF
+  !See([ENEMY])
+  Global("C#LC_BartusQuest","GLOBAL",5)
+  Global("C#LC_BartCutScene1","LOCALS",0)
+  See(Player1)
+  Range(Player1,20)
+	Allegiance(Myself,NEUTRAL)
+  !StateCheck(Player1,STATE_INVISIBLE)
+  !StateCheck(Player1,STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    %STARTDIALOGNOSET%(Player1)
+END
+
+IF
+  !See([ENEMY])
+  Global("C#LC_BartusQuest","GLOBAL",6)
+  !Exists("c#lcba01")
+  !Exists("c#lcba02")
+  See(Player1)
+  Range(Player1,10)
+	Allegiance(Myself,NEUTRAL)
+  !StateCheck(Player1,STATE_INVISIBLE)
+  !StateCheck(Player1,STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    %STARTDIALOGNOSET%(Player1)
+END
+
+IF
+  !See([ENEMY])
+  Global("C#LC_BartusQuest","GLOBAL",6)
+  !Exists("c#lcba01")
+  !Exists("c#lcba02")
+  !See(Player1)
+	Allegiance(Myself,NEUTRAL)
+  !StateCheck(Player1,STATE_INVISIBLE)
+  !StateCheck(Player1,STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    MoveToObject(Player1)
+END
+
+
+
+
+
+

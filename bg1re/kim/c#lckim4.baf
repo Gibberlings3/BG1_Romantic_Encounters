@@ -1,0 +1,25 @@
+// c#lckim4.baf - Kim and male PC go into the bushes!
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(2)
+	ActionOverride("c#lckim",DestroySelf())
+        Wait(1)
+         LeaveAreaLUAPanic("c#lc03","",[605.471],8)
+        LeaveAreaLUA("c#lc03","",[605.471],8)
+        Wait(1)
+	Face(8) //needed for BG1
+	CreateCreature("c#lckimw",[638.435]%FACE_2%)
+	ActionOverride("c#lckim",Face(2)) //needed for BG1
+        Explore()
+        MoveViewPoint([638.435],INSTANT)
+        Wait(1)
+        FadeFromColor([20.0],0)
+        Wait(1)
+	EndcutSceneMode()
+        ActionOverride("c#lckim",%STARTDIALOGNOSET%(Player1))
+END 

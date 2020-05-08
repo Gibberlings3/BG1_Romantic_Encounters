@@ -1,0 +1,51 @@
+// This is special code for Vanilla BG, which does not have a HasItemEquiped check.
+// (We can tell that the NPCs are wearing the belt if they have it in their inventory and their gender doesn't match what they started with.  The PC gender is determined by the player and so, needs a bit of tinkering to use.  A script in the Candlekeep Prologue records the PC's innies and outies, and is used here for comparison.)
+
+/* Activate: Khalid notices girdle of gender on PC */
+
+// girl to boy
+
+IF 
+Global("RE1_GirdleKhalidPCDidIt","GLOBAL",0)
+Global("RE1_PCGender","GLOBAL",1) // originally a girl
+Gender(Player1,MALE)  //  but now a boy
+HasItem("%tutu_var%BELT05",Player1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleKhalidPCDidIt","GLOBAL",1)
+END
+
+// boy to girl
+
+IF 
+Global("RE1_GirdleKhalidPCDidIt","GLOBAL",0)
+Global("RE1_PCGender","GLOBAL",2) // originally a boy
+Gender(Player1,FEMALE)  //  but now a girl
+HasItem("%tutu_var%BELT05",Player1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+SetGlobal("RE1_GirdleKhalidPCDidIt","GLOBAL",1)
+END
+
+/* Initiate: Khalid/PC girdle talk */
+IF 
+Global("RE1_GirdleKhalidPCDidIt","GLOBAL",1)
+InParty(Myself)
+Detect(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+%CombatCounter_0%
+!See([ENEMY])
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END
