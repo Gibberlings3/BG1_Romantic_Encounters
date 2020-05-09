@@ -1374,6 +1374,7 @@ XII. History
 Version 4.0:
 -Partial French translation added: Traduction par les d'Oghmatiques : Le Marquis, Zooloo, Shaywen, Galathée, Lothringen. Relecture par Graoumf
 -infer_charset corrected to infer_charsets in tp2
+-component "No Regrets" German title changed to "Ich bereue nichts"
 
 Version 3.0:
 -installer of main component changed to SUBCOMPONENTs (substitute for READLN, for compatibility with ALIEN's Project Infinity)
