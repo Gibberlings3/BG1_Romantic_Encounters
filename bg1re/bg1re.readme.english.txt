@@ -1,6 +1,6 @@
 		Baldur's Gate Romantic Encounters Modification (BG1RE)
 	for BG1 (with TotSC), BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET
-					Version 3.0
+					Version 4.0
 				A Gibberlings Three Mod
 				http://www.gibberlings3.net
 
@@ -1339,6 +1339,7 @@ Twani: contributor, alpha tester, proof reader
 Vanguard: beta tester
 
 German translations: Gerri, jastey. 
+French translations by les d'Oghmatiques : Le Marquis, Zooloo, Shaywen, Galathée, Lothringen. Proofreadings by Graoumf.
 
 ----------------
 XI. Tools Used
@@ -1369,6 +1370,10 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 4.0:
+-Partial French translation added: Traduction par les d'Oghmatiques : Le Marquis, Zooloo, Shaywen, Galathée, Lothringen. Relecture par Graoumf
+-infer_charset corrected to infer_charsets in tp2
 
 Version 3.0:
 -installer of main component changed to SUBCOMPONENTs (substitute for READLN, for compatibility with ALIEN's Project Infinity)

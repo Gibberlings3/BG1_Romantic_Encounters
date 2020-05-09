@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~3.0~ 
+VERSION ~4.0~ 
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -718,7 +718,7 @@ END
 
     LAF HANDLE_CHARSETS
       INT_VAR
-        infer_charset = 1
+        infer_charsets = 1
       STR_VAR
         tra_path = EVAL ~bg1re/tra/autotra~
         noconvert_array = fl#noconvert
@@ -733,6 +733,7 @@ END
 
    /* TRAs declared in LANGUAGE must be reloaded - by hand, because of the copying (for non-EE version (for every running of installer!) - ALWAYS */
 
+  LOAD_TRA ~bg1re/tra/autotra/english/Setup_game.tra~
   LOAD_TRA ~bg1re/tra/autotra/%LANGUAGE%/Setup_game.tra~
 
 
@@ -758,11 +759,12 @@ LANGUAGE ~English~
 LANGUAGE ~Deutsch (Teildeutsche Version, der Rest ist in Englisch)~
          ~german~
 	~bg1re/tra/german/setup.tra~ ~bg1re/tra/german/setup_game.tra~
-/*
-LANGUAGE ~Francait (Partial Translation, still Components in English)~
-         ~french~
-	~bg1re/tra/french/setup.tra~ ~bg1re/tra/french/setup_game.tra~
-*/
+
+LANGUAGE ~Francais (Partial Translation, still Components in English)~
+         ~francais~
+//	~bg1re/tra/french/setup.tra~ ~bg1re/tra/french/setup_game.tra~
+         ~bg1re/tra/english/setup.tra~ ~bg1re/tra/english/setup_game.tra~
+
 
 /* First component: required */
 /* ~Amount of -ahem- details and BG-style vs. description text!~ */

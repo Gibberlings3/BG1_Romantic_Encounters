@@ -1,0 +1,238 @@
+@0    = ~<CHARNAME> ! Puis-je te demander un service ? J'ai entendu dire que Gorion et toi allez bientôt quitter Château-Suif.~
+@1    = ~Quoi ?! Comment l'avez-vous appris ? *Je* ne le savais même pas il y a une heure !~
+@2    = ~Il semblerait, oui, même si je ne sais absolument pas où nous allons.~
+@3    = ~Occupez-vous de vos affaires, la vieille !~
+@4    = ~Fais attention à toi sur les routes, mon enfant.~
+@5    = ~Hum ? Oh... *atchoum !*... Bonjour, mon enfant.~
+@6    = ~Eh bien bon voyage, mon enfant.~
+@7    = ~Comme tu voudras, mon enfant. Je vais un peu rester ici prendre l'air.~
+@8    = ~J'ai de vieilles oreilles, mais j'entends quand même beaucoup de choses. Avec tous ces problèmes, le service de courrier a été terriblement perturbé. Je sais que que Gorion et toi allez voyager loin. Pourrais-tu transporter une lettre pour moi ? Si votre chemin vous mène près du temple de la Chanson du Matin à l'est de Bérégost, j'aimerais que tu la fasses parvenir au prêtre de l'Aube, Blaise, qui a ses quartiers dans le vestibule.~
+@9    = ~Je ne sais ni où nous allons, ni pour combien de temps. Je n'aurai peut-être jamais l'occasion de la lui donner.~
+@10   = ~Si par hasard nous passons dans les environs, je suppose que je pourrai la lui remettre.~
+@11   = ~Je ferai de mon mieux !~
+@12   = ~Et j'ai droit à une récompense ?~
+@13   = ~Cette discussion m'ennuie. Je veux de l'aventure ! Je veux combattre des trucs ! Distribuer du courrier n'est vraiment pas ce que je rêve de faire dans ma vie.~
+@14   = ~Je vais te faire confiance, je crois que tu passeras par là-bas. Et puis j'ai le sentiment, mon enfant, que quand tu as décidé d'accomplir quelque chose, tu t'y tiens.~
+@15   = ~Je ne peux que t'offrir mes remerciements. Mon ordre n'encourage pas l'accumulation de richesses, nous nous en servons plutôt pour acheter des livres. Mais je te remercie du fond du cœur.~
+@16   = ~Dans ce cas je ne crois pas que je vais le faire. Trouvez un autre messager.~
+@17   = ~Très bien. Donnez-moi cette lettre.~
+@18   = ~Merci <CHARNAME> ! La voilà, emballée dans de la toile cirée pour la protéger des intempéries. Fais bien attention à tes pieds lors de ton voyage, car ils sont difficiles à remplacer. Oh, et est-ce que tu as vu la jeune Imoen ? Je dois lui donner un cours de (soupir) calligraphie...~
+@19   = ~Le messager : la lettre de sœur Sapientia
+
+Sœur Sapientia du temple d'Oghma m'a demandé de délivrer une lettre à Blaise, prêtre de l'Aube au temple de la Chanson du Matin, à l'est de Bérégost. Elle m'a dit que je le trouverais dans le vestibule, à l'est du bâtiment principal.~
+@20   = ~*atchoum* Tout va bien ?~
+@21   = ~Salut. C'est moi, Imoen.~
+@22   = ~Oh. Ah. Imoen. As-tu bien fait toutes tes corvées, ma petite ?~
+@23   = ~Mais... J'étais partie. Longtemps. Avec <CHARNAME>. Je ne vous ai pas manqué ?~
+@24   = ~Ah mais oui, bien sûr bien sûr... Pardonne-moi, *atchoum*, ma mémoire n'est plus ce qu'elle était.~
+@25   = ~*atchoum* (tousse) J'ai la crève. Je ne vais pas très bien.~
+@26   = ~J'ai un livre pour vous, de la part du prêtre de l'Aube Blaise.~
+@27   = ~Vous n'avez pas l'air en forme, sœur Sapientia. Est-ce que vous dormez bien en ce moment ?~
+@28   = ~J'ai des choses à faire à la bibliothèque. Peut-être nous verrons-nous plus tard.~
+@29   = ~Mais pourquoi donc - oh, peu importe. A-t-il de la valeur ? *atchoum* Je le prends.~
+@30   = ~Le messager : le livre de Blaise
+
+j'ai donné le livre de prières du prêtre de l'Aube Blaise à sœur Sapientia, qui a semblé surprise de recevoir un cadeau venu de si loin. Il y a quelque chose qui m'a mis mal à l'aise... dans la manière dont elle m'a parlé.~
+@31   = ~Je marche dans la nuit, *atchoum*, je chasse, plutôt, *en pensant à de grandes choses*. Nous vivons des temps troublés.~
+@32   = ~Le messager : le livre de Blaise
+
+J'ai trouvé sœur Sapientia, mais elle est partie à la recherche - ou à la chasse - de l'un des chats de château-Suif avant que je puisse lui remettre le livre du prêtre de l'Aube Blaise. Quelque chose ne va pas ici, pas du tout.~
+@33   = ~Je dois y aller. Oh ! Un chat ? Ici, minou minou minou...~
+@34   = ~Est-ce que ça va, <CHARNAME> ? Vous avez l'air fourbu.~ ~Est-ce que ça va, <CHARNAME> ? Vous avez l'air fourbue.~
+@35   = ~Oh, ma fille ! Mais qu'est-ce que tu as grandi !~
+@36   = ~Je suis une grande aventurière ! Moi et <CHARNAME>, on nous connaît dans toute la Côte des Epées ! Et puis je lis – un jour je serai une grande magicienne. Je parie que vous n'auriez jamais cru que je me mettrais aux bouquins, hein ?~
+@37   = ~Oh, je n'ai jamais pensé que les études et l'érudition étaient tes grandes passions, en effet. Mais je savais que tu réussirais dans ce que tu choisirais d'entreprendre, quoi que cela puisse être.~
+@38   = ~Euh. Merci ?~
+@39   = ~*atchoum* (tousse) désolée <CHARNAME>, cela fait un mois que je suis enrhumée.~
+@40   = ~Mais ce n'est qu'un petit rhume. Je serai bientôt guérie. *atchoum* (tousse)~
+@41   = ~Mais pourquoi – oh la la ! Il l'a terminé ? Que je sois changée en petit-beurre ! Puis-je le voir, s'il vous plaît ?~
+@42   = ~Oh, regardez ces couleurs ! Et ces détails !~
+@43   = ~Je pense que vous devriez aller rendre visite à votre ami.~
+@44   = ~J'ai des choses à faire à la bibliothèque. Peut-être nous verrons-nous plus tard.~
+@45   = ~Le messager : le livre de Blaise
+
+j'ai remis le livre de prières du prêtre de l'Aube Blaise à sœur Sapientia. Elle a été surprise et ravie de le recevoir, et elle était encore en train de le feuilleter quand je l'ai quittée.~
+@46   = ~Mais c'est impossible ! Une branche desséchée comme moi, me hâter sur les routes comme une adolescente amoureuse ?~
+@47   = ~Mais la vie est courte – ne voudriez-vous donc pas voir le visage de Blaise ? Ne serait-ce qu'une seule fois dans votre vie ?~
+@48   = ~Lorsque j'ai vu votre ami au temple de Lathandre, il était très malade. Il n'arrêtait pas de tousser, crachait des mucosités grasses et il avait de gros boutons verts ! *Il risque de mourir*.~
+@49   = ~Je vois que vous savez ce que vous voulez, sœur Sapientia. Dans ce cas, adieu.~
+@50   = ~Comment ? Non, ce n'est pas possible...~
+@51   = ~*Et* il n'avait plus aucun intérêt pour la lecture. C'est un signe absolument évident que la fin est proche.~
+@52   = ~Ne voulez-vous donc pas voir le visage de Blaise ? Juste une fois dans votre vie ?~
+@53   = ~C'est un argument convaincant, <CHARNAME>. Très bien, je vais le faire !~
+@54   = ~Bonne route !~
+@55   = ~Le messager : le livre de Blaise
+
+j'ai remis le livre de prières du prêtre de l'Aube Blaise à sœur Sapientia. Elle a été surprise et ravie de le recevoir. Je lui ai suggéré de rendre visite à son ami, et elle a accepté.~
+@56   = ~Tenez, voici 50 pièces d'or. Cela devrait vous permettre de vous payer une place dans un coche, ainsi que les auberges.~
+@57   = ~Un peu de luxe, sœur Sapientia ! Ces 200 pièces d'or devraient vous permettre de parvenir au temple aussi confortablement que possible.~
+@58   = ~Il faut que j'y aille. Et, quoi que vous soyez venu faire dans votre ancien foyer, faites très attention. Il s'est passé des choses tellement *étranges* ces derniers jours...~ ~Il faut que j'y aille. Et, quoi que vous soyez venue faire dans votre ancien foyer, faites très attention. Il s'est passé des choses tellement *étranges* ces derniers jours...~
+@59   = ~Bienvenue mon enfant. Si vous avez besoin de soins ou d'autres services, je vous prie de vous rendre au temple principal. Ici nous sommes tous de corvée de nettoyage aujourd'hui.~
+@60   = ~Bonjour. Comme vous le voyez je suis très occupé à balayer. (soupir) Oh, qu'est-ce que je ne donnerais pas pour une page blanche et de l'encre pour l'orner...~
+@61   = ~J'ai une lettre pour vous de la part de sœur Sapientia de Château-Suif.~
+@62   = ~Vous avez l'air préoccupé. Y a-t-il quelque chose que je puisse faire pour vous ?~
+@63   = ~Ils vous font vraiment passer tout votre temps en corvées...~
+@64   = ~Avez-vous fait passer le livre à sœur Sapientia ? Est-ce qu'elle va bien ?~
+@65   = ~Pas encore, Blaise. Il n'est pas simple de rentrer dans Château-Suif.~
+@66   = ~C'est assez embarrassant... Quand j'ai quitté Château-Suif, elle m'a donné une lettre pour vous.  Et je... l'ai égarée.  Mais bonne nouvelle, la voilà !~
+@67   = ~Je ne crois pas qu'elle soit encore la femme à qui vous écrivez depuis de... longues années...~
+@68   = ~Je lui ai donné, mais... elle était... enfin, peu importe.~
+@69   = ~C'est fait ! Euh... elle a beaucoup aimé le livre.~
+@70   = ~C'est fait ! Elle a beaucoup aimé le livre.~
+@71   = ~C'est fait ! Elle toussait un peu, mais à part cela elle allait plutôt bien. Le livre lui a beaucoup plu.~
+@72   = ~C'est fait ! Elle toussait vraiment beaucoup et elle avait des boutons, verts et sacrément virulents. *Elle risque de mourir*. Elle serait tellement heureuse de vous voir avant de faire le grand voyage, c'est une certitude.~
+@73   = ~C'est fait ! Elle l'a adoré, et elle a dit qu'elle viendrait vous rendre visite très bientôt.~
+@74   = ~C'est fait ! Elle l'a adoré. Et, euh, vous aurez peut-être une belle surprise très bientôt...~
+@75   = ~Non je ne l'ai pas fait, et j'en ai franchement marre de jouer le coursier pour tous les fainéants que je croise. Bougez vos fesses et faites quelque chose *vous-même* ! Je vous rends votre bouquin !~
+@76   = ~Je suis triste d'entendre cela.~
+@77   = ~Mais... excusez-moi mademoiselle, vos cheveux roses... Seriez-vous Imoen de Château-Suif ?~
+@78   = ~T'endends ça, <CHARNAME> ? Ouais, je suis célèbre ! Une grande aventurière ! On me connaît dans toute la Côte des Epées !~
+@79   = ~Je n'en doute pas, jeune Imoen. Mais je vous connais d'une autre manière – J'ai une amie à Château-Suif avec qui j'échange régulièrement. Continuez-vous à suivre vos études durant vos voyages ? Lisez-vous un peu chaque soir ? Et vos exercices de calligraphie ! Je suis certain que la capacité de rédiger une lettre bien écrite vous rendra grand service dans l'avenir.~
+@80   = ~Hum. Je m'entraîne... à faire des trucs... avec diligence, hein. Quand j'ai le temps, en fait... (<CHARNAME>, au secours !)~
+@81   = ~"<CHARNAME>" ? Etes-vous l'enfant de Gorion ? Dans sa correspondance mon amie m'a souvent parlé de vous.~
+@82   = ~Je n'ai jamais entendu parler d'un illustre mage ou savant portant ce nom de toute ma vie.~
+@83   = ~Oui – il était mon père adoptif. Mais il est mort...~
+@84   = ~Je ne vois vraiment pas de qui vous parlez – J'ai rencontré cette fille bizarre au cheveux roses sur ma route.~
+@85   = ~Ou puis-je vous aider pour autre chose ?~
+@86   = ~Excusez-moi, je cherche le prêtre de l'Aube Blaise. C'est sœur Sapientia de Château-Suif qui m'envoie.~
+@87   = ~Salut – Je suis un Grand Aventurier. J'imagine que vous n'avez pas de petits boulots à faire qui pourraient étendre ma renommée, exercer mes muscles et accessoirement remplir mes poches de quelques pièces sonnantes et trébuchantes ?~ ~Salut – Je suis une Grande Aventurière. J'imagine que vous n'avez pas de petits boulots à faire qui pourraient étendre ma renommée, exercer mes muscles et accessoirement remplir mes poches de quelques pièces sonnantes et trébuchantes ?~
+@88   = ~Bonjour. Je suis <CHARNAME> de Château-Suif, en balade dans le vaste monde. Et vous ?~
+@89   = ~Vous avez l'air préoccupé. Puis-je vous aider en quoi que ce soit ?~
+@90   = ~Non, je vais aller voir au temple principal. Merci de m'avoir indiqué le chemin.~
+@91   = ~Je n'ai besoin de rien. J'étais en train d'explorer la zone.~
+@92   = ~Je suis le prêtre de l'Aube Blaise. C'est sœur Sapientia qui vous envoie ? Est-ce qu'elle va bien ? A-t-elle un message ? Mais excusez-moi... j'en oublie les bonnes manières. Dans ses lettres elle m'a parfois parlé des enfants de Château-Suif, et vous ressemblez un peu à... Seriez-vous par hasard <CHARNAME> ? L'enfant de Gorion ?~
+@93   = ~Oui, Gorion était mon père adoptif. Mais il... il est mort.~
+@94   = ~Oui j'ai été élevé par Gorion, même si nous n'étions pas vraiment... proches.~
+@95   = ~Je n'ai jamais entendu parler de cette illustre aventurière de toute ma vie ! Mais elle a l'air d'être une femme formidable. Et très jolie aussi.~
+@96   = ~Je n'ai jamais entendu parler de cette illustre aventurier de toute ma vie ! Mais ça a l'air d'être un type super. Et vraiment beau gosse.~
+@97   = ~Vous connaissez sœur Sapientia ? Ah... Dans ses lettres elle m'a parfois parlé des enfants de Château-Suif, et vous ressemblez un peu à... Seriez-vous par hasard <CHARNAME> ? L'enfant de Gorion ?~
+@98   = ~Je suis le prêtre de l'Aube Blaise. <CHARNAME> de Château-Suif ? Vous devez être l'enfant de Gorion.~
+@99   = ~Vous... me connaissez ? Mais combien d'insidieuses conspirations et de pactes secrets plane-t-il au-dessus de ma tête ? Suis-je donc condamné à abandonner tout espoir de vie privée ? Argh !~ ~Vous... me connaissez ? Mais combien d'insidieuses conspirations et de pactes secrets plane-t-il au-dessus de ma tête ? Suis-je donc condamnée à abandonner tout espoir de vie privée ? Argh !~
+@100  = ~Ca y est, je suis déjà célèbre ! Bientôt l'écho de mes pas fera trembler la terre entière ! Hah hah hah.~
+@101  = ~Non, vous pensez probablement à un *autre* <CHARNAME> de Château-Suif. C'est un nom très commun, vous savez.~
+@102  = ~Non, rien de si terrible. Je corresponds régulièrement avec une habitante de Château-Suif. Elle m'a parlé de vous plusieurs fois.~
+@103  = ~J'espère qu'elle n'a rien révélé d'embarrassant.~
+@104  = ~De toute façon ce ne sont que des mensonges ! (Euh, qu'est-ce qu'elle a dit, en fait ?)~
+@105  = ~Voulez-vous parler de sœur Sapientia, du temple d'Oghma ?~
+@106  = ~Hum, je n'en doute pas. Mais je vous connais d'une autre manière - Je corresponds régulièrement avec une habitante de Château-Suif. Elle m'a parlé de vous plusieurs fois.~
+@107  = ~Mais oui, c'est cela !~
+@108  = ~Elle ne m'a écrit que de bonnes choses à votre sujet et à celui de miss Rose - euh, je veux parler de la jeune Imoen. Mais je pense à quelque chose ! Peut-être pourriez-vous m'aider.~
+@109  = ~Oui bien sûr. Excusez-moi.~
+@110  = ~Mais même dans ce cas...~
+@111  = ~J'ai eu beaucoup de chagrin lorsque la nouvelle de la mort de Gorion nous est parvenue. Le monde de l'érudition monastique est discret et peu susceptible d'ébranler le monde, mais Gorion était l'une de nos plus brillantes étoiles.~
+@112  = ~Mais je pense à quelque chose ! Peut-être pourriez-vous m'aider.~
+@113  = ~Attendez... J'ai une lettre pour vous !~
+@114  = ~Je vous écoute.~
+@115  = ~Parlez.~
+@116  = ~Une... lettre ? De sœur Sapientia ?  Oh, Montrez-la moi !~
+@117  = ~Elle va bien... hum, voilà des réflexions intéressantes sur la métempsychose...~
+@118  = ~Mais qu'est-ce que cette histoire de grenouilles ?~
+@119  = ~Le messager : la lettre de sœur Sapientia
+
+J'ai trouvé le prêtre de l'Aube Blaise en train de laver le sol au temple de la Chanson du Matin. Il a été ravi de recevoir la lettre de sœur Sapientia. Il s'avère que cela fait quarante ans qu'ils correspondent fidèlement, mais ne se sont pourtant jamais rencontrés. C'est cela la vie monacale, je présume.~
+@120  = ~Grenouilles ? Ha ha ha. Il n'y a pas eu de grenouilles. Cela doit être un accident bizarre. Il se produit tout le temps des accidents bizarres à Château-Suif. *C'est à cause des livres*. Je ne sais rien de plus - maintenant laissez-moi partir !~
+@121  = ~... Mademoiselle Imoen... ?~
+@122  = ~Oh, *cet* accident bizarre. Oui, Château-Suif est bien connu pour ses, euh, accidents bizarres.~
+@123  = ~Euh ?~
+@124  = ~Je-n'ai-rien-à-voir-avec-cela-c'était-un-accident-vous-ne-pouvez-rien-prouver.~
+@125  = ~Ouais, c'était hilarant.~
+@126  = ~Peu importe. Oh, mais merci du fond du cœur ! J'aimerais tellement vous remercier comme vous le méritez, mais j'appartiens à un ordre mendiant.~
+@127  = ~Peut-être devriez-vous rendre plus souvent visite à votre amie – partager un thé, vous remémorer le bon vieux temps, ce genre de choses.~
+@128  = ~Depuis combien de temps correspondez-vous ?~
+@129  = ~Nous nous écrivons depuis, oh, quarante ans maintenant. Cependant Sapientia et moi ne nous sommes jamais rencontrés. Nous autres moines ne sortons guère – vous savez ce que c'est.~
+@130  = ~Vous êtes certainement <CHARNAME>, l'enfant de Gorion.~
+@131  = ~Eh bien... c'est une toute petite chose si on considère le faible nombre de personnes impliquées et c'est sans importance par rapport à tout ce qui se passe dans notre vaste monde. Mais je veux dire que c'est très important pour *moi*. Cela fait un bon moment que je corresponds avec une nonne du temple d'Oghma à Château-Suif, sœur Sapientia. Nous vivons des temps troublés et avec tous ces bandits sur les routes, le courrier habituel ne fonctionne plus. Cela fait un bon moment que je n'ai plus reçu de lettre de sa part.~
+@132  = ~(zzzzzz)~
+@133  = ~Alors j'ai une bonne nouvelle pour vous ! Sœur Sapientia m'a confié une lettre, et la voilà !~
+@134  = ~Vous avez raison : cela importe bien peu.~
+@135  = ~Ah. Je vois. Eh bien je ne vois pas trop comment je pourrais vous aider.~
+@136  = ~Tout cela est tellement banal. Excusez-moi mais il faut que j'aille cogner sur quelque chose. Je me sens... tellement plein d'énergie quand je cogne sur des trucs. Bonne journée.~ ~Tout cela est tellement banal. Excusez-moi mais il faut que j'aille cogner sur quelque chose. Je me sens... tellement pleine d'énergie quand je cogne sur des trucs. Bonne journée.~
+@137  = ~Mais il y a autre chose.~
+@138  = ~L'une de mes fonctions au temple de la Chanson du Matin est l'enluminure. Je prépare les manuscrits et j'embellis leurs pages aux yeux de Lathandre.~
+/* new for v2.6: lines @139, @140 split in two */
+@139  = ~Cela fait un moment que j'utilise pour des raisons un peu égoïstes les talents que j'ai appris au service de Lathandre – je suis en train de confectionner un livre de prières et d'offices quotidiens, que je compte offrir à ma chère amie.~
+@140  = ~Cela fait un moment que j'utilise pour des raisons un peu égoïstes les talents que j'ai appris au service de Lathandre – je suis en train de confectionner un livre de prières et d'offices quotidiens, que je compte offrir à ma chère amie sœur Sapientia de Château-Suif.~
+@141  = ~Un message pour sœur Sapientia ? Je la connais !~
+@142  = ~(zzzzz)... Euh quoi ? Vous avez dit quelque chose ?~
+@143  = ~Eh bien je pourrais peut-être lui porter ce livre de votre part, moyennant une petite rétribution.~
+@144  = ~Je n'ai moi-même plus accès à Château-Suif, sans un livre de merveilles et de mystères pour m'en ouvrir les portes.~
+@145  = ~Je dois pouvoir lui porter ce livre. De toute façon, j'ai l'impression que je fais déjà ce genre de boulot pour la moitié de la Côte des Epées.~
+@146  = ~On dirait que vous êtes un peu dans le pétrin.~
+@147  = ~Peut-être...~
+@148  = ~Dois-je vous faire confiance et laisser ce livre entre vos mains ? Non. Pardonnez-moi, étranger, mais je ne vous connais pas et vu votre allure, vous seriez bien capable de le prendre et de déchirer ses pages pour vous essuyer les fesses plutôt que d'utiliser des feuilles du buisson le plus proche.~ ~Dois-je vous faire confiance et laisser ce livre entre vos mains ? Non. Pardonnez-moi, étrangère, mais je ne vous connais pas et vu votre allure, vous seriez bien capable de le prendre et de déchirer ses pages pour vous essuyer les fesses plutôt que d'utiliser des feuilles du buisson le plus proche.~
+@149  = ~Je... pardonnez-moi si je me trompe. Mais ce livre, ainsi que sœur Sapientia, me sont très précieux.~
+@150  = ~Dois-je vous faire confiance et laisser ce livre entre vos mains ? Vous avez une mine patibulaire – mais sœur Sapientia vous apprécie. Je... je vais faire confiance à son jugement dans ce cas.~
+@151  = ~Allez-vous prendre ce livre, en prendre soin et l'amener à mon amie ? Vous avez l'air robuste, efficace et capable de résoudre les problèmes qui se présentent à vous. Je n'ai pas d'or à vous donner, juste mes remerciements mais je vous garantis qu'ils sont sincères. Lui amènerez-vous ?~
+@152  = ~Ce livre contient-il suffisamment de mystères et de merveilles pour me permettre d'obtenir l'autorisation d'entrer à Château-Suif ?~
+@153  = ~Je ferai mon possible.~
+@154  = ~Je ne sais pas où m'amèneront mes pérégrinations, mais si vous me confiez ce livre je vous jure que je le délivrerai à sa destinataire ou que je trouverai une personne fiable qui pourra franchir le portail de Château-Suif.~
+@155  = ~Je n'ai plus le droit de revenir à Château-Suif, et je n'ai franchement aucune raison de vouloir y retourner. Trouvez un autre messager.~
+@156  = ~Il est peu  probable que je revienne un jour à Château-Suif. Vous feriez mieux de chercher un autre messager.~
+@157  = ~Sœur Sapientia pense aussi beaucoup à vous - elle m'a confié une lettre pour vous.~
+@158  = ~Non. C'est un simple livre.~
+@159  = ~C'est tout ce que je demande.~
+@160  = ~Merci. Oh, *merci*.~
+@161  = ~Le messager : le livre de Blaise
+
+le prêtre de l'Aube Blaise m'a demandé de livrer un petit livre de prières à sœur Sapientia du temple d'Oghma de Château-Suif, au cas où j'y retournerais. Hélas, même s'il a de belles enluminures, ce livre n'est pas un tome empli de mystères et de merveilles qui me permettrait d'entrer dans le Château.~
+@162  = ~Je comprends. Si jamais vous changez d'avis, je serai là. (soupir) A nettoyer le sol...~
+@163  = ~Je... elle est malade. Oh mon dieu. Je... il faudrait que je lui rende visite rapidement.~
+@164  = ~Je suis heureux de l'entendre.~
+@165  = ~Elle – elle va venir ici ? Par la licorne à la corne inversée !~
+@166  = ~Oh que oui !~
+@167  = ~Seriez-vous inquiet qu'elle découvre que vous êtes secrètement marié et que vous avez des enfants cachés ?~
+@168  = ~C'est ce qu'elle a dit.~
+@169  = ~Oh, mon cœur bat la chamade ! Non... tout va bien. Je dois immédiatement dépoussiérer mes incunables !~
+@170  = ~Ah, ça s'appelle comme ça ?~
+@171  = ~Allez-vous lui montrer votre collection... d'estampes ?~
+@172  = ~Je ne vois pas comment appeler autrement ma collection... d'incunables ?~
+@173  = ~Bien sûr que non. Je lui montrerai mes *enluminures*.~
+@174  = ~Au revoir mon ami. Je dois me préparer.~ ~Au revoir mon amie. Je dois me préparer.~
+@175  = ~Excusez-moi, je cherche le prêtre de l'Aube Blaise.~
+@176  = ~Le prêtre de l'Aube Blaise est de corvée de ménage aujourd'hui, mon enfant. Vous le trouverez dans le vestibule, à l'ouest du temple principal.~
+@177  = ~Par là.~
+@178  = ~Là, dans le coin. Il passe la serpillière, comme le reste d'entre nous. Comme si nous n'avions rien de mieux à faire que de nettoyer le sol. Nous pourrions être en train de chanter la gloire du Seigneur de l'Aube, nous pourrions soigner les malades, et même combattre un peu le mal... mais non, faire briller le sol comme un miroir est visiblement *important*...~
+@179  = ~Le messager~
+@180  = ~Le prêtre de l'Aube Blaise est décédé.~
+@181  = ~Comment ?! Etait-il malade ? Oh, mais pourquoi ne m'a-t-il rien dit, si seulement j'avais su j'aurais pu aller là-bas et prendre soin de lui, si seulement... Oh, mon cher...~
+@182  = ~Oui, il est, euh... mort dans son sommeil. Très paisiblement. Ses dernières pensées ont été pour vous.~
+@183  = ~Il est mort en héros, en défendant le temple de Lathandre. N'importe quel aventurier serait fier de lui.~
+@184  = ~Ce fut un horrible accident, c'est tout ce que je peux vous dire.~
+@185  = ~Vous m'avez toujours fait confiance pour faire le bon choix, sœur Sapientia. Faire le *bien*. Je n'ai jamais vraiment compris pourquoi. Tout ce que je peux dire, c'est que... le tuer... m'a semblé *bon*. Et alors ?~
+@186  = ~Je suis heureuse de l'entendre. Et pourtant j'aurais tellement voulu revoir son visage juste une fois avant qu'il... enfin bon...~
+@187  = ~Cela me fait également beaucoup de peine.~
+@188  = ~Mais pendant des années - des décennies même - vous avez ouvert vos *âmes* l'un pour l'autre (et non, je n'ai pas lu vos lettres). Il y a autre chose : Blaise avait un livre, et je pense qu'il souhaitait vous le donner.~
+@189  = ~C'est un peu tard maintenant, dommage.~
+@190  = ~Oh, pauvre homme.~
+@191  = ~Ce fut bref, au moins. Et il a laissé derrière lui un livre. Je pense qu'il vous était destiné.~
+@192  = ~Ces accidents domestiques insolites sont vraiment les pires, n'est-ce pas ?~
+@193  = ~J'aurais préféré qu'il continue à consacrer sa *vie* à son temple.~
+@194  = ~Il semble qu'il a eu une vie bien remplie. Avant ce malheureux événement bien sûr. Mais attendez... j'ai trouvé ce livre. J'ai la certitude qu'il voulait que vous le récupériez.~
+@195  = ~Je suis certain qu'il était expert dans le maniement du balai.~ ~Je suis certaine qu'il était expert dans le maniement du balai.~
+@196  = ~Mais qu'est-ce que... oh ! Il l'a terminé !~
+@197  = ~(sniff) C'est beau...~
+@198  = ~Le messager : la mort de Blaise
+ 
+J'ai annoncé le décès du prêtre de l'Aube Blaise à sœur Sapientia. Elle en a été très chagrinée, mais le livre de prières enluminé que j'ai trouvé permettra d'adoucir quelque peu sa peine.~
+@199  = ~Merci mon enfant. Je penserai à mon cher ami, et je m'efforcerai de me souvenir non pas du chagrin causé par sa mort mais de la joie que j'éprouvais lorsqu'il était vivant.~
+@200  = ~Le messager : la mort de Blaise
+ 
+J'ai annoncé le décès du prêtre de l'Aube Blaise à sœur Sapientia. Elle en a été très chagrinée, mais fera son possible pour se souvenir de la joie qu'ils éprouvaient tous deux à s'écrire.~
+@201  = ~Inutile d'être cruel à ce point, <CHARNAME>. Peut-être est-ce la route qui t'a rendu si dur. Et peut-être que le temps adoucira ton cœur ? Mais peu importe. Je penserai à mon cher ami, et je m'efforcerai de me souvenir non pas du chagrin causé par sa mort mais de la joie que j'éprouvais lorsqu'il était vivant.~ ~Inutile d'être cruelle à ce point, <CHARNAME>. Peut-être est-ce la route qui t'a rendue si dure. Et peut-être que le temps adoucira ton cœur ? Mais peu importe. Je penserai à mon cher ami, et je m'efforcerai de me souvenir non pas du chagrin causé par sa mort mais de la joie que j'éprouvais lorsqu'il était vivant.~
+@202  = ~Le messager : la mort de Blaise
+ 
+J'ai annoncé le décès du prêtre de l'Aube Blaise à sœur Sapientia. Il y a des gens qui n'ont vraiment pas le sens de l'humour...~
+@203  = ~<CHARNAME>, mais qu'as-tu fait ?~
+@204  = ~Rien de spécial. C'est ma nature. C'est juste que vous ne vouliez pas le voir.~
+@205  = ~Depuis que Gorion est mort, tout est tellement... et puis ces rêves... aidez-moi !~
+@206  = ~Comment ai-je pu être si aveugle...~
+@207  = ~Le messager - la mort de Blaise
+ 
+J'ai raconté à sœur Sapientia ce que j'ai fait à son petit ami. Cette nonne a enfin vu mon véritable visage derrière ce masque de nigaud capricieux qu'elle pensait avoir éduqué. Peu importe : j'ai d'autres chose à faire à Château-Suif.~
+@208  = ~Je ne crois pas en être capable. Pardonne-moi <CHARNAME>. Oh, mon cher Blaise...~
+@209  = ~Le messager - la mort de Blaise
+ 
+J'ai raconté à sœur Sapientia ce que j'ai fait à son petit ami. Je ne me rappelle même pas pourquoi. J'ai tué tant de gens depuis que j'ai quitté Château-Suif, et j'aurais eu *tort* de tuer celui-là ? Pourquoi est-ce si compliqué de faire la différence ?~
+/* new for v2.6 (second half of line @139) */
+@210 = ~Mais maintenant, avec tous ces problèmes – la crise du fer, les bandits qui surgissent des taillis et sautent les clôtures, les rumeurs de guerre avec l'Amn...~
+@211 = ~Il est difficile de trouver un messager fiable.~
