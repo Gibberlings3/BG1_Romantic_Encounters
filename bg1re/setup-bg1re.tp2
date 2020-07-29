@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~4.1~ 
+VERSION ~4.2~ 
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -145,7 +145,7 @@ END
     OUTER_SPRINT ~AreaType_Outdoor_MinscSlumberparty~ ~AreaType("OUTDOOR")~
     OUTER_SPRINT ~AreaType_Outdoor~ ~AreaType("OUTDOOR")~
 
-    OUTER_SPRINT ~ELTANDLG_HARBORMASTER~ ~DELTAN2~
+    OUTER_SPRINT ~ELTANDLG_HARBORMASTER~ ~_DELTAN2~
     OUTER_SPRINT ~ELTANDLG_STATE~ ~2~
 
     OUTER_SPRINT ~NEERA_JOINED~ ~BGEEFAKE~ //do not use this. Use IF_FILE_EXISTS instead
@@ -1198,11 +1198,11 @@ ACTION_IF FILE_EXISTS_IN_GAME ~C#STELTA.cre~ THEN BEGIN
 
 // Get state for DELTAN2 %deltan2_70% 
 /* ~You saved us. You have the gratitude of the city.~ */
-OUTER_SET deltan2_70 = STATE_WHICH_SAYS 70 IN ~c#endlessbg1/translations/%s/DIALOGUES.TRA~ FROM ~DELTAN2~
+OUTER_SET deltan2_70 = STATE_WHICH_SAYS 70 IN ~c#endlessbg1/translations/%s/DIALOGUES.TRA~ FROM ~%tutu_var%DELTAN2~
 
 <<<<<<<< .../c#eltan_ebg1_add.d
 
-EXTEND_BOTTOM DELTAN2 %deltan2_70%
+EXTEND_BOTTOM %tutu_var%DELTAN2 %deltan2_70%
 + ~PartyHasItem("c#re1sr5")~ + @1 /* ~I have here the body of Scar! I found him.~ */ DO ~TakePartyItem("c#re1sr5")~ + eltan_06_as
 + ~PartyHasItem("c#re1sr6")~ + @2 /* ~I have news about the body of Scar! I located it.~ */ DO ~TakePartyItem("c#re1sr6")~ + eltan_06_receit_as
 + ~Global("C#RE1_ScarRetrieval","GLOBAL",10)~ + @3 /* ~Did you get news about Scar's body yet?~ */ DO ~SetGlobal("C#RE1_ScarRetrieval","GLOBAL",12)~ + heard_scar_as
@@ -1269,7 +1269,7 @@ LAF extend_area_script STR_VAR area="%BaldursGateDocks_Harbormaster%" top="bg1re
 
 /* After Sarevok is dead and Scar's return is about to play, Eltan will be inside the Ducal Palace - and compatibility with EBG1! */
 
-COPY_EXISTING ~DELTAN.cre~ ~override/C#RE1ELT.cre~
+COPY_EXISTING ~%tutu_var%DELTAN.cre~ ~override/C#RE1ELT.cre~
 WRITE_EVALUATED_ASCII 0x280 ~C#RE1ELT~ #32   // Death variable
 WRITE_EVALUATED_ASCII 0x2cc ~DELTAN2~ #8   // dialogue
 WRITE_EVALUATED_ASCII 0x248 ~C#RE1ELT~ #8   // Override script
