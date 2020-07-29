@@ -1,6 +1,6 @@
 		Baldur's Gate Romantic Encounters Modification (BG1RE)
 	for BG1 (with TotSC), BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET
-					Version 4.1
+					Version 4.2
 				A Gibberlings Three Mod
 				http://www.gibberlings3.net
 
@@ -1370,6 +1370,9 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 4.2:
+-Fixed Tutu install error for component "Duke Eltan's Spare Minute"
 
 Version 4.1:
 -added Jazira to the French translation credits!
