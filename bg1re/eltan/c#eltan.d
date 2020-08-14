@@ -161,7 +161,7 @@ END
 IF ~~ THEN scar_02
 SAY @52
 IF ~Global("RE1_ScarFlirt","GLOBAL",1)~ THEN %UNSOLVED_JOURNAL% @53 + eltan_00
-IF ~!Global("RE1_ScarFlirt","GLOBAL",1)~ THEN %SOLVED_JOURNAL% @309 + eltan_00
+IF ~!Global("RE1_ScarFlirt","GLOBAL",1)~ THEN DO ~SetGlobal("C#RE1_ScarRetrieval","GLOBAL",99)~ %SOLVED_JOURNAL% @309 + eltan_00
 END
 
 IF ~~ THEN heard_scar

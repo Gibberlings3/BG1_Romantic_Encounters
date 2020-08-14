@@ -1380,6 +1380,7 @@ If your game supports access to BG1 Duke Palace after Sarevok's death, the quest
 -"Scar's Return": Duke Eltan will now recognize whether the player brought Scar's body or only told about its whereabouts for the later quest status.
 -"Scar's Return": compatibility added with EBG1's Duke Eltan component
 -"Scar's Return": compatibility added with Transitions' Duke Eltan components
+-"Scar's Return": Duke Eltan will talk about Scar's murder but quest will not trigger if PC wasn't in Scar's quarters and doesn't know the ale mug
 -"Necromancer's Trouble": Mourning mom will use all dialogue states
 
 Version 4.2:
