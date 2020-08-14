@@ -53,7 +53,7 @@ SAY @16
 + ~PartyHasItem("c#q11tot")~ + @5 + mourning_mom_9
 ++ @10 + mourning_mom_10
 ++ @11 + mourning_mom_7
-++ @6 EXIT
+++ @6 + mourning_mom_6
 END
 
 
