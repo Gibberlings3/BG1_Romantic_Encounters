@@ -29,19 +29,6 @@ THEN
 		SetGlobal("C#RE1_SpawnEltan","MYAREA",1)
 END
 
-/* compatibility with EBG1: only one Duke Eltan shall remain */
-
-IF
-	Dead("Sarevok")
-	Exists("ELTAN") 
-	Exists("C#RE1ELT") 
-	Global("C#st_SpawnEltan","MYAREA",1)
-	Global("C#RE1_SpawnEltan","MYAREA",1)
-THEN
-	RESPONSE #100
-		ActionOverride("C#RE1ELT",DestroySelf())
-		SetGlobal("C#RE1_SpawnEltan","MYAREA",2)
-END
 
 /* bg1re only: Duke Eltan goes after Scar's Return Quest is finished */
 IF
@@ -51,5 +38,32 @@ IF
 THEN
 	RESPONSE #100
 		ActionOverride("C#RE1ELT",EscapeArea())
+		SetGlobal("C#RE1_SpawnEltan","MYAREA",2)
+END
+
+/* compatibility with EBG1: only one Duke Eltan shall remain */
+
+IF
+	Dead("Sarevok")
+	Exists("ELTAN") 
+	Exists("C#RE1ELT") 
+	Global("C#RE1_SpawnEltan","MYAREA",1)
+THEN
+	RESPONSE #100
+		ActionOverride("C#RE1ELT",DestroySelf())
+		SetGlobal("C#RE1_SpawnEltan","MYAREA",2)
+END
+
+
+/* compatibility with Transitions: only one Duke Eltan shall remain */
+
+IF
+	Dead("Sarevok")
+	Exists("BDELTAN") 
+	Exists("C#RE1ELT") 
+	Global("C#RE1_SpawnEltan","MYAREA",1)
+THEN
+	RESPONSE #100
+		ActionOverride("C#RE1ELT",DestroySelf())
 		SetGlobal("C#RE1_SpawnEltan","MYAREA",2)
 END

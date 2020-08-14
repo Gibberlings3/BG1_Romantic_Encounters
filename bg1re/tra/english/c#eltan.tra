@@ -345,7 +345,15 @@ Eltan told me that Scar's body was lost the night he was murdered. This is a sad
 @315   = ~Isn't it a miracle? Ah, <CHARNAME>. It is always good to have friends. Never forget this, young adventurer. I see Scar said his good-byes. Let us wish him the best. I tried to convince him to stay and regain his former position, bow this is over. But he deserves a quiet time. He's earned it.~
 @316   = ~Why you attacked a newly resurrected man will always be a miracle to me. Go, <CHARNAME>. Get out, and when they start calling you the saviour of this city, never forget how low you really stand.~
 @317   = ~I promise you, loyal friend, that I will do anything in my power for my former Second in Command. If there is a way to raise him, I will have him raised.~
-@318   = ~We set the body to a well-earned rest, young friend. It's the only thing we could do. It was a decent burial, albeit somewhat hushed and not appropriate for the Second in Command of the Flaming Fist who served for so many years. But there is a reason for this.~
+@318   = ~We set the body to a well-earned rest, young friend. It's the only thing we could do. It was a decent burial, albeit somewhat hushed and not appropriate for the Second in Command of the Flaming Fist who served for so many years.~
 @319   = ~We have to be patient. These things take time.~
 @320   = ~Forgive me, friend. I know I should have been braver, but I wasn't. I have the faint hope my action did some good, after all. That is all I can tell you, and I need to get back to work now.~
 @321   = ~Scar's body? Duke Eltan doesn't know where Scar's body is? So much for my efforts to hide it, seems I was too good at it. Do the gods think this is funny?~
+
+/* new for v4.3 */
+@322   = ~You saved us. You have the gratitude of the city.~
+@323   = ~First, though, let me tell you that we finally found Scar. There were loyal servants who hid his body before Angelo and his minions could let it vanish for good.~
+@324   = ~Scar's Body
+
+Eltan told me that Scar's body was found and put to rest.~
+@325   = ~Whether my former Second in Command will ever see the light of day again will be up to the gods, I wager... And we have pressing matters at hand.~

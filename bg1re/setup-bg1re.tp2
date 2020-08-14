@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~4.2~ 
+VERSION ~5.0 pre~ 
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -1217,7 +1217,9 @@ END
 
 END ELSE BEGIN
   COMPILE EVALUATE_BUFFER ~bg1re/eltan/c#eltan.d~
+			~bg1re/eltan/c#eltan_no_ebg1.d~ USING ~bg1re/tra/autotra/%LANGUAGE%/c#eltan.tra~
 END
+
 
 ACTION_IF GAME_IS ~tutu tutu_totsc bgt bgee eet~ THEN BEGIN
 
@@ -1286,7 +1288,31 @@ WRITE_EVALUATED_ASCII 0x248 ~C#RE1ELT~ #8   // Override script
 /* This is not an own component
 */
 
-ADD_JOURNAL TITLE (@302) @53 @59 @74 @86 @114 @134 @137 @145 @166 @198 @301 @309 @10000 USING ~bg1re/tra/autotra/%LANGUAGE%/c#eltan.tra~
+/* more content for SoD/EET so the Scar's Return quest can be finished in SoD: need more lines in BDELTAN.dlg */
+ACTION_IF GAME_INCLUDES ~sod~ THEN BEGIN
+  COMPILE EVALUATE_BUFFER ~bg1re/eltan/c#eltan_sod_add.d~
+	 USING ~bg1re/tra/autotra/%LANGUAGE%/c#eltan.tra~
+END
+
+/* compatibility with Transitions: need even more lines in BDELTAN.dlg so Scar's Return quest can be started after Sarevok's death. */
+ACTION_IF ((MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "60")
+OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "61")
+OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "62")) THEN BEGIN 
+
+// Get state for BDELTAN %bdeltan_2054% 
+/* ~Hello again, <CHARNAME>.  Have you changed your mind?~ */
+OUTER_SET bdeltan_2054 = STATE_WHICH_SAYS 2054 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~BDELTAN~
+
+// Get state for BDELTAN %bdeltan_2057% 
+/* ~Greetings, <GABBER>.  It's a pleasure to see you again.~ */
+OUTER_SET bdeltan_2057 = STATE_WHICH_SAYS 2057 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~BDELTAN~
+
+COMPILE EVALUATE_BUFFER ~bg1re/eltan/c#eltan_transition_add.d~
+	 USING ~bg1re/tra/autotra/%LANGUAGE%/c#eltan.tra~
+
+END
+
+ADD_JOURNAL TITLE (@302) @53 @59 @74 @86 @114 @134 @137 @145 @166 @198 @301 @309 @324 @10000 USING ~bg1re/tra/autotra/%LANGUAGE%/c#eltan.tra~
 
 /* BGT: remove journal entries upon transition to BGII */
 ACTION_IF GAME_IS ~bgt~ THEN BEGIN
