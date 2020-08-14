@@ -1,6 +1,6 @@
 		Baldur's Gate Romantic Encounters Modification (BG1RE)
 	for BG1 (with TotSC), BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET
-					Version 4.2
+					
 				A Gibberlings Three Mod
 				http://www.gibberlings3.net
 
@@ -977,7 +977,9 @@ Ever felt bad about Scar's murder? Ever wanted to look for his vanished body, cu
 Note: You can also prepare Scar's resurrection without having to deal with his body at all. Just tell the appropriate persons that Duke Eltan should be informed, and it will happen behind the scenes. This is for people who do not like the thought of corpses in their back pack.
 
 
-More spoilers: *** After talking to Duke Eltan about Scar's murder, go search for Donnerjan's Second Hand Shop (he is in a public area in Baldur's Gate City), buy the right item from him (the PC will remember), and talk to him again. From there, the PC has to talk to several different ex-servants of the Flaming Fist, each giving the needed next step until finally the trail can be followed to locate Scar's body. Duke Eltan has to be talked to several times about it. After Duke Eltan has told about Scar's funeral, a timer of one day will start. After this timer run out and the PC unmasked Sarevok in the Palace (before following him into the maze), Scar can be met in the Harbor Master's Building. Talk to Duke Eltan again to trigger the meeting. ***
+More spoilers: *** After talking to Duke Eltan about Scar's murder, go search for Donnerjan's Second Hand Shop (he is in a public area in Baldur's Gate City), buy the right item from him (the PC will remember), and talk to him again. From there, the PC has to talk to several different ex-servants of the Flaming Fist, each giving the needed next step until finally the trail can be followed to locate Scar's body. Duke Eltan has to be talked to several times about it. After Duke Eltan has told about Scar's funeral, a timer of one day will start. After this timer run out and the PC at least unmasked Sarevok in the Palace, Scar can be met one last time. Talk to Duke Eltan again to trigger the meeting. 
+
+For games that leave you in the BG1 "world" after Sarevok's death and give access to the Palace, the parts or even the whole Scar Return quest can be played after Sarevok was killed, too. Duke Eltan will move into the Palace, and the last meeting with Scar will happen here, too. This is fully compatible with EndlessBG1's component "Duke Eltan Inside the Palace" if bg1re is installed after EBG1. ***
 
 
 
@@ -1272,7 +1274,7 @@ If you play it with the original BG, the mod is compatible with MotSC (= TWM)
 
 For compatibility, please stick to the install order:
 
-bg1npc project - bg1re - bg1ub - Jarl's Adventure Pack (v0.7)
+EBG1 - Transitions - bg1npc project - bg1re - bg1ub - Jarl's Adventure Pack (v0.7)
 
 ----------------
 VIII. Known Issues
@@ -1370,6 +1372,15 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 5.0:
+-Completed dialogue for "Scar's Return" (placeholder line in Duke Eltan's dialogue)
+-"Scar's Return" can now be finished after Sarevok's death: 
+If your game supports access to BG1 Duke Palace after Sarevok's death, the quest can be started and played in full while you are still in the "BG1 world". If you play SoD, the quest can be finished in SoD. Depending on the quest status, the quest will be shortened accordingly.
+-"Scar's Return": Duke Eltan will now recognize whether the player brought Scar's body or only told about its whereabouts for the later quest status.
+-"Scar's Return": compatibility added with EBG1's Duke Eltan component
+-"Scar's Return": compatibility added with Transitions' Duke Eltan components
+-"Necromancer's Trouble": Mourning mom will use all dialogue states
 
 Version 4.2:
 -Fixed Tutu install error for component "Duke Eltan's Spare Minute"
