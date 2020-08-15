@@ -339,13 +339,21 @@ Eltan told me that Scar's body was lost the night he was murdered. This is a sad
 
 /* new for v3.0 */
 @311   = ~<CHARNAME>, our savior! The city is in your debt.~ 
-@312   = ~There is one more thing I would seek your help with. I was told that you had friendly connections to my former Second in Command, Scar - you were seen visiting his private quarters so that is more than many can tell from themselves. You know already that he was murdered, and we would like to bury him appropriately. For this, we need Scar's body.~
+@312   = ~There is one more thing I would seek your help with. I was told that you had friendly connections to my former Second in Command, Scar - you were seen visiting his private quarters. That is more than many can say for themselves. You know already that he was murdered, and we would like to bury him appropriately. For this, we need Scar's body.~
 @313   = ~Angelo's minions won't tell us anything about it, so the only ones who might know about it would be the once loyal servants that were sent away that night. They are probably scattered all around the city, if they haven't fled out of it altogether.~
 @314   = ~Please find Scar's body, <CHARNAME>. I have lost my Second in Command and one of my most capable men, and I can't even give him a decent burial, because I don't know where his body is!~
 @315   = ~Isn't it a miracle? Ah, <CHARNAME>. It is always good to have friends. Never forget this, young adventurer. I see Scar said his good-byes. Let us wish him the best. I tried to convince him to stay and regain his former position, bow this is over. But he deserves a quiet time. He's earned it.~
 @316   = ~Why you attacked a newly resurrected man will always be a miracle to me. Go, <CHARNAME>. Get out, and when they start calling you the saviour of this city, never forget how low you really stand.~
 @317   = ~I promise you, loyal friend, that I will do anything in my power for my former Second in Command. If there is a way to raise him, I will have him raised.~
-@318   = ~We set the body to a well-earned rest, young friend. It's the only thing we could do. It was a decent burial, albeit somewhat hushed and not appropriate for the Second in Command of the Flaming Fist who served for so many years. But there is a reason for this.~
+@318   = ~We set the body to a well-earned rest, young friend. It's the only thing we could do. It was a decent burial, albeit somewhat hushed and not appropriate for the Second in Command of the Flaming Fist who served for so many years.~
 @319   = ~We have to be patient. These things take time.~
 @320   = ~Forgive me, friend. I know I should have been braver, but I wasn't. I have the faint hope my action did some good, after all. That is all I can tell you, and I need to get back to work now.~
 @321   = ~Scar's body? Duke Eltan doesn't know where Scar's body is? So much for my efforts to hide it, seems I was too good at it. Do the gods think this is funny?~
+
+/* new for v5.0 */
+@322   = ~You saved us. You have the gratitude of the city.~
+@323   = ~First, though, let me tell you that we finally found Scar. There were loyal servants who hid his body before Angelo and his minions could let it vanish for good.~
+@324   = ~Scar's Body
+
+Eltan told me that Scar's body was found and put to rest.~
+@325   = ~Whether my former Second in Command will ever see the light of day again will be up to the gods, I wager... And we have pressing matters at hand.~
