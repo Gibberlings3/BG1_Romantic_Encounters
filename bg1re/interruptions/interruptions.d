@@ -29,7 +29,7 @@ IF ~~ THEN C#LCIN1W disturbance_1_02
 @8
 == C#LCIN1M @9
 == C#LCIN1W @10 DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",2)
-%Real%SetGlobalTimer("C#LCINT_SpawnTimer","GLOBAL",%C#LCINT_SpawnTimer%) ActionOverride("C#LCIN1M",EscapeArea()) EscapeArea()~
+ActionOverride("C#LCIN1M",EscapeArea()) EscapeArea()~
 EXIT
 
 
@@ -55,8 +55,7 @@ IF ~~ THEN C#LCIN2M disturbance_2_01
 == C#LCIN2W @18
 = @19
 == C#LCIN2M @20
-= @21 DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",4)
-%Real%SetGlobalTimer("C#LCINT_SpawnTimer","GLOBAL",%C#LCINT_SpawnTimer%) ActionOverride("C#LCIN2W",EscapeArea()) EscapeArea()~
+= @21 DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",5)ActionOverride("C#LCIN2W",EscapeArea()) EscapeArea()~
 EXIT
 
 
@@ -66,14 +65,13 @@ BEGIN C#LCIN3W
 BEGIN C#LCIN3M
 
 CHAIN
-IF ~Global("C#LCINT_Spawn","GLOBAL",5)~ THEN C#LCIN3W disturbance_2b
+IF ~Global("C#LCINT_Spawn","GLOBAL",7)~ THEN C#LCIN3W disturbance_2b
 @22
 == C#LCIN3M @23
 == C#LCIN3W @24
 == C#LCIN3M @25
 END
-IF ~~ THEN DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",6)
-%Real%SetGlobalTimer("C#LCINT_SpawnTimer","GLOBAL",%C#LCINT_SpawnTimer%) ActionOverride("C#LCIN3M",EscapeArea()) ActionOverride("C#LCIN3W",EscapeArea())~ EXIT
+IF ~~ THEN DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",8)ActionOverride("C#LCIN3M",EscapeArea()) ActionOverride("C#LCIN3W",EscapeArea())~ EXIT
 
 
 
@@ -118,8 +116,7 @@ END
 
 IF ~~ THEN disturbance_3_04
 SAY @43 
-IF ~~ THEN DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",8)
-%Real%SetGlobalTimer("C#LCINT_SpawnTimer","GLOBAL",%C#LCINT_SpawnTimer%) EscapeArea()~
+IF ~~ THEN DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",11) EscapeArea()~
 EXIT
 END
 
@@ -155,8 +152,7 @@ CHAIN
 IF ~~ THEN C#LCIN5M disturbance_4_02
 @54
 == C#LCIN5W @55
-== C#LCIN5M @56 DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",10)
-%Real%SetGlobalTimer("C#LCINT_SpawnTimer","GLOBAL",%C#LCINT_SpawnTimer%) ActionOverride("C#LCIN5W",EscapeArea()) EscapeArea()~
+== C#LCIN5M @56 DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",14)ActionOverride("C#LCIN5W",EscapeArea()) EscapeArea()~
 EXIT
  
 
@@ -164,7 +160,7 @@ EXIT
 /* 6th */
 APPEND C#LCIN1W
 
-IF ~Global("C#LCINT_Spawn","GLOBAL",11)~ THEN disturbance_5
+IF ~Global("C#LCINT_Spawn","GLOBAL",16)~ THEN disturbance_5
 SAY @57
 ++ @58 + disturbance_5_01
 ++ @59 + disturbance_5_01
@@ -178,8 +174,7 @@ END
 
 IF ~~ THEN disturbance_5_02
 SAY @62
-IF ~~ THEN DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",12)
-%Real%SetGlobalTimer("C#LCINT_SpawnTimer","GLOBAL",%C#LCINT_SpawnTimer%) EscapeArea()~ EXIT
+IF ~~ THEN DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",17) EscapeArea()~ EXIT
 END
 
 END
@@ -188,13 +183,13 @@ END
 /* 7th - Chapter > 5 */
 
 CHAIN
-IF ~Global("C#LCINT_Spawn","GLOBAL",13)~ THEN C#LCIN3W disturbance_6
+IF ~Global("C#LCINT_Spawn","GLOBAL",19)~ THEN C#LCIN3W disturbance_6
 @63
 == C#LCIN3M @64
 == C#LCIN3W @65
 == C#LCIN3M @66
 END
-IF ~~ THEN DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",14)
+IF ~~ THEN DO ~SetGlobal("C#LCINT_Spawn","GLOBAL",20)
 ActionOverride("C#LCIN3M",ApplySpell(Myself,DOPPLEGANGER_CHANGE_DEFAULT_LESSER)) ActionOverride("C#LCIN3M",Enemy()) ActionOverride("C#LCIN3W",ApplySpell(Myself,DOPPLEGANGER_CHANGE_DEFAULT_LESSER)) ActionOverride("C#LCIN3W",Enemy())~ EXIT
 
 

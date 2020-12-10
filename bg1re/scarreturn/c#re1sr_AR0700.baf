@@ -4,7 +4,6 @@ THEN
 	RESPONSE #100
 		SetGlobal("C#RE1_ScarShopkeep","GLOBAL",1)
 		CreateCreature("c#re1sr1",[1774.168]%FACE_0%) //Storekeep
-		AddMapNote([1774.168],@30)
 END
 
 IF
