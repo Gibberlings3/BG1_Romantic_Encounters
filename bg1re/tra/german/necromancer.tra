@@ -483,3 +483,16 @@ Bauer Brun stimmte zu, Frau Thirsty und ihre Kuh aufzunehmen. Nun muss ich ihr d
 @438  = ~Ihr habt Bedarf am Blut der Nymphe? Aber ja, sicher doch! Das ist schnell verdientes Gold. Kommt in zwei Wochen wieder, dann habe ich es fertig in Flaschen abgefüllt.~
 @439  = ~Ich brauche es jetzt, sonst ist es zu spät.~
 @440  = ~Sofort? Nein, jetzt könnt Ihr es noch nicht haben. Schaut doch, in was für einen Zustand Ragefast sie hat verkommen lassen! Ich muss sie noch mindestens zwei Tage aufpäppeln, bevor sie mir als Zutat nützlich ist. Sie davor zu töten, kommt nicht in Frage.~
+
+/* new for v6.0 */
+@441  = ~So sehr ich Eure Verzweiflung auch verstehe, aber seid Ihr sicher, dass Ihr *ihren* letzten Willen damit erfüllt?~
+@442  = ~Ich... ich bin mir nicht sicher...~
+@443  = ~Nun, warum fragen wir sie nicht selbst? Ich kann ihren Geist beschwören, dann können wir mit ihr sprechen.~
+@444  = ~Was sagt Euch Euer Herz? Niemand kannte sie besser als Ihr.~
+@445  = ~Wir haben über diesen Fall nie gesprochen. Ich war so überzeugt, so *sicher*, dass ich sie würde retten können. Ich war damals noch kein Nekromant...~
+@446  = ~Wenn ich mir vorstelle, sie wäre hier vor mir - in all' ihrer Schönheit, ihrer Klugheit, mit ihrem großen Herzen und ihrer Güte... dann wird mir schmerzhaft bewusst, dass sie mich einen Narr nennen würde und mir heißen, auzuhören. Aber...~
+@447  = ~Sie fragen?... Ihr meint - *sie*, meine Beth, wirklich mit ihr sprechen, nach all' den Jahren... Ein weiteres mal ihre Stimme hören... Und sie würde mich sehen... und wie ich in dieser Gruft stehe, und wie alt ich geworden bin...~
+@448  = ~Ihr braucht sie nicht zu stören. Wenn ich mir vorstelle, sie wäre hier vor mir - in all' ihrer Schönheit, ihrer Klugheit, ihrem großen Herzen und ihrer Güte... dann wird mir schmerzhaft bewusst, dass sie mich einen Narr nennen würde und mir heißen, auzuhören! Wie konnte ich nur so blind sein...~
+@449  = ~Was habt Ihr ihr versprochen? Dass Ihr sie mit dunkler Magie zum Leben erweckt, egal um welchen Preis? Was Ihr vorhin sagtet klang nicht danach.~
+@450  = ~Dies ist nicht das, was Ihr ihr versprochen habt, und ich bin sicher, dass sie es nicht wollen würde. Seid ehrlich zu Euch selbst.~
+@451  = ~Habt Ihr nie über diese Möglichkeit gesprochen?~

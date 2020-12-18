@@ -143,7 +143,7 @@ I found the girl's corpse. It would be a good deed to bring her to her mourning 
 @128  = ~Come on, a bit of killing is fun. You are surrounded by dead bodies anyway, you wouldn't spot the difference.~
 @129  = ~I am not sure... The higher developed the better, I guess...~
 @130  = ~If I bring you the blood, would you find a way to raise Scar?~
-@131  = ~It all comes down to what "creature" would suffice. How many animals get killed every day so we can eat them? We shove them into our mouth, chew and swallow to sutain ourselves. You, on the other hand, want to give life to your beloved... I cannot see a purer purpose for the death of a fellow creature.~
+@131  = ~It all comes down to what "creature" would suffice. How many animals get killed every day so we can eat them? We shove them into our mouth, chew and swallow to sustain ourselves. You, on the other hand, want to give life to your beloved... I cannot see a purer purpose for the death of a fellow creature.~
 @132  = ~I will get the blood of an animal for you, if that suffices. I will not kill anything humanoid, don't worry.~
 @133  = ~As I said, I could search for the right sacrifice for him. But I won't, now.~
 @134  = ~You... you are evil. I feel like I finally woke up. What have I done!~
@@ -268,12 +268,12 @@ I got enough blood of a nymph. This should be perfect for the necromancer's purp
 @239  = ~A... cow. A beloved cow. Yes, I think that should work.~
 @240  = ~Take this, then.~
 @241  = ~Let me search for something more suitable.~
-@242  = ~A g... a girl? The girl from upstairs? You killed her for this? I... I was hoping she gave you a better reason than this...~
+@242  = ~A g... a girl? The girl from upstairs? You killed her for the blood? I... I was hoping you had a better reason than this...~
 @243  = ~A girl.~
 @244  = ~But, but... You said you wouldn't kill other than an animal! I heard you say that!~
 @245  = ~Oh, Beth (moans). But she is dead now. This should do. A girl is definitely innocent...~
 @246  = ~No, no, the blood of a girl is better than that. It is better...~
-@247  = ~Now I have the needed blood. I thank you... I guess. All I have to do is to stirr it in...~
+@247  = ~Now I have the needed blood. I thank you... I guess. All I have to do is to stir it in...~
 @248  = ~That... that would be it. That *is* it! I have the essence I need to resurrect Beth. No more time to think and ponder! I have to do it now...~
 @249  = ~I will be in the crypt. Take whatever you find here as a reward.~
 @250  = ~Why... why doesn't *happen* anything? I did everything according to... Oh!~
@@ -391,7 +391,7 @@ Maybe I shouldn't have attacked the cow without buying it first.~
 Mrs. Thirsty gave me a letter for farmer Brun. Seems I have to play the messenger, again...~
 @355  = ~Well, that's what I thought. (sigh) I wouldn't know where to address such a request, anyway. Ah, it's all so complicated in the city.~
 @356  = ~What impertinence! You seem to enjoy this. It is you and me here and a Flaming Fist guard. Be glad, pumkin, or I would have come over and teach you some manners! Pff. Nowaday's youth!~
-@357  = ~That... that is wondeful!~
+@357  = ~That... that is wonderful!~
 @358  = ~Trevor, did you hear that?~
 @359  = ~Thank the gods... I mean, that is good news, indeed.~
 @360  = ~I will go immediately. Immediately!~
@@ -444,7 +444,7 @@ I have the blood of a (female, beloved) cow. This should serve for the necromanc
 @401  = ~<CHARNAME>, my son was dead when y' found him, but this woman you brought here is t' living reincarnation of my mother.~
 @402  = ~I heard that.~
 @403  = ~Now to you. It's good to see you again. You helped me so much... me and my Berta. And now I have Inga, Gertrud, and Luisa to take care of, as well... (smiles)~
-@404  = ~Mister Brun is such a nice person! Well... he is not really talkative, but I undertand that, with his son dead and all. He said I would talk for two, so that would be enough. Ah, I wished he and my husband would have met. They would have so much to agree upon!~
+@404  = ~Mister Brun is such a nice person! Well... he is not really talkative, but I understand that, with his son dead and all. He said I would talk for two, so that would be enough. Ah, I wished he and my husband would have met. They would have so much to agree upon!~
 @405  = ~Say hello to young Trevor for me, if you see him. Such a fine young lad, a bit duteous, but that's good for a watchman, I guess.~
 @406  = ~A Cow in Baldur's Gate City
 
@@ -489,3 +489,16 @@ Farmer Brun agreed to take in Mrs. Thirsty and her cow. Now I have to go back an
 @438  = ~You, in need of nymph's blood? Why, yes, that's the easiest sell and I don't have use for all of it, anyway. Come back in a tenday and I will have it for you, bottled and sealed.~
 @439  = ~I need it now, or it will be too late.~
 @440  = ~No, now is not possible. Killing her now would spoil all ingedients. Look at how Ragefast had let her deteriorate. She needs to batten for at least two days more before I can use her reasonably. Killing her before that is no option.~
+
+/* new for v6.0 */
+@441  = ~As much I understand your desperation, are you sure you are doing this for her?~
+@442  = ~I... I... don't know...~
+@443  = ~Well... We could ask herself directly. I know a trick or two about summoning spirits.~
+@444  = ~What does your heart tell you? You knew her better than anyone.~
+@445  = ~We never spoke about it. I was so sure... so *sure* that I would be able to heal her. I wasn't a necromancer then...~
+@446  = ~If I imagine her before me - in all her beauty and wisdom, her great heart and her kindness... She would call me a fool... But...~
+@447  = ~Ask her?... You mean - *her*, my Beth, really talk to her, after all these years... To hear her voice, one more time... And what would she see here, she would see this tomb, she would see how old I grew, she would see...~
+@448  = ~There is no need for you to summon her spirit. If I imagine her before me - in all her beauty and wisdom, her great heart and her kindness... She would call me a fool! How could I be so blind.~
+@449  = ~Promised her what? To raise her with dark magic no matter the cost? What you said didn't sound like it.~
+@450  = ~This is not what you promised her, and I am sure it's not what she would want for you. Be honest with yourself.~
+@451  = ~Did you never talk about this topic with her?~

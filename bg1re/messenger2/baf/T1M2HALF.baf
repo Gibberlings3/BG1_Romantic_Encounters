@@ -4,18 +4,18 @@ IF
 	Detect(PLAYER1)
 THEN
 	RESPONSE #10
-		%DisplayStringHead%(Myself,~'Rain nor snow nor gloom of night' my taut and shapely buttocks...~)
+		%DisplayStringHead%(Myself,@305)
 		Wait(10)
 	RESPONSE #10
-		%DisplayStringHead%(Myself,~(wheeze) Can anybody hear me?~)
+		%DisplayStringHead%(Myself,@306)
 		Wait(10)
 	RESPONSE #10
-		%DisplayStringHead%(Myself,~Feet don't fail me now - do I still have feet?  All kinda numb down there...~)
+		%DisplayStringHead%(Myself,@307)
 		Wait(10)
 	RESPONSE #10
-		%DisplayStringHead%(Myself,~I'd rather be fishing. (cough)~)
+		%DisplayStringHead%(Myself,@308)
 		Wait(10)
 	RESPONSE #10
-		%DisplayStringHead%(Myself,~Ow.~)
+		%DisplayStringHead%(Myself,@309)
 		Wait(10)
 END 

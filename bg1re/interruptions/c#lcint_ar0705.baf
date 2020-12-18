@@ -1,0 +1,51 @@
+/* switch from First to Second */
+
+IF 
+	Global("C#LCINT_Spawn","GLOBAL",2)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",3)
+END
+
+/* switch from Second to next */
+
+IF 
+	Global("C#LCINT_Spawn","GLOBAL",5)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",6)
+END
+
+/* switch from Third to next */
+IF 
+	Global("C#LCINT_Spawn","GLOBAL",8)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",9)
+END
+
+/* switch from 4th to next */
+IF 
+	Global("C#LCINT_Spawn","GLOBAL",11)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",12)
+END
+
+/* switch from 5th to next  */
+IF 
+	Global("C#LCINT_Spawn","GLOBAL",14)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",15)
+END
+
+/* switch from 6th to last - will happen for Chapter > 5 */
+IF 
+	Global("C#LCINT_Spawn","GLOBAL",17)
+THEN
+	RESPONSE #100
+            SetGlobal("C#LCINT_Spawn","GLOBAL",18)
+END
+
+

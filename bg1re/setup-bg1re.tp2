@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~5.0~ 
+VERSION ~6.0~ 
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -163,12 +163,11 @@ END
     OUTER_SPRINT ~_LOW~ ~_LOW~
 
     OUTER_SPRINT ~Class_Player1_Monk~ ~Class(Player1,MONK)~ 
+    OUTER_SPRINT ~Class_Player1_Shaman~ ~False()~ 
     OUTER_SPRINT ~NBaldursGate_BCS~ ~_AR0200~
     OUTER_SPRINT "SWBaldursGate_FlamingFistHQ_L1_BCS" "_AR0607"
     OUTER_SPRINT "FishingVillage_BCS" "_AR1400"
     OUTER_SPRINT "JAHEIRA_DREAM_BCS" "_JAHEID.BCS"
-    OUTER_SPRINT ~Real~ ~Real~ //for timer setting C#LCINT_SpawnTimer
-    OUTER_SPRINT ~C#LCINT_SpawnTimer~ ~3600~ 
     
     OUTER_SPRINT "eet_var" ""
     OUTER_SPRINT ~DAYNIGHT~ ~<DAYNIGHT>~
@@ -219,13 +218,12 @@ END
     OUTER_SPRINT ~_LOW~ ~~
 
     OUTER_SPRINT ~Class_Player1_Monk~ ~Class(Player1,MONK)~ 
+    OUTER_SPRINT ~Class_Player1_Shaman~ ~False()~ 
 
     OUTER_SPRINT ~NBaldursGate_BCS~ ~AR7300~
     OUTER_SPRINT "SWBaldursGate_FlamingFistHQ_L1_BCS" "AR7607"
     OUTER_SPRINT "FishingVillage_BCS" "AR8300"
     OUTER_SPRINT "JAHEIRA_DREAM_BCS" "JAHEIRAD.BCS"
-    OUTER_SPRINT ~Real~ ~Real~ //for timer setting C#LCINT_SpawnTimer
-    OUTER_SPRINT ~C#LCINT_SpawnTimer~ ~3600~
 
     OUTER_SPRINT "eet_var" ""
     OUTER_SPRINT ~DAYNIGHT~ ~<DAYNIGHT>~
@@ -257,6 +255,7 @@ END
     OUTER_SPRINT ~_LOW~ ~_LOW~
 
     OUTER_SPRINT ~Class_Player1_Monk~ ~False()~ 
+    OUTER_SPRINT ~Class_Player1_Shaman~ ~False()~ 
 
     OUTER_SPRINT ~RESTPARTY~ ~ClearAllActions()
 				StartCutSceneMode()
@@ -293,8 +292,6 @@ END
     OUTER_SPRINT "SWBaldursGate_FlamingFistHQ_L1_BCS" "AR7607"
     OUTER_SPRINT "FishingVillage_BCS" "AR1400"
 
-    OUTER_SPRINT ~Real~ ~~ //for timer setting C#LCINT_SpawnTimer
-    OUTER_SPRINT ~C#LCINT_SpawnTimer~ ~TWELVE_DAYS~ 
 
     OUTER_SPRINT "eet_var" ""
     OUTER_SPRINT ~DAYNIGHT~ ~day~
@@ -355,12 +352,11 @@ END
     OUTER_SPRINT ~_LOW~ ~_LOW~
 
     OUTER_SPRINT ~Class_Player1_Monk~ ~Class(Player1,MONK)~ 
+    OUTER_SPRINT ~Class_Player1_Shaman~ ~Class(Player1,SHAMAN)~ 
     OUTER_SPRINT ~NBaldursGate_BCS~ ~AR0200~
     OUTER_SPRINT "SWBaldursGate_FlamingFistHQ_L1_BCS" "AR0607"
     OUTER_SPRINT "FishingVillage_BCS" "AR1400"
     OUTER_SPRINT "JAHEIRA_DREAM_BCS" "JAHEID.BCS"
-    OUTER_SPRINT ~Real~ ~Real~ //for timer setting C#LCINT_SpawnTimer
-    OUTER_SPRINT ~C#LCINT_SpawnTimer~ ~3600~ 
 
     OUTER_SPRINT "eet_var" ""
     OUTER_SPRINT ~DAYNIGHT~ ~<DAYNIGHT>~
@@ -408,9 +404,8 @@ END
     OUTER_SPRINT ~_LOW~ ~_LOW~
 
     OUTER_SPRINT ~Class_Player1_Monk~ ~Class(Player1,MONK)~ 
+    OUTER_SPRINT ~Class_Player1_Shaman~ ~Class(Player1,SHAMAN)~ 
     OUTER_SPRINT ~JAHEIRA_DREAM_BCS~ ~JAHEID.BCS~
-    OUTER_SPRINT ~Real~ ~Real~ //for timer setting C#LCINT_SpawnTimer
-    OUTER_SPRINT ~C#LCINT_SpawnTimer~ ~3600~ 
     OUTER_SPRINT ~DAYNIGHT~ ~<DAYNIGHT>~
 
 
@@ -1262,7 +1257,7 @@ ADD_TRANS_ACTION harbor BEGIN 9 END BEGIN END ~DialogInterrupt(FALSE)~
 COMPILE EVALUATE_BUFFER ~...inlined/harbor.d~
 END
 
-
+ACTION_IF !GAME_IS ~bg1 totsc~ THEN BEGIN
 
 /* BGT and EET: lying Eltan will be gone after Sarevok is dead */
 
@@ -1279,7 +1274,7 @@ WRITE_EVALUATED_ASCII 0x248 ~C#RE1ELT~ #8   // Override script
 
   LAF extend_area_script STR_VAR area="%NBaldursGate_DucalPalace_L1%" bottom="bg1re/eltan/c#eltan_AR0108.baf"    END
 
-
+END
 
 
 ////////////////////////////////////////////////////////////////////////////
@@ -1451,6 +1446,8 @@ SAY SELECT_COMMON2 @35
 
 ACTION_IF GAME_IS ~bgt eet~ THEN BEGIN
 EXTEND_BOTTOM ~%CentralBaldursGate%.bcs~ ~bg1re/scarreturn/c#re1sr_AR0700.baf~ 
+      EVALUATE_BUFFER 
+EXTEND_BOTTOM ~%CentralBaldursGate%.bcs~ ~bg1re/scarreturn/c#re1sr_AR0700_mapnote.baf~ 
       EVALUATE_BUFFER 
 EXTEND_BOTTOM ~%BaldursGateDocks_JopalinsTavern%.bcs~ ~bg1re/scarreturn/c#re1sr_AR1215.baf~ 
       EVALUATE_BUFFER
@@ -4100,7 +4097,7 @@ END
 
 // Scripts
 
-COMPILE EVALUATE_BUFFER ~bg1re/messenger2/baf/T1M2HALF.baf~
+COMPILE EVALUATE_BUFFER ~bg1re/messenger2/baf/T1M2HALF.baf~ USING ~bg1re/tra/autotra/%LANGUAGE%/messenger2.tra~
 COMPILE EVALUATE_BUFFER ~bg1re/messenger2/baf/T1M2HALC.baf~
 
 EXTEND_TOP ~%tutu_var%SILENC.bcs~     ~bg1re/messenger2/baf/T1M2SILE.baf~
@@ -5695,6 +5692,7 @@ WRITE_EVALUATED_ASCII 0x260 ~C#LCINIT~ #8   // General script
 COMPILE EVALUATE_BUFFER ~bg1re/interruptions/interruptions.d~
 
 LAF extend_area_script STR_VAR area="%EBaldursGate_ElfsongTavern_L2%" bottom="bg1re/interruptions/c#lcint_ar0706.baf"   END
+LAF extend_area_script STR_VAR area="%EBaldursGate_ElfsongTavern_L1%" bottom="bg1re/interruptions/c#lcint_ar0705.baf"   END
 
 
 

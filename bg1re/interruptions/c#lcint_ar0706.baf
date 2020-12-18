@@ -12,66 +12,60 @@ END
 /* Second */
 
 IF 
-	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
-	Global("C#LCINT_Spawn","GLOBAL",2)
+	Global("C#LCINT_Spawn","GLOBAL",3)
 THEN
 	RESPONSE #100
-            SetGlobal("C#LCINT_Spawn","GLOBAL",3)
+            SetGlobal("C#LCINT_Spawn","GLOBAL",4)
 	    CreateCreature("C#LCIN2W",[441.868]%FACE_12%) //Woman
 	    CreateCreature("C#LCIN2M",[460.865]%FACE_4%) //Man
 END
 
 /* Third */
 IF 
-	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
-	Global("C#LCINT_Spawn","GLOBAL",4)
+	Global("C#LCINT_Spawn","GLOBAL",6)
 THEN
 	RESPONSE #100
-            SetGlobal("C#LCINT_Spawn","GLOBAL",5)
+            SetGlobal("C#LCINT_Spawn","GLOBAL",7)
 	    CreateCreature("C#LCIN3W",[441.868]%FACE_12%) //Woman
 	    CreateCreature("C#LCIN3M",[460.865]%FACE_4%) //Man
 END
 
 /* 4th */
 IF 
-	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
-	Global("C#LCINT_Spawn","GLOBAL",6)
+	Global("C#LCINT_Spawn","GLOBAL",9)
 THEN
 	RESPONSE #100
-            SetGlobal("C#LCINT_Spawn","GLOBAL",7)
+            SetGlobal("C#LCINT_Spawn","GLOBAL",10)
 	    CreateCreature("C#LCIN4W",[441.868]%FACE_12%) //Woman
 	    CreateCreature("C#LCIN4M",[460.865]%FACE_4%) //Man
 END
 
 /* 5th */
 IF 
-	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
-	Global("C#LCINT_Spawn","GLOBAL",8)
+	Global("C#LCINT_Spawn","GLOBAL",12)
 THEN
 	RESPONSE #100
-            SetGlobal("C#LCINT_Spawn","GLOBAL",9)
+            SetGlobal("C#LCINT_Spawn","GLOBAL",13)
 	    CreateCreature("C#LCIN5W",[441.868]%FACE_12%) //Woman
 	    CreateCreature("C#LCIN5M",[460.865]%FACE_4%) //Man
 END
 
 /* 6th */
 IF 
-	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
-	Global("C#LCINT_Spawn","GLOBAL",10)
+	Global("C#LCINT_Spawn","GLOBAL",15)
 THEN
 	RESPONSE #100
-            SetGlobal("C#LCINT_Spawn","GLOBAL",11)
+            SetGlobal("C#LCINT_Spawn","GLOBAL",16)
 	    CreateCreature("C#LCIN1W",[400.888]%FACE_12%) //Woman
 END
 
 /* 7th - Chapter > 5 - reuses cres from third encounter */
 IF 
-	%Real%GlobalTimerExpired("C#LCINT_SpawnTimer","GLOBAL")
 	GlobalGT("Chapter","GLOBAL",%tutu_chapter_5%)
-	Global("C#LCINT_Spawn","GLOBAL",12)
+	Global("C#LCINT_Spawn","GLOBAL",18)
 THEN
 	RESPONSE #100
-            SetGlobal("C#LCINT_Spawn","GLOBAL",13)
+            SetGlobal("C#LCINT_Spawn","GLOBAL",19)
 	    CreateCreature("C#LCIN3W",[441.868]%FACE_12%) //Woman
 	    CreateCreature("C#LCIN3M",[460.865]%FACE_4%) //Man
 END

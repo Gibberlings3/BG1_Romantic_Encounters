@@ -948,7 +948,7 @@ Variables: "C#LCINT_Spawn" is incremented along the encounters.
 
 Elfong Tavern has a neat little room for private encounters but it's difficult to have private meetings when there is no door that can be locked... So, it's not the PC's fault if s/he interrupts a flirtatious dinner by walking into it once or twice, or thrice... is it?
 
-Note: There are 7 encounters in total. Timer between encounters is one hour real time (or 12 days for BG1:TotSC). The last encounter does not happen before chapter 6.
+Note: There are 7 encounters in total. To see the next one, just leave the second floor of the Elfsong Tavern once and return. The last encounter does not happen before chapter 6.
 
 
 
@@ -1372,6 +1372,13 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 6.0:
+-fixed install errors for BG:TotSC (components "Eltan's Spare Minute" and "Scar's Return")
+-"Necromancer's Trouble": Trevor will not be doubled inside the FF HQ and outside with Miss Thirsty; mourning mom can be mentioned to Dilos inside the FF HQ, too; new reply options and one extra for shaman PCs.
+-"Minor Disclosures": the components are no longer spaced through a timer. Instead, leaving the floor once and return will trigger the next encounter.
+-added folder libiconv-1.9.2-1-src.7z with iconv licence info
+-typo corrections.
 
 Version 5.0:
 -Completed dialogue for "Scar's Return" (placeholder line in Duke Eltan's dialogue)

@@ -85,7 +85,22 @@ END
 
 END //APPEND
 
+/* add question about mourning mom to Flaming Fist mercenaries: Dilos in FF HQ */
 
+EXTEND_BOTTOM %tutu_var%FLAMBG 0
+/* mourning mom: PC can ask about the stolen body */
++ ~Global("C#Q11_MourningMom","GLOBAL",1)
+Global("C#Q11_AskedMourningMom","GLOBAL",0)~ + @20 DO ~SetGlobal("C#Q11_AskedMourningMom","GLOBAL",1)~ + mourning_mom
+END
+
+APPEND %tutu_var%FLAMBG
+
+IF ~~ THEN mourning_mom
+SAY @21
+= @22
+IF ~~ THEN DO ~SetGlobal("C#Q11_MourningMom","GLOBAL",2)~ EXIT
+END
+END
 
 
 /*  Side quest 1: Susan Lost */
@@ -254,6 +269,7 @@ IF ~~ THEN necro_12
 SAY @77
 = @78
 = @79
+++ @441 + extra
 ++ @80 + necro_13
 ++ @81 + necro_13
 ++ @82 + necro_16
@@ -269,6 +285,8 @@ END
 
 IF ~~ THEN necro_14
 SAY @87
+++ @449 + necro_15 
+++ @450 + necro_15 
 ++ @88 + necro_15
 ++ @89 + necro_15
 ++ @90 + necro_15
@@ -485,8 +503,39 @@ IF ~~ THEN DO ~%ERASEJOURNALENTRY_144%
 SetGlobal("C#Q11_SearchBlood","GLOBAL",5) Kill(Myself)~ %SOLVED_JOURNAL% @154 EXIT
 END
 
+/* additions for v6.0 - "what would Beth have wanted?" */
 
+IF ~~ THEN extra
+SAY @442
++ ~%Class_Player1_Shaman%~ + @443 + extra_03
+++ @444 + extra_02
+++ @451 + extra_01
+++ @80 + necro_13
+++ @81 + necro_13
+++ @82 + necro_16
+++ @66 + necro_07
+END
 
+IF ~~ THEN extra_01
+SAY @445
++ ~%Class_Player1_Shaman%~ + @443 + extra_03
+++ @444 + extra_02
+++ @80 + necro_13
+++ @81 + necro_13
+++ @82 + necro_16
+++ @66 + necro_07
+END
+
+IF ~~ THEN extra_02
+SAY @446
+IF ~~ THEN + necro_15_1
+END
+
+IF ~~ THEN extra_03
+SAY @447
+= @448
+IF ~~ THEN + necro_15_1
+END
 
 
 
@@ -984,7 +1033,7 @@ GlobalGT("C#Q11_CowQuest","GLOBAL",6)~ + @272 DO ~SetGlobal("C#q11_TrevorState4"
 + ~Global("C#Q11_CowQuest","GLOBAL",10) Global("C#q11_TrevorState6","GLOBAL",1)~ + @273 + trevor_08
 /* mourning mom: PC can ask about the stolen body */
 + ~Global("C#Q11_MourningMom","GLOBAL",1)
-Global("C#Q11_AskedMourningMom","LOCALS",0)~ + @20 DO ~SetGlobal("C#Q11_AskedMourningMom","LOCALS",1)~ + mourning_mom
+Global("C#Q11_AskedMourningMom","GLOBAL",0)~ + @20 DO ~SetGlobal("C#Q11_AskedMourningMom","GLOBAL",1)~ + mourning_mom
   IF ~~ THEN REPLY  @274  GOTO trevor_01 
   IF ~~ THEN REPLY  @275  GOTO trevor_02
   IF ~~ THEN REPLY  @276  GOTO trevor_03
@@ -1005,7 +1054,7 @@ GlobalGT("C#Q11_CowQuest","GLOBAL",6)~ + @272 DO ~SetGlobal("C#q11_TrevorState4"
 + ~Global("C#Q11_CowQuest","GLOBAL",10) Global("C#q11_TrevorState6","GLOBAL",1)~ + @273 + trevor_08
 /* mourning mom: PC can ask about the stolen body */
 + ~Global("C#Q11_MourningMom","GLOBAL",1)
-Global("C#Q11_AskedMourningMom","LOCALS",0)~ + @20 DO ~SetGlobal("C#Q11_AskedMourningMom","LOCALS",1)~ + mourning_mom
+Global("C#Q11_AskedMourningMom","GLOBAL",0)~ + @20 DO ~SetGlobal("C#Q11_AskedMourningMom","GLOBAL",1)~ + mourning_mom
 ++ @277 + trevor_09
 END
 

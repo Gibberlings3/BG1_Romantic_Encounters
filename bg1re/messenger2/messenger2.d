@@ -1068,8 +1068,8 @@ IF ~RandomNum(4,2)~ EXTERN ~%tutu_var%SILENC~ m2sleep2
 IF ~RandomNum(4,3)~ EXTERN ~%tutu_var%SILENC~ m2sleep3
 
 CHAIN IF ~RandomNum(5,3)~ THEN ~T1M2GHOS~ m2barkis1
-~... little lights... in... the dark...~
-~... watch... them... burn...~
+@256
+= @304
 END 
 IF ~~ EXIT
 IF ~RandomNum(4,1)~ EXTERN ~%tutu_var%SILENC~ m2sleep1

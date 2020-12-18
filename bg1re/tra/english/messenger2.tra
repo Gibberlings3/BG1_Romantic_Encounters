@@ -254,7 +254,7 @@
 @253  = ~But I've a place to rest his bones, sure enough.  There's too many as wander on this dark earth to turn away a soul world-worn.~
 @254  = ~... when... goes... the light... what... passes...?~
 @255  = ~... sooo... cold...~
-@256  = ~... little lights... in... the dark...~ ~... watch... them... burn...~
+@256  = ~... little lights... in... the dark...~ 
 @257  = ~... I... fear... the end...~
 @258  = ~... god... child...~
 @259  = ~... I'm... so... tired...~
@@ -336,3 +336,10 @@ Bartleby took his last job really seriously - even as a ghost, he monitored me d
 
 Bartleby took his last job really seriously - even as a ghost, he monitored me delivering the letters. I didn't let him touch me, though. Let's hope he'll find rest now.~
 
+/* new for v5.1 */
+@304  = ~... watch... them... burn...~
+@305  = ~'Rain nor snow nor gloom of night' my taut and shapely buttocks...~
+@306  = ~(wheeze) Can anybody hear me?~
+@307  = ~Feet don't fail me now - do I still have feet?  All kinda numb down there...~
+@308  = ~I'd rather be fishing. (cough)~
+@309  = ~Ow.~
