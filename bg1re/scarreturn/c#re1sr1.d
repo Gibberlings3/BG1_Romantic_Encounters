@@ -193,7 +193,8 @@ IF ~~ THEN c#re1sr3 sr3_2_01
 END
 ++ @125 + sr3_2_01_cutscene
 ++ @126 + scar_receit
-++ @127 + scar_nothingatall
++ ~!Dead("Sarevok")~ + @127 + scar_nothingatall
++ ~Dead("Sarevok")~ + @326 + scar_nothingatall
 
 CHAIN
 IF ~~ THEN c#re1sr3 scar_nothingatall
@@ -202,7 +203,8 @@ IF ~~ THEN c#re1sr3 scar_nothingatall
 == c#re1sr3 @130
 == c#re1sr4 @131
 == c#re1sr3 @132
-= @133
+== c#re1sr3 IF ~!Dead("Sarevok")~ THEN @133
+== c#re1sr3 IF ~Dead("Sarevok")~ THEN @327
 END
 IF ~~ THEN DO ~%ERASEJOURNALENTRY_166% SetGlobal("C#RE1_ScarRetrieval","GLOBAL",10)~ %UNSOLVED_JOURNAL% @134 EXIT
 

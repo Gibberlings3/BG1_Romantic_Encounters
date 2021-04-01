@@ -357,3 +357,9 @@ Eltan told me that Scar's body was lost the night he was murdered. This is a sad
 
 Eltan told me that Scar's body was found and put to rest.~
 @325   = ~Whether my former Second in Command will ever see the light of day again will be up to the gods, I wager... And we have pressing matters at hand.~
+
+/* new for v7.0 */
+//@127 with Duke Eltan
+@326  = ~I won't do anything! You will go to Duke Eltan in the Palace and tell him about it. This was Duke Eltan's best man, the Second in Command! You don't want to let his body be lost in some crate, do you?!~
+//@133 with Duke Eltan
+@327  = ~Listen, you go now, alright? Sorry to sound heartless, but this night really scared me. Whoever got Scar killed, I am sure he'd have no problem in killing two more witnesses. I promise we will tell Duke Eltan as soon as you go.~
