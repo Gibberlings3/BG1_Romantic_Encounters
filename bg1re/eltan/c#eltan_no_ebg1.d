@@ -1,4 +1,4 @@
-APPEND %tutu_var%%ELTANDLG_HARBORMASTER%
+APPEND %ELTANDLG_HARBORMASTER%
 IF WEIGHT #-1
 ~Dead("Sarevok")
 //Name("C#RE1ELT",Myself) //only if bg1re Duke Eltan is talking
