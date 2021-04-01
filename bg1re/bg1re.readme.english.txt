@@ -1374,7 +1374,7 @@ XII. History
 ----------------
 
 Version 7.0:
--"Dinner with Thalantyr": Thalantyr's private quarters is now area art from Lava! (Same as in SotSC); PC should not be able to ask carpenter about chess piece a second time, journal entry shold be removed correctly.
+-"Dinner with Thalantyr": Thalantyr's private quarters is now area art from Lava! (Same as in SotSC); PC should not be able to ask carpenter about chess piece a second time, journal entry shold be removed correctly; added references to bgqe "Warm Place for Noober" quest.
 -"Girdle of Gender Reactions": Skie should say correct lines if girdle is removed.
 -"Necromancer's Trouble". dialogue variables should close correctly.
 -"Scar's Return": Corrected reference to Harbormaster -> Duke Eltan in case Sarevok is dead; fixed Tutu install bug; fixed install bug for crossmod with Transitions Mod; added reference in case Sarevok is dead.
