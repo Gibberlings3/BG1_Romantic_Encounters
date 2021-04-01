@@ -7,14 +7,14 @@ THEN
         CutSceneId(Player1)
         FadeToColor([20.0],0)
         Wait(2)
-         LeaveAreaLUAPanic("c#thal","",[593.248]%FACE_9%)
-        LeaveAreaLUA("c#thal","",[593.248]%FACE_9%)
+         LeaveAreaLUAPanic("c#thal","",[473.357]%FACE_3%)
+        LeaveAreaLUA("c#thal","",[473.357]%FACE_3%)
         Wait(1)
 	Face(4) //needed for BG1
-        CreateCreature("C#LCTHAL",[575.174]%FACE_16%) 
-	ActionOverride("C#LCTHAL",Face(12)) //needed for BG1
+        CreateCreature("C#LCTHAL",[408.412]%FACE_14%) 
+	ActionOverride("C#LCTHAL",Face(14)) //needed for BG1
        // Explore()
-        MoveViewPoint([575.174],INSTANT)
+        MoveViewPoint([323.210],INSTANT)
         Wait(1)
         FadeFromColor([20.0],0)
 	EndcutSceneMode()

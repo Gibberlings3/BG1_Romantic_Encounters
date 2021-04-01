@@ -27,8 +27,7 @@ c#cl07: AR0153 Thieves' Guild Baldur's Gate
 
 c#cl08: area for the Harvestman's Lair. With bathtub!
 
-c#thal: custom area edit (living room quarters of Durlag's tower)
--Thalantyr
+c#thal: Thalantyr, by Lava
 
 
 
