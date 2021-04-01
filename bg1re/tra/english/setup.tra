@@ -114,3 +114,6 @@
 @99184  = ~BG-style Version [Adult content] and Show/Install all Components with Warnings.~
 @99185  = ~Descriptive Version [Adult content] and Skip Components with Warnings.~
 @99186  = ~Descriptive Version [Adult content] and Show/Install all Components with Warnings.~
+
+/* new for v7 */
+@99187  = ~This mod needs to be installed before EET_End on your EET install.~

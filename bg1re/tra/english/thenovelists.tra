@@ -444,13 +444,8 @@
      "Big pants are all the rage this year," replied Delio, amber eyes bright. "They show off those wide, erm, child-siring hips and, of course, there's the necessary conspicuous display of fabric."
      <CHARNAME> cringed.
      "It's a battlefield like any other. And we need to get our armour and weapons *right*, or we won't even get in the door... what are you doing?"
-     <CHARNAME>'s nimble fingers wrapped around Delio's wrist, his thumb rubbing gentle circles over the pulse-point and then tugged lightly down. "Don't we both need to smell pretty?" he purred.~ ~ "But when Delio leaned over the bath, blocking the light, <CHARNAME> flinched in the water.
-     "Sshh," said Delio, drawing back and twisting so that their hands locked, palm to palm and fingers woven. "I'm me, I am yours, I am not some... silver-eyed *thing*."
-     <CHARNAME> drew in a deep, shuddering breath. "Well then." His teeth flashed in a sudden grin. "But *I* might be. How, m'dear, could you *possibly* test me to your... satisfaction?"
-     In the flare of lamplight, Delio's eyes became golden and heavy-lidded with desire as they travelled down <CHARNAME>'s lean form from crown to toe-tip and back up again. "I have some ideas."
-     "I like all your ideas." And he drew Delio down...~
+     <CHARNAME>'s nimble fingers wrapped around Delio's wrist, his thumb rubbing gentle circles over the pulse-point and then tugged lightly down. "Don't we both need to smell pretty?" he purred.~ 
 @334  = ~(Marginal Notes)
-
 -----To the party!  The great and gorgeous gentlefolk, more pretty dresses than you can shake a stick at, those wonderful staircases and, oh! chandeliers to swing on! - D
 
 -----We can tie up that subplot with the missing Silvershield boy - I mean, "Silverstar" - K
@@ -527,3 +522,10 @@
 @369 = ~I was framed!~
 @370 = ~Look, the law and I aren't exactly *close*, but it sounds a lot worse than it really is. I'm quite nice, really - you can trust an honest, guileless, *trustable* face like mine...~
 @371 = ~I had good reasons for what I did. Believe me, regret walks by my side. But everything I've done, I meant for the best...~
+
+/* new for v7.0 */
+@372 = ~ "But when Delio leaned over the bath, blocking the light, <CHARNAME> flinched in the water.
+     "Sshh," said Delio, drawing back and twisting so that their hands locked, palm to palm and fingers woven. "I'm me, I am yours, I am not some... silver-eyed *thing*."
+     <CHARNAME> drew in a deep, shuddering breath. "Well then." His teeth flashed in a sudden grin. "But *I* might be. How, m'dear, could you *possibly* test me to your... satisfaction?"
+     In the flare of lamplight, Delio's eyes became golden and heavy-lidded with desire as they travelled down <CHARNAME>'s lean form from crown to toe-tip and back up again. "I have some ideas."
+     "I like all your ideas." And he drew Delio down...~

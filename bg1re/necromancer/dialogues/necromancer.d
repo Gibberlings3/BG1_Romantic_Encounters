@@ -528,13 +528,13 @@ END
 
 IF ~~ THEN extra_02
 SAY @446
-IF ~~ THEN + necro_15_1
+IF ~~ THEN DO ~SetGlobal("C#Q11_Necroquest","GLOBAL",6)~ + necro_15_1
 END
 
 IF ~~ THEN extra_03
 SAY @447
 = @448
-IF ~~ THEN + necro_15_1
+IF ~~ THEN DO ~SetGlobal("C#Q11_Necroquest","GLOBAL",6)~ + necro_15_1
 END
 
 
@@ -1214,7 +1214,8 @@ END //APPEND
 */
 
 CHAIN 
-IF ~GlobalGT("C#Q11_CowQuest","GLOBAL",1) GlobalLT("C#Q11_CowQuest","GLOBAL",7)
+IF WEIGHT #-1
+~GlobalGT("C#Q11_CowQuest","GLOBAL",1) GlobalLT("C#Q11_CowQuest","GLOBAL",7)
 Global("C#q11_CowAttacked","GLOBAL",0)
 Global("C#q11_TalkedThirsty","GLOBAL",0)~ THEN c#q11wat with_mrs_thirsty
 @308
@@ -1226,7 +1227,8 @@ IF ~~ THEN EXTERN c#q11Mrs mt
 
 APPEND c#q11wat 
 
-IF ~Global("C#q11_CowAttacked","GLOBAL",0) GlobalGT("C#Q11_CowQuest","GLOBAL",1) GlobalLT("C#Q11_CowQuest","GLOBAL",7)
+IF WEIGHT #-1
+~Global("C#q11_CowAttacked","GLOBAL",0) GlobalGT("C#Q11_CowQuest","GLOBAL",1) GlobalLT("C#Q11_CowQuest","GLOBAL",7)
 Global("C#q11_TalkedThirsty","GLOBAL",1) !Global("C#q11_BuyCow","GLOBAL",3)~ THEN still_here
 SAY @312
 + ~!Global("C#Q11_SearchBlood","GLOBAL",1) Global("C#q11_BuyCow","GLOBAL",0)~ + @313 + butcher_01

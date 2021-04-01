@@ -291,9 +291,11 @@ I need to bring the carpenter at Nashkel Carnival a piece of ivory and 200 gold,
 
 I need to bring the carpenter at Nashkel Carnival a piece of ivory and 350 gold, then he will carve me a knight-errant in the style of Thalantyr's chess set.~
 @276  = ~Oh, I'll start right away! This is marvellous. Come back in two days, good <MANWOMAN>. I'll postbone all other orders for this. This is what I was yearning for!~
+/* doubled - @282
 @277  = ~Thalantyr's Chess Set
 
 The carpenter at Nashkel Carnival is making a white knight-errant for me. I should come back in two says to collect it.~
+*/
 @278  = ~Then I wish a good day to you, good <MANWOMAN>.~
 @279  = ~Here you are. Look at this fine piece of art! I am very fond of my creation.~
 @280  = ~There was ivory left, so I carved a white bishop, as well. Well, to be precise, I carved the white bishop first, to get a feel of the style. Here, I give this to you for free. This was a wonderful change, good <MANWOMAN>. I thank you for the opportunity, and I hope the pieces are to your liking.~
@@ -366,7 +368,7 @@ Thalantyr took the spare chess piece to craft magic into it. He told me to come 
 @333  = ~Please. I used to play at my home, Candlekeep. It seems like ages ago...~
 @334  = ~Well, not if you prefer playing against yourself...~
 @335  = ~Hm. Maybe it isn't such a good idea, after all.~
-@336  = ~Hm... (ponders in silence) (sigh)~
+@336  = ~Hmm... (ponders in silence) (sigh)~
 @337  = ~Very well, <CHARNAME>. But we'd have to do it now. Now or never - before I change my mind. Are you ready?~
 @338  = ~Yes! Lead on.~
 @339  = ~Ah, no. In this case I'm afraid it will be the gold.~
@@ -386,7 +388,7 @@ Thalantyr took the spare chess piece to craft magic into it. He told me to come 
 @353  = ~Let me guide you downstairs.~
 @354  = ~Well, so here we go. I usually allow myself the frivolity of a glass of wine during a game. Allow me to serve you a glass as well.~
 @355  = ~Be aware, however, that I appreciate silence. It enhances concentration and ensures a game well played. And it is for my own sake, as well...~
-@356  = ~Hm, not bad... not bad at all.~
+@356  = ~Hmm, not bad... not bad at all.~
 @357  = ~Check!~
 @358  = ~Check for me?! Hm, you are good, young one. You are very good.~
 @359  = ~And - checkmate.~
@@ -453,3 +455,7 @@ I played chess with master wizard Thalantyr!~
 @418  = ~Carpenter Artist~
 @419  = ~Not from me. Between the lines, I called you foolish.~
 @420  = ~But you have to understand that I want no debt to come with this piece. That is why I offer you gold in return.~
+
+/* new for v7 */
+@421  = ~Yes, I can imagine. They even threw him into the cold river only recently.~
+@422  = ~I hope that won't happen again. He found a place where he can stay and is respected, I think. At least for a while.~

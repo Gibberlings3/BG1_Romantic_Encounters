@@ -1055,6 +1055,7 @@ END
 CHAIN ~T1KDBOOK~ kdromC4
 @332
 = @333
+= @372
  
 END
 ++ @294 EXTERN ~T1KDBOOK~ kdtransition6

@@ -273,7 +273,7 @@ IF ~Global("RE1_GarrickMessenger2","LOCALS",7)~ + m2garrickjoin_7
 
 CHAIN ~%tutu_var%GARRIC~ m2garrickringb
 @80
-DO ~TakePartyItem("%tutu_var%RING19") DestroyItem("%tutu_var%RING19") SetGlobal("T1M2GarrickLetter","GLOBAL",3)~
+DO ~ActionOverride("Garrick",TakePartyItemNum("%tutu_var%RING19",1)) ActionOverride("Garrick",DestroyItem("%tutu_var%RING19")) SetGlobal("T1M2GarrickLetter","GLOBAL",3)~
 END
 IF ~Global("RE1_GarrickMessenger2","LOCALS",0)~ + m2garrick_back0
 IF ~Global("RE1_GarrickMessenger2","LOCALS",1)~ + m2garrick_back1
@@ -368,7 +368,7 @@ EXIT
 
 CHAIN ~%GARRICK_JOINED%~ m2garrickringb
 @80
-DO ~TakePartyItem("%tutu_var%RING19") DestroyItem("%tutu_var%RING19") SetGlobal("T1M2GarrickLetter","GLOBAL",3)~
+DO ~ActionOverride("Garrick",TakePartyItemNum("%tutu_var%RING19",1)) ActionOverride("Garrick",DestroyItem("%tutu_var%RING19")) SetGlobal("T1M2GarrickLetter","GLOBAL",3)~
 EXIT
 
 // If he's been kicked out, he considers looking her up...
@@ -383,7 +383,7 @@ END
 // Tales Troubadour: Global("gtt#tenyagarrick","GLOBAL",2) Currently doesn't go higher than 2, where he's sorta interested, not engaged.  Will leave out for the moment. [comment jastey: I'll put this in]
 // Garrick's Infatuation: GlobalLT("P#GarrickStopFlirt","GLOBAL",10)  Flirts run while this is true.
 
-EXTEND_BOTTOM ~%GARRICK_POST%~ 2 
+EXTEND_BOTTOM ~%GARRICK_POST%~ %GARRICK_KICKOUT_STATE_2% 
 + ~GlobalTimerExpired("T1M2LetterTimer","GLOBAL") Global("T1M2GarrickLetter","GLOBAL",3)~ + @97 + T1M2GarrLetter2
 END 
 

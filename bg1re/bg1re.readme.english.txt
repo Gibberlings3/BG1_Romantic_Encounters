@@ -1373,6 +1373,18 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
+Version 7.0:
+-"Dinner with Thalantyr": Thalantyr's private quarters is now area art from Lava! (Same as in SotSC); PC should not be able to ask carpenter about chess piece a second time, journal entry shold be removed correctly; added references to bgqe "Warm Place for Noober" quest.
+-"Girdle of Gender Reactions": Skie should say correct lines if girdle is removed.
+-"Necromancer's Trouble". dialogue variables should close correctly; Trevor should give his correct dialogue when being with Mrs. Thirsty and Berta.
+-"Scar's Return": Corrected reference to Harbormaster -> Duke Eltan in case Sarevok is dead; fixed Tutu install bug; fixed install bug for crossmod with Transitions Mod; added reference in case Sarevok is dead.
+-"The Messenger 2": Garrick should now REALLY take his ring. Question about his fan should be added to correct state in kickout dialogue (Tutu).
+-"The Novelists": made missed text lines into own dialogue lines.
+-Added Dynamic Install Order Category to .ini
+-Added check for EET_End to prevent installation if detected.
+-French version: formatting changed to ANSI and typo corrections.
+-corrected entry for "Beregost_House08_L2" in cmpvars.tpa.
+
 Version 6.0:
 -fixed install errors for BG:TotSC (components "Eltan's Spare Minute" and "Scar's Return")
 -"Necromancer's Trouble": Trevor will not be doubled inside the FF HQ and outside with Miss Thirsty; mourning mom can be mentioned to Dilos inside the FF HQ, too; new reply options and one extra for shaman PCs.

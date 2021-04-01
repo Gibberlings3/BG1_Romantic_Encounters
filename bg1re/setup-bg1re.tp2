@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~6.0~ 
+VERSION ~7.0~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -176,6 +176,7 @@ END
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
     OUTER_SPRINT ~GARRICK_KICKOUT_STATE~ ~0~
     OUTER_SPRINT ~GARRICK_POST_KICKOUT~ ~_GARRIP~
+    OUTER_SPRINT ~GARRICK_KICKOUT_STATE_2~ ~0~
 
   END 
 
@@ -231,6 +232,7 @@ END
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
     OUTER_SPRINT ~GARRICK_KICKOUT_STATE~ ~0~
     OUTER_SPRINT ~GARRICK_POST_KICKOUT~ ~GARRIP~
+    OUTER_SPRINT ~GARRICK_KICKOUT_STATE_2~ ~2~
   END 
 
 
@@ -300,6 +302,7 @@ END
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
     OUTER_SPRINT ~GARRICK_KICKOUT_STATE~ ~1~
     OUTER_SPRINT ~GARRICK_POST_KICKOUT~ ~GARRIJ~
+    OUTER_SPRINT ~GARRICK_KICKOUT_STATE_2~ ~2~
 
     ACTION_IF GAME_IS ~totsc~ THEN BEGIN
       INCLUDE ~bg1re/lib/rr_totsc_addvars.tpa~
@@ -365,6 +368,7 @@ END
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
     OUTER_SPRINT ~GARRICK_KICKOUT_STATE~ ~0~
     OUTER_SPRINT ~GARRICK_POST_KICKOUT~ ~GARRIP~
+    OUTER_SPRINT ~GARRICK_KICKOUT_STATE_2~ ~2~
 
   END
 
@@ -412,6 +416,7 @@ END
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
     OUTER_SPRINT ~GARRICK_KICKOUT_STATE~ ~0~
     OUTER_SPRINT ~GARRICK_POST_KICKOUT~ ~GARRIP~
+    OUTER_SPRINT ~GARRICK_KICKOUT_STATE_2~ ~2~
 
   END
 
@@ -769,6 +774,9 @@ LANGUAGE ~Francais (Partial Translation, still Components in English)~
 BEGIN @99181 /* ~Teen Version and Skip Components with Warnings.~ */DESIGNATED 100 
   SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
+  FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
+  FORBID_COMPONENT ~EET_end.tp2~ ~1~ @99187
+
     COPY ~bg1re/install/component.xx~ ~override/RE1_Installed.G3~
   /* Install Teen Version */
     PRINT @8 /* ~Teen version selected.~ */
@@ -779,6 +787,9 @@ BEGIN @99181 /* ~Teen Version and Skip Components with Warnings.~ */DESIGNATED 1
 BEGIN @99182 /* ~Teen Version and Show/Install all Components with Warnings.~ */ DESIGNATED 101 
   SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
+  FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
+  FORBID_COMPONENT ~EET_end.tp2~ ~1~ @99187
+
     COPY ~bg1re/install/component.xx~ ~override/RE1_Installed.G3~
   /* Install Teen Version */
     PRINT @8 /* ~Teen version selected.~ */
@@ -789,6 +800,9 @@ BEGIN @99182 /* ~Teen Version and Show/Install all Components with Warnings.~ */
 BEGIN @99183 /* ~BG-style Version [Adult content] and Skip Components with Warnings.~ */ DESIGNATED 102 
   SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
+  FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
+  FORBID_COMPONENT ~EET_end.tp2~ ~1~ @99187
+
     COPY ~bg1re/install/component.xx~ ~override/RE1_Installed.G3~ 
   /* ~Install BG-style Version [Adult content] */
     ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
@@ -805,6 +819,9 @@ BEGIN @99183 /* ~BG-style Version [Adult content] and Skip Components with Warni
 BEGIN @99184 /* ~BG-style Version [Adult content] and Show/Install all Components with Warnings.~ */ DESIGNATED 103 
   SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
+  FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
+  FORBID_COMPONENT ~EET_end.tp2~ ~1~ @99187
+
     COPY ~bg1re/install/component.xx~ ~override/RE1_Installed.G3~
   /* ~Install BG-style Version [Adult content] */
     ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
@@ -823,6 +840,9 @@ BEGIN @99184 /* ~BG-style Version [Adult content] and Show/Install all Component
 BEGIN @99185 /* ~Descriptive Version [Adult content] and Skip Components with Warnings.~ */ DESIGNATED 104 
 SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
+  FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
+  FORBID_COMPONENT ~EET_end.tp2~ ~1~ @99187
+
   COPY ~bg1re/install/component.xx~ ~override/RE1_Installed.G3~
   /* Descriptive Version [Adult content] */
   ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
@@ -842,6 +862,9 @@ SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~
 BEGIN @99186 /* ~Descriptive Version [Adult content] and Show/Install all Components with Warnings.~ */ DESIGNATED 105 
 SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
+  FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
+  FORBID_COMPONENT ~EET_end.tp2~ ~1~ @99187
+
   COPY ~bg1re/install/component.xx~ ~override/RE1_Installed.G3~
   /* Descriptive Version [Adult content] */
   ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
@@ -1290,17 +1313,17 @@ ACTION_IF GAME_INCLUDES ~sod~ THEN BEGIN
 END
 
 /* compatibility with Transitions: need even more lines in BDELTAN.dlg so Scar's Return quest can be started after Sarevok's death. */
-ACTION_IF ((MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "60")
-OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "61")
-OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "62")) THEN BEGIN 
+ACTION_IF ((MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "70")
+OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "71")
+OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "72")) THEN BEGIN 
 
-// Get state for BDELTAN %bdeltan_2054% 
+// Get state for BDELTAN %deltan_2054% 
 /* ~Hello again, <CHARNAME>.  Have you changed your mind?~ */
-OUTER_SET bdeltan_2054 = STATE_WHICH_SAYS 2054 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~BDELTAN~
+OUTER_SET deltan_2054 = STATE_WHICH_SAYS 2054 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~DELTAN~
 
-// Get state for BDELTAN %bdeltan_2057% 
+// Get state for BDELTAN %deltan_2057% 
 /* ~Greetings, <GABBER>.  It's a pleasure to see you again.~ */
-OUTER_SET bdeltan_2057 = STATE_WHICH_SAYS 2057 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~BDELTAN~
+OUTER_SET deltan_2057 = STATE_WHICH_SAYS 2057 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~DELTAN~
 
 COMPILE EVALUATE_BUFFER ~bg1re/eltan/c#eltan_transition_add.d~
 	 USING ~bg1re/tra/autotra/%LANGUAGE%/c#eltan.tra~
@@ -3344,7 +3367,7 @@ REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem -
 
 ADD_JOURNAL TITLE (@230) @39 @57 @81 @93 USING ~bg1re/tra/autotra/%LANGUAGE%/c#_thalantyr.tra~
 
-ADD_JOURNAL TITLE (@417) @270 @275 @277 @282 @283 @292 @293 @307 @324 @328 @380 USING ~bg1re/tra/autotra/%LANGUAGE%/c#_thalantyr.tra~
+ADD_JOURNAL TITLE (@417) @270 @275 @282 @283 @292 @293 @307 @324 @328 @380 USING ~bg1re/tra/autotra/%LANGUAGE%/c#_thalantyr.tra~
 
 ADD_JOURNAL TITLE (@418) @235 @255 USING ~bg1re/tra/autotra/%LANGUAGE%/c#_thalantyr.tra~
 
@@ -3360,11 +3383,17 @@ WRITE_EVALUATED_ASCII 0x2cc ~C#LCTHAL~ #8
 
 
 /* areas */
-COPY ~bg1re/areas/c#thal~ ~Override~
-
-ACTION_IF GAME_IS ~bg1 totsc tutu tutu_totsc bgee eet~ THEN BEGIN
-
-   COMPILE EVALUATE_BUFFER ~bg1re/thalantyr/c#_thalantyr.d~
+ACTION_IF NOT FILE_EXISTS_IN_GAME ~c#thal.are~ THEN BEGIN
+  COPY ~bg1re/areas/c#thal/areafiles~ ~Override~
+  ACTION_IF GAME_IS ~bg1 totsc tutu tutu_totsc bgt~ THEN BEGIN
+    COPY ~bg1re/areas/c#thal/tis_bg2~ ~Override~
+  END
+  ACTION_IF GAME_IS ~bgee eet~ THEN BEGIN
+    COPY ~bg1re/areas/c#thal/tis_ee~ ~Override~
+  END
+  ACTION_IF GAME_IS ~bg1 totsc tutu tutu_totsc bgee eet~ THEN BEGIN
+    COMPILE EVALUATE_BUFFER ~bg1re/thalantyr/c#_thalantyr.d~
+  END
 END
 
 

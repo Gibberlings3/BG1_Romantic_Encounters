@@ -48,8 +48,14 @@ SAY @236
 
 + ~!Global("C#LC_ThalantyrAsked","GLOBAL",11) PartyHasItem("c#lcthiv")~ + @239 + mehmel_04
 + ~Global("C#LC_ThalantyrAsked","GLOBAL",11) PartyHasItem("c#lcthiv")~ + @240 + mehmel_07
-+ ~Global("C#LC_ThalantyrAsked","GLOBAL",11) !PartyHasItem("c#lcthiv") !Global("C#LC_ThalanChesspieces","GLOBAL",3) !Global("C#LC_ThalanChesspieces","GLOBAL",7)~ + @241 + mehmel_07
-+ ~Global("C#LC_ThalantyrAsked","GLOBAL",11) !PartyHasItem("c#lcthiv") Global("C#LC_ThalanChesspieces","GLOBAL",3)~ + @242 + mehmel_08
++ ~Global("C#LC_ThalantyrAsked","GLOBAL",11) !PartyHasItem("c#lcthiv") 
+!Global("C#LC_ThalanChesspieces","GLOBAL",3) 
+!Global("C#LC_ThalanChesspieces","GLOBAL",4)
+!Global("C#LC_ThalanChesspieces","GLOBAL",5)
+!Global("C#LC_ThalanChesspieces","GLOBAL",6)
+!Global("C#LC_ThalanChesspieces","GLOBAL",7)~ + @241 + mehmel_07
++ ~Global("C#LC_ThalantyrAsked","GLOBAL",11) !PartyHasItem("c#lcthiv") 
+Global("C#LC_ThalanChesspieces","GLOBAL",3)~ + @242 + mehmel_08
 
 + ~PartyGoldGT(199) Global("C#LC_ThalanChesspieces","GLOBAL",4) PartyHasItem("c#lcthiv")~ + @243 + mehmel_11
 + ~PartyGoldGT(349) Global("C#LC_ThalanChesspieces","GLOBAL",5) PartyHasItem("c#lcthiv")~ + @243 + mehmel_11
@@ -87,7 +93,7 @@ END
 
 IF ~~ THEN mehmel_06
 SAY @254
-IF ~~ THEN DO ~TakePartyItem("c#lcthiv") GiveGoldForce(150) SetGlobal("C#LC_ThalanChesspieces","GLOBAL",3) %ERASEJOURNALENTRY_235%~ %SOLVED_JOURNAL% @255 EXIT
+IF ~~ THEN DO ~ActionOverride("C#LCTH01",TakePartyItem("c#lcthiv")) GiveGoldForce(150) SetGlobal("C#LC_ThalanChesspieces","GLOBAL",3) %ERASEJOURNALENTRY_235%~ %SOLVED_JOURNAL% @255 EXIT
 END
 
 IF ~~ THEN mehmel_07
@@ -149,18 +155,23 @@ END
 
 IF ~~ THEN mehmel_11
 SAY @276
-IF ~Global("C#LC_ThalanChesspieces","GLOBAL",4)~ THEN DO ~TakePartyGold(200) TakePartyItem("c#lcthiv") DestroyItem("c#lcthiv") SetGlobal("C#LC_ThalanChesspieces","GLOBAL",6) 
+IF ~Global("C#LC_ThalanChesspieces","GLOBAL",4)~ THEN DO ~
+ActionOverride("C#LCTH01",TakePartyGold(200)) 
+ActionOverride("C#LCTH01",TakePartyItem("c#lcthiv")) 
+ActionOverride("C#LCTH01",DestroyItem("c#lcthiv")) SetGlobal("C#LC_ThalanChesspieces","GLOBAL",6) 
 
 %ERASEJOURNALENTRY_235%
 %ERASEJOURNALENTRY_270%
 
-SetGlobalTimer("C#LC_ThalanChesspiecesTimer","GLOBAL",ONE_DAY)~ %UNSOLVED_JOURNAL% @277 EXIT
-IF ~!Global("C#LC_ThalanChesspieces","GLOBAL",4)~ THEN DO ~TakePartyGold(350) TakePartyItem("c#lcthiv") DestroyItem("c#lcthiv") SetGlobal("C#LC_ThalanChesspieces","GLOBAL",6) 
+SetGlobalTimer("C#LC_ThalanChesspiecesTimer","GLOBAL",ONE_DAY)~ %UNSOLVED_JOURNAL% @282 EXIT
+IF ~!Global("C#LC_ThalanChesspieces","GLOBAL",4)~ THEN DO ~ActionOverride("C#LCTH01",TakePartyGold(350)) 
+ActionOverride("C#LCTH01",TakePartyItem("c#lcthiv")) 
+ActionOverride("C#LCTH01",DestroyItem("c#lcthiv")) SetGlobal("C#LC_ThalanChesspieces","GLOBAL",6) 
 %ERASEJOURNALENTRY_255%
 %ERASEJOURNALENTRY_235%
 %ERASEJOURNALENTRY_275%
 
-SetGlobalTimer("C#LC_ThalanChesspiecesTimer","GLOBAL",ONE_DAY)~ %UNSOLVED_JOURNAL% @277 EXIT
+SetGlobalTimer("C#LC_ThalanChesspiecesTimer","GLOBAL",ONE_DAY)~ %UNSOLVED_JOURNAL% @282 EXIT
 END
 
 IF ~~ THEN mehmel_12
@@ -295,8 +306,8 @@ END
 IF ~~ THEN thalan_chess_08
 SAY @323
 IF ~~ THEN DO ~GiveGoldForce(500) 
-TakePartyItem("c#lcthke")
-DestroyItem("c#lcthke")
+ActionOverride("Thalantyr",TakePartyItem("c#lcthke"))
+ActionOverride("Thalantyr",DestroyItem("c#lcthke"))
 SetGlobal("C#LC_ThalantyrAsked","GLOBAL",12) %ERASEJOURNALENTRY_307%
 %ERASEJOURNALENTRY_283%~ %SOLVED_JOURNAL% @324 EXIT
 END
@@ -313,7 +324,10 @@ END
 
 IF ~~ THEN thalan_chess_10
 SAY @327
-IF ~~ THEN DO ~SetGlobal("C#LC_ThalantyrAsked","GLOBAL",16) SetGlobalTimer("C#LC_ThalantyrChessTimer","GLOBAL",ONE_DAY) TakePartyItem("c#lcthbs") DestroyItem("c#lcthbs") %ERASEJOURNALENTRY_307%
+IF ~~ THEN DO ~SetGlobal("C#LC_ThalantyrAsked","GLOBAL",16) SetGlobalTimer("C#LC_ThalantyrChessTimer","GLOBAL",ONE_DAY) 
+ActionOverride("Thalantyr",TakePartyItem("c#lcthbs")) 
+ActionOverride("Thalantyr",DestroyItem("c#lcthbs"))
+%ERASEJOURNALENTRY_307%
 %ERASEJOURNALENTRY_283%~ %UNSOLVED_JOURNAL% @328 EXIT
 END
 
@@ -341,8 +355,8 @@ END
 
 IF ~~ THEN thalan_chess_14
 SAY @340
-IF ~~ THEN DO ~TakePartyItem("c#lcthke")
-DestroyItem("c#lcthke")
+IF ~~ THEN DO ~ActionOverride("Thalantyr",TakePartyItem("c#lcthke"))
+ActionOverride("Thalantyr",DestroyItem("c#lcthke"))
 SetGlobal("C#LC_ThalantyrAsked","GLOBAL",13) 
 	ClearAllActions()
       StartCutSceneMode()
@@ -636,8 +650,8 @@ IF ~~ THEN thalan_noober_02
 SAY @394
 ++ @395 + thalan_noober_04
 ++ @396 + thalan_noober_04
-//+ ~[Noober quest-Noober ill or quest solved]~ + ~Yes, I can imagine. They even threw him into the cold river only recently.~ + thalan_noober_04
-//+ ~[Noober quest-Noober quest solved]~ + ~I hope that won't happen again. He found a place where he can stay and is respected, I think. At least for a while.~ + thalan_noober_03
++ ~GlobalGT("C#LCNOOB_Quest","GLOBAL",1)~ + @421 /* ~Yes, I can imagine. They even threw him into the cold river only recently.~ */ + thalan_noober_04
++ ~GlobalGT("C#LCNOOB_Quest","GLOBAL",5)~ + @422 /* ~I hope that won't happen again. He found a place where he can stay and is respected, I think. At least for a while.~ */ + thalan_noober_03
 ++ @368 + game_over_01
 ++ @374 + chess_goodbye
 END

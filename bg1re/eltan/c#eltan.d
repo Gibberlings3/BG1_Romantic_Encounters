@@ -4,8 +4,8 @@ it would appear after PC brought poisoned Eltan to the harbourmaster.
 
 Global("EltanMove","GLOBAL",2)*/
 
-INTERJECT %tutu_var%%ELTANDLG_HARBORMASTER% %ELTANDLG_STATE% c#lc_eltan
-== %tutu_var%%ELTANDLG_HARBORMASTER% IF ~Global("EltanMove","GLOBAL",2)~ THEN @0
+INTERJECT %ELTANDLG_HARBORMASTER% %ELTANDLG_STATE% c#lc_eltan
+== %ELTANDLG_HARBORMASTER% IF ~Global("EltanMove","GLOBAL",2)~ THEN @0
 END
 + ~PartyHasItem("c#re1sr5")~ + @1 DO ~TakePartyItem("c#re1sr5") SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_06
 + ~PartyHasItem("c#re1sr6")~ + @2 DO ~TakePartyItem("c#re1sr6") SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_06_receit
@@ -15,7 +15,7 @@ END
 ++ @6 DO ~SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan
 ++ @7 DO ~SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_01
 
-APPEND %tutu_var%%ELTANDLG_HARBORMASTER%
+APPEND %ELTANDLG_HARBORMASTER%
 
 IF ~~ THEN eltan
 SAY @8
@@ -70,7 +70,7 @@ END
 
 IF ~~ THEN eltan_01
 SAY @21
-COPY_TRANS %tutu_var%%ELTANDLG_HARBORMASTER% %ELTANDLG_STATE%
+COPY_TRANS %ELTANDLG_HARBORMASTER% %ELTANDLG_STATE%
 END
 
 IF ~~ THEN eltan_02
