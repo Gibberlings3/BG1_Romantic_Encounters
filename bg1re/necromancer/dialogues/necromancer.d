@@ -528,13 +528,13 @@ END
 
 IF ~~ THEN extra_02
 SAY @446
-IF ~~ THEN + necro_15_1
+IF ~~ THEN DO ~SetGlobal("C#Q11_Necroquest","GLOBAL",6)~ + necro_15_1
 END
 
 IF ~~ THEN extra_03
 SAY @447
 = @448
-IF ~~ THEN + necro_15_1
+IF ~~ THEN DO ~SetGlobal("C#Q11_Necroquest","GLOBAL",6)~ + necro_15_1
 END
 
 
