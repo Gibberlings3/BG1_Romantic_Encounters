@@ -737,7 +737,7 @@ EXIT
 */
 
 CHAIN // Global of 3 equals Girdle has come off
-IF ~Global("RE1_GirdleGenderSkie","GLOBAL",3)~ THEN ~%SKIE_JOINED%~ SkieGender3x00
+IF WEIGHT #-1 ~Global("RE1_GirdleGenderSkie","GLOBAL",3)~ THEN ~%SKIE_JOINED%~ SkieGender3x00
 @270
 END
 IF~~THEN REPLY @271 EXTERN ~%SKIE_JOINED%~ SkieGender3x01
