@@ -454,3 +454,8 @@ J'ai joué aux échecs avec le maître mage Thalantyr !~
 @418  = ~L'artiste menuisier~
 @419  = ~Pas vraiment. Si vous lisez entre les lignes, je vous ai plutôt considéré comme un idiot.~ ~Pas vraiment. Si vous lisez entre les lignes, je vous ai plutôt considéré comme une idiote.~
 @420  = ~Mais vous devez comprendre que je ne veux pas que cette pièce fasse de moi votre débiteur. C'est pour cela que je vous offre de l'or en échange.~
+
+
+/* new for v7 */
+@421  = ~Yes, I can imagine. They even threw him into the cold river only recently.~
+@422  = ~I hope that won't happen again. He found a place where he can stay and is respected, I think. At least for a while.~
