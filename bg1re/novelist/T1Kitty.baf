@@ -18,6 +18,7 @@ END
 IF
 	Detect(Player1)
 	Global("RE1_KDMeet","GLOBAL",5)
+	!Global("RE1_KDMeet_AfterSarevok","GLOBAL",1)
 THEN
 	RESPONSE #100
         %STARTDIALOGNOSET%(Player1)

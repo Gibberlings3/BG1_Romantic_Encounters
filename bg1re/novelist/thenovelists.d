@@ -817,7 +817,9 @@ CHAIN ~T1KITTY~ kdthievesexit
 == ~T1DAI~ IF ~!Dead("Sarevok")~ THEN @291
 END
 IF ~~ THEN DO ~SetGlobal("RE1_KDMeet_AfterSarevok","GLOBAL",1)~ EXIT
-IF ~Dead("Sarevok")~ THEN DO ~ActionOverride("T1KITTY",EscapeArea()) EscapeArea()~ EXIT
+IF ~OR(2)
+Global("RE1_KDMeet","GLOBAL",7)
+Dead("Sarevok")~ THEN DO ~ActionOverride("T1KITTY",EscapeArea()) EscapeArea()~ EXIT
 
 
 
