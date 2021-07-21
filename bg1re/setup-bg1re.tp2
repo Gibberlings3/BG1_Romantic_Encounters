@@ -765,6 +765,9 @@ LANGUAGE ~Francais (Partial Translation, still Components in English)~
 //	~bg1re/tra/french/setup.tra~ ~bg1re/tra/french/setup_game.tra~
          ~bg1re/tra/english/setup.tra~ ~bg1re/tra/english/setup_game.tra~
 
+LANGUAGE ~Russian (Staylos, Apxu & Arcanecoast Team)~
+         ~Russian~
+	~bg1re/tra/Russian/setup.tra~ ~bg1re/tra/Russian/setup_game.tra~
 
 /* First component: required */
 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
