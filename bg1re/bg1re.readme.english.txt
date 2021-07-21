@@ -497,7 +497,7 @@ PC restrictions: No restrictions
 
 Love can hurt. Passion may curse. Envy may cause more suffering than any other sin. There's a very small, sometimes even invisible, line that separates love, commitment, and grief. There was a woman who once experienced each of these. All women and men have their limits, though. Many saw her fall and there was one who cursed her, who turned her into a pathetic being, lonely and mad.
 
-This component is a small mini-quest that shows exactly what Centeol felt before her fate was done. It also lets the player order a specal poem to make sure she won't be forgotten.
+This component is a small mini-quest that shows exactly what Centeol felt before her fate was done. It also lets the player order a special poem to make sure she won't be forgotten.
 
 
 
@@ -1342,6 +1342,7 @@ Vanguard: beta tester
 
 German translations: Gerri, jastey. 
 French translations by les d'Oghmatiques : Le Marquis, Zooloo, Shaywen, Galathée, Lothringen, Jazira. Proofreadings by Graoumf.
+Russian translations: Staylos, Apxu & Arcanecoast Team.
 
 ----------------
 XI. Tools Used
@@ -1372,6 +1373,11 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 8.0:
+-Russian version Staylos, Apxu & Arcanecoast Team, by Staylos, Apxu & Arcanecoast Team added
+-patching of Sil to make removing of turning hostile more stable
+-Kitty should not vanish after Sarevok's death before PC finished the encounter
 
 Version 7.0:
 -"Dinner with Thalantyr": Thalantyr's private quarters is now area art from Lava! (Same as in SotSC); PC should not be able to ask carpenter about chess piece a second time, journal entry shold be removed correctly; added references to bgqe "Warm Place for Noober" quest.
