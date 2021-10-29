@@ -1376,7 +1376,8 @@ XII. History
 
 Version 9.0:
 -French version completed, by les d'Oghmatiques (Le Marquis, Galathée, Lothringen, Shaywen, Zooloo) and Jazira ; proofreading par Graoumf.
--updated install order data (added Brage's Redemption)
+-updated install order data (added Brage's Redemption).
+-added globally unique LABELs to support Project Infinity.
 
 Version 8.1:
 -corrected version number in tp2
