@@ -760,10 +760,9 @@ LANGUAGE ~Deutsch (Teildeutsche Version, der Rest ist in Englisch)~
          ~german~
 	~bg1re/tra/german/setup.tra~ ~bg1re/tra/german/setup_game.tra~
 
-LANGUAGE ~Francais (Partial Translation, still Components in English)~
+LANGUAGE ~Francais (traduction par les d'Oghmatiques)~
          ~francais~
-//	~bg1re/tra/french/setup.tra~ ~bg1re/tra/french/setup_game.tra~
-         ~bg1re/tra/english/setup.tra~ ~bg1re/tra/english/setup_game.tra~
+         ~bg1re/tra/francais/setup.tra~ ~bg1re/tra/francais/setup_game.tra~
 
 LANGUAGE ~Russian (Staylos, Apxu & Arcanecoast Team)~
          ~Russian~

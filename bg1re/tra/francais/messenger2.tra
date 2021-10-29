@@ -1,0 +1,344 @@
+@0    = ~Hé. (respiration sifflante)~
+@1    = ~Z'auriez pas (respiration sifflante) une pipe et du tabac par hasard ?~
+@2    = ~Peut-être pourrais-je d'abord faire quelque chose pour vos blessures béantes ?~
+@3    = ~Désolé mon gars, je ne fume pas. Ce truc-là vous tuera.~
+@4    = ~J'avais l'intention de piller votre cadavre dès votre dernier soubresaut mais d'accord, voilà pour vous.~
+@5    = ~C'est exactement ce que je souhaitais. (respiration sifflante) Je ne voulais pas avoir l'air trop direct.~
+@6    = ~J'ai entendu dire que ça limite la croissance.~
+@7    = ~Tu es un sacré numéro...~
+@8    = ~Eh...~
+@9    = ~J'ai pris un mauvais coup quand les bandits ont attaqué les chariots. La dernière chose que j'ai vue (respiration sifflante), c'était Eddy en train de les repousser et moi pendant ce temps... je suppose que j'ai dû me traîner pour aller crever dans un coin. Bon petit gars. Un fils de noble. Son blason est un bouclier d'argent. Il m'a donné une lettre.~
+@10   = ~Vous avez vu mon frère ?~
+@11   = ~Le fils Ecudargent est dans le coin ? *Enfin*.~
+@12   = ~Je suis sure qu'il était en train de terrasser ces salopards de bandits. Il doit être quelque part par là...~
+@13   = ~Alors tu dois être la petite Skie, gamine. Aussi jolie qu'il le disait.~
+@14   = ~(sanglot)~
+@15   = ~(tousse) Quelle manière merdique de quitter la scène pour un Long-marcheur. (tousse) Pas comme ça. Pas avec ma sacoche pleine...~
+@16   = ~Avant de parler de mourir, je peux jeter un coup d'oeil à vos blessures.~
+@17   = ~Avant de parler de mourir, nous pouvons jeter un coup d'oeil à vos blessures.~
+@18   = ~Bois une gorgée d'eau, mon pote.~
+@19   = ~T'aurais pas un truc plus fort ? *tousse et hoquette* Ouais, ce serait cool...~
+@20   = ~J'aimerais qu'une superbe jeune fille m'éponge le front. Ouais, ce serait cool...~
+@21   = ~... Alors chirurgien, est-ce que je rejouerai un jour du luth-dragon à vapeur ?~ ~... Alors chirurgienne, est-ce que je rejouerai un jour du luth-dragon à vapeur ?~
+@22   = ~Même le plus puissant des guerriers voit sa dernière heure arriver un jour, mon petit ami...~
+@23   = ~Cela dépasse mes capacités, mon jeune ami. Désolé.~
+@24   = ~Par chez moi cela fait longtemps que nous lui aurions tranché la gorge et continué notre route. Nous perdons notre temps ici, aucun intérêt.~
+@25   = ~(tousse)~
+@26   = ~Eh bien mon gars, vous ne danserez plus jamais la farandole.~
+@27   = ~Cela me paraît peu probable, j'en ai bien peur.~
+@28   = ~Mes entrailles sont de sortie ?~
+@29   = ~Vous risquez de sentir des courants d'air.~
+@30   = ~Et c'est rien de le dire.~
+@31   = ~Et cela vous fait rire ? Mais comment est-ce possible ?~
+@32   = ~D'un bout à l'autre ?  Hé hé hé, tu m'as fait la journée. (tousse)~
+@33   = ~Euh... merci ?~
+@34   = ~On s'amuse comme on peut, hein.~
+@35   = ~Je suis arrivé au bout de ma route alors, n'est-ce pas ? (respiration sifflante)~
+@36   = ~Il arrive p-p-parfois... que l'on arrive un p-p-peu t-t-trop tard, <CHARNAME>, et alors il faut laisser t-t-tomber.  Cela arrive...~
+@37   = ~Et ne fais pas la stupidité de traîner ma carcasse dans un temple et de jeter par les fenêtres de l'argent qui serait bien plus utile à la veuve et l'orphelin. "On n'a qu'une seule vie" a toujours été ma règle d'or.~
+@38   = ~Mais il faut *à tout prix* que tu fasses quelque chose pour moi.~
+@39   = ~Je m'appelle Bartleby. Bartleby Piedleste, membre éminent de la Guilde des Messagers Longs-marcheurs.~
+@40   = ~Ni la pluie, ni la neige, ni la noirceur de la nuit ne peuvent nous empêcher d'accomplir notre tache. Sauf ces foutus bandits.~
+@41   = ~Prends ma sacoche. Livre le courrier. Mission sacrée, hein ? Ca me tuerait de ne pas pouvoir terminer mon dernier boulot...~
+@42   = ~...~
+@43   = ~Hé.~
+@44   = ~Hiii ! Un fantôme !!~
+@45   = ~Comment va la vie en ce moment, Bartleby ?~
+@46   = ~Quoi de neuf ? Du boulot en ce moment ?~
+@47   = ~Vous vous moquez de moi, hein ?~
+@48   = ~Eh bien, déjà je suis mort...~
+@49   = ~Hé. Sans blaguer, vous avez fait du bon boulot. Toutes mes lettres arrivées chez leur destinataire. Cela me réchauffe le coeur, oh oui.~
+@50   = ~Ce fut facile ; mon destin est de patauger dans la boue dans toute la Côte des Epées, de toute façon.~
+@51   = ~Je suis heureux d'avoir pu honorer votre dernière volonté.~ ~Je suis heureuse d'avoir pu honorer votre dernière volonté.~
+@52   = ~Ce n'est pas pour vous que je l'ai fait. Je voulais extorquer un peu d'argent de poche aux destinataires. Et le résultat a été carrément décevant.~
+@53   = ~Quelles que soient vos raisons, vous m'avez bien sorti du pétrin.~
+@54   = ~Merci beaucoup <CHARNAME>, enfant de Gorion.~
+@55   = ~D'où savez-vous mon nom ? (Même si j'ai l'impression que je vais regretter de l'avoir demandé.)~
+@56   = ~Vous êtes bien informé, pour un fantôme.~
+@57   = ~D'accord, d'accord, où voulez-vous en venir ?~
+@58   = ~Ton ombre commence à s'étendre pas mal sur les Royaumes.~
+@59   = ~J'en ai peut-être déjà trop dit, ma belle. Mais tu m'as rendu un fier service et nous, petites-personnes trépassées, savons récompenser ceux qui nous aident. Attendez une minute.~
+@60   = ~J'en ai peut-être déjà trop dit, mon gars. Mais tu m'as rendu un fier service et nous, petites-personnes trépassées, savons récompenser ceux qui nous aident. Attendez une minute.~
+@61   = ~Mais qu'êtes-vous en train de...~
+@62   = ~J'ai des fourmillements...~
+@63   = ~Si vous me touchez je mettrai fin à ce qu'il vous reste d'existence, fantôme !~
+@64   = ~Mince. Quelque peu susceptible ?~
+@65   = ~Toutes ces petites vies qui grouillent. Tous leurs malheurs, leurs joies et leurs ennuyeuses petites transactions d'affaires. Des gouttes d'eau dans un seau. Des gouttes d'eau dans l'océan, <CHARNAME>, et pourtant leurs marées nous emportent. Souvenez-vous en lorsque vous monterez sur le trône. Oups, là j'en ai vraiment trop d...~
+@66   = ~Si vous êtes Erable Saule Tremblotte alors j'ai une lettre pour vous, mais vous risquez de ne pas aimer...~
+@67   = ~Qu'est-ce que ceci ? Oh...~
+@68   = ~Vous vous moquez de moi ? Et en plus vous le faites maintenant aussi EN PROSE ?~
+@69   = ~Moi ? Jamais ! Je ne suis que le messager. Et puis calmez-vous, je ne suis pas dur de la feuille !~ ~Moi ? Jamais ! Je ne suis que la messagère. Et puis calmez-vous, je ne suis pas dure de la feuille !~
+@70   = ~Je crois qu'il vaudrait mieux que je file discrètement avant de prendre une volée de bois vert, hum...~
+@71   = ~Hé, je n'en suis pas l'auteur. Dites madame, tant qu'on y est, pourriez-vous m'indiquer le chemin ? Je viens ici pour la première fois.~
+@72   = ~Avant d'en parler... J'ai une lettre pour vous.~
+@73   = ~(s'étouffe) Une lettre de la Dame en Rouge !~
+@74   = ~Elle a remarqué que j'ai changé ma musique pour mieux coller à l'ambiance lorsque la bagarre a éclaté ! Lorsqu'elle a balancé ce berserk par la fenêtre et a sauté ensuite, après avoir crié qu'elle nous le ferait payer à tous, j'ai bien cru que je ne la reverrais jamais, oh que non.~
+@75   = ~Je suis heureux qu'elle aille bien.~ ~Je suis heureuse qu'elle aille bien.~
+@76   = ~Qu'en est-il de cet anneau ?~
+@77   = ~Il a dû se perdre pendant le trajet.~
+@78   = ~Le voici, mon cher.~
+@79   = ~On ne peut absolument plus faire confiance au courrier de nos jours. Nous devrions faire quelque chose à ce sujet. Ce serait une véritable aventure !~
+@80   = ~Oh la la, il est vraiment beau. Comme une goutte de sang tout droit sortie d'un coeur. Je vais le ranger dans un endroit sûr...~
+@81   = ~Alors, que dites-vous de ma proposition ? Protéger ma maîtresse !~
+@82   = ~Alors puis-je vous rejoindre ? Le puis-je ? Hein ? Je sais que je peux vous être utile !~
+@83   = ~Oh oui, c'est la belle saison pour l'aventure. Les oiseaux chantent, les fleurs sortent de terre... il n'y a pas trop de boue...~ [GARRK17]
+@84   = ~... je suis en superbe compagnie...~
+@85   = ~Oh, merci Garrick.~
+@86   = ~Ah, il me donne des haut-le-coeur.~
+@87   = ~Ferme-la Eldoth, personne ne t'aime.~
+@88   = ~(soupir)~
+@89   = ~Eh bien Garrick, ne sommes-nous donc pas dignes d'entendre l'une de tes ballades ?~
+@90   = ~Je dois admettre que dans la vraie vie d'aventurier, les odyssées excitantes s'effacent souvent devant les longues marches épuisantes.~
+@91   = ~Des regrets, mon petit barde ?~
+@92   = ~Non, c'est super ! C'est juste que... mon ancien public me manque déjà.~
+@93   = ~J'avais déjà des spectateurs fidèles à l'époque où je jouais avec Silke au Magicien Ardent. Il y avait ce mercenaire demi-orque qui aimait le vin de pomme et savait éructer les huit premières mesures de "Sunshine Nancy", et les jumeaux Hobson qui me complimentaient à chaque fois pour mes parties instrumentales ; oh, et cette tempétueuse petite elfe en armure de cuir cramoisie qui cassait des objets au rythme de ma musique, sauf qu'elle n'est restée qu'un seul soir donc c'est difficile de la qualifier d'habituée...~
+@94   = ~En parlant de public, je crois que j'ai récupéré une lettre de fan pour toi.~
+@95   = ~Oh tiens, j'ai trouvé un bout de papier avec ton nom dessus.~
+@96   = ~Ou peut-être irai-je à l'est admirer la Dame en Rouge...~
+@97   = ~Es-tu allé voir ta Dame Ecarlate ? C'était quoi déjà son surnom... "la bouchère" ?~
+@98   = ~Oh... elle.~
+@99   = ~Oui... je l'ai vue.~
+@100  = ~Mais on dirait qu'il commence à faire chaud ? En tout cas j'ai chaud, pas vous ? Allez, en route - ce n'est pas que je change de sujet ou quoi que ce soit... alors on y va ?~
+@101  = ~Non car j'en aime une autre, je ne voudrais pas ennuyer cette Dame en lui parlant négligemment d'une autre. Tout comme un navire en mer ne suit qu'une seule étoile. Tout comme la fleur n'aime qu'une seule abeille, je me languis, désespérément fidèle...~
+@102  = ~Sommes-nous prêts à repartir à l'aventure ?~
+@103  = ~J'ai une lettre pour une certaine Nesiara Rille, qui habite dans le coin.~
+@104  = ~C'est moi ! "Nesiara" officiellement et "Nessie" dans la vie de tous les jours. Oh la la, une lettre de Petronius !~
+@105  = ~Voyons. La lettre dit que mon chéri part pour la tour de Durlag !~
+@106  = ~Vraiment ?~
+@107  = ~Je ne dis pas que j'ai lu votre correspondance privée, mais c'est bien possible.~
+@108  = ~Construite par Durlag le tueur de trolls ?~
+@109  = ~Qui est ce Durlag ?~
+@110  = ~Vous insinuez que c'est une mauvaise idée ?~
+@111  = ~Durlag, tueur de multiples dragons et rendu fou par la perte des siens, a reconstruit cette tour, l'a amoureusement transformée centimètre par centimètre en un vicieux piège mortel et l'a remplie de bibelots brillants pour appâter les imbéciles, génération après génération.~
+@112  = ~Eh bien...~
+@113  = ~On dirait bien, mademoiselle.~
+@114  = ~Je ne vois aucun problème avec son plan ! Oh, j'espère qu'il me ramènera des rubis. J'adore les beaux rubis.~
+@115  = ~Et un fiancé de moins, je présume...~
+@116  = ~Dites, vous avez l'air d'être un gars assez prometteur. Avez-vous déjà songé à vous fixer quelque part tant que tous les membres de votre corps sont encore opérationnels ?~
+@117  = ~Euh Nessie, vous avez l'air sympa mais, euh...~
+@118  = ~Pour sûr ! Dès que j'aurai réglé toutes ces sales embrouilles avec les assassins, les chasseurs de primes et autres ennemis mortels invisibles, je reviendrai vous passer la bague au doigt.~
+@119  = ~Désolée. Peut-être... survivra-t-il ?~
+@120  = ~Oh la la. Eh bien je dois y aller. Vous savez ce que c'est : des gens à voir, des trucs à tuer...~
+@121  = ~Merci beaucoup de m'avoir porté cette lettre. Voici une petite compensation financière pour vos efforts, mon ami. Amusez-vous bien le reste de votre séjour ici.~ ~Merci beaucoup de m'avoir porté cette lettre. Voici une petite compensation financière pour vos efforts, mon amie. Amusez-vous bien le reste de votre séjour ici.~
+@122  = ~Je cherche une personne nommée Nesiara Rille.~
+@123  = ~Nesiara, hein ?~
+@124  = ~Vous avez l'air d'un honnête homme, mais on n'est jamais assez méfiant à notre triste époque, le type qui a fait tout ce tapage sur les escaliers peut en témoigner.~ ~Vous avez l'air d'une honnête dame, mais on n'est jamais assez méfiant à notre triste époque, le type qui a fait tout ce tapage sur les escaliers peut en témoigner.~
+@125  = ~Et pour quelle raison la cherchez-vous ?~
+@126  = ~J'ai une lettre pour elle, monsieur.~
+@127  = ~Ecoutez, j'ai un bout de papier avec son nom écrit dessus, le reste je m'en fiche.~
+@128  = ~Une lettre ?~
+@129  = ~Tout à fait. On pourrait même l'appeler une missive.~
+@130  = ~Une missive ?~
+@131  = ~Mais vous lisez dans mon esprit ! Une note, une épître, une correspondance, une dépêche, un billet-doux. J'oserais même appeler cela une... lettre !~
+@132  = ~Elle est en salle, elle débarrasse les tables.~
+@133  = ~Ah, puis-je vous aider ? Je ne vous ai pas entendu frapper, cela fait plusieurs heures que je suis concentré sur les satires d'Umm Lahab.~ ~Ah, puis-je vous aider ? Je ne vous ai pas entendue frapper, cela fait plusieurs heures que je suis concentré sur les satires d'Umm Lahab.~
+@134  = ~Monsieur, je crois que cette missive est pour vous.~
+@135  = ~Oui oui, j'ai dans ma poche une lettre pour vous ! Je vous la vends 20 pièces d'or.~
+@136  = ~Et voilà où en est le service postal de nos jours, triste époque... de vrais bandits. Voici pour vous, gamin.~ ~Et voilà où en est le service postal de nos jours, triste époque... de vrais bandits. Voici pour vous, gamine.~
+@137  = ~Qu'est-ce que ceci ? Ah, une heureuse coïncidence, je vois.  "Je ne suis pas patiente ; je ne suis pas aimable"... c'est bien vrai.  "Personnage exécrable," hé ? Ha ! J'ai mes propres yeux et en parfait état, ma chère...~
+@138  = ~"Mais", que veut-elle dire par ce "mais"...~
+@139  = ~Oh, quelle arrogance !~
+@140  = ~Je... vous prie de m'excuser. Je... j'ai besoin d'un petit moment pour reprendre mes esprits.~
+@141  = ~Une lettre pour madame la duchesse...~
+@142  = ~J'apporte de tristes nouvelles. Votre frère a trouvé la mort dans les terres juste au nord de Bérégost.~
+@143  = ~De la part de mon frère ? Et si rapidement. Je la lirai ce soir après manger.~
+@144  = ~Ah oui, un pourboire pour vous, ma bonne dame.~
+@145  = ~Ah oui, un pourboire pour vous, mon bon monsieur.~
+@146  = ~Au revoir madame.~
+@147  = ~J'ai de tristes nouvelles. Votre frère a trouvé la mort dans les terres juste au nord de Bérégost.~
+@148  = ~Si vous me donnez cette somme pour une simple lettre, quel prix pour des informations sur la mort prématurée de votre frère ?~
+@149  = ~Maintenant que je suis à l'intérieur de votre propriété, je ne peux m'empêcher de remarquer tous les objets d'art. Ils sont tellement beaux, et de grande valeur. Hum...~
+@150  = ~Vous trouverez certainement le chemin vers la sortie.~
+@151  = ~Un instant s'il vous plaît mademoiselle. Avant de parler d'autre chose, j'ai un message de votre frère.~
+@152  = ~Vous m'avez amené une lettre ? Distribuer le courrier ne ressemble pas vraiment... à de la grande aventure. Mais attendez ! Cela veut dire que je peux vous donner une récompense pour votre quête ! O Brave Aventurier, je vous remercie du fond du coeur. Prenez ce sac d'or, c'est bien peu de chose en remerciement de ce que vous m'avez apporté. (glousse)~ ~Vous m'avez amené une lettre ? Distribuer le courrier ne ressemble pas vraiment... à de la grande aventure. Mais attendez ! Cela veut dire que je peux vous donner une récompense pour votre quête ! O Brave Aventurière, je vous remercie du fond du coeur. Prenez ce sac d'or, c'est bien peu de chose en remerciement de ce que vous m'avez apporté. (glousse)~
+@153  = ~Puis-je me joindre à vous ? Je me languis de retrouver mon brave Eldoth.~
+@154  = ~Je vous amène d'autres nouvelles que cette lettre. Votre frère a trouvé la mort dans les terres juste au nord de Bérégost.~
+@155  = ~M-mort ? Eddard ?~
+@156  = ~(Chut <CHARNAME>, pas si fort. Enfin bon c'est pas mes affaires non plus.)~
+@157  = ~Qui êtes-vous pour nous interrompre, petit monsieur ? Peu importe maintenant, votre chef m'a apporté des nouvelles de mon frère.~
+@158  = ~Je suis désolé. Au vu des indices trouvés autour de sa dépouille, il est mort en héros.~
+@159  = ~Des bandits ont attaqué sa caravane. De ce que je sais, les choses n'ont pas traîné.~
+@160  = ~Ceci fait de vous l'héritière, n'est-ce pas ? Et comme par hasard il est mort très loin d'ici. Personne ne pourrait vous blâmer à ce sujet...~
+@161  = ~Comment ?~
+@162  = ~Qu'insinuez-vous ?~
+@163  = ~Juste qu'il y aura beaucoup de commérages, jeune demoiselle, et que vous aller devoir vous y préparer.~
+@164  = ~Si quelqu'un cherche à tuer les héritiers Ecudargent, vous pourriez bien être la suivante sur la liste. Vous gagneriez à faire très attention.~
+@165  = ~Je pourrais... falsifier... mon récit sur la situation dans laquelle je l'ai découvert, dans le sens qui vous arrangerait. Si vous me motivez suffisamment à le faire, bien sûr.~
+@166  = ~Evidemment que personne n'aurait l'idée de vous en blâmer Skie, ma douce et précieuse petite biche. Mon ami <CHARNAME> est simplement inquiet pour votre sécurité. (Vous êtes aussi délicat qu'un éléphant dans un magasin de porcelaine, <CHARNAME> ; *laissez-moi m'occuper de cela.*)~
+@167  = ~Oh, vous êtes horrible...~
+@168  = ~Il faut que je parte d'ici !~
+@169  = ~Oh Eldoth, serrez-moi dans vos bras. Sortez-moi de cet affreux manoir.~
+@170  = ~Chut ma fille, ma brave petite fille. Réfugiez-vous dans mes bras un moment. Les loups qui rodent autour de vous et de votre nouvel héritage devront d'abord me passer sur le corps. Je connais votre beauté intérieure, votre sagesse et votre âme innocente, je suis prêt à vous offrir ma vie pour empêcher quiconque de vous faire du mal. (Voilà comment il faut faire, <CHARNAME>. Prenez-en de la graine.)~
+@171  = ~Eldoth, je... je t'aime. Je peux me joindre à vous, alors ?~
+@172  = ~Pour sûr, gamine. De toute façon, on dirait bien que vous vous êtes trouvé un chevalier servant.~
+@173  = ~(Eldoth, ne souris pas comme cela, on voit même les dents du fond.) Bienvenue dans mon équipe, Dame Skie !~
+@174  = ~En ce moment je crois franchement qu'il vaudrait mieux que vous restiez au sein de votre famille. Au revoir.~
+@175  = ~Cela fait longtemps que j'ai l'habitude de m'échapper du manoir de mon père et de grimper sur les toits pour observer les gens dans les rues. Une véritable aventure ! Mais maintenant que je ne peux plus rentrer chez moi...~
+@176  = ~Vous n'allez pas vous montrer timide maintenant, ma douce amie ?~
+@177  = ~Je serai brave, promis ! Mais le monde me semble si vaste maintenant... Et puis je n'arrête pas de penser à mon frère.~
+@178  = ~Eddard, c'est cela ? J'ai trouvé une de ses lettres il y a quelques temps, mais je n'avais pas trouvé le bon moment pour vous la remettre.~
+@179  = ~Maintenant que vous en parlez, je me rappelle que j'ai une note qu'il vous a écrite.~
+@180  = ~Je pense qu'il l'a écrite juste avant sa mort.~
+@181  = ~Puis-je l'avoir ? Je la lirai... plus tard.~
+@182  = ~Et donc... cette lettre de mon frère ?~
+@183  = ~Vous étiez proches, tous les deux ?~
+@184  = ~Vous deviez être heureuse de savoir qu'il pensait à vous.~
+@185  = ~Lettre...? Ah oui, cette lettre.~
+@186  = ~Je le connaissais peu. Il était toujours au Bureau des Comptes ou chez un partenaire commercial, à gérer les investissements de notre famille ; je ne le voyais au mieux qu'une fois par semaine, autour d'une tasse de thé et de manière très formelle, il ne m'adressait d'ailleurs quasiment jamais la parole. Je pensais que je l'ennuyais. J'ai pensé... Il ne m'a pas semblé très affecté lorsque notre mère est morte.~
+@187  = ~N'avez-vous pas été un peu... nigaude ?~
+@188  = ~Et cette lettre change quelque chose ?~
+@189  = ~Vous avez dû vous sentir très seule.~
+@190  = ~Mais oui, les problèmes des gens pleins de pognon... *Tellement* plus graves que les miens.~
+@191  = ~Toutes ces... choses dans sa tête, tant de sentiments, et je ne le savais pas.~
+@192  = ~Peut-être que tout le monde a un univers secret caché au fond de lui, pour le meilleur ou pour le pire.~
+@193  = ~Gorion, mon père adoptif, *disait* toujours qu'il m'aimait mais il me regardait parfois d'une manière... comme si une deuxième tête était en train de me pousser ou comme si j'allais disséquer les chats de Château-Suif pour voir comment ils fonctionnaient.~
+@194  = ~Et maintenant vous savez. Cela vous est-il d'une quelconque utilité ?~
+@195  = ~Euh... On dirait une chanson d'Eldoth.~
+@196  = ~Et d'après vous, qu'est-ce qui est caché à l'intérieur de *lui*... pour le meilleur ou pour le pire ?~
+@197  = ~Et d'après vous, qu'est-ce qui était caché à l'intérieur de *lui*... pour le meilleur ou pour le pire ?~
+@198  = ~Oui, Eldoth a la langue habile, n'est-ce pas ? Toujours à raconter aux gens ce qu'ils ont envie d'entendre.~
+@199  = ~Oui, Eldoth avait la langue habile, n'est-ce pas ? Toujours à raconter aux gens ce qu'ils avaient envie d'entendre.~
+@200  = ~Quand Eldoth me dit qu'il m'aime, je me sens si enthousiaste, brave et *exceptionnelle*, comme l'héroïne d'un roman. Alors je me fiche un peu que de temps en temps il ait des mots durs envers moi. N'est-ce pas le cas de chacun d'entre nous, quand on est fatigué ou soucieux ? Devrais-je renoncer à quelqu'un à la légère comme cela ? Quel genre de personne serais-je, <CHARNAME>, si je n'étais là pour quelqu'un *que* lorsque tout se passe très bien ? Pour une personne que je n'aime pas beaucoup, alors. Donc je crois Eldoth quand il me dit qu'il m'aime, et c'est tout.~
+@201  = ~Il m'aime.~
+@202  = ~Oh oui chérie.~
+@203  = ~Je vous aime bien comme vous êtes, Skie.~
+@204  = ~Tant que vous assumez votre rôle, princesse, cela n'a strictement aucune importance.~
+@205  = ~Quelle importance, <CHARNAME> ? Il n'est plus là.~
+@206  = ~Cela devait être particulièrement troublant.~
+@207  = ~Oh, il avait raison de faire confiance à son instinct. Je sais à quel point mon âme est sombre.~
+@208  = ~J'ai pourtant essayé de lui faire plaisir. Je ne sais pas pourquoi. Peut-être voulais-je lui prouver qu'il avait tort.~
+@209  = ~Ce n'était qu'une raison supplémentaire de détester ce pauvre bon radoteur de vieillard. Je ne supporte pas l'hypocrisie... enfin, quand c'est moi qui en suis la cible.~
+@210  = ~C'était l'homme le plus gentil et le plus patient que j'aie jamais connu. Je n'avais aucune chance d'être assez *bon* pour une personne telle que lui, tout juste acceptable parfois...~
+@211  = ~Oh, cela n'a plus d'importance. Il est mort maintenant.~
+@212  = ~Mais non ! Je suis sure qu'il était fier de vous, à sa manière.~
+@213  = ~Enfin, probablement.~
+@214  = ~Sans aucun doute.~
+@215  = ~Qui aurait pu ne pas être fier d'une personne aussi héroïque que *vous* ?~
+@216  = ~Vous devez penser que je suis particulièrement stupide.~
+@217  = ~Oui, mais vous avez des compétences intéressantes et vos connexions dans l'aristocratie pourraient se révéler utiles.~
+@218  = ~Pas du tout. Je vous trouve joviale et enthousiaste. Après tout, il faut bien commencer un jour.~
+@219  = ~Ne vous laissez pas abattre par mes paroles, car je suis convaincu que beaucoup de gens sont stupides.~
+@220  = ~Oh oh, Imoen ici présente pourrait vous raconter quelques-unes de mes tranches de vie assez... inopportunes.~
+@221  = ~Ah ça, pour sûr !!!.~
+@222  = ~C'est donc tout ce que je vaux pour vous ? Je suis juste "utile" ?~
+@223  = ~Cela simplifie beaucoup les choses, autant pour vous que pour moi.~
+@224  = ~Pardonnez-moi, princesse, j'ai perdu mon romantisme avec mon père adoptif, s'étouffant dans son propre sang dans la nuit.~
+@225  = ~"Utile" correspond à un effet de levier ; "Utile" correspond à du *pouvoir*. Mes possessions, mon foyer, mes amis, ma famille, tout ce que j'aime : tout ceci peut m'être enlevé. Mais tant que je respire mes talents restent entiers et je reste ainsi "utile" aux autres, ce qui en retour les motive à m'aider à rester en vie. Réfléchissez-y, Skie.~
+@226  = ~Et quelle autre raison aurais-je de vous garder dans mon équipe, mademoiselle Oh-Je-Me-Suis-Cassé-Un-Ongle ?~
+@227  = ~Vraiment ?~
+@228  = ~Contentez-vous d'assumer votre rôle dans mon équipe, et tout ira bien.~
+@229  = ~Je préfère vous avoir vous que votre barde, pour parler franchement.~
+@230  = ~Je parle peut-être plus durement que je ne le devrais. Parfois. Mais comprenez une chose : pendant que vous gardez mes arrières, je garderai les vôtres.~
+@231  = ~Je présume que oui.~
+@232  = ~Je suis... désolée pour toutes vos souffrances, <CHARNAME>.~
+@233  = ~Je ne sais quoi dire, <CHARNAME>.~
+@234  = ~<CHARNAME> ? Vous êtes vraiment un pauvre type.~
+@235  = ~Je... je crois qu'il est temps de nous remettre en route.~
+@236  = ~J'ai une lettre pour Dame Skie.~
+@237  = ~Je porte une missive que je dois confier à Dame Skie, de la part de son frère.~
+@238  = ~Attendez une minute ! J'ai ici une lettre. Je pense que c'est vous qui l'avez écrite. Est-ce la vôtre ?~
+@239  = ~Jusqu'où livrez-vous ? A Bois-Manteau par exemple ?~
+@240  = ~A qui envoyez-vous vos productions - dans des mines, peut-être ?~
+@241  = ~Je crois que vous avez un client de l'extérieur de la ville qui vient vous voir.~
+@242  = ~Donc... Stephan...~
+@243  = ~Je livre dans toute la Côte des Epées des mets délicats importés. Bois-Manteau, Gullykin... des mages reclus dans les forêts...  La moitié d'entre eux paient un supplément pour conserver leur anonymat, qui a évidemment une certaine valeur.~
+@244  = ~Dans ce cas je ne manquerai pas de lui donner une bonne chambre et de lui indiquer les attractions touristiques de la ville. Bien accueillir les clients, cela rapporte.~
+@245  = ~Ah, ce garçon.  Plutôt nerveux, et je doute qu'il reste très longtemps. Peu importe. Une femme indépendante recherche parfois une relation... sans complications.~
+@246  = ~Mais je ne peux rester là à discuter avec vous : j'ai un paquet à faire et à expédier hors de la ville.~
+@247  = ~Et je ne suis pas du genre à m'intéresser aux choses qui ne me regardent pas. Montrez-moi ce que vous vendez.~
+@248  = ~Certainement.~
+@249  = ~Vos sourcils se froncent, vous avez une question à me poser. Qu'est-ce qui vous trouble ?~
+@250  = ~Si vous êtes Silence et que ceci est votre "Sanctuaire", alors je crois que ceci est pour vous.~
+@251  = ~J'ai un message qui vient de loin : "Barkis est d'accord".~
+@252  = ~Ah ouais, il est d'accord ? Le problème, c'est que Barkis est mort.~
+@253  = ~Mais je connais un endroit où ses os trouveront un repos mérité. Il y a bien trop de voyageurs perdus dans ce sombre monde pour se détourner d'une âme épuisée.~
+@254  = ~... quand... disparaît... la lumière... que... se passe-t-il...?~
+@255  = ~... siii... froid...~
+@256  = ~... petites lumières... dans... le noir...~
+@257  = ~... J'ai... peur de... la fin...~
+@258  = ~... enfant... divin...~
+@259  = ~... Je... suis... si... fatigué...~
+@260  = ~Et quand la bougie a fini de brûler, Barkis, que se passe-t-il ? On dort.~
+@261  = ~Vous n'allez pas taper sur les nerfs de mes autres clients, petite ombre.~
+@262  = ~Du calme, mon garçon. Reposez-vous.~
+@263  = ~Bartleby le Long-marcheur
+
+J'ai trouvé un messager petite-personne près d'une caravane détruite sur la route côtière ; une victime de plus sur la Côte des Epées... Sa dernière volonté a été que je délivre le courrier contenu dans son sac. Il y a des lettres pour le vieux Perleflamme et pour le barde Garrick à Bérégost ; pour Nesiara Rille à l'auberge de Brasamical ; Pour Dame Skie Ecudargent et mademoiselle Erable Saule Tremblotte au nord de la Porte de Baldur ; ainsi que deux sans aucune adresse, pour "Dame Alyth Elendara" et "Silence dans le Sanctuaire".~
+@264  = ~Bartleby le Long-marcheur
+
+J'ai livré une "lettre d'amour" à Erable Saule Tremblotte. Oh la la, on a dû lui faire cette blague plus de fois qu'il n'y a de feuilles sur un arbre. Pauvre fille.~
+@265  = ~Bartleby le Long-marcheur
+
+Garrick le barde a semblé ravi d'avoir une admiratrice si enthousiaste au sujet de ses efforts artistiques.~
+@266  = ~Bartleby le Long-marcheur
+
+Garrick a profité de son passage dans mon équipe pour rendre visite à l'aventurière Carnatia Carnifex. Il est resté très discret sur les détails mais semble indemne, même s'il porte quelques... traces.~
+@267  = ~Bartleby le Long-marcheur
+
+Nesiara Rille a reçu sa lettre en parfait état. Puisse son petit chéri lui ramener quantité de précieux joyaux pour son plaisir.~
+@268  = ~Bartleby le Long-marcheur
+
+Nesiara Rille a reçu sa lettre en parfait état et c'est bien la seule bonne nouvelle car elle craint que son fiancé ne se fasse trucider à brève échéance dans la tour de Durlag. On dit parfois que la seule chose pire que d'être aventurier, c'est *d'aimer* un aventurier...~
+@269  = ~Bartleby le Long-marcheur
+
+Nesiara Rille a reçu sa lettre en parfait état et c'est bien la seule bonne nouvelle car son fiancé est en route pour ce qui reste de la tour de Durlag, où il ne trouvera rien de bon. S'il peut glaner ce qu'on lui a laissé, tant mieux pour lui.~
+@270  = ~Bartleby le Long-marcheur
+
+J'ai trouvé le vieux Perleflamme à Bérégost et lui ai délivré un message d'une vieille amie. Il a beaucoup pâli en le lisant, et j'ai craint pour son coeur.~
+@271  = ~Bartleby le Long-marcheur
+
+J'ai donné à la jeune Dame Ecudargent un message de son frère aîné Eddard. Elle m'a remercié, même si ces deux-là ne m'ont pas semblé très proches.~
+@272  = ~Bartleby le Long-marcheur
+
+J'ai donné à la jeune Dame Ecudargent un message de son frère décédé Eddard. Même si elle a été heureuse de le recevoir, elle m'a semblé plus encline à pleurer qu'à lire ses dernières paroles.~
+@273  = ~Bartleby le Long-marcheur
+
+J'ai retrouvé l'auteur de l'une de mes lettres. Les esclavagistes, assassins et tortionnaires veulent aussi leurs petites récompenses, après tout.~
+@274  = ~Bartleby le Long-marcheur
+
+J'ai contribué à réunir un couple d'amoureux assez invraisemblable ; toutefois, pour Stephan et Alyth, cela m'étonnerait qu'ils "vivent heureux jusqu'à la fin de leurs jours".~
+@275  = ~Bartleby le Long-marcheur
+
+J'ai découvert qui fournit les sucreries et autres mets délicats à la mine de Bois-Manteau. Alyth est restée bouche cousue au sujet de ses affaires avec le Trône de Fer, mais je ne pense pas qu'elle savait grand-chose. Elle ferait mieux de rester discrète sur *mes* affaires, ou nous aurons elle et moi... une petite discussion.~
+@276  = ~Bartleby le Long-marcheur
+
+Madame Silence prend *très* au sérieux son engagement de donner un abri aux âmes perdues, c'est tout ce que je peux dire.~
+@277  = ~Bartleby le Long-marcheur~
+@278  = ~Hummm... Oui. j'ai écrit ceci à... mon amie Alyth. Je vais la récupérer, merci. Maintenant que mon maître est mort, je crois que je peux lui amener moi-même.~
+@279  = ~Alyth, vous dites ? L'adresse sur la lettre dit qu'elle réside à la Porte de Baldur.~
+@280  = ~Hummm....~
+@281  = ~On dirait que mon prochain voyage sera pour la taverne du Chant de l'Elfe, alors.~
+@282  = ~Oh, non ! Non ! Alyth ne fait que nous fournir nos rations ! Elle ne sait pas que nous travaillons pour le Trône de Fer ! Elle ne sait même pas que ses victuailles partent dans une mine !! Je vous en prie !! Ne lui faites pas de mal !!~
+@283  = ~Taisez-vous. Hors de ma vue, couard. L'identité des gens que je vais voir à la Porte de Baldur ne regarde que moi.~
+@284  = ~Ah, vous vous découvrez une vocation de héros maintenant, hein ? Vous avez changé d'avis et vous voulez nous affronter ?~
+@285  = ~Je vous ai épargné, n'est-ce pas ? Je ne suis pas le monstre qu'était... euh... votre précédent chef. Maintenant filez !~
+@286  = ~Oh NON ! Vous ici !!~
+@287  = ~Que faites-vous là, Stephan ?~
+@288  = ~Je commence à regretter de vous avoir laissé en vie.~
+@289  = ~Vous ne seriez pas en train d'essayer de me suivre, par hasard ?~
+@290  = ~Je, euh... Je suis là et je, euh... m'occupe de mes affaires.~
+@291  = ~S'il vous plaît, ne dites pas ça ! Vous avez été si bon avec moi... J'ai changé de vie ! Vraiment !~ ~S'il vous plaît, ne dites pas ça ! Vous avez été si bonne avec moi... J'ai changé de vie ! Vraiment !~
+@292  = ~Oh non, jamais de la vie. C'est juste que, euh... juste une coïncidence que nous nous trouvions au même endroit.~
+@293  = ~Je ne fais rien de mal. Je suis juste venu prendre un petit verre ici... Avant de monter à l'étage voir ma petite cop... Mon amie Alyth.~
+@294  = ~J'ai plus l'impression que vous êtes en train de vous cacher dans le coin. Est-ce qu'Alyth sait que vous êtes là ?~
+@295  = ~Coïncidence ? Sûrement pas. Vous aviez peur que nous rencontrions Alyth avant vous.~
+@296  = ~Votre amie ?~
+@297  = ~Ce n'est pas vrai ! (Pause) Vous pensez que les choses gentilles qu'elle écrivait sur les factures n'étaient pas vraies. Et pourtant si !~
+@298  = ~Bien sûr que j'avais peur ! Je m'inquiétais pour elle... J'avais peur de ce que vous pourriez faire à une personne qui est attachée à moi !~
+@299  = ~Que voulez-vous dire ? Bien sûr qu'elle est mon amie. Et même encore plus que ça ! Elle m'a écrit des petits mots sur chacune des factures !~
+@300  = ~Elle tient vraiment à moi ! Vous le verrez bien !!~
+@301  = ~Vous vous croyez futé, hein ? Mais vous n'avez rien compris ! Alyth m'aime ! Voyez, ce matin elle m'a même offert le déjeuner avant de me mettre dehors avec le chat !!~ ~Vous vous croyez futée, hein ? Mais vous n'avez rien compris ! Alyth m'aime ! Voyez, ce matin elle m'a même offert le déjeuner avant de me mettre dehors avec le chat !!~
+@302  = ~Bartleby le Long-marcheur
+
+Bartleby a vraiment pris au sérieux sa dernière mission : même à l'état de fantôme, il m'a guidé pour délivrer son courrier, et sa récompense a été à la hauteur. C'est un brave petit bonhomme, j'espère que son âme a maintenant trouvé le repos.~
+@303  = ~Bartleby le Long-marcheur
+
+Bartleby a vraiment pris au sérieux sa dernière mission : même à l'état de fantôme, il m'a guidé pour délivrer son courrier. Je ne l'ai cependant pas laissé me toucher. Espérons que son âme a maintenant trouvé le repos.~
+
+/* new for v5.1 */
+@304  = ~... regarde-les... brûler...~
+@305  = ~"Ni la pluie ni la neige ni la noirceur de la nuit n'arrêtent un Long-marcheur"... Mon cul !~
+@306  = ~(respiration sifflante) Quelqu'un m'entend ?~
+@307  = ~Pourvu que mes pieds ne flanchent pas maintenant... mais ai-je encore mes pieds ? Je me sens tout engourdi en bas...~
+@308  = ~Je préfèrerais être à la pêche. (tousse)~
+@309  = ~Ooh.~
