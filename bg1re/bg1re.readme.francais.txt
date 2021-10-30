@@ -1380,6 +1380,7 @@ XII. History
 
 Version 9.0:
 -French version completed, by les d'Oghmatiques (Le Marquis, Galathée, Lothringen, Shaywen, Zooloo) and Jazira ; proofreading par Graoumf.
+-crossmod with Transitions: install should not fail and quest about Scar should be available after Sarevok's death.
 -updated install order data (added Brage's Redemption).
 -added globally unique LABELs to support Project Infinity.
 
