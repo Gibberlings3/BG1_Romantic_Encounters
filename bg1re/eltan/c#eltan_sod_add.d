@@ -27,7 +27,7 @@ IF ~~ THEN DO ~SetGlobal("C#RE1_ScarRetrieval","GLOBAL",16)~ EXIT
 END
 
 IF WEIGHT #-1
-~AreaCheck("bd0108") Global("C#RE1_ScarRetrieval","GLOBAL",15)~ THEN scar_was_attacked_sod
+~AreaCheck("bd0102") Global("C#RE1_ScarRetrieval","GLOBAL",15)~ THEN scar_was_attacked_sod
 SAY @316
 IF ~~ THEN DO ~SetGlobal("C#RE1_ScarRetrieval","GLOBAL",16)~ EXIT
 END

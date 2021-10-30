@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~8.1~
+VERSION ~9.0~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -1231,11 +1231,7 @@ ACTION_IF ((MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "70")
 OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "71")
 OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "72")) THEN BEGIN 
 
-// Get state for BDELTAN %deltan_2054% 
-/* ~Hello again, <CHARNAME>.  Have you changed your mind?~ */
-OUTER_SET deltan_2054 = STATE_WHICH_SAYS 2054 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~DELTAN~
-
-// Get state for BDELTAN %deltan_2057% 
+// Get state for DELTAN %deltan_2057% 
 /* ~Greetings, <GABBER>.  It's a pleasure to see you again.~ */
 OUTER_SET deltan_2057 = STATE_WHICH_SAYS 2057 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~DELTAN~
 
