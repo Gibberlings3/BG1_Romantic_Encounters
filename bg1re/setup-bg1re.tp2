@@ -1229,7 +1229,8 @@ END
 /* compatibility with Transitions: need even more lines in BDELTAN.dlg so Scar's Return quest can be started after Sarevok's death. */
 ACTION_IF ((MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "70")
 OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "71")
-OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "72")) THEN BEGIN 
+OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "72")
+OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "73")) THEN BEGIN 
 
 // Get state for DELTAN %deltan_2057% 
 /* ~Greetings, <GABBER>.  It's a pleasure to see you again.~ */
