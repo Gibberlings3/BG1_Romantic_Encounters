@@ -292,9 +292,11 @@ Je dois ramener au menuisier du carnaval de Nashkel un morceau d'ivoire et le pa
 
 Je dois ramener au menuisier du carnaval de Nashkel un morceau d'ivoire et le payer 350 pièces d'or, et il me sculptera un cavalier dans le même style que celui du jeu d'échecs de Thalantyr.~
 @276  = ~Oh, je commence de suite ! C'est merveilleux. Revenez dans deux jours. Je vais remettre à plus tard toutes mes autres commandes. C'est ce genre de travail que j'attendais avec impatience !~
+/* doubled - @282
 @277  = ~Le jeu d'échecs de Thalantyr
 
 Le menuisier du carnaval de Nashkel va me sculpter un cavalier. Il faut que je revienne dans deux jours le récupérer.~
+*/
 @278  = ~Je vous souhaite une bonne journée, mon ami.~ ~Je vous souhaite une bonne journée, mon amie.~
 @279  = ~Vous voilà. Regardez cette véritable oeuvre d'art ! Je suis particulièrement satisfait de ma création.~
 @280  = ~Il me restait de l'ivoire, alors j'ai aussi sculpté un fou blanc. Pour être plus précis j'ai d'abord sculpté le fou pour m'imprégner de ce style. Voilà, je vous le cède gratuitement. Votre commande m'a permis de merveilleusement me changer les idées. Je vous remercie de m'avoir offert cette opportunité et j'espère que les pièces vous plaisent.~
@@ -330,7 +332,7 @@ Thalantyr a enchanté pour moi une pièce d'un jeu d'échecs. J'ai même l'impressio
 @302  = ~Vraiment toutes ?~
 @303  = ~Oui, toutes.~
 @304  = ~Pour jouer aux échecs, il est nécessaire d'avoir un jeu complet. J'ai cassé un des cavaliers blancs il y a une dizaine d'années, et je n'ai pas pris la peine de le remplacer depuis.~
-@305  = ~(soupir) Mais c'est parce que ce jeu d'échecs a été fabriqué il y a plusieurs siècles par un maître menuisier calimshite nommé Aljhumal. Il n'est pas dans mes habitudes de flatter mon ego en pensant que le maître charpentier a réalisé un exemplaire unique de ce jeu, cependant les chances de retrouver cette pièce sont nulles.~
+@305  = ~(soupir) Mais c'est parce que ce jeu d'échecs a été fabriqué il y a plusieurs siècles par un maître menuisier calimshite nommé Aljhumal. Il n'est pas dans mes habitudes de flatter mon ego en pensant que le maître menuisier a réalisé un exemplaire unique de ce jeu, cependant les chances de retrouver cette pièce sont nulles.~
 @306  = ~Pas de jeu d'échecs, pas de partie. Et puis non, je ne remplacerai pas le cavalier manquant par une pomme de terre sculptée.~
 @307  = ~Le jeu d'échecs de Thalantyr
 
@@ -457,5 +459,5 @@ J'ai joué aux échecs avec le maître mage Thalantyr !~
 
 
 /* new for v7 */
-@421  = ~Yes, I can imagine. They even threw him into the cold river only recently.~
-@422  = ~I hope that won't happen again. He found a place where he can stay and is respected, I think. At least for a while.~
+@421  = ~Oui, j'imagine. On l'a même récemment jeté dans l'eau froide de la rivière.~
+@422  = ~J'espère que cela ne se produira plus. Il a trouvé un endroit où il pourra vivre et être respecté, enfin je pense. Au moins pour un certain temps.~

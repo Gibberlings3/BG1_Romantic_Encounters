@@ -1,0 +1,256 @@
+/* Les nombres inutilisés se trouvent dans le fichier setup_game.tra. Pour utiliser de nouveaux nombres choisissez-les superieurs a @99187 etc. */
+@0   = ~Baldur's Gate Tutu detecte~
+@1   = ~Baldur's Gate Trilogy detecte~
+@3   = ~Baldur's Gate Classsique detecte~
+@4   = ~BG:EE detecte...~ 
+@5   = ~Composant principal : quantite de... hum... details croustillants, et style BG ou textes explicites ! (necessaire)~ 
+/* @6  = ~Veuillez choisir l'une des installations suivantes :
+[1] Installer la version "adolescent". (Note : dans cette version ne seront pas installees les rencontres de type "adulte" ainsi qu'une partie du contenu de certaines autres)
+[2] Installer la version  "style BG" [contenu adulte]. (Note : dans cette version ne seront pas installes certains textes explicites de certaines rencontres.)
+[3] Installer la version "explicite" [contenu adulte]. (Cette version installe toutes les rencontres, avec certains textes explicites.)
+~
+@7   = ~Veuillez choisir 1, 2, ou 3 et appuyer sur la touche Entree.~
+*/
+@8   = ~Version "adolescent" selectionnee.~
+@9   = ~Version "style BG" [contenu adulte] selectionnee.~
+@10  = ~Version "explicite" [contenu adulte] selectionnee.~
+@11  = ~Le briefing de Bardolan, par berelinde~
+@12  = ~Du temps libre pour La Balafre, par jastey~
+@13  = ~L'obsession de Kim, par jastey (AVERTISSEMENT - consultez le fichier README !)~
+@14  = ~Le composant "Quantite de... hum... details croustillants et style BG ou textes explicites" n'est pas installe, ou bien vous n'avez pas la permission pour ce composant.~
+@15  = ~Extension de la rencontre avec Bjornin (traitement medical personnalise), par jastey~
+
+@17  = ~Plus d'amidon dans mon mat~
+
+
+@18  = ~Une minute pour le duc Eltan, par jastey~
+
+
+@36  = ~L'entrainement tres special de Husam, par jastey~
+
+
+@39  = ~Laurel, apres la chasse, par jastey~
+
+
+@40 = ~La seduction de Bartus, par jastey~
+
+
+@42  = ~Le massage de Lina, par jastey~
+
+
+@44  = ~Premiere nuit avec Quentin, par Kulyok~
+
+
+@46  = ~Les jeux de Niklos, par Kulyok (contenu adulte. AVERTISSEMENT - consultez le fichier README !)~
+
+
+@47  = ~Slythe et Krystin, par Kulyok (contenu adulte. AVERTISSEMENT - consultez le fichier README !)~
+
+@48  = ~Sans regret, par Anonyme~
+
+
+@56  = ~Amour payant, par Thimblerig~
+
+
+@70  = ~Hull : le sens du devoir, par Lava~
+
+
+@73  = ~Fin de soiree avec Jaheira, par Kulyok~
+
+@74  = ~La benediction de Sil, par Lava~
+
+@75  = ~Melicamp : le garcon volaille, par Lava~
+
+@76  = ~Une lecture avec Rinnie, par Western Paladin~
+
+@77  = ~Ce composant ne possede pas de version adolescente.~
+
+@78  = ~Molly cherche un mari, par Kulyok~
+
+
+@80  = ~Le deuil de Centeol, la dame araignee, par Lava~ 
+
+
+@83  = ~L'essentiel, par Lava (AVERTISSEMENT - consultez le fichier README !)~
+
+
+@86  = ~Le repaire du Moissonneur, par Lava (contenu adulte)~
+
+
+@90  = ~Le grand Zudini, par Kulyok (contenu adulte)~
+
+
+@92  = ~Le messager, par Thimblerig~
+
+
+@99  = ~Ender Sai : la recompense du heros, par Thimblerig (AVERTISSEMENT - consultez le fichier README !)~
+
+
+@101 = ~Les romanciers, par Thimblerig~
+
+
+@112  = ~Les honnetes mensonges des Deux Rives, par Lava~ 
+
+
+@123  = ~Le dilemme d'un necromancien, par jastey~
+
+
+@147  = ~Un diner avec Thalantyr, par jastey~ 
+
+
+@152  = ~Ceinture de changement de sexe et reactions, par Thimblerig, Kulyok, Domi, Lava, Lastknightleft, Twani, Jastey, Daisy Ninja Girl~ 
+
+
+@155  = ~Le reve du guerisseur, par Kulyok~
+
+@156  = ~Ce qu'etait Gauche, par Lava and Thimblerig~
+
+
+@161  = ~Un ami d'enfance, par Kulyok~
+
+
+@163  = ~Arlene la travailleuse, par Kulyok~ 
+
+
+@165  = ~Della May de Thay, par Kulyok~
+
+
+@167  = ~Un garde deprave a Chateau-Suif, par Kulyok (contenu adulte. AVERTISSEMENT - consultez le fichier README !)~
+
+
+@169  = ~La flamme du phoenix, par Kulyok (contenu adulte)~
+
+
+@171  = ~Mikala la moniale, par Twani~
+
+
+/* a partir d'ici, uniquement des nombres de type @99xxx - verifiez les nombres dans le fichier setup-game.tra ! */
+
+
+/*
+@99172  = ~ATTENTION :
+    Le contenu de certains composants peut se reveler choquant pour certains joueurs. Merci de consulter le fichier README lorsqu'un composant comporte un avertissement !
+    Veuillez choisir l'une des installations suivantes :
+[1] Ne pas faire apparaitre/installer les composants avec avertissement.
+[2] Faire apparaitre/installer tous les composants.~
+@99173  = ~Veuillez choisir 1 ou 2 et appuyer sur la touche Entree.~
+*/
+
+@99174  = ~Sauter les composants avec avertissement.~
+@99175  = ~Accepter les composants avec avertissement.~
+@99176  = ~Petites indiscretions, par jastey~
+@99177  = ~EET detecte.~
+@99178  = ~Le messager 2 : pluie, neige et noirceur de la nuit, par Thimblerig and tibicina~
+@99179  = ~Camryn et Tamah, par tibicina~
+@99180  = ~Les amoureux de Bois-Manteau, par tibicina~
+
+/* nouveau pour la v3 */
+
+@99181  = ~Version "adolescent" et sauter les composants avec avertissement.~
+@99182  = ~Version "adolescent" et faire apparaitre/installer les composants avec avertissement.~
+@99183  = ~Version "style BG" [contenu adulte] et sauter les composants avec avertissement.~
+@99184  = ~Version "style BG"  [contenu adulte] et faire apparaitre/installer les composants avec avertissement.~
+@99185  = ~Version "explicite" [contenu adulte] et sauter les composants avec avertissement.~
+@99186  = ~Version "explicite" [contenu adulte] et faire apparaitre/installer les composants avec avertissement.~
+
+/* nouveau pour la v7 */
+
+@99187  = ~Ce mod doit etre installe avant EET_End et apres EET, comme tous les mods ajoutant un PNJ dans un jeu EET.~
+
+// WeiDU prompts
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on ? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES"
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+
+@-1036= "Saute le GROUPE ["
+@-1037= "] pour cause d'absence des pre-requis."
+
+@-1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@-1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@-1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@-1041= "Tcheque"
+@-1042= "Allemand"
+@-1043= "Anglais"
+@-1044= "Espagnol"
+@-1045= "Francais"
+@-1046= "Italien"
+@-1047= "Polonais"
+@-1048= "Portugais"
+@-1049= "Turc"
+@-1050= "Japonais"
+@-1051= "Coreen"
+@-1052= "Chinois simplifie"
+@-1053= "Russe"
+@-1054= "Ukrainien"
+
+@-1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@-1061= "
+Utilisation de"
+@-1062= " et "
+
+@-1063= "INSTALLATION ABANDONNEE"
+@-1064= "Abandon de l'installation de ["
+@-1065= "], retour a l'etat anterieur"

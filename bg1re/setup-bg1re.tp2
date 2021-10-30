@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~8.1~
+VERSION ~9.0~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -760,21 +760,22 @@ LANGUAGE ~Deutsch (Teildeutsche Version, der Rest ist in Englisch)~
          ~german~
 	~bg1re/tra/german/setup.tra~ ~bg1re/tra/german/setup_game.tra~
 
-LANGUAGE ~Francais (Partial Translation, still Components in English)~
+LANGUAGE ~Francais (traduction par les d'Oghmatiques)~
          ~francais~
-//	~bg1re/tra/french/setup.tra~ ~bg1re/tra/french/setup_game.tra~
-         ~bg1re/tra/english/setup.tra~ ~bg1re/tra/english/setup_game.tra~
+         ~bg1re/tra/francais/setup.tra~ ~bg1re/tra/francais/setup_game.tra~
 
 LANGUAGE ~Russian (Staylos, Apxu & Arcanecoast Team)~
          ~Russian~
 	~bg1re/tra/english/setup.tra~ ~bg1re/tra/Russian/setup_game.tra~
 
-/* First component: required */
+/* First components: required */
 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
 //Choose the level of details and style 
 
 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
-BEGIN @99181 /* ~Teen Version and Skip Components with Warnings.~ */DESIGNATED 100 
+BEGIN @99181 /* ~Teen Version and Skip Components with Warnings.~ */
+DESIGNATED 100 
+LABEL bg1re-required-teen_skip
   SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
   FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
@@ -787,7 +788,9 @@ BEGIN @99181 /* ~Teen Version and Skip Components with Warnings.~ */DESIGNATED 1
     PRINT @99174 /* ~Skip components with warnings.~ */
   
 
-BEGIN @99182 /* ~Teen Version and Show/Install all Components with Warnings.~ */ DESIGNATED 101 
+BEGIN @99182 /* ~Teen Version and Show/Install all Components with Warnings.~ */ 
+DESIGNATED 101 
+LABEL bg1re-required-teen_all
   SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
   FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
@@ -800,7 +803,9 @@ BEGIN @99182 /* ~Teen Version and Show/Install all Components with Warnings.~ */
     COPY ~bg1re/install/component.xx~ ~bg1re/backup/RE1_WarningTeen.G3~
     PRINT @99175 /* ~Components with warnings accepted.~ */
 
-BEGIN @99183 /* ~BG-style Version [Adult content] and Skip Components with Warnings.~ */ DESIGNATED 102 
+BEGIN @99183 /* ~BG-style Version [Adult content] and Skip Components with Warnings.~ */ 
+DESIGNATED 102 
+LABEL bg1re-required-adult_bgstyle_skip
   SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
   FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
@@ -819,7 +824,9 @@ BEGIN @99183 /* ~BG-style Version [Adult content] and Skip Components with Warni
   /* Skip Component with Warnings */
     PRINT @99174 /* ~Skip components with warnings.~ */
 
-BEGIN @99184 /* ~BG-style Version [Adult content] and Show/Install all Components with Warnings.~ */ DESIGNATED 103 
+BEGIN @99184 /* ~BG-style Version [Adult content] and Show/Install all Components with Warnings.~ */ 
+DESIGNATED 103 
+LABEL bg1re-required-adult_bgstyle_all
   SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
   FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
@@ -840,7 +847,9 @@ BEGIN @99184 /* ~BG-style Version [Adult content] and Show/Install all Component
     COPY ~bg1re/install/component.xx~ ~bg1re/backup/RE1_WarningMature.G3~
     PRINT @99175 /* ~Components with warnings accepted.~ */
 
-BEGIN @99185 /* ~Descriptive Version [Adult content] and Skip Components with Warnings.~ */ DESIGNATED 104 
+BEGIN @99185 /* ~Descriptive Version [Adult content] and Skip Components with Warnings.~ */ 
+DESIGNATED 104 
+LABEL bg1re-required-adult_description_skip
 SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
   FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
@@ -862,7 +871,9 @@ SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~
   /* Skip Component with Warnings */
     PRINT @99174 /* ~Skip components with warnings.~ */
 
-BEGIN @99186 /* ~Descriptive Version [Adult content] and Show/Install all Components with Warnings.~ */ DESIGNATED 105 
+BEGIN @99186 /* ~Descriptive Version [Adult content] and Show/Install all Components with Warnings.~ */ 
+DESIGNATED 105 
+LABEL bg1re-required-adult_description_all
 SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
   REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
   FORBID_COMPONENT ~EET_end.tp2~ ~0~ @99187
@@ -887,115 +898,10 @@ SUBCOMPONENT @5 /* ~Amount of -ahem- details and BG-style vs. description text!~
     PRINT @99175 /* ~Components with warnings accepted.~ */
 
 
-
-
-
-
-//------------------------------------------
-/* deprecated ------------------------------
-BEGIN @5 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
-REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @99181
-
-  COPY ~bg1re/install/component.xx~ ~override/RE1_Installed.G3~
-
-
-PRINT @6
-
-
-ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
-
-OUTER_SPRINT ~bg1lcdetails~ ~placeholder_value~
-OUTER_WHILE (!(IS_AN_INT ~bg1lcdetails~) OR (~bg1lcdetails~ > 0x3) OR (~bg1lcdetails~ < 0x1)) BEGIN
-  PRINT @7 /* ~Please select 1, 2, or 3 and press enter.~ */
-  ACTION_READLN ~bg1lcdetails~
-END
-ACTION_IF ("bg1lcdetails" = 1) THEN BEGIN
-PRINT @8 /* ~Teen version selected.~ */
-END
-      ACTION_IF ("bg1lcdetails" = 2) THEN BEGIN
-
-EXTEND_BOTTOM ~AR2600.bcs~ ~bg1re/detaildescription/c#lc_details.baf~
-EXTEND_BOTTOM ~dplayer3.bcs~ ~bg1re/detaildescription/c#lc_details.baf~
-  COPY ~bg1re/install/component.xx~ ~bg1re/backup/RE1_MatureContent.G3~
-PRINT @9 /* ~BG-style [Adult content] selected.~ */
-END
-
-ACTION_IF ("bg1lcdetails" = 3) THEN BEGIN
-
-EXTEND_BOTTOM ~AR2600.bcs~ ~bg1re/detaildescription/c#lc_details.baf~
-EXTEND_BOTTOM ~dplayer3.bcs~ ~bg1re/detaildescription/c#lc_details.baf~
-EXTEND_BOTTOM ~AR2600.bcs~ ~bg1re/detaildescription/c#lc_descriptiontext.baf~
-EXTEND_BOTTOM ~dplayer3.bcs~ ~bg1re/detaildescription/c#lc_descriptiontext.baf~
-  COPY ~bg1re/install/component.xx~ ~bg1re/backup/RE1_MatureContent.G3~
-
-PRINT @10 /* ~Descriptive version [Adult content] selected.~ */
-END
-
-END ELSE BEGIN //BGT, BG:EE, EET, or Tutu 
-OUTER_SPRINT ~bg1lcdetails~ ~placeholder_value~
-OUTER_WHILE (!(IS_AN_INT ~bg1lcdetails~) OR (~bg1lcdetails~ > 0x3) OR (~bg1lcdetails~ < 0x1)) BEGIN
-  PRINT ~Please select 1, 2, or 3 and press enter.~
-  ACTION_READLN ~bg1lcdetails~
-END
-ACTION_IF ("bg1lcdetails" = 1) THEN BEGIN
-PRINT @8 /* ~Teen version selected.~ */
-END
-      ACTION_IF ("bg1lcdetails" = 2) THEN BEGIN
-
-EXTEND_BOTTOM ~BALDUR.bcs~ ~bg1re/detaildescription/c#lc_details.baf~
-  COPY ~bg1re/install/component.xx~ ~bg1re/backup/RE1_MatureContent.G3~
-PRINT @9 /* ~BG-style [Adult content] selected.~ */
-END
-
-ACTION_IF ("bg1lcdetails" = 3) THEN BEGIN
-EXTEND_BOTTOM ~BALDUR.bcs~ ~bg1re/detaildescription/c#lc_details.baf~
-EXTEND_BOTTOM ~BALDUR.bcs~ ~bg1re/detaildescription/c#lc_descriptiontext.baf~
-  COPY ~bg1re/install/component.xx~ ~bg1re/backup/RE1_MatureContent.G3~
-
-PRINT @10 /* ~Descriptive version [Adult content] selected.~ */
-END
-
-END
-
-
-PRINT @99172
-
-
-OUTER_SPRINT ~bg1lccontent~ ~placeholder_value~
-OUTER_WHILE (!(IS_AN_INT ~bg1lccontent~) OR (~bg1lccontent~ > 0x2) OR (~bg1lccontent~ < 0x1)) BEGIN
-  PRINT @99173 
-  ACTION_READLN ~bg1lccontent~
-END
-ACTION_IF ("bg1lccontent" = 1) THEN BEGIN
-PRINT @99174
-
-END
-ACTION_IF ("bg1lccontent" = 2) THEN BEGIN
-
-/* Teen version */
-ACTION_IF !FILE_EXISTS ~bg1re/backup/RE1_MatureContent.G3~ THEN BEGIN
-  COPY ~bg1re/install/component.xx~ ~bg1re/backup/RE1_WarningTeen.G3~
-PRINT @99175
-END
-
-/* Adult versions */
-ACTION_IF FILE_EXISTS ~bg1re/backup/RE1_MatureContent.G3~ THEN BEGIN
-  COPY ~bg1re/install/component.xx~ ~bg1re/backup/RE1_WarningTeen.G3~
-  COPY ~bg1re/install/component.xx~ ~bg1re/backup/RE1_WarningMature.G3~
-PRINT @99175
-END
-
-END
-//-------------------------------------------------------
--------------------------------------------- deprecated */
-
-
-
-
-
 /* Bardolan's Briefing, by berelinde (mature content / teen version) */
 
-BEGIN @11 /* ~Bardolan's Briefing, by berelinde~ */ DESIGNATED 1 LABEL bg1re_bardolans_briefing
+BEGIN @11 /* ~Bardolan's Briefing, by berelinde~ */ DESIGNATED 1 
+LABEL bg1re_bardolans_briefing
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -1059,7 +965,8 @@ END
 /* Scar's Spare Time, by jastey (mature content / teen version) */
 
 
-BEGIN @12 /* ~Scar's Spare Time, by jastey~ */ DESIGNATED 2 LABEL bg1re_scars_spare_time
+BEGIN @12 /* ~Scar's Spare Time, by jastey~ */ DESIGNATED 2 
+LABEL bg1re_scars_spare_time
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -1078,7 +985,8 @@ COMPILE EVALUATE_BUFFER ~bg1re/scar/c#lcsca3.baf~
 
 /* Kim's Preoccupation, by jastey (mature content / teen version) */
 
-BEGIN @13 /*~Kim's Preoccupation, by jastey~ */ DESIGNATED 3 LABEL bg1re_kims_preoccupation
+BEGIN @13 /*~Kim's Preoccupation, by jastey~ */ DESIGNATED 3 
+LABEL bg1re_kims_preoccupation
 REQUIRE_FILE ~bg1re/backup/RE1_WarningTeen.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -1141,7 +1049,8 @@ END
 
 /* Extension of Bjornin Encounter, by jastey  */
 
-BEGIN @15 /* ~Extension of Bjornin Encounter (Personal Wound Treatment)~ */ DESIGNATED 4 LABEL bg1re_extention_of_bjornin_encounter
+BEGIN @15 /* ~Extension of Bjornin Encounter (Personal Wound Treatment)~ */ DESIGNATED 4 
+LABEL bg1re_extention_of_bjornin_encounter
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -1200,7 +1109,8 @@ COMPILE EVALUATE_BUFFER ~bg1re/bjornin/c#lcbjo2.baf~
 
 /* No Starch in the Maypole */
 
-BEGIN @17 /* ~No Starch in the Maypole~ */ DESIGNATED 5 LABEL bg1re_no_starch_in_maypole
+BEGIN @17 /* ~No Starch in the Maypole~ */ DESIGNATED 5 
+LABEL bg1re_no_starch_in_maypole
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -1211,7 +1121,8 @@ COMPILE EVALUATE_BUFFER ~bg1re/cmguard/maypolestarch.d~
 
 /* Duke Eltan's Spare Minute, by jastey and Balquo */
 
-BEGIN @18 /* ~Duke Eltan's Spare Minute, by jastey~ */ DESIGNATED 6 LABEL bg1re_duke_eltans_spare_minute
+BEGIN @18 /* ~Duke Eltan's Spare Minute, by jastey~ */ DESIGNATED 6 
+LABEL bg1re_duke_eltans_spare_minute
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 /* compatibility with EndlessBG1. bg1re needs to be installed after. */
@@ -1320,11 +1231,7 @@ ACTION_IF ((MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "70")
 OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "71")
 OR (MOD_IS_INSTALLED ~transitions/setup-transitions.TP2~ "72")) THEN BEGIN 
 
-// Get state for BDELTAN %deltan_2054% 
-/* ~Hello again, <CHARNAME>.  Have you changed your mind?~ */
-OUTER_SET deltan_2054 = STATE_WHICH_SAYS 2054 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~DELTAN~
-
-// Get state for BDELTAN %deltan_2057% 
+// Get state for DELTAN %deltan_2057% 
 /* ~Greetings, <GABBER>.  It's a pleasure to see you again.~ */
 OUTER_SET deltan_2057 = STATE_WHICH_SAYS 2057 IN ~transitions/languages/%s/DIALOGUES.TRA~ FROM ~DELTAN~
 
@@ -1499,7 +1406,8 @@ END
 
 /* Husam's Personal Preparation, by jastey */ 
 
-BEGIN @36 /* ~Husam's Personal Preparation, by jastey~ */ DESIGNATED 7 LABEL bg1re_husams_personal_preparation
+BEGIN @36 /* ~Husam's Personal Preparation, by jastey~ */ DESIGNATED 7 
+LABEL bg1re_husams_personal_preparation
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -1577,7 +1485,8 @@ END
 
 /* Laurel's Post-Hunting, by jastey */ 
 
-BEGIN @39 /* ~Laurel's Post-Hunting, by jastey~ */ DESIGNATED 8 LABEL bg1re_laurels_post_hunting
+BEGIN @39 /* ~Laurel's Post-Hunting, by jastey~ */ DESIGNATED 8 
+LABEL bg1re_laurels_post_hunting
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -1622,7 +1531,8 @@ COMPILE EVALUATE_BUFFER ~bg1re/laurel/c#lclau3.baf~
 
 /* Bartus' Seduction, by jastey */
 
-BEGIN @40 /* ~Bartus' Seduction, by jastey~ */ DESIGNATED 9 LABEL bg1re_bartus_seduction
+BEGIN @40 /* ~Bartus' Seduction, by jastey~ */ DESIGNATED 9 
+LABEL bg1re_bartus_seduction
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 
 
 
@@ -1687,7 +1597,8 @@ LAF extend_area_script STR_VAR area="%BaldursGate_DocksLowLantern_D1%" top="bg1r
 
 /* Lina's Massage, by jastey */ 
 
-BEGIN @42 /* ~Lina's Massage, by jastey~ */ DESIGNATED 10 LABEL bg1re_linas_massage
+BEGIN @42 /* ~Lina's Massage, by jastey~ */ DESIGNATED 10 
+LABEL bg1re_linas_massage
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -1741,7 +1652,8 @@ END
 /* ~First Night with Quentin, by Kulyok~ */ 
 
 
-BEGIN @44 /* ~First Night with Quentin, by Kulyok~ */ DESIGNATED 11 LABEL bg1re_bg1re_first_night_quentin
+BEGIN @44 /* ~First Night with Quentin, by Kulyok~ */ DESIGNATED 11 
+LABEL bg1re_bg1re_first_night_quentin
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -1783,7 +1695,8 @@ END
 
 /*  ~Chatting Niklos Up, by Kulyok  */ 
 
-BEGIN @46 /* ~Chatting Niklos Up, by Kulyok (mature content)~ */ DESIGNATED 12 LABEL bg1re_chatting_niklos_up
+BEGIN @46 /* ~Chatting Niklos Up, by Kulyok (mature content)~ */ DESIGNATED 12 
+LABEL bg1re_chatting_niklos_up
 REQUIRE_FILE ~bg1re/backup/RE1_WarningMature.G3~ @77 /* ~This component has no teen rated version.~ */
 
 
@@ -1798,7 +1711,8 @@ COMPILE EVALUATE_BUFFER ~bg1re/niklos/O#NikRE1.baf~
 
 /* ~Slythe and Krystin, by Kulyok (mature content)~ */
 
-BEGIN @47 /* ~Slythe and Krystin, by Kulyok (mature content)~ */ DESIGNATED 13 LABEL bg1re_slythe_and_kristin
+BEGIN @47 /* ~Slythe and Krystin, by Kulyok (mature content)~ */ DESIGNATED 13 
+LABEL bg1re_slythe_and_kristin
 REQUIRE_FILE ~bg1re/backup/RE1_WarningMature.G3~ @77
 
 
@@ -1808,7 +1722,8 @@ COMPILE EVALUATE_BUFFER ~bg1re/slythekrystin/O#SlyRE1.baf~
 
 /* No Regrets */ 
 
-BEGIN @48 /* ~No Regrets~ */ DESIGNATED 14 LABEL bg1re_no_regrets
+BEGIN @48 /* ~No Regrets~ */ DESIGNATED 14 
+LABEL bg1re_no_regrets
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/noregrets/Dialogues/c#noregrets.d~
@@ -1855,7 +1770,8 @@ SAY IDENTIFIED_DESC @55
 
 /* Purchased Love, by Thimblerig */ 
 
-BEGIN @56 /* ~Purchased Love, by Thimblerig~ */ DESIGNATED 15 LABEL bg1re_purchased_love
+BEGIN @56 /* ~Purchased Love, by Thimblerig~ */ DESIGNATED 15 
+LABEL bg1re_purchased_love
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COPY ~bg1re/purchasedlove/c#lcharl.cre~ ~override/c#lcharl.cre~
@@ -2076,7 +1992,8 @@ END
 
 /* Hull: Heavy Duty, by Lava  */
 
-BEGIN @70 /* ~Hull: Heavy Duty, by Lava~ */ DESIGNATED 16 LABEL bg1re_hull_heavy_duty
+BEGIN @70 /* ~Hull: Heavy Duty, by Lava~ */ DESIGNATED 16 
+LABEL bg1re_hull_heavy_duty
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/hull/hull_re.d~
@@ -2126,7 +2043,8 @@ END
 
 /* ~Late Night with Jaheira, by Kulyok~ */
 
-BEGIN @73 /* ~Late Night with Jaheira, by Kulyok~ */ DESIGNATED 17 LABEL bg1re_late_night_jaheira
+BEGIN @73 /* ~Late Night with Jaheira, by Kulyok~ */ DESIGNATED 17 
+LABEL bg1re_late_night_jaheira
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/jaheira/RE1Jaheira.d~
@@ -2173,7 +2091,8 @@ END
 
 /* Sil's Blessing, by Lava */
 
-BEGIN @74 /* ~Sil's Blessing, by Lava~ */ DESIGNATED 18 LABEL bg1re_sils_blessing
+BEGIN @74 /* ~Sil's Blessing, by Lava~ */ DESIGNATED 18 
+LABEL bg1re_sils_blessing
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -2224,7 +2143,8 @@ Weight: 3
 
 /* Melicamp: The Poultry Boy, by Lava */
 
-BEGIN @75 /* ~Melicamp: The Poultry Boy, by Lava~ */ DESIGNATED 19 LABEL bg1re_melicamp_poultry_boy
+BEGIN @75 /* ~Melicamp: The Poultry Boy, by Lava~ */ DESIGNATED 19 
+LABEL bg1re_melicamp_poultry_boy
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 /* areas */
@@ -2271,7 +2191,8 @@ SAY SELECT_COMMON1 ~~
 
 /* Reading with Rinnie, by Western Paladin */
 
-BEGIN @76 /* ~Reading with Rinnie, by Western Paladin~ */ DESIGNATED 20 LABEL bg1re_reading_with_rinnie
+BEGIN @76 /* ~Reading with Rinnie, by Western Paladin~ */ DESIGNATED 20 
+LABEL bg1re_reading_with_rinnie
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/rinnie/rinnie_re.d~
@@ -2282,7 +2203,8 @@ COMPILE EVALUATE_BUFFER ~bg1re/rinnie/c#lcrin1.baf~
 
 
 /* ~Molly the Husband-Grabber, by Kulyok~ */
-BEGIN @78 /* ~Molly the Husband-Grabber, by Kulyok~ */ DESIGNATED 21 LABEL bg1re_molly_husband_grabber
+BEGIN @78 /* ~Molly the Husband-Grabber, by Kulyok~ */ DESIGNATED 21 
+LABEL bg1re_molly_husband_grabber
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/molly/RE1Molly.d~
@@ -2325,7 +2247,8 @@ SAY NAME2 @79
 
 /* ~The Mourning of Centeol, the Spider Lady, by Lava~ */
 
-BEGIN @80 /* ~The Mourning of Centeol, the Spider Lady, by Lava~ */ DESIGNATED 22 LABEL bg1re_mourning_of_centeol
+BEGIN @80 /* ~The Mourning of Centeol, the Spider Lady, by Lava~ */ DESIGNATED 22 
+LABEL bg1re_mourning_of_centeol
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -2435,7 +2358,8 @@ END
 /* ~The Essential End, by Lava~ */
 
 
-BEGIN @83 /* ~The Essential End, by Lava~ */ DESIGNATED 23 LABEL bg1re_essential_end
+BEGIN @83 /* ~The Essential End, by Lava~ */ DESIGNATED 23 
+LABEL bg1re_essential_end
 REQUIRE_FILE ~bg1re/backup/RE1_WarningTeen.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE EVALUATE_BUFFER ~BG1RE/EssentialEnd/essentialend.d~
@@ -2467,7 +2391,8 @@ END
 
 /* The Harvestmen Lair, by Lava (mature content) */
 
-BEGIN @86 /* ~The Harvestmen Lair, by Lava (mature content)~ */ DESIGNATED 24 LABEL bg1re_harvestmen_lair
+BEGIN @86 /* ~The Harvestmen Lair, by Lava (mature content)~ */ DESIGNATED 24 
+LABEL bg1re_harvestmen_lair
 REQUIRE_FILE ~bg1re/backup/RE1_MatureContent.G3~ @77 /* ~This component has no teen rated version.~ */
 
 COPY ~BG1RE/Areas/c#lc08~ ~override~
@@ -2516,7 +2441,8 @@ END
 /* The Great Zudini, by Kulyok */
 
 
-BEGIN @90 /* ~The Great Zudini, by Kulyok (mature content)~ */ DESIGNATED 25 LABEL bg1re_great_zudini
+BEGIN @90 /* ~The Great Zudini, by Kulyok (mature content)~ */ DESIGNATED 25 
+LABEL bg1re_great_zudini
 REQUIRE_FILE ~bg1re/backup/RE1_MatureContent.G3~ @77 /* ~This component has no teen rated version.~ */
 
 
@@ -2556,7 +2482,8 @@ SAY NAME2 @91
 /* ~The Messenger, by Thimblerig~ */
 
 
-BEGIN @92 /* ~The Messenger, by Thimblerig~ */ DESIGNATED 26 LABEL bg1re_messenger
+BEGIN @92 /* ~The Messenger, by Thimblerig~ */ DESIGNATED 26 
+LABEL bg1re_messenger
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 ADD_JOURNAL TITLE (@179) @19 @30 @32 @45 @55 @119 @161 @198 @200 @202 @207 @209 USING ~bg1re/tra/autotra/%LANGUAGE%/themessenger.tra~
@@ -2670,7 +2597,8 @@ END
 
 /* ~Ender Sai, the Hero's Reward, by Thimblerig~ */
 
-BEGIN @99 /* ~Ender Sai, the Hero's Reward, by Thimblerig~ */ DESIGNATED 27 LABEL bg1re_ender_sai_heros_reward
+BEGIN @99 /* ~Ender Sai, the Hero's Reward, by Thimblerig~ */ DESIGNATED 27 
+LABEL bg1re_ender_sai_heros_reward
 REQUIRE_FILE ~bg1re/backup/RE1_WarningTeen.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/endersai/endersai.d~
@@ -2708,7 +2636,8 @@ END
 
 /////// The Novelists, by Thimblerig
 
-BEGIN @101 /* ~The Novelists, by Thimblerig~ */ DESIGNATED 28 LABEL bg1re_the_novellists
+BEGIN @101 /* ~The Novelists, by Thimblerig~ */ DESIGNATED 28 
+LABEL bg1re_the_novellists
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
  
 
@@ -2799,7 +2728,8 @@ LAF extend_area_script STR_VAR area="%EBaldursGate_ThievesGuild%" top="bg1re/nov
 
 /////// Honest Lies of Two Riversides, By Lava
 
-BEGIN @112 /* ~The Honest Lies of Two Riversides, By Lava~ */ DESIGNATED 29 LABEL bg1re_honest_lies_of_two_riversides
+BEGIN @112 /* ~The Honest Lies of Two Riversides, By Lava~ */ DESIGNATED 29 
+LABEL bg1re_honest_lies_of_two_riversides
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 ADD_JOURNAL TITLE (#31418) @122 USING ~bg1re/tra/autotra/%LANGUAGE%/riversides.tra~
@@ -2931,7 +2861,8 @@ END
 
 // ~Necromancer's Trouble~ 
 
-BEGIN @123 /* ~Necromancer's Trouble, by jastey~ */ DESIGNATED 30 LABEL bg1re_necromancers_trouble
+BEGIN @123 /* ~Necromancer's Trouble, by jastey~ */ DESIGNATED 30 
+LABEL bg1re_necromancers_trouble
 
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
@@ -3364,7 +3295,8 @@ WRITE_EVALUATED_ASCII 0x248 ~%SOURCE_RES%~ #8   // Override script
 
 
 /* Dinner with Thalantyr */
-BEGIN @147 /* ~Dinner with Thalantyr, by jastey~ */ DESIGNATED 31 LABEL bg1re_dinner_with_thalantyr
+BEGIN @147 /* ~Dinner with Thalantyr, by jastey~ */ DESIGNATED 31 
+LABEL bg1re_dinner_with_thalantyr
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -3534,7 +3466,8 @@ COPY ~bg1re/thalantyr/c#lcth01.cre~ ~Override~
 /* Coded by Thimblerig, Jastey, Kulyok, Lava, and Berelinde */
 
 
-BEGIN @152 /* ~Girdle of Gender Reactions, by Thimblerig, Kulyok, Domi, Lava, Lastknightleft, Twani, Jastey, Daisy Ninja Girl~ */ DESIGNATED 32 LABEL bg1re_gender_girdle_reactions
+BEGIN @152 /* ~Girdle of Gender Reactions, by Thimblerig, Kulyok, Domi, Lava, Lastknightleft, Twani, Jastey, Daisy Ninja Girl~ */ DESIGNATED 32 
+LABEL bg1re_gender_girdle_reactions
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 /* Curse Removing Soap */
@@ -3754,7 +3687,8 @@ END
 
 
 
-BEGIN @155 /* ~The Surgeon's Dream, by Kulyok~ */ DESIGNATED 33 LABEL bg1re_surgeons_dream
+BEGIN @155 /* ~The Surgeon's Dream, by Kulyok~ */ DESIGNATED 33 
+LABEL bg1re_surgeons_dream
 
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
@@ -3766,7 +3700,8 @@ COMPILE EVALUATE_BUFFER ~bg1re/surgeon/re1surgeon.d~
 
 
 
-BEGIN @156 /* ~All That Left Was, by Lava and Thimblerig~ */ DESIGNATED 34 LABEL bg1re_what_left_was
+BEGIN @156 /* ~All That Left Was, by Lava and Thimblerig~ */ DESIGNATED 34 
+LABEL bg1re_what_left_was
 
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
@@ -3816,7 +3751,8 @@ END
 
 
 /* A Childhood Friend, by Kulyok (teen content) */
-BEGIN @161 /* ~A Childhood Friend, by Kulyok~ */ DESIGNATED 35 LABEL bg1re_childhood_friend
+BEGIN @161 /* ~A Childhood Friend, by Kulyok~ */ DESIGNATED 35 
+LABEL bg1re_childhood_friend
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -3860,7 +3796,8 @@ SAY NAME2 @162 /* ~Alec~ */
 
 /* Arlene the Working Girl, by Kulyok (teen content) */
 
-BEGIN @163 /* ~Arlene the Working Girl, by Kulyok~ */ DESIGNATED 36 LABEL bg1re_arlene_working_girl
+BEGIN @163 /* ~Arlene the Working Girl, by Kulyok~ */ DESIGNATED 36 
+LABEL bg1re_arlene_working_girl
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -3893,7 +3830,8 @@ SAY NAME2 @164 /* ~Arlene~ */
 
 /* Della May from Thay, by Kulyok (teen content) */
 
-BEGIN @165 /* ~Della May from Thay, by Kulyok~ */ DESIGNATED 37 LABEL bg1re_della_may_from_thay
+BEGIN @165 /* ~Della May from Thay, by Kulyok~ */ DESIGNATED 37 
+LABEL bg1re_della_may_from_thay
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -3930,7 +3868,8 @@ SAY NAME2 @166 /* ~Della May~ */
 
 /* A Dirty Guard in Candlekeep, by Kulyok (mature content) */
 
-BEGIN @167 /* ~A Dirty Guard in Candlekeep, by Kulyok (mature content)~ */ DESIGNATED 38 LABEL bg1re_dirty_guard_candlekeep
+BEGIN @167 /* ~A Dirty Guard in Candlekeep, by Kulyok (mature content)~ */ DESIGNATED 38 
+LABEL bg1re_dirty_guard_candlekeep
 REQUIRE_FILE ~bg1re/backup/RE1_WarningMature.G3~ @77 /* ~This component has no teen rated version.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/dirtyguard/RE1DirtyGuard.d~
@@ -3991,7 +3930,8 @@ END
 
 /* Phoenix Flame, by Kulyok (mature content) */
 
-BEGIN @169 /* ~Phoenix Flame, by Kulyok (mature content)~ */ DESIGNATED 39 LABEL bg1re_phoenix_flame
+BEGIN @169 /* ~Phoenix Flame, by Kulyok (mature content)~ */ DESIGNATED 39 
+LABEL bg1re_phoenix_flame
 REQUIRE_FILE ~bg1re/backup/RE1_MatureContent.G3~ @77 /* ~This component has no teen rated version.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/phoenix/RE1Phoenix.d~
@@ -4002,7 +3942,8 @@ COMPILE EVALUATE_BUFFER ~bg1re/phoenix/RE1Phoenix.d~
 
 /* Mikala the Monk, by Twani */
 
-BEGIN @171 /* ~Mikala the Monk, by Twani~ */ DESIGNATED 40 LABEL bg1re_mikala_the_monk
+BEGIN @171 /* ~Mikala the Monk, by Twani~ */ DESIGNATED 40 
+LABEL bg1re_mikala_the_monk
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/mikala/re1mikala.d~
@@ -4057,7 +3998,8 @@ END
 
 /* The Messenger 2: Rain or Snow or Gloom of Night */
 
-BEGIN @99178 DESIGNATED 41 LABEL bg1re_the_messenger_2
+BEGIN @99178 DESIGNATED 41 
+LABEL bg1re_the_messenger_2
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 /* Compatibility: Skie and the Silvershield Heir */
@@ -4415,7 +4357,8 @@ END
 
 
  /* Camryn and Tamah, by tibicina */
-BEGIN @99179 DESIGNATED 42 LABEL bg1re_camryn_and_tamah
+BEGIN @99179 DESIGNATED 42 
+LABEL bg1re_camryn_and_tamah
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 
@@ -5629,7 +5572,8 @@ All~ */
 
 /* Minor Disclosures, by jastey */
 
-BEGIN @99176 DESIGNATED 43 LABEL bg1re_minor_disclosures
+BEGIN @99176 DESIGNATED 43 
+LABEL bg1re_minor_disclosures
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE ~bg1re/interruptions/C#LCINIT.baf~
@@ -5730,7 +5674,8 @@ LAF extend_area_script STR_VAR area="%EBaldursGate_ElfsongTavern_L1%" bottom="bg
 
 
 /* Cloakwood Lovers, by tibicina */
-BEGIN @99180 /* ~Cloakwood Lovers, by tibicina~ */ DESIGNATED 44 LABEL bg1re_cloakwood_lovers
+BEGIN @99180 /* ~Cloakwood Lovers, by tibicina~ */ DESIGNATED 44 
+LABEL bg1re_cloakwood_lovers
 REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 ADD_JOURNAL TITLE (@41) @40 USING ~bg1re/tra/autotra/%LANGUAGE%/TICLove.tra~

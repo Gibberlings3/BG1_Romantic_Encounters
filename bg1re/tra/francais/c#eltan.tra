@@ -1,0 +1,370 @@
+@0    = ~Vous devez arrêter les coupables !~
+@1    = ~J'ai ici le corps de La Balafre ! Je l'ai trouvé.~
+@2    = ~J'ai des nouvelles au sujet du corps de La Balafre ! J'ai trouvé où il est.~
+@3    = ~Avez-vous eu des informations au sujet du corps de La Balafre ?~
+@4    = ~Dans quel état se trouve La Balafre ?~
+@5    = ~Avez-vous des nouvelles au sujet d'une éventuelle résurrection de La Balafre ?~
+@6    = ~Est-ce que vous vous rétablissez bien, Monsieur ?~
+@7    = ~Je vais y aller..~
+@8    = ~Ici, je suis entre de bonnes mains. Même si je vous remercie de votre sollicitude, je dois vous demander de partir sans tarder à la poursuite des dirigeants du Trône de Fer !~
+@9    = ~Ah, <CHARNAME>, vous voilà. Vous allez être très surpris de voir qui est de retour, au sens propre du terme. Préparez-vous à retrouver un vieil ami. Je sais qu'il souhaite vous remercier.~ ~Ah, <CHARNAME>, vous voilà. Vous allez être très surprise de voir qui est de retour, au sens propre du terme. Préparez-vous à retrouver un vieil ami. Je sais qu'il souhaite vous remercier.~
+@10   = ~Un véritable miracle, n'est-ce pas ? Ah, <CHARNAME>. Quel bonheur d'avoir des amis. N'oubliez jamais ceci, jeune aventurier. La Balafre nous a fait ses adieux. Souhaitons-lui le meilleur. J'ai tenté de le convaincre de rester et de reprendre son poste une fois que toute cette... *tousse*... histoire sera terminée. Mais il mérite de prendre du repos. Il l'a bien gagné.~
+@11   = ~Je n'arriverai jamais à comprendre pourquoi vous avez attaqué un homme tout juste rappelé à la vie. Dehors, <CHARNAME>. Partez terminer ce que vous avez à faire. Quand les gens commenceront à vous couvrir de louanges pour avoir sauvé cette ville, n'oubliez jamais quel être minable vous êtes vraiment. Partez maintenant.~
+@12   = ~Ne perdez plus de temps !~
+@13   = ~Oui, je ne vais pas retarder mes recherches une minute de plus. Au revoir !~
+@14   = ~Il me sera totalement inutile de réussir si vous venez à mourir pendant ce temps.~
+@15   = ~Puis-je faire quoi que ce soit d'autre pour vous ?~
+@16   = ~Etes-vous certain que cela va aller ?~
+@17   = ~Je ne peux partir sans avoir parlé de La Balafre ! S'il vous plaît... racontez-moi comment il est mort.~
+@18   = ~J'aurais bien besoin d'aide !~
+@19   = ~Je viens de sauver vos nobles fesses. Cela mérite bien une récompense ?~
+@20   = ~Vous avez raison, je ne sais même pas pourquoi j'ai entamé cette conversation.~
+@21   = ~Bonne chance à vous, jeune <CHARNAME>, et hâtez-vous. Notre sort est entre vos mains !~
+@22   = ~Même si cela devait arriver, ma survie n'est pas quelque chose d'essentiel en ce moment. Vous m'avez déjà sauvé d'une mort certaine. Vous devez maintenant arrêter ces traîtres, pour nous sauver tous.~
+@23   = ~J'ai bien peur de ne rien pouvoir faire. Angelo a pris le contrôle du Poing Enflammé, Ils vous pourchasseront dès que vous montrerez le bout de votre nez. Moi-même je dois me cacher jusqu'à ce qu'on mette fin à ses plans maléfiques.~
+@24   = ~Ne perdez pas courage ! Vous êtes arrivé jusqu'ici et si vous êtes prêt à vous battre de toutes vos forces, vous réussirez.~ ~Ne perdez pas courage ! Vous êtes arrivée jusqu'ici et si vous êtes prête à vous battre de toutes vos forces, vous réussirez.~
+@25   = ~J'étais quasiment nu comme un ver lorsque vous m'avez trouvé. Même s'il était en mon pouvoir de vous donner une récompense, il vous faudrait attendre que le moment soit venu.~
+@26   = ~Votre mission n'est pas terminée ! Ce que vous avez déjà fait ne servira à rien si vous ne mettez pas un terme aux évènements qui se déroulent en ce moment-même. Ne comprenez-vous donc pas à quel point il est important de pourchasser les dirigeants du Trône de Fer ?~
+@27   = ~Avec le temps oui, ça ira. Normalement je suis en sécurité ici.~
+@28   = ~Etes-vous certain que les gens ici agiront bien dans votre intérêt ?~
+@29   = ~Puis-je faire quoi que ce soit pour vous ? Quelque chose de plus... personnel ?~
+@30   = ~Cela fait plaisir à entendre.~
+@31   = ~Mais... oui, c'est bien le corps de La Balafre ! Comment diable avez-vous fait...~
+@32   = ~Un reçu ? Etes-vous en train de me dire que... Oui, forcément. Comment diable avez-vous fait...~
+@33   = ~Peu importe. Vite, donnez-le moi.~
+@34   = ~Mon ami le Maître du Port a de bons contacts quasiment partout. Je vous promets, loyal ami, de faire tout ce qui est en mon pouvoir pour mon ancien commandant en second. S'il y a moyen de le rappeler à la vie, ce sera fait. Promis !~ ~Mon ami le Maître du Port a de bons contacts quasiment partout. Je vous promets, loyale amie, de faire tout ce qui est en mon pouvoir pour mon ancien commandant en second. S'il y a moyen de le rappeler à la vie, ce sera fait. Promis !~
+@35   = ~Et s'il n'y a pas moyen, je lui donnerai une inhumation décente. C'est le moins que je puisse faire pour mon vieil ami.~
+@36   = ~<CHARNAME>, je suis vraiment votre débiteur. Mais j'insiste : vous devez vous remettre en route et mettre hors d'état de nuire celui qui est derrière tout cela !~
+@37   = ~Ne vous inquiétez pas de ces détails mineurs. Vous devez vous concentrer sur ce qui vous attend ! Pour ma survie, je fais confiance au Maître du Port.~
+@38   = ~Je ne vois aucune mission que je pourrais vous donner. Que pourriez-vous bien faire pour moi alors que toute la ville, que dis-je, toute la Côte des Epées a besoin de votre aide ?~
+@39   = ~Eh bien... Un homme peut finir par se sentir seul s'il reste trop longtemps alité. Peut-être pourrais-je vous aider à stimuler la circulation du sang par un bon massage au bon endroit...~
+@40   = ~Vous avez raison, je dois y aller.~
+@41   = ~Etes-vous sincèrement en train de proposer ce genre de situation intime à un Duc de la Porte de Baldur en ce moment précis ?? Si j'avais mes gardes à ma disposition, je les appellerais pour qu'ils vous indiquent la sortie ! *tousse*~
+@42   = ~Mais vous avez probablement dit cela juste pour m'irriter, même si je ne sais vraiment pas pourquoi... *tousse*.~
+@43   = ~Je me sens affaibli, <CHARNAME>. Une énorme tâche vous attend !~
+@44   = ~Pas de nouvelle, j'en ai bien peur. Mon ami le maître du Port s'est assuré qu'il a été amené dans un endroit sûr. Les prêtres ne sont pas d'accord entre eux sur ce qu'il est possible de faire pour lui. Ce sont les dernières nouvelles, et malheureusement je n'ai rien de plus à vous dire.~
+@45   = ~Il a été assassiné dans les rues... Et il était seul, quel idiot !... On dit qu'il a été assassiné par les Voleurs de l'Ombre. *tousse* On a trouvé sur lui un stylet et un masque, la signature des Voleurs de l'Ombre. *Sur* lui, <CHARNAME>. Cela a dû être horrible.~
+@46   = ~Je n'ai pas pu voir son corps lorsqu'il a été amené au quartier général du Poing Enflammé, j'étais déjà à terre et gravement blessé. Il faut que vous sachiez *tousse* qu'un doppelganger avait pris l'apparence de La Balafre et était revenu ici m'attaquer ! Imaginez l'horreur qui m'a saisi lorsque mon commandant en second s'est transformé en sosie et m'a attaqué ! Quelles horribles créatures ! Celui-là n'a pas réussi à me tuer, mais l'autre y serait certainement parvenu si vous ne m'aviez pas sauvé !~
+@47   = ~Vous êtes en train de me dire que son corps a été perdu ?~
+@48   = ~Mais que s'est-il passé ?~
+@49   = ~Ah, c'est bien dommage.~
+@50   = ~Je n'ai aucune idée d'où il peut bien être. Il avait été mis en sécurité dès sa découverte, <CHARNAME>, tout comme celui de Sire Entar. *d'un ton amer* Vous devez comprendre que tout ceci s'est produit avant la trahison d'Angelo. Nous espérions pouvoir le rappeler à la vie !~
+@51   = ~Le corps de Sire Entar a été rendu à sa famille. Mais je n'ai aucune idée de l'endroit où celui de La Balafre se trouve. Des sbires d'Angelo l'ont amené quelque part, je suppose. Je croyais que les prêtres étaient en train de s'occuper de lui, alors qu'en réalité Angelo avait déjà ordonné de s'en débarrasser quelque part. Cela s'est passé comme ça, car je les ai entendus parler de donner ses possessions personnelles aux serviteurs !~
+@52   = ~Il est probablement perdu pour de bon, mon jeune ami, et j'ai bien peur qu'avec tout ce qui se passe en ce moment nous n'ayons pas le temps de le rechercher. *tousse* Je ne peux m'en charger. Les sbires d'Angelo ne nous diront rien, donc les seuls qui pourraient avoir vu quelque chose sont ses fidèles serviteurs qui ont été renvoyés cette nuit-là. Ils sont probablement éparpillés dans toute la ville, s'ils ne l'ont pas déjà quittée. Le problème est de gagner leur confiance, car je doute qu'ils sortent de leurs cachettes pour prendre contact avec vous.~ ~Il est probablement perdu pour de bon, ma jeune amie, et j'ai bien peur qu'avec tout ce qui se passe en ce moment nous n'ayons pas le temps de le rechercher. *tousse* Je ne peux m'en charger. Les sbires d'Angelo ne nous diront rien, donc les seuls qui pourraient avoir vu quelque chose sont ses fidèles serviteurs qui ont été renvoyés cette nuit-là. Ils sont probablement éparpillés dans toute la ville, s'ils ne l'ont pas déjà quittée. Le problème est de gagner leur confiance, car je doute qu'ils sortent de leurs cachettes pour prendre contact avec vous.~
+@53   = ~Le corps de La Balafre
+
+Eltan m'a expliqué que le corps de La Balafre a été perdu la nuit où il a été assassiné. Si je veux avoir une chance de le retrouver je vais devoir identifier et gagner la confiance de ses anciens serviteurs loyaux du Poing Enflammé, ou rechercher les restes de ses possessions personnelles qui pourraient refaire surface dans la ville !~
+@54   = ~Oui ! Ces loyaux serviteurs sont venus et ils ont amené... ce qu'ils ont trouvé. Comment diable l'avez-vous trouvé ? Mais aucune importance.~
+@55   = ~Nous lui avons donné un repos éternel bien mérité. C'est la seule chose qu'il nous restait à faire. Ce fut une inhumation décente, même si un peu trop vite expédiée et faite dans une certaine discrétion... J'aurais voulu rendre un dernier hommage à cet homme éminemment respectable d'une manière plus digne, mais nous n'en avons hélas pas le temps dans la situation actuelle.~
+@56   = ~Quelques vieux amis étaient présents. Mon commandant en second avait de bons amis... Pas du genre à dégainer leurs armes pour se venger, mais plutôt du genre à porter une once de pouvoir divin. Je dois admettre que je n'y crois pas vraiment, <CHARNAME>, mais il y aurait un espoir... un mince espoir qu'une résurrection soit possible.~
+@57   = ~Il faudra une puissante magie, dont on a besoin lorsque la personne est déjà perdue. Mais rien n'est certain, et je ne vais pas me faire de faux espoirs. Mais je crois vraiment que la personne qui a évoqué cette possibilité en est convaincue.~
+@58   = ~Permettez-moi de vous remercier encore une fois du fond du coeur, <CHARNAME>. *tousse* Il ne méritait pas de pourrir au fond d'une caisse.~
+@59   = ~Le corps de La Balafre
+
+Le duc Eltan a mentionné des amis de La Balafre qui auraient suffisamment de pouvoir divin pour le rappeler à la vie. C'est prometteur...~
+@60   = ~Non aucune pour l'instant. Les amis de mes amis font profil bas en ce moment, et ils ont bien raison. Il va nous falloir être patient. Ce genre de choses prend du temps.~
+@61   = ~Bienvenue ! Max Donnerjan à votre service, votre partenaire professionnel pour vous aider à vider vos maisons ! Je n'ai malheureusement pas d'objets en ce moment. Mais revenez plus tard et - qui sait ? - vous trouverez peut-être le petit trésor que vous cherchez depuis si longtemps.~
+@62   = ~Ah, dommage. Je n'ai pas d'objets en ce moment et personne ne semble vouloir vider sa maison. Par les temps qui courent les gens s'accrochent à leurs possessions, vous comprenez.~
+@63   = ~Bienvenue ! Max Donnerjan à votre service, votre partenaire professionnel pour vous aider à vider vos maisons ! Est-ce que certains de mes objets pourraient vous intéresser ?~
+@64   = ~Pourquoi pas, laissez-moi jeter un coup d'oeil.~
+@65   = ~D'où viennent tous ces objets ?~
+@66   = ~Non, cela ne m'intéresse pas.~
+@67   = ~Voulez-vous à nouveau jeter un coup d'oeil à mes objets ?~
+@68   = ~J'ai déjà vu ce vase. Il appartenait à La Balafre, qui a été assassiné. Expliquez-vous !~
+@69   = ~Où avez-vous eu ce vase ?~
+@70   = ~Je connaissais l'ancien propriétaire de ce vase, et je suis certain qu'il ne vous l'a pas vendu.~ ~Je connaissais l'ancien propriétaire de ce vase, et je suis certaine qu'il ne vous l'a pas vendu.~
+@71   = ~Ah, très bon choix. Cette chope est visiblement délicate et précieuse, et pas faite pour boire...~
+@72   = ~Je vous assure qu'aucun de mes objets n'a été volé ! Je les récupère de-ci de-là, lorsque les gens vident leur maison ou lorsqu'ils n'en ont plus l'utilité. Comme je le dis toujours, il y a forcément quelqu'un à la recherche de l'objet dont vous voulez vous débarrasser !~
+@73   = ~Aucun de mes objets n'a été volé ou pris par la force ! Je le jure ! Ce vase vient d'une maison vidée il y a peu. J'en ai acheté la clé à un respectable serviteur nommé Kelder. Il travaillait pour le Poing Enflammé, avant qu'il ne perde son emploi à cause des problèmes avec les évènements récents, pauvre homme. Vous devriez pouvoir le trouver dans la taverne du district des docks... pas la Lanterne Assourdie, l'autre. Au nord du bâtiment du Maître du Port.~
+/* new for v3.0: corrected to Carnival */
+@74   = ~Le corps de La Balafre
+
+J'ai trouvé le vase de La Balafre dans une boutique d'articles d'occasion sur la place du marché de la Porte de Baldur ! Le vendeur dit qu'il l'a obtenu d'un homme nommé Kelder, que je devrais pouvoir trouver dans la taverne au nord du bâtiment du Maître du Port. Il est *certain* que ce vase a été pris dans les appartements de La Balafre après sa mort. Je me demande comment cet homme a pu en obtenir la clé... La Balafre l'avait certainement sur lui quand il a été assassiné !~
+@75   = ~Fiche-moi la paix, gamin. Je ne veux pas avoir l'air agressif, mais la vie ne m'a pas fait de cadeau ces derniers temps et j'ai envie de boire ma bière tranquillement.~ ~Fiche-moi la paix, gamine. Je ne veux pas avoir l'air agressif, mais la vie ne m'a pas fait de cadeau ces derniers temps et j'ai envie de boire ma bière tranquillement.~
+@76   = ~D'accord, je vous laisse tranquille.~
+@77   = ~Un boutiquier m'a dit que vous lui avez vendu une clé, celle des appartements privés de La Balafre ! Qu'avez-vous à me dire à ce sujet ?~
+@78   = ~Que vous est-il arrivé ?~
+@79   = ~Ah, vous ne voulez pas avoir l'air agressif ? Et si je vous apprenais les bonnes manières ?~
+@80   = ~Ah ouais, quel genre de manières comptes-tu m'apprendre ? Allez gamin, laisse un vieux bonhomme boire sa bière.~ ~Ah ouais, quel genre de manières comptes-tu m'apprendre ? Allez gamine, laisse un vieux bonhomme boire sa bière.~
+@81   = ~(soupir) Des histoires de vieux bonhomme, gamin. Je n'ai jamais trouvé de femme, ma vie c'était mon travail. Le patron a changé, on n'a plus besoin de moi maintenant. Il ne me reste que des souvenirs. Et cette bière.~ ~(soupir) Des histoires de vieux bonhomme, gamine. Je n'ai jamais trouvé de femme, ma vie c'était mon travail. Le patron a changé, on n'a plus besoin de moi maintenant. Il ne me reste que des souvenirs. Et cette bière.~
+@82   = ~C'est cela, oui.~
+@83   = ~C'est ce que j'ai fait, ouais. Je n'ai pas tué notre commandant en second. J'avais un très grand respect pour La Balafre. Mais il était mort, hein. Il n'avait pas besoin de son manteau pour son dernier voyage, n'est-ce pas ? Oh je sais ce que vous pensez mais non, je n'ai pas fouillé le reste de son corps. Tout d'un coup c'était la panique, le nouveau commandant a commencé à renvoyer les gens. J'ai récupéré le manteau et d'autres trucs, on m'a dit de m'en débarrasser juste quelques heures après avoir appris sa mort.~
+@84   = ~Et puis je me suis retrouvé à la rue. Personne n'en avait plus rien à faire de l'ancien commandant en second, hein. Bien au contraire, les gens me suggéraient fortement de me taire quand je commençais à parler de lui... J'étais sans travail, j'ai pensé que vendre le contenu des appartements à un brocanteur m'aiderait à m'en sortir, vous voyez. Notre commandant en second n'avait pas de famille, du moins pas à ma connaissance.~
+@85   = ~J'en suis pas fier, hein, mais il faut bien vivre. Vous voulez savoir qui m'a donné le manteau ? Allez voir Chester ou Hung. Ce sont eux qui ont rentré son corps, quand on pensait que tout ceci n'était qu'une simple agression malveillante et que tout rentrerait très vite dans l'ordre. Vous les trouverez à leur nouveau boulot, dans un des entrepôts en bas de la rue. Le deuxième à partir d'ici il me semble. Ils savent probablement ce qui s'est passé. Moi je n'en sais rien, c'est sûr.~
+@86   = ~Le corps de La Balafre
+
+J'ai parlé à Kelder, un ancien serviteur du Poing Enflammé. Il a dit qu'il a obtenu la clé par Chester et Hung, qui travaillent maintenant au deuxième entrepôt dans le district des docks.~
+@87   = ~J'y compte bien.~
+@88   = ~Arrêtez de rigoler. Ces objets n'ont de valeur que pour notre employeur M. Nadarin. Des tableaux de chiffres, des listes, des factures, ce genre de trucs. Vous ne pensez pas sérieusement qu'il nous laisserait garder quelque chose de véritablement précieux, quand même ?~
+@89   = ~Que faites-vous ici ?~
+@90   = ~Je pars immédiatement.~
+@91   = ~Vous montez la garde, hein ? Il doit donc y avoir des objets de valeur ici, vu qu'il y a deux gardes ?~
+@92   = ~Kelder m'a dit que c'est vous qui avez transporté le corps de La Balafre après qu'il ait été assassiné. J'ai quelques questions à ce sujet.~
+@93   = ~Quoi ?~
+@94   = ~On vous a dit tout ce qu'on sait. S'il vous plaît, on ne veut plus entendre parler de cette histoire et on voudrait se faire oublier. Donc ce serait bien que vous partiez, tout de suite.~
+@95   = ~Duntrin a dit que vous avez amené ici des caisses du quartier général du Poing Enflammé. Où sont-elles ?~
+@96   = ~Je m'en vais.~
+@97   = ~Oh, je...~
+@98   = ~Rebonjour.~
+@99   = ~On n'a plus du tout envie de parler de cette nuit-là, vraiment.~
+@100  = ~Nous... On se remet au boulot... Oh, vous n'êtes pas M. Nadarin. Euh, nous sommes en train de... garder le bureau, oui. Mais nous ne sommes pas en train de flemmarder hein, ah non, pas du tout.~
+@101  = ~Nous *montons la garde*, hein ? Et vous, que faites-vous là si je puis me permettre ?~
+@102  = ~C'est bien vrai ! Nous n'avons pas à nous justifier.~
+@103  = ~Euh oui, on l'a fait. Mais ce n'est pas nous qui l'avons trouvé, vous savez. Quand on nous a appelé pour le transporter, toute trace de ses assassins avait déjà disparu.~
+@104  = ~Et puis on ne l'a pas vraiment vu, hein. Il était déjà enveloppé dans une couverture. C'est drôle en fait. On pourrait croire qu'ils l'auraient directement emmené chez un prêtre, pour le soigner ou le faire revivre et tout et tout, vous voyez.~
+@105  = ~Eh ben au lieu de ça ils l'ont envoyé dieu sait où. Vous voyez, il n'y avait plus personne pour donner les ordres vu que le duc Eltan était très malade et La Balafre était mort, tout le monde était là à dire "oh la la, il faut le ramener à la vie, et vite !". Et puis Angelo a pris le pouvoir, et tout d'un coup tout le monde se fiche de La Balafre. Des gens ont été renvoyés, ou ont fui...~
+@106  = ~Eh bien tu as entendu les rumeurs, Hung, pourquoi les gens ont disparu tout d'un coup.~
+@107  = ~Ces rumeurs me fichent les jetons Chester, et tu le sais. Je n'en sais pas plus, nous avons été licenciés du Poing Enflammé juste au moment où le chaos a commencé...~
+@108  = ~On se demande vraiment qui fait le sale boulot là-bas maintenant. Presque tous les serviteurs sont partis, les mercenaires doivent vider eux-mêmes leurs pots de chambre maintenant, ha ha ha !~
+@109  = ~Chester, arrête de m'interrompre !~
+@110  = ~Madame, vous devez comprendre une chose : au début c'était "il faut le ramener à la vie, où sont les prêtres ??", et puis c'est devenu "non, on ne fait rien, videz son bureau", et finalement ça a été "personne ne fait rien sans la permission d'Angelo, fichez le camp d'ici".~
+@111  = ~Sire, vous devez comprendre une chose : au début c'était "il faut le ramener à la vie, où sont les prêtres ??", et puis c'est devenu "non, on ne fait rien, videz son bureau", et finalement ça a été "personne ne fait rien sans la permission d'Angelo, fichez le camp d'ici".~
+@112  = ~A ce moment-là on avait déjà commencé à se débarrasser de ses affaires. On avait déjà donné le manteau à Kelder, qui était supposé s'en débarrasser. Il était bien usé, de toute façon.~
+@113  = ~Pour faire simple, on a décidé que ce serait une bonne idée de filer de là. Nous devions amener des caisses à l'entrepôt de toute façon, et quand M. Nadarin nous a proposé ce boulot nous avons accepté. Désolé de ne pas pouvoir vous aider plus. Mais si vous voulez entendre une autre version de ce qui s'est passé cette nuit-là, allez parler à Duntrin. Il a changé de boulot lui aussi. Vous le trouverez à la taverne de Keexie. Celle à côté des objets magiques de Toubazar Drin, vous voyez ?~
+@114  = ~Le corps de La Balafre
+
+J'ai parlé à Hung et à Chester, deux anciens serviteurs au Poing Enflammé. Ils m'ont dit d'aller parler à Duntrin, si je veux savoir ce qui est arrivé à La Balafre après qu'Angelo ait pris le contrôle du Poing Enflammé. Je devrais pouvoir le trouver à la taverne de Keexie, près de la porte Est de la cité.~
+@115  = ~Ce serait donc la pile 2/7, pourquoi donc...?~
+@116  = ~NON ! Sérieusement ? Tu n'es pas en train de me dire que... Oh !~
+@117  = ~Quoi ? Qu'est-ce qui se passe ?~
+@118  = ~Hung, la caisse ! La caisse pour laquelle Duntrin a fait tout un bazar. Elle devrait être par là...~
+@119  = ~Quoi ? Je ne vois absolument pas de quoi tu parles !~
+@120  = ~La caisse ! La *caisse*, Hung ! Il faut y jeter un coup d'oeil. Il y a *une* caisse de plus que ce qu'il y a marqué dans les papiers, car Duntrin a fait tout un bazar à son sujet et on l'a empilée avec les autres de façon à ce que M. Nadarin ne remarque rien. C'est notre nouveau patron, et de toute façon il est assez absent en ce moment. La dernière fois qu'on l'a vu il a grommelé quelque chose au sujet d'ordres de transport annulés à cause de la crise du fer et il espérait une reprise rapide des affaires vu que les bandits ont été éliminés... et puis il est reparti.~
+@121  = ~Mais je parle vraiment trop ! Si on jetait un coup d'oeil ?~
+@122  = ~Comment ? Où ?~
+@123  = ~D'accord voyons voir... Les papiers au sujet de la pile 2/7, pile 2/7...~
+@124  = ~Oui, oui, il est là ! Que voulez-vous faire ?~
+@125  = ~Je veux récupérer le corps de La Balafre et l'amener en personne au duc Eltan.~
+@126  = ~Je n'ai pas assez de temps. Dites-moi juste où il se trouve et je ferai passer l'information au duc Eltan.~
+@127  = ~Je ne vais rien faire ! Vous irez raconter tout cela au Maître du Port. C'était quand même le bras droit du duc Eltan, le commandant en second ! Vous ne voudriez quand même pas laisser son corps pourrir dans une caisse, n'est-ce pas ?!~
+@128  = ~Euh... Bon, je pense que vous avez raison. Hung, il faut le faire. Ce sera... une sorte de dernier hommage pour notre maître, une personne juste et que nous respections beaucoup.~
+@129  = ~Laissez-moi juste copier les informations de transport, et puis on le transférera.~
+@130  = ~Enfoiré de Duntrin ! Pourquoi diable n'a-t-il rien dit ?~
+@131  = ~Parce qu'à sa place tu aurais aimé que quelqu'un sache qu'il y avait un cadavre ?~
+@132  = ~Euh... Non Hung, en fait tu as raison.~
+@133  = ~Ecoutez-moi bien : maintenant il faut que vous partiez. Désolé d'être un peu rude, mais le souvenir de cette nuit m'emplit encore de frayeur. Je suis sûr que la personne qui a fait assassiner La Balafre n'aurait aucun problème à éliminer deux autres témoins. Je vous promets d'alerter le Maître du Port dès votre départ.~
+@134  = ~Le corps de La Balafre
+
+J'ai retrouvé le corps de La Balafre ! Je devrais certainement en parler au duc Eltan.~
+@135  = ~Bien, voilà. Prenez la copie de ce reçu, elle contient toutes les informations nécessaires.~
+@136  = ~Ecoutez-moi bien : prenez-la et filez, d'accord ? Désolé d'être un peu rude, mais le souvenir de cette nuit m'emplit encore de frayeur. Je suis sûr que la personne qui a fait assassiner La Balafre n'aurait aucun problème à éliminer deux autres témoins.~
+@137  = ~Le corps de La Balafre
+
+J'ai retrouvé le corps de La Balafre ! J'ai la certitude que le duc Eltan sera content de l'apprendre.~
+@138  = ~Alors suivez-moi, il est encore là !~
+@139  = ~D'accord, c'est par ici. Voyons. C'est celui-ci... Hung, attrape-le par l'autre côté...~
+@140  = ~Oh bon sang... Hung, regarde ça !~
+@141  = ~Est-ce que c'est... ?~
+@142  = ~Oh que oui. Foutu Duntrin ! Pourquoi n'a-t-il rien dit ?~
+@143  = ~Maintenant vous le prenez, d'accord ? Vous avez voulu retrouver ce corps, et là vous l'avez. Je vous prie de le prendre et de l'amener *très* loin de cet entrepôt.~
+@144  = ~Désolé d'être un peu rude, mais le souvenir de cette nuit m'emplit encore de frayeur. Je suis sûr que la personne qui a fait assassiner La Balafre n'aurait aucun problème à éliminer deux autres témoins. Hung, débarrassons-nous de cette caisse en trop avant que M. Nadarin ne remarque quelque chose.~
+@145  = ~Le corps de La Balafre
+
+J'ai retrouvé le corps de La Balafre ! Il était caché dans une caisse. Oui, une caisse ! J'ai la certitude que le duc Eltan sera content de l'apprendre.~
+@146  = ~Désolé mais je n'ai pas le temps de discuter. J'ai vraiment besoin de ce boulot, et parler avec les clients ne fait pas partie de mes missions, vous voyez.~
+@147  = ~Si vous voulez commander quelque chose, adressez-vous au patron derrière le comptoir. Moi je ne fais que renouveler les pintes.~
+@148  = ~Hung et Chester nous ont raconté une histoire très confuse au sujet de la nuit où La Balafre a été assassiné.~
+@149  = ~Dans ce cas je vous laisse travailler.~
+@150  = ~Qu'est-ce que vous voulez dire, exactement ?~
+@151  = ~Le duc Eltan m'a dit que le corps de La Balafre a disparu. J'aimerais le retrouver.~
+@152  = ~Je veux savoir où est mon ami, c'est tout.~
+@153  = ~Que s'est-il passé la nuit où Angelo a pris le contrôle du Poing Enflammé ?~
+@154  = ~Rien, en fait. Je m'en vais.~
+@155  = ~Le duc... Eltan ? Il est vivant ?~
+@156  = ~Sans aucun doute.~
+@157  = ~Oups.~
+@158  = ~Qu'est-ce que cela signifie ?! Auriez-vous participé à son assassinat ?~
+@159  = ~Qu'est-ce que j'en sais ?~
+@160  = ~Ben c'est ce que vous venez de me dire, non ?~
+@161  = ~Oui, je vous crois. Quelle bonne nouvelle ! Non, ne me dites pas où il se cache. Je ne veux pas le savoir, et de toute façon ma vie ne tient qu'à un fil. Je le sais bien.~
+@162  = ~Je suppose que Hung et Chester vous ont parlé de la confusion qui régnait cette nuit-là. Tout s'est passé si vite... Angelo était tellement pressé de prendre le contrôle et ne faisait que rudoyer les gens. Cette nuit-là, presque tous les loyaux serviteurs ont été renvoyés. A ce moment-là, ils s'étaient déjà organisés pour que des prêtres s'occupent de La Balafre. Vu qu'il était mutilé, il paraissait quasiment impossible de le rappeler à la vie. Mais j'ai entendu dire qu'ils avaient pris grand soin de le préserver au mieux, histoire de gagner du temps dans l'optique d'une possible résurrection.~
+@163  = ~Lorsqu'Angelo s'est rendu compte que des prêtres préservaient le corps de La Balafre, je suppose qu'il les a immédiatement congédiés. A ce moment-là je travaillais encore là-bas comme commis en cuisine. J'ai vu des mercenaires d'Angelo déposer une caisse à côté des poubelles de la cuisine. Je ne sais pas ce qui m'a pris de l'ouvrir et d'y jeter un coup d'oeil. Imaginez l'horreur qui m'a saisi lorsque j'ai réalisé qu'il contenait le corps de notre commandant en second !~
+@164  = ~Je n'ai pas vraiment eu le temps de réfléchir... alors je l'ai déplacé vers une pile d'autres caisses qui devaient être amenées hors de la ville. A ce moment-là, j'avais déjà décidé qu'il était grand temps que je file de là. C'est marrant que Hung et Chester vous aient parlé de moi, vous voyez. Parce que je crois que ce sont eux qui ont transporté la pile de caisses à l'entrepôt.~
+@165  = ~Pardonnez-moi. Je sais que j'aurais dû me montrer plus courageux, mais je n'ai pas pu. Mais j'avais un mince espoir que cet acte soit pour le meilleur, après tout. Misère, je pensais que je pourrais échapper à cette période troublée en restant ici le plus discrètement possible, mais j'en ai trop vu et trop dit, je le sais bien. Je dois fuir le plus loin possible de cette ville. Oui, c'est ce que je vais faire, et tout de suite. Bonne chance dans vos recherches, du fond du coeur.~
+@166  = ~Le corps de La Balafre
+
+J'ai parlé à Duntrin, un des anciens serviteurs au Poing Enflammé. Il a dit avoir vu le corps de La Balafre après qu'Angelo ait tenté de s'en débarrasser. Il faut que je revienne parler à Hung et Chester à cet entrepôt dans les docks. Peut-être que le corps de La Balafre se trouve encore dans une des caisses !~
+@167  = ~Votre ami ?~
+@168  = ~Oui, mon ami. Il m'a été fort déplaisant de découvrir dans une boutique d'articles d'occasion la chope à bière à laquelle il tenait tant, vous voyez.~
+@169  = ~Peu importe. Que s'est-il passé cette nuit-là ?~
+@170  = ~Je comprends que vous puissiez avoir cette impression. Et pourtant non, pas du tout. Mais je ne suis pas complètement débile non plus. Des rumeurs ont couru qu'il était gravement malade et qu'il allait mourir de toute façon, et cela tombait *tellement* bien que cela ne pouvait pas être une coïncidence. Surtout avec tous les évènements qui se sont produits à ce moment-là.~
+@171  = ~Eh bien sire Entar et le commandant en second ont été assassinés, puis Angelo a pris le pouvoir. Beaucoup de gens ont été virés, et j'en fais partie.~
+@172  = ~Vous vous croyez amusant ? Va-t-il falloir que je vous tabasse pour que vous crachiez vos informations ?~
+@173  = ~Cogner ne vous servira à rien si vous n'êtes même pas capable de poser une question correctement. Que voulez-vous savoir exactement ?~
+@174  = ~Oui, je comprends.~
+@175  = ~Ah, qu'avez-vous donc ici ? Déjà bien rigide, mais on dirait quand même qu'il a été préservé ? Hum, ce visage me rappelle quelque chose...~
+@176  = ~Il s'agit de La Balafre, le commandant en second. Il a été assassiné.~
+@177  = ~J'ai cru comprendre que vous êtes un nécromancien. Auriez-vous la possibilité de le rappeler à la vie ?~
+@178  = ~Bas les pattes ! Ce corps-là n'est pas pour vous.~
+@179  = ~Ah ! Je me disais bien que je l'avais déjà vu quelque part.~
+@180  = ~Hum, vu son état, il ferait un bon zombi. Un homme avec sa capacité au combat serait vraiment le bienvenu ! Cela vous dirait de me le laisser ?~
+@181  = ~Ah, ne rêvons pas, même une personne comme moi devrait éviter de se faire mal voir des forces de l'ordre de la ville. Reprenez-le s'il vous plaît. Et amenez-moi plutôt des anonymes qui ne manqueront à personne !~
+@182  = ~Quoi encore ?!~
+@183  = ~Il *s'agissait* de... Quelle tristesse ! (renifle)~
+@184  = ~Ecoutez-moi bien espèce d'idiot, vous êtes en train de jouer avec des forces que vous n'imaginez même pas. Est-ce que j'ai l'air de quelqu'un qui a envie qu'on lui amène des cadavres dans sa maison ? Et celui du commandant en second assassiné, qui plus est ??~ ~Ecoutez-moi bien espèce d'idiote, vous êtes en train de jouer avec des forces que vous n'imaginez même pas. Est-ce que j'ai l'air de quelqu'un qui a envie qu'on lui amène des cadavres dans sa maison ? Et celui du commandant en second assassiné, qui plus est ??~
+@185  = ~Je ne compte pas me mêler des affaires des nouveaux puissants de la ville. Partez et emmenez ce corps ailleurs.~
+@186  = ~Regardez ce corps. Cet homme a été assassiné. Auriez-vous la possibilité de le ramener à la vie ?~
+@187  = ~Le rappeler à la vie ? Et dans quel but ? Il arrive un moment où il faut savoir accepter ce que le destin a mis en travers de votre route... (soupir) Et maintenant laissez-moi tranquille, s'il vous plaît.~
+@188  = ~Vous avez amené un tas d'os et de chair puants dans ma maison et vous me demandez de faire quoi ?? Attendez... Hum, il a l'air d'avoir été préservé d'une manière ou d'une autre, il est en meilleur état que je ne l'aurais cru.~
+@189  = ~Mais hélas non, je ne le ferai pas. Préservé ou pas, il faudrait une puissante magie que je n'ai pas l'intention d'utiliser. Allez voir dans un temple !~
+@190  = ~Si je peux le ramener à la vie ? Oui, sûrement. Est-ce que je vais le faire ? Non, et je ne reviendrai pas sur ma décision. Et avant que vous ne me traitez de vieux crétin insensible : oui, je suis un vieux crétin insensible. Et en plus de cela, je vois que ce corps a subi de graves blessures qui nécessiteraient une puissante magie nécromantique pour les guérir. Il y a des gens bien plus compétents que moi pour ce genre de travail, surtout parce qu'ils le feront de leur plein gré. Ce qui n'est pas mon cas.~
+@191  = ~Et je suis bien conscient qu'il s'agit du commandant en second de la Porte de Baldur, jeune aventurier. Je ne sais pas trop ce qui s'y passe en ce moment, mais vous devriez peut-être le remballer et le dissimuler avant que les gens ne commencent à se demander pourquoi il est en votre possession.~ ~Et je suis bien conscient qu'il s'agit du commandant en second de la Porte de Baldur, jeune aventurière. Je ne sais pas trop ce qui s'y passe en ce moment, mais vous devriez peut-être le remballer et le dissimuler avant que les gens ne commencent à se demander pourquoi il est en votre possession.~
+@192  = ~Oh, vous surestimez largement mes pouvoirs, malheureusement. Non, je n'ai pas accès à ce genre de magie.~
+@193  = ~Non seulement votre ami est mort depuis déjà un certain temps, mais il a aussi été gravement blessé. Il y a moyen de rappeler à la vie une personne morte de cette manière, mais il faut pour cela une puissante magie qui est au-delà de mes capacités.~
+@194  = ~Je suis vraiment désolé.~
+@195  = ~Je suis navré. Il existe des moyens de rappeler à la vie une personne décédée depuis longtemps, mais cela nécessite une magie bien au-delà de ce que ce temple peut vous proposer.~
+@196  = ~Beaucoup d'aubes se sont succédées depuis le moment où cet homme est violemment passé de vie à trépas... Mon coeur se lamente mais je ne puis vous aider, jeune voyageur. Que Lathandre vous bénisse.~ ~Beaucoup d'aubes se sont succédées depuis le moment où cet homme est violemment passé de vie à trépas... Mon coeur se lamente mais je ne puis vous aider, jeune voyageuse. Que Lathandre vous bénisse.~
+@197  = ~<CHARNAME>, pourquoi ? Tous ces efforts, uniquement pour pouvoir me tuer de vos propres mains ? Non, je ne vais pas renoncer à cette nouvelle vie si facilement.~
+@198  = ~Le corps de La Balafre
+
+J'ai rencontré La Balafre ! Il a été rappelé à la vie, et nous avons eu une... dernière discussion. Il n'a certainement pas eu l'accueil qu'il attendait.~
+@199  = ~<CHARNAME> ! J'espérais que vous viendriez. On m'a raconté que vous m'avez sauvé.~
+@200  = ~Mon vieil ami... Et vous voilà, tout nouveau tout beau !~
+@201  = ~La Balafre ! La Balafre ! Vous êtes... Vous êtes... (Des larmes commencent à emplir vos yeux.)~
+@202  = ~Je vois que vos amis ont tenu leur promesse.~
+@203  = ~Oh, c'est vous. Je pensais trouver quelqu'un d'important ici.~
+@204  = ~Votre place n'est plus ici, La Balafre. Je vais m'assurer que vous allez revenir dans le monde des morts.~
+@205  = ~Oh, mais je dois dire qu'ils ne m'avaient jamais fait cette promesse. (rit)~
+@206  = ~C'est vraiment bon de vous revoir.~
+@207  = ~Enfin ! Quelqu'un qui voit les choses de la même manière que moi.~
+@208  = ~Mais cela veut-il dire que vous n'êtes pas emballé de me retrouver en vie, en pleine forme ?~ ~Mais cela veut-il dire que vous n'êtes pas emballée de me retrouver en vie, en pleine forme ?~
+@209  = ~Exactement. C'est sympa de vous revoir mais cela s'arrête là, adieu.~
+@210  = ~Oh mais si, j'essaie juste de le cacher derrière un peu d'ironie. C'est *vraiment* bon de vous revoir.~
+@211  = ~Hum. Ce n'est pas vraiment l'accueil que j'attendais, je m'étais sûrement fait des idées.~
+@212  = ~Mais ce fut quand même sympa de vous revoir.~
+@213  = ~Eh oui me voilà, tout nouveau tout beau. Et j'ajoute que je viens de prendre un bain.~
+@214  = ~Comment est-ce possible ?~
+@215  = ~J'ai tenu votre corps dans mes bras, La Balafre. Je vous ai serré dans mes bras et j'ai pleuré. Vous voir maintenant, vivant et en pleine forme... Mes espoirs les plus fous se sont réalisés !~
+@216  = ~Quels sont vos plans pour l'avenir ?~
+@217  = ~Ce fut sympa de vous revoir, mais là je dois y aller.~
+@218  = ~Oh, <CHARNAME>. Prenez ce mouchoir. Il n'y a vraiment pas besoin de pleurer pour moi... Je suis confus.~
+@219  = ~Ne me demandez pas ce genre de détails, s'il vous plaît. Tout ce que je sais, c'est que de bons amis prêtres ont risqué leur vie en utilisant une très puissante magie pour réaliser cet exploit.~
+@220  = ~Je... Je suis bouleversé, <CHARNAME>. Parfois, quand je me couchais, seul et épuisé, j'essayais d'imaginer ma mort et ce qui se passerait après. Et presque chaque fois me venait le sentiment qu'il n'y aurait absolument personne pour se recueillir sur mon cadavre.~
+@221  = ~Mes plans... D'abord j'ai une ou deux choses à vous demander.~
+@222  = ~On m'a raconté que vous avez pourchassé mon assassin.~
+@223  = ~Oui ! Et contrairement à ce qu'on aurait pu croire, les Voleurs de l'Ombre n'étaient pas impliqués. Les coupables étaient des doppelgangers aux ordres de Sarevok.~
+@224  = ~Oui. Et je crois pouvoir dire qu'il n'est plus de ce monde.~
+@225  = ~Est-ce vraiment important ?~
+@226  = ~Sarevok... L'enfant placé chez Sir Rieltar, c'est ce que j'ai appris. Le destin est parfois ingrat pour certains. Finir par être tué par un enfant qu'on a élevé comme le sien...~
+@227  = ~Je vous en remercie. Savoir que vous avez réglé son compte à mon assassin est... étonnamment bon.~
+@228  = ~Pour moi, oui. Mais si vous ne souhaitez pas en parler, pas de problème.~
+@229  = ~Et puis vous avez retrouvé mon cadavre. Je ne sais comment vous remercier pour cela.~
+@230  = ~Vous voyez, s'ils ne s'étaient pas retrouvés autour de mon cadavre, mes amis ne se seraient pas jurés de me rappeler à la vie. Parce qu'aucun d'entre eux ne pensait être capable d'y arriver tout seul. Vous savez comment c'est.~
+@231  = ~Donc sans vous je ne serais pas là maintenant, même si ce n'est pas mon corps d'avant que vous avez sous les yeux.~
+@232  = ~Vous avez fait tellement pour moi. Et... je n'ai rien à vous donner en retour. Rien d'autre que des remerciements sincères et une profonde gratitude.~
+@233  = ~C'est vraiment tout ce que j'ai à vous offrir.~
+@234  = ~(ton moqueur) Qu'avez-vous dit ? Je n'ai pas bien compris.~
+@235  = ~Je suis tellement heureux que les choses se soient bien passées.~ ~Je suis tellement heureuse que les choses se soient bien passées.~
+@236  = ~Pas besoin de m'offrir quoi que ce soit, La Balafre.~
+@237  = ~ C'est bon de vous revoir. Mais s'il vous plaît... Juste vous serrer dans mes bras, comme de vrais amis. Juste pour me convaincre que vous êtes bien réel.~
+@238  = ~Au moins un baiser, La Balafre. Après tout ce que nous avons vécu ensemble, ne me laissez pas partir sans au moins un baiser.~
+@239  = ~Mais vous pourriez me remercier en me laissant vérifier que... *tous* les organes de votre nouveau corps fonctionnent comme il faut ?~
+@240  = ~J'ai aimé pouvoir vous parler, mais maintenant je dois y aller.~
+@241  = ~<CHARNAME>... Vous n'avez pas la moindre idée à quel point j'ai ardemment désiré vous revoir depuis ce jour où nous avons... partagé un moment intime.~
+@242  = ~Mais hélas non, je ne peux vous l'accorder. Ni comme une récompense, ni comme un avant-goût d'autre chose... Je ne suis pas homme à faire ce genre de chose comme cela, <CHARNAME>.~
+@243  = ~Alors serrez-moi dans vos bras ! Laissez-moi au moins ressentir que vous êtes à nouveau vivant.~
+@244  = ~Mais vous êtes en train de m'allumer ! Vous m'avez dit que vous me désiriez, sans me donner la moindre chance de satisfaire mon désir envers vous !~
+@245  = ~Je sais. Et cela ne fait que vous rendre encore plus attirant.~
+@246  = ~Bon, ben non alors.~
+@247  = ~Oui, une bonne étreinte amicale, <CHARNAME>. Suffisamment longue pour que je puisse à nouveau sentir votre merveilleuse chevelure... Venez ici mon amie.~
+@248  = ~Vous êtes un véritable ami. Je me sens honoré de pouvoir vous appeler ainsi.~ ~Vous êtes une véritable amie. Je me sens honoré de pouvoir vous appeler ainsi.~
+@249  = ~C'est étrange d'être vivant tout en ayant sa propre tombe. Vous imaginez ? Avant de vous voir je me demandais si j'étais censé aller fleurir ma propre tombe.~
+@250  = ~Je sens mon corps... jeune. Rajeuni en tout cas, c'est certain.~
+@251  = ~Mon esprit... pas vraiment. Je me souviens de tout ce qui s'est produit, mais certains moments sont un peu flous. Peut-être qu'il vaut mieux, après tout.~
+@252  = ~Ah, quel gâchis. Toute cette magie utilisée pour cela... Ils auraient pu l'utiliser pour quelqu'un qui en vaille vraiment la peine.~
+@253  = ~Mais ? Vous voulez que je vous jette des fleurs ?~
+@254  = ~Mais vous en valez *vraiment* la peine.~
+@255  = ~Mais vous êtes un homme important, La Balafre. Vous êtes le commandant en second !~
+@256  = ~Oh non ! Assez de cette fausse modestie !~
+@257  = ~Quoi ? Vous voulez rire, <CHARNAME>.~
+@258  = ~Euh, en fait oui.~
+@259  = ~Non, absolument pas.~
+@260  = ~Bien sûr que non...~
+@261  = ~Oh, on dirait que vous ne plaisantez pas...~
+@262  = ~Misère. J'aurais dû y penser il y a des décennies...~
+@263  = ~Pardonnez-moi, <CHARNAME>. Je ne veux pas me moquer de vous. Mais là je ne peux vraiment rien vous accorder... n'est-ce pas ?~
+@264  = ~C'est bien ce que je pensais. Même s'il est vrai que ce corps me semble avoir été très peu utilisé. Mais pas dans le sens où... Enfin je veux juste dire qu'il me faut encore du temps pour m'y habituer, jusqu'à ce que tout me paraisse normal... Je vous en prie, changeons de sujet.~
+@265  = ~Eh bien ceci est vraiment très inattendu.~
+@266  = ~Oui, moi aussi. (rit)~
+@267  = ~J'ai dit que je ne pouvais vous donner que mes *remerciements* et ma profonde *grati...*~
+@268  = ~Oh mais vous me faites marcher, <CHARNAME> ! (rit)~
+@269  = ~Mais vu que vous l'avez bien mérité je vais me répéter : vous avez mes remerciements les plus sincères et ma gratitude la plus profonde !~
+@270  = ~Vous êtes en train de me dire que j'ai déjà retrouvé mon vieux caractère ? Eh bien cela n'a pas traîné ! (rit)~
+@271  = ~Vos paroles me vont droit au coeur. Tous vos efforts ont montré que vous le pensez vraiment, d'ailleurs. Mais j'espère que vous l'avez fait pour moi, et pas pour le commandant en second du Poing Enflammé.~
+@272  = ~Je ne serai plus jamais l'homme que j'étais avant. Bon, peut-être que j'arriverai un jour à me comporter et réfléchir comme lui... Mais je ne retrouverai pas mon ancienne vie, et un homme est forgé par la vie qu'il mène, vous savez.~
+@273  = ~Là est le problème, <CHARNAME>. J'étais le commandant en second. mais plus maintenant. Et franchement... Je ne le redeviendrai pas. Vous comprendrez cela quand vous... euh, je ne sais pas comment dire. Quand vous aurez vous-même connu la mort? J'ai failli me montrer condescendant. Peut-être que cela devrait me rassurer : au moins à ce niveau je n'ai pas changé.~
+@274  = ~Mais sérieusement, être mort m'a donné une autre vision de ma vie et je vais prendre de longues vacances dans la nature. Quelque part où le titre de commandant en second du Poing Enflammé n'est qu'une simple phrase, et où la Porte de Baldur n'est qu'une lointaine ville côtière. J'ai une famille, certes éloignée et que je devrais plutôt appeler "des amis", mais qui m'accueillera.~
+@275  = ~Là-bas je pourrai me retrouver, tout en faisant profil bas. Ma mort a été suffisamment spectaculaire pour que les gens me croient vraiment mort, et je compte bien qu'il en soit ainsi. Je n'ai pas la moindre envie que des gens tentent de me convaincre de revenir aux affaires une fois que toutes les sales histoires de la ville auront été réglées. Sir Eltan a déjà essayé... Mais non.~
+@276  = ~Vous avez oublié de dire "Je suis trop vieux pour cela !"~
+@277  = ~Je comprends... Enfin je le crois.~
+@278  = ~Mais c'est bien dommage. La ville aurait bien besoin d'un homme comme vous pour se remettre des turbulences qu'elle a subies ces dernières semaines.~
+@279  = ~Sarevok s'est enfui, il faut le poursuivre. Aidez-moi dans ce combat, et prenez votre revanche !~
+@280  = ~Quelle couardise ! Vous étiez un homme si important avec de grandes responsabilités, et maintenant vous comptez vous cacher ?!~
+@281  = ~Vous avez raison ! (rit) même si je ne suis pas sûr que cette phrase soit adéquate. En théorie, mon corps n'a qu'une semaine d'âge !~
+@282  = ~Je vous remercie. Je suis content de ne pas avoir a dire et redire mes raisons encore et encore.~
+@283  = ~Et c'est bien là le problème. Vous voyez, je ne suis plus celui que j'étais, plus du tout. Et comme j'ai essayé de l'expliquer, je ne redeviendrai plus jamais celui que j'étais, pour plein de raisons.~
+@284  = ~Oh, j'aimerais bien. Mais la simple pensée de brandir une épée fait trembler mes bras, <CHARNAME>. Je suis encore beaucoup trop faible...~
+@285  = ~Je comprends votre dépit, mais voyez plutôt les choses de cette manière : ne croyez-vous pas que j'ai déjà fait suffisamment pour cette ville ?~
+@286  = ~C'est bon de vous revoir, <CHARNAME>. Mais mon corps est encore faible et se fatigue vite. Je déteste devoir vous le dire, mais cette conversation m'a épuisé. Je vais devoir vous dire adieu.~
+@287  = ~Prenez ce vase, votre vase. C'est l'indice qui m'a permis de retrouver votre corps. Et de toute façon il vous appartient.~
+@288  = ~Alors adieu, mon ami.~
+@289  = ~Je vous souhaite une vie paisible, La Balafre. Vous l'avez méritée.~
+@290  = ~Nous reverrons-nous ?~
+@291  = ~Oui, au revoir.~
+@292  = ~Ma... ma chope de bière Baalor ! <CHARNAME>, de tout ce que je possédais, vous m'avez ramené le seul objet qui comptait vraiment pour moi. C'est...~
+@293  = ~Oh <CHARNAME>, vous faites monter les larmes aux yeux d'un vieux soldat.Où est mon mouchoir... (rit)~
+@294  = ~Mon émotion est peut-être difficile à comprendre. C'est en partie parce que je ne suis pas encore complètement habitué à être à nouveau vivant, je suis vite bouleversé...~
+@295  = ~Mais c'est aussi parce que j'aime vraiment ce fichu vieux vase. Je vais le garder, <CHARNAME>, il me rappellera que j'ai été le commandant en second du Poing Enflammé dans une autre vie, mais il me permettra aussi de me souvenir de vous, <CHARNAME>.~
+@296  = ~Je... Je ne crois pas.~
+@297  = ~<CHARNAME>, vous êtes un ami comme on n'en rencontre que très rarement. Je vous souhaite toute la chance du monde pour vos aventures. Moi, les habitants de cette ville et tous ceux du pays ! Nous vous devons énormément.~ ~<CHARNAME>, vous êtes une amie comme on n'en rencontre que très rarement. Je vous souhaite toute la chance du monde pour vos aventures. Moi, les habitants de cette ville et tous ceux du pays ! Nous vous devons énormément.~
+@298  = ~Eltan m'a raconté tout ce que vous avez fait pour retrouver mon corps et poursuivre mon assassin. Je vous en remercie.~
+@299  = ~Permettez-moi de vous souhaiter une réussite absolue dans tous vos projets.~
+@300  = ~Portez-vous bien ! Adieu.~
+@301  = ~Le corps de La Balafre
+
+J'ai rencontré La Balafre ! Il est revenu à la vie, et nous avons eu une dernière discussion. Il va quitter la Porte de Baldur pour aller vivre avec sa famille, très loin d'ici.~
+@302  = ~Le corps de La Balafre~
+@303  = ~Oui, une bonne étreinte amicale, <CHARNAME>. Venez ici mon amie.~
+
+@304  = ~Objets décoratifs ! Bibelots de qualité !~
+@305  = ~Objets d'occasion ! Antiquités !~ 
+@306  = ~Vieilleries pour les uns, trésors cachés pour les autres !~
+@307  = ~Venez jeter un coup d'oeil !~
+@308  = ~Un nouvel arrivage à la boutique d'objets d'occasion de Donnerjan !~
+
+@309   = ~Le corps de La Balafre
+
+Eltan m'a expliqué que le corps de La Balafre a été perdu la nuit où il a été assassiné. C'est une bien triste nouvelle, mais j'ai bien peur de ne rien pouvoir faire pour lui.~
+@310  = ~Je m'en veux terriblement <CHARNAME>, parce que maintenant il n'est plus. Si c'est moi qui avait disparu, La Balafre serait maintenant le commandant du Poing Enflammé. J'ai perdu mon second, un homme extrêmement capable qui plus est, et je ne peux même pas lui donner une inhumation décente car je ne sais pas où son corps se trouve !~
+
+/* new for v3.0 */
+@311   = ~<CHARNAME>, notre sauveur ! La ville vous doit beaucoup.~ 
+@312   = ~J'ai un dernier service à vous demander. On m'a dit que vous êtes ami avec mon ancien commandant en second, La Balafre ; on vous a aperçu dans ses appartements privés, et ce n'est pas donné à tout le monde. Vous savez déjà qu'il a été assassiné, et nous souhaiterions l'enterrer dans les règles. Pour cela, il nous faut retrouver son corps.~ ~J'ai un dernier service à vous demander. On m'a dit que vous êtes amie avec mon ancien commandant en second, La Balafre ; on vous a aperçu dans ses appartements privés, et ce n'est pas donné à tout le monde. Vous savez déjà qu'il a été assassiné, et nous souhaiterions l'enterrer dans les règles. Pour cela, il nous faut retrouver son corps.~
+@313   = ~Les sbires d'Angelo ne nous diront rien, donc les seuls qui puissent savoir quelque chose sont les fidèles serviteurs qui ont été congédiés cette nuit-là. Ils sont probablement éparpillés dans toute la ville, si toutefois ils ne l'ont pas déjà fuie.~
+@314   = ~S'il vous plaît <CHARNAME>, trouvez le corps de La Balafre. J'ai perdu mon commandant en second, un de mes hommes les plus compétents qui plus est, et je ne peux même pas lui donner une inhumation décente car son corps a disparu !~
+@315   = ~N'est-ce pas un miracle ? Ah, <CHARNAME>. Il est bon d'avoir des amis. N'oubliez jamais ceci, jeune aventurier. La Balafre nous a fait ses adieux. Souhaitons-lui le meilleur. J'ai tenté de le convaincre de rester et de reprendre son poste, mais pour lui c'est terminé. Il mérite une deuxième vie tranquille. Il l'a bien gagnée.~ ~N'est-ce pas un miracle ? Ah, <CHARNAME>. Il est bon d'avoir des amis. N'oubliez jamais ceci, jeune aventurière. La Balafre nous a fait ses adieux. Souhaitons-lui le meilleur. J'ai tenté de le convaincre de rester et de reprendre son poste, mais pour lui c'est terminé. Il mérite une deuxième vie tranquille. Il l'a bien gagnée.~
+@316   = ~Je ne comprendrai jamais pourquoi vous avez attaqué un homme fraîchement revenu à la vie. Partez <CHARNAME>. Filez d'ici, et lorsque les gens commenceront à vous appeler "le sauveur de la ville", n'oubliez jamais à quel point vous êtes un être abject.~
+@317   = ~Je vous promets, loyal ami, que je ferai tout ce qui est en mon pouvoir pour mon ancien commandant en second. S'il y a un moyen de le rappeler à la vie, ce sera fait.~ ~Je vous promets, loyale amie, que je ferai tout ce qui est en mon pouvoir pour mon ancien commandant en second. S'il y a un moyen de le rappeler à la vie, ce sera fait.~
+@318   = ~La Balafre a enfin trouvé le repos éternel, mon jeune ami. C'est la seule chose que nous pouvions faire. Ce fut une inhumation décente, même si nous avons dû la faire discrètement et pas aussi dignement qu'il aurait fallu pour le commandant en second du Poing Enflammé, qui a fidèlement servi durant tant d'années.~ ~La Balafre a enfin trouvé le repos éternel, ma jeune amie. C'est la seule chose que nous pouvions faire. Ce fut une inhumation décente, même si nous avons dû la faire discrètement et pas aussi dignement qu'il aurait fallu pour le commandant en second du Poing Enflammé, qui a fidèlement servi durant tant d'années.~
+@319   = ~Il faut être patient. Ce genre de choses prend du temps.~
+@320   = ~Pardonnez-moi. Je sais que j'aurais dû me montrer plus courageux, mais je n'ai pas pu. Mais j'avais un mince espoir que cet acte soit pour le meilleur, après tout. C'est tout ce que je peux vous dire, maintenant il faut que je retourne bosser.~
+@321   = ~Le corps de La Balafre ? Le duc Eltan ne sait pas où se trouve le corps de La Balafre ? Faut croire que j'ai été très bon pour le cacher.~
+
+/* new for v5.0 */
+@322   = ~Vous nous avez sauvés. Au nom de la ville, permettez-moi de vous exprimer toute ma gratitude.~
+@323   = ~D'abord, permettez-moi de vous annoncer que nous avons enfin trouvé le corps de La Balafre. Des serviteurs loyaux ont caché son corps avant qu'Angelo et ses sbires ne puissent le faire disparaître pour de bon.~
+@324   = ~Le corps de La Balafre
+
+Eltan m'a dit qu'on avait trouvé le corps de La Balafre et que celui-ci a pu recevoir une inhumation décente.~
+@325   = ~Seuls les dieux savent si mon ancien commandant en second verra à nouveau la lumière du jour... Et nous avons des affaires urgentes à régler.~
+
+
+
+/* new for v7.0 */
+
+//@127 avec le duc Eltan
+
+@326  = ~Je ne vais rien faire ! Vous irez au palais raconter tout cela au duc Eltan. C'était quand même le bras droit du duc Eltan, le commandant en second ! Vous ne voudriez quand même pas laisser son corps pourrir dans une caisse, n'est-ce pas ?!~
+//@133 avec le duc Eltan
+
+@327  = ~Ecoutez-moi bien : maintenant il faut que vous partiez. Désolé d'être un peu rude, mais le souvenir de cette nuit m'emplit encore de frayeur. Je suis sûr que la personne qui a fait assassiner La Balafre n'aurait aucun problème à éliminer deux autres témoins. Je vous promets d'informer le duc Eltan dès votre départ.~

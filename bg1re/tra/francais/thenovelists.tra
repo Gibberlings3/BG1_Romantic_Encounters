@@ -1,0 +1,541 @@
+@0    = ~...Ce que je veux dire, c'est que...~
+@1    = ~... mais regarde-le, Dai ! Il est accroché à l'arbre comme un oeil rouge géant et pernicieux ! Et en plus c'est hallucinogène !~
+@2    = ~Et le cerfeuil sauvage est très envahissant. Il peut proliférer dans un champ *très* vite ! Si tu t'y connaissais un minimum en jardinage...~
+@3    = ~Je sais plein de choses sur le jardinage, petit machin.~
+@4    = ~C'est qui que tu appelles "petit", espèce de... petite bonne femme ?~
+@5    = ~Hé, vous là ! Oui, vous ! Peut-être pouvez-vous nous aider à répondre à une question philosophique brûlante :~
+@6    = ~Qu'est-ce qui est le plus effrayant :~
+@7    = ~Le persil ou la noix muscade ?~
+@8    = ~Pers...~
+@9    = ~Noix musc...~
+@10   = ~Quand j'étais enfant j'ai eu une expérience traumatisante avec un carrousel à épices. La véritable question est...~
+@11   = ~Hein ?~
+@12   = ~... oh, bien sûr mais...~
+@13   = ~... et de toute façon personne ne mange de cerfeuil sauvage. C'est vraiment *mauvais*.~
+@14   = ~Mais si on veut, on peut quand même le faire.~
+@15   = ~A moins qu'on ne le confonde avec de la ciguë et qu'on ne s'empoisonne avec.~
+@16   = ~Ah oui, *ça* c'est vraiment effrayant.~
+@17   = ~... Tu as raison. Oh, hé, comment allez-vous ?~
+@18   = ~...continue...~
+@19   = ~...vu que la noix muscade arrive par les monts Khazari dans des balles solidement emballées, à dos de yack, doit échapper aux voleurs d'épices et autres bandits, ce que je veux dire est qu'elle acquiert une certaine dose de férocité pendant son voyage... Oh, salut !~
+@20   = ~... tu n'es pas sérieux là !~
+@21   = ~... et il y a aussi le torilis de Kara-Tur...~
+@22   = ~Ce n'est même pas de la même famille ; et tu te prétends jardinier !~
+@23   = ~Bien sûr que si, ce sont tous deux des cerfeuils ! Oh hé, vous revoilà. Cette auberge est sympa, n'est-ce pas ?~
+@24   = ~...Tu sais pas quoi ? Là j'ai *vraiment* faim...~
+@25   = ~... considérer les catégories essentielles. La plupart des épices sont un peu toxiques, cela leur donne ce piquant et ce punch. Si les herbes ont du goût, elles sont de plus en plus utilisées en cuisine pour leurs propriétés bénéfiques pour la santé. Je dis que les herbes sont intrinsèquement *nourrissantes*...~
+@26   = ~Oh. *Ohhh*. Sommes-nous en train d'entamer un nouveau débat "le Bien contre le Mal" ? Vraiment ?~
+@27   = ~Allez, vas-y.~
+@28   = ~Oh ! Rebonjour. Pourriez-vous dire à mon ami que j'ai toujours raison ?~
+@29   = ~Psst ! <CHARNAME> !~
+@30   = ~Hé là, <CHARNAME>. Vous avez une minute ?~
+@31   = ~Je suis un peu occupé...~
+@32   = ~Je n'ai pas le temps de vous parler, je suis en train de me battre !~
+@33   = ~Kitty, Dai, écoutez-moi très attentivement.  Vous êtes entrés dans la guilde des voleurs, un misérable repaire d'agresseurs, d'assassins, d'as du chaos, et j'ai même entendu dire qu'il pourrait y avoir des *mimes de rue*. Filez vers la sortie, je vous couvre !~
+@34   = ~Assez de discussions, et plus de lecture !~
+@35   = ~Alors, qu'en avez-vous pensé ?~
+@36   = ~J'ai aimé mon discours au chapitre 7 - "Nous étions peu nombreux mais si heureux, une bande de..."~
+@37   = ~Quel habile portrait en prose - c'est moi tout craché !~
+@38   = ~Ceci est ridicule, j'ai tué bien plus de gens que ça !~
+@39   = ~J'aurais aimé qu'il y ait plus de singes dans ce livre.~
+@40   = ~Donc, hum, avez-vous écrit la romance à partir d'une personne réelle ? Et si c'est le cas, puis-je avoir l'adresse de Delio ?~
+@41   = ~Eh bien je le trouve... euh... pas si mauvais ?~
+@42   = ~Attends Kitty. Est-ce que tu penses à ce que je pense ?~
+@43   = ~Certainement Dai, certainement.~
+@44   = ~Nous sommes écrivains. De romans populaires. "Ensorcelé : la diva du maître du donjon"... "Plongé dans l'ombre : périls pour un paladin"... Ce genre de roman. Vous avez peut-être entendu parler de nous : nous écrivons sous le pseudonyme "K. D. Troumpett" ?~
+@45   = ~Oooh ! Oh mon dieu ! Puis-je avoir vos autographes ? Hum, je n'ai pas de papier sur moi, alors signez sur ma peau !~
+@46   = ~Bien sûr !~
+@47   = ~Oh regardez, des auteurs de "romans populaires" nous font l'honneur de leur présence. C'est fou, ils se trouvent devant nous comme des... champignons, quel *bonheur*...~
+@48   = ~Et vous vous appelez ?~
+@49   = ~Eldoth.~
+@50   = ~Désolé mon gars, votre nom ne me rappelle rien.~
+@51   = ~Mais je suis sûr que nous vous adorerions si nous avions la... chance de vous connaître.~
+@52   = ~Si j'ai entendu parler de vous ? K. D. Troumpett ! Vos livres ont bercé mon adolescence... En fait, ils m'ont appris à...~
+@53   = ~Ce nom me rappelle vaguement quelque chose. Euh, Imoen achetait beaucoup de vos livres.~
+@54   = ~La librairie de Château-Suif était plus centrée sur les tomes de sagesse et sur les savoirs étranges et mystérieux que sur les... "romans populaires".~
+@55   = ~Non, je n'ai pas entendu parler de vous.~
+@56   = ~Et <CHARNAME> ici présent passait son temps à les emprunter.~ ~Et <CHARNAME> ici présente passait son temps à les emprunter.~
+@57   = ~Notre dernière production...~
+@58   = ~"Obscurcie : de sombres désirs" vient juste d'être envoyée à l'imprimeur, et nous cherchons le sujet de notre prochain livre.~
+@59   = ~Et cela fait quelques temps que vous traînez dans le coin.~
+@60   = ~Avez-vous entendu parler de héros ou d'héroïnes suffisamment intéressants pour inspirer un oeuvre majeure d'impérissable divertissement léger ?~
+@61   = ~Eh bien... moi, peut-être ?~
+@62   = ~Drizzt do'Urden n'est pas dans la région ?~
+@63   = ~Je crois qu'Elminster est dans le coin.~
+@64   = ~Et cette guerrière rousse, celle avec les tatouages bleus sur le bras. Comment s'appelle-t-elle, déjà ?~
+@65   = ~Je n'arrête pas d'entendre des rumeurs au sujet de ce "Sarevok", qui a l'air d'être beau gosse, riche, charmant et plein d'énergie vitale......~
+@66   = ~Je ne vois personne qui pourrait convenir.~
+@67   = ~Ces... "fictions populaires" ne sont pas mon truc. Je vous laisse chercher.~
+@68   = ~Euh... Qui êtes-vous, déjà ?~
+@69   = ~Maître Do'Urden a déjà son barde personnel. Les droits de publication sont véritablement verrouillés.~
+@70   = ~Oh, *Elminster*.~
+@71   = ~Chaque fois que quelqu'un prononce ou écrit son nom, il le *sait*.~
+@72   = ~Et là, c'est lui qui récupère tous les droits d'auteur. Mais c'est une bonne idée. Hummmm, le renard d'argent, des siècles d'expérience, de la magie dans ses doigts...~
+@73   = ~Alias ! Une redoutable guerrière, doublée d'une femme de premier plan et distinguée.~
+@74   = ~Son armure n'est-elle pas aussi de premier plan et distinguée ? Elle ferait une couverture de livre formidable...~
+@75   = ~Déjà fait. L'an dernier. (soupir)~
+@76   = ~...~
+@77   = ~Sarevok...~
+@78   = ~Nous y avons pensé. Une fois.~
+@79   = ~Et puis...~
+@80   = ~Et puis ils...~
+@81   = ~Et après cela des types de Kara-Tur sont venus.~
+@82   = ~Tout ce qu'on peut vous dire, c'est que cet homme tient fortement à sa vie privée. Et c'est quelque chose que nous nous engageons à respecter chez ce jeune et prometteur homme d'affaires.~
+@83   = ~Eh bien revenez nous voir si vous trouvez une idée.~
+@84   = ~Attends Kitty ! Regarde ! Cette mâchoire, l'éclat dans ses yeux...~
+@85   = ~C'est vrai, j'ai vu cette chevelure sur des affiches dans toute la ville. Vous êtes <CHARNAME>, n'est-ce pas ? Le Héros de la mine de Nashkel ? L'Ange Vengeur de Bois-Manteau ?~ ~C'est vrai, j'ai vu cette chevelure sur des affiches dans toute la ville. Vous êtes <CHARNAME>, n'est-ce pas ? L'Héroïne de la mine de Nashkel ? L'Ange Vengeresse de Bois-Manteau ?~
+@86   = ~Oh la la, d'après les rumeurs vous êtes un étincelant pilier de droite vertu et d'extrême bottage de fesses !~
+@87   = ~Grand Aventurier™, c'est tout à fait moi. Attendez, si je souris avec le bon angle de vue je peux réfléchir la lumière sur mes dents.~ ~Grande Aventurière™, c'est tout à fait moi. Attendez, si je souris avec le bon angle de vue je peux réfléchir la lumière sur mes dents.~
+@88   = ~J'ai parfois l'impression que tout le monde a entendu parler de moi, et *tout le monde* veut que je fasse leurs petites courses. (soupir)~
+@89   = ~Toute cette célébrité me met assez mal à l'aise. Je n'ai fait que mon devoir, une chose après l'autre.~
+@90   = ~Pour la "droite vertu", je ne sais pas trop. La loi et moi ne sommes pas vraiment... proches. Mais après on a bien rigolé !~
+@91   = ~En fait je suis une personne vraiment terrible. Je donne beaucoup d'argent aux temples pour qu'ils soient *obligés* de raconter des choses sympathiques à mon sujet.~
+@92   = ~Vous avez l'air d'être une bonne personne. Il y a moyen de faire de vous le tout à fait correct protagoniste d'une romance, tout particulièrement si vous n'avez pas trop été épargné par la vie. Quelqu'un qui a dû faire des choix difficiles, en quelque sorte. Parlez-nous un peu plus de vous.~ ~Vous avez l'air d'être une bonne personne. Il y a moyen de faire de vous la tout à fait correcte protagoniste d'une romance, tout particulièrement si vous n'avez pas trop été épargnée par la vie. Quelqu'un qui a dû faire des choix difficiles, en quelque sorte. Parlez-nous un peu plus de vous.~
+@93   = ~Bien sûr.~
+@94   = ~Bof, j'ai changé d'avis. Finalement, je n'ai pas envie d'être dans votre petit livre.~
+@95   = ~Humm, très malin. Achetez-vous des requiems massifs pour les âmes des ennemis que vous avez massacrés ?~
+@96   = ~Oui, et je finance des orphelinats pour leurs nombreux enfants endeuillés. Ces malheureux orphelins (sanglot)...~
+@97   = ~Je ne sais pas vraiment ce que ces adorateurs de dieux en font. Mais c'est marrant de les voir se forcer à sourire lorsque je passe les portes de leurs temples.~
+@98   = ~Quand les gens m'aiment bien, j'obtiens des réductions dans les magasins. Quelques dons charitables par-ci par-là me facilitent vraiment la vie.~
+@99   = ~Je vois bien un intéressant clair-obscur dans l'évolution de votre personnage. Allez, c'est parti.~
+@100  = ~Oh la la ! Ces armes si reconnaissables, ce front plissé, cette aura diffuse de malédiction...~
+@101  = ~C'est votre visage qui se trouve sur les affiches placardées partout dans la ville !~
+@102  = ~Vous êtes <CHARNAME>, n'est-ce pas ? S'il vous plaît, ne nous tuez pas ! (On peut avoir votre autographe ?)~
+@103  = ~Vous m'avez mal compris ! Je suis uniquement rentré dans cette maison parce que j'ai entendu un bébé pleurer ! Et là j'ai cru que les pleurs venaient du coffre fermé à triple tour à l'étage...~
+@104  = ~Je me vois plutôt comme une adorable canaille, et pas comme un véritable malfrat.~
+@105  = ~... Je ne voulais pas tuer ce type.~
+@106  = ~"Aura diffuse de malédiction", ça me plaît. Je vais peut-être vous laisser vivre un peu plus longtemps.~
+@107  = ~En fait je mène une vie désespérément vertueuse et ennuyeuse ; je me contente de payer des bardes pour noircir mon nom. Ce genre de crédibilité peut se révéler utile dans... certaines situations tendues.~
+@108  = ~Merci beaucoup, ô puissant <CHARNAME>. Nous pouvons écrire un *super* bouquin sur vous. Voulez-vous qu'on vous donne un air redoutable et menaçant, avec des yeux luisant dans l'ombre ?~ ~Merci beaucoup, ô puissante <CHARNAME>. Nous pouvons écrire un *super* bouquin sur vous. Voulez-vous qu'on vous donne un air redoutable et menaçant, avec des yeux luisant dans l'ombre ?~
+@109  = ~Vous avez donc un coeur d'or sous ce voile d'ombre, hein ? C'est très vendeur ça ! Dites-nous en plus !~
+@110  = ~Un délinquant dévoyé et dépravé, hein ?~ ~Une délinquante dévoyée et dépravée, hein ?~
+@111  = ~Oh, avec cela il y a vraiment matière à écrire.~
+@112  = ~Bien ! Pouvez-vous écrire une scène où je me balance sur un lustre ?~
+@113  = ~Eh bien si vous changez d'avis, revenez nous voir.~
+@114  = ~Nous restons ici toute la semaine.~
+@115  = ~Laissez-moi prendre mon carnet de notes, humecter ma pointe d'argent et c'est parti. Racontez-nous vos exploits pittoresques, <CHARNAME>.~
+@116  = ~J'ai coupé du bois et transporté de l'eau pour plus d'une veuve dans toute la Côte des Epées.~
+@117  = ~J'ai occis quelques tasloïs et quelques gnolls.~
+@118  = ~Ma spécialité est de nettoyer les fosses nauséabondes des abominables morts-vivants qu'elles contiennent.~
+@119  = ~Je m'éclate, je fais la fête et je laisse des coeurs brisés dans toutes les villes que je quitte.~
+@120  = ~J'ai gagné *énormément* d'argent lors de mes voyages sur la Côte des Epées...~
+@121  = ~J'aime à penser que j'ai modestement contribué à développer le Savoir dans la région, ne serait-ce qu'en ramenant des livres rares de l'ancienne école d'Ulcaster.~
+@122  = ~Il y a eu cette histoire de... hum... ceinture de changement de sexe...~
+@123  = ~Laissez-moi vous raconter comment j'ai obtenu cette arme, celle avec les pointes et les traces de sang...~
+@124  = ~Vous auriez dû voir le pont de Flammevin une fois que j'en ai eu terminé.~
+@125  = ~J'avais l'habitude de graver une marque sur ma ceinture chaque fois que je tuais une créature. Elle a fini par tomber en lambeaux, il a fallu que j'en trouve une nouvelle..~
+@126  = ~Vous connaissez cette tour au sud, remplie de pièges ? Eh bien il y avait en son fond un chevalier-démon. Il y *avait*.~
+@127  = ~Hé, vous êtes-vous déjà demandé ce qui est arrivé à Baldurien, le fondateur de cette ville ? *Moi*, je le sais.~
+@128  = ~Eh bien il y a tout ce bazar avec la pénurie de fer, et aussi les rumeurs de guerre avec l'Amn, et tout ça. Nashkel n'était qu'un début !~
+@129  = ~Je... il n'y a pas longtemps, il m'a fallu traquer et tuer, dans les catacombes sous mon ancien foyer, des créatures qui avaient pris le visage de tous les gens que j'aimais...~
+@130  = ~Bon. Il se trouve que le sang d'un dieu coule dans mes veines. Il me parle dans mes rêves. J'ai également l'impression d'être condamné à finir par combattre mon demi-frère lui aussi de sang divin, qui est derrière toutes les récentes effusions de sang sur toute la Côte des Epées.~ ~Bon. Il se trouve que le sang d'un dieu coule dans mes veines. Il me parle dans mes rêves. J'ai également l'impression d'être condamnée à finir par combattre mon demi-frère lui aussi de sang divin, qui est derrière toutes les récentes effusions de sang sur toute la Côte des Epées.~
+@131  = ~En fait je suis en train d'accomplir une véritable prouesse en ce moment - et si je revenais lorsque tout sera terminé, comme ça je pourrai vous raconter le dénouement de cette histoire ?~
+@132  = ~Quoi d'autre ?~
+@133  = ~Bien sûr. Défonce-les tous, gamin.~ ~Bien sûr. Défonce-les tous, gamine.~
+@134  = ~Et assurez-vous de ramener du grain à moudre à notre moulin d'écrivain...~
+@135  = ~Tout ça c'est bon pour donner le ton et pour le premier chapitre, mais il va falloir quelque chose de plus consistant pour l'intrigue principale.~
+@136  = ~Oh oh, on est un peu séducteur, hein ? C'est bien ça, pourvu que cela se termine par une véritable fin heureuse et amoureuse à la fin du livre.~ ~Oh oh, on est un peu séductrice, hein ? C'est bien ça, pourvu que cela se termine par une véritable fin heureuse et amoureuse à la fin du livre.~
+@137  = ~C'est donc vous qui avez secouru ces malheureux livres ? Dai, paie un verre à <CHARNAME>.~
+@138  = ~Permettez-moi de vous serrer la main.~
+@139  = ~Flammevin ? Sérieusement ?~
+@140  = ~Toute petite-personne sait qu'il n'y a absolument rien au pont de Flammevin, hormis de petits tunnels tortueux et des *koboldes*.~
+@141  = ~Nous, les petites-personnes, tout juste préados, allons à Flammevin picoler loin des regards de nos nanas. Et vous essayez de nous vendre vos aventures à Flammevin ? *Pfff*.~
+@142  = ~Grrrr.~
+@143  = ~(soupir)~
+@144  = ~Parlez sur un autre ton.~
+@145  = ~Vous pataugez littéralement dans le sang jusqu'au genou alors ? Bien, on peut faire un truc avec ça.~
+@146  = ~Alors c'est vous qui avez tout défoncé dans la tour de Durlag ? Super !~
+@147  = ~Vous avez fait avancer l'Histoire avec un grand H ! Super ! Avez-vous croisé de fringantes piratesses ?~
+@148  = ~Ohh, nous pourrions écrire les histoires parallèles de Baldurien et de <CHARNAME>. Comptez-vous fonder une ville ? Ce serait vraiment bien que vous fondiez une ville, notre livre deviendrait alors une sérieuse référence historico-littéraire.~
+@149  = ~Ooh, mais vous êtes en plein dans l'actualité ! Tant qu'on y est, peut-être pourrions-nous en profiter pour glisser dans notre livre des complots anciens et de mystérieux codes cachés dans des monuments bien connus. Ce genre de truc marche toujours...~
+@150  = ~Oooh, c'est très sinistre. N'est-ce pas un souvenir trop pénible ? Oh, évidemment que non sinon vous ne l'auriez pas abordé...~
+@151  = ~Cela a l'air... un peu exagéré, quand même.~
+@152  = ~Mais je pense qu'on peut se débrouiller avec.~
+@153  = ~Continuez...~
+@154  = ~Laissez-moi vous raconter quelques anecdotes intéressantes et quelques détails sur ma personnalité avant de commencer l'intrigue principale.~
+@155  = ~Bien. Tout a commencé un matin froid à Château-Suif, lorsque mon père adoptif Gorion m'a annoncé qu'il nous fallait partir...~
+@156  = ~Oh oh...~
+@157  = ~(écrit)...~
+@158  = ~... Morbleu, mais quel rebondissement inattendu !...~
+@159  = ~... et ensuite ? Racontez-moi ! ...~
+@160  = ~... (soupir) C'est si beau...~
+@161  = ~Donne-moi cette pointe d'argent mon gars, tu es en train d'attraper des crampes à la main...~
+@162  = ~Aaah, c'est du bon matériel <CHARNAME>, on va en tirer un très bon bouquin.~
+@163  = ~Et maintenant, parlons de cette histoire d'amour.~
+@164  = ~C'est vrai : Xan ici présent, même si je ne sais pas s'il apprécierait d'être traité de "mignon".~
+@165  = ~Je ne peux pas appeler Xan une "histoire d'amour", mais il est vrai que je l'ai secouru.~
+@166  = ~Oui oui, l'enchanteur elfe Xan, même s'il n'est pas avec moi actuellement.~
+@167  = ~Oui oui, l'enchanteur elfe Xan, même s'il est en ce moment en mission quelque part.~
+@168  = ~Ce n'est pas le cas. Qui a bien pu avoir cette idée ?~
+@169  = ~Oui, j'ai sauvé quelqu'un mais je ne me rappelle plus de son nom.~
+@170  = ~Histoire d'amour ? Je préfère papillonner. Et avec beaucoup de réussite d'ailleurs.~
+@171  = ~Euh, j'ai rencontré la personne que j'aime dans un tout autre endroit.~
+@172  = ~Là, maintenant, ma gorge est sèche et j'ai beaucoup de tâches à accomplir. Je reviendrai vous raconter le texte plus tard, d'accord ?~
+@173  = ~D'accord !~
+@174  = ~Nous allons rester ici, pour organiser nos notes.~
+@175  = ~Et boire !~
+@176  = ~Ah oui, et boire.~
+@177  = ~Il a l'air un peu... frêle.~
+@178  = ~Mais il est mignon. J'ai envie de lui pincer les joues. Qu'on m'amène un escabeau !~
+@179  = ~Est-ce une lame de lune ? les porteurs de lames de lune sont très populaires cette année. Je comprends pourquoi...~
+@180  = ~Le maudit désastre du dernier défenseur de la terre des elfes sur le point de se faire dévorer l'esprit par son épée est une source abondante de grands récits, mais...~
+@181  = ~Ce serait bien de raconter une histoire plus originale.~
+@182  = ~Un enchanteur ! Magie de l'esprit, lien des âmes...~
+@183  = ~Oui, j'ai sauvé Xan et il a voyagé quelques temps avec moi, mais ça s'est arrêté là..~
+@184  = ~Je ne me vois pas avec Xan, cela ne collerait pas entre nous.~
+@185  = ~Xan et moi, euh... (rougit)~
+@186  = ~Je préfère ne pas discuter de mes sentiments à ce sujet.~
+@187  = ~Ce n'est pas que je ne serais pas intéressé, mais hélas je ne crois pas qu'il aime les garçons... (soupir)~
+@188  = ~De toute façon, a-t-on vraiment besoin de *faits* ?~
+@189  = ~J'ai toujours vu les faits comme de simples lignes directrices.~
+@190  = ~Eh bien il nous suffit de créer de toutes pièces un flirt, ce n'est pas un problème. Vous voudriez quoi ?~
+@191  = ~Oh, si vous voulez créer la partenaire idéale, j'aimerais bien courtiser une superbe femme.~
+@192  = ~Oui, créez-moi un homme superbe pour me faire rêver.~
+@193  = ~N'êtes-vous donc pas capables d'écrire une bonne intrigue sans coucheries et autres histoires romantiques maladroitement ajoutées ?~
+@194  = ~Pourquoi ne pourriez-vous donc pas écrire votre histoire avec la personne que j'aime ?~
+@195  = ~Oui, on peut écrire une bonne histoire sans fesses. Mais montrer un peu de dentelle ne fait de mal à personne, et ajoute un peu de piment.~
+@196  = ~Et cela augmente nos ventes d'une manière dont vous n'avez pas idée.~
+@197  = ~Alors qu'en dites-vous ?~
+@198  = ~Non. Montrez-moi vos talents d'écrivains. Je veux voir ce que vous êtes capables de faire sans vous plier aux conventions traditionnelles du genre.~
+@199  = ~Bon, vu comme ça, j'aimerais bien courtiser une superbe femme.~
+@200  = ~Dans ce cas, créez-moi un homme superbe pour me faire rêver.~
+@201  = ~Bon, vu comme ça, j'aimerais bien courtiser une superbe femme.~
+@202  = ~Ah. Il faut parfois mettre un peu de distance entre nos sentiments personnels et le strass et les paillettes d'une fiction qu'on pourrait en tirer. Et j'ai l'impression que votre partenaire n'est pas volontaire. A moins que ?... Ah non.~
+@203  = ~Dans ce cas écrivez dans votre livre que je suis seul, s'il vous plaît.~ ~Dans ce cas écrivez dans votre livre que je suis seule, s'il vous plaît.~
+@204  = ~Bon, si cela doit être la créature idéale ou rien, j'aimerais bien courtiser une superbe femme.~
+@205  = ~Hummm. Quel genre de romance un peu épicée pourrions-nous attribuer à <CHARNAME> ici présent ?~
+@206  = ~Et si on faisait...~
+@207  = ~Deux filles, de simples copines, comme deux soeurs, ensemble contre vents et marées. Allez, elles ont probablement souvent déjà vu le corps dénudé de l'autre, mais cela n'est pas allé plus loin car elles ne sont pas *comme ça*. Jusqu'au jour où, soudain...~
+@208  = ~Un garçon et une fille, de simples copains, comme frère et soeur, ensemble contre vents et marées. Allez, ils ont probablement déjà vu le corps dénudé de l'autre une fois ou deux, mais cela n'est pas allé plus loin car ils ne sont pas *comme ça*. Jusqu'au jour où, soudain...~
+@209  = ~Deux garçons, de simples copains, comme deux frères, ensemble contre vents et marées. Allez, ils ont probablement souvent déjà vu le corps dénudé de l'autre, mais cela n'est pas allé plus loin car ils ne sont pas *comme ça*. Jusqu'au jour où, soudain...~
+@210  = ~Ils posent l'un sur l'autre un regard nouveau. Les yeux brillants, de nombreuses expériences communes, recréer une nouvelle relation entre eux avec une charmante maladresse...~
+@211  = ~Super !~
+@212  = ~Ca a l'air assez banal.~
+@213  = ~Cela ne m'emballe pas. Quoi d'autre ?~
+@214  = ~Euh. <CHARNAME> ? Est-ce que cette histoire va devenir... bizarre ?~
+@215  = ~Non.~
+@216  = ~Est-ce que... tu le souhaiterais ?~
+@217  = ~Hé, pourriez-vous me dépeindre comme son intrépide partenaire ? Vous voyez, suffisamment sympathique et formidable au point qu'elle devienne l'héroïne du second tome de l'histoire ?~
+@218  = ~Mais bien sûr, miss.~
+@219  = ~Et pourquoi pas une sombre et sulfureuse romance aux frontières de la vie et de la mort ?~
+@220  = ~Vampires ! Suceurs de sang ! Amour transgressif !~
+@221  = ~Les seuls morts-vivants que j'ai rencontrés étaient des tas d'os, des fantômes ou des cadavres pourrissants, absolument pas séduisants. Qu'avez-vous d'autre à me proposer ?~
+@222  = ~Bof. Qu'avez-vous d'autre à me proposer ?~
+@223  = ~Mon ennemie, mon amour... La froideur de sa poitrine comparée à la mienne, sa main glaciale se glissant dans ma chevelure, et toujours la sensation de mon coeur qui bat et cette rouge vie qui coule dans mes veines. Ooh, ma douce.~
+@224  = ~Un seigneur mort-vivant ancien, hein ? Intimidant, avec l'oeil brillant. *Mon ennemi*. Mais d'une certaine manière, savoir qu'il veut me dévorer me donne le sentiment d'être... désirable.~
+@225  = ~Un seigneur mort-vivant ancien, hein ? Intimidant, avec l'oeil brillant. *Mon ennemi*. Mais d'une certaine manière, savoir qu'il veut me dévorer me donne le sentiment d'être... désirable.~
+@226  = ~Mon ennemie, mon amour... La douceur de sa peau pâle, sa main glaciale se glissant dans ma chevelure, et toujours la sensation de mon coeur qui bat et cette rouge vie qui coule dans mes veines. Ooh, ma douce.~
+@227  = ~Deux tempéraments identiques pleins d'entrain – de joyeuses bagarres, de vives paroles échangées sous le coup de la colère, de terribles malentendus, puis la séparation suivie d'une triste errance, puis la douceur d'un amour renouvelé...~
+@228  = ~Une ardente romance me plairait bien.~
+@229  = ~Ooh, pouvez-vous créer des situations où l'un des deux plaque l'autre contre un mur et les deux s'embrassent passionnément ?~
+@230  = ~Cela a l'air épuisant. Avez-vous d'autres options ?~
+@231  = ~Et pourquoi pas une gentille histoire d'amour qui contrasterait avec la violence du reste de votre vie ? De douces paroles, vos deux corps endormis lovés l'un contre l'autre comme deux enfants, chacun s'occupant des blessures de l'autre...~
+@232  = ~Toute cette douceur sucrée me donne carrément mal aux dents. Mais oui, ça me va.~
+@233  = ~Oui. Cela peut vous paraître étrange de la part d'une personne avec autant de sang sur les mains que moi, mais dans la vie j'aime m'occuper des gens.~
+@234  = ~En fait, je crois que j'aimerais bien tomber amoureux de ma meilleure amie.~ ~En fait, je crois que j'aimerais bien tomber amoureuse de mon meilleur ami.~
+@235  = ~Nan, je préfère la romance avec la vampire.~
+@236  = ~Je préfère une romance pleine d'énergie et de vigueur, merci.~
+@237  = ~Bof. Aucune de vos options de romance ne m'attire. Pouvez-vous écrire le livre sans cette histoire d'amour ?~
+@238  = ~Excellent choix. Euh... à quel point souhaitez-vous que nos descriptions soient... osées ?~
+@239  = ~Des regards langoureux, des contacts "accidentels", et beaucoup de dialogues émouvants qui laissent le lecteur se demander si nous sommes en couple ou pas.~
+@240  = ~Soyez clairs au niveau de nos idées et de nos sentiments, et laissez clairement entendre qu'en privé, nous nous... amusons bien. Mais laissez le côté charnel derrière la porte de la chambre.~
+@241  = ~J'aimerais bien que ce soit un peu suggestif, tant que cela reste de bon goût, évidemment...~
+@242  = ~Pourriez-vous... pourriez-vous écrire beaucoup d'expressions du genre "dos aux muscles saillants", "orbes céruléens", et "sublime objet de désir" ?~
+@243  = ~(soupir) Très bien.~
+@244  = ~Être la vedette d'une oeuvre de littérature d'évasion est un projet sérieux et profond.~
+@245  = ~Être la vedette d'une oeuvre de fiction romantique légère est un projet sérieux et profond.~
+@246  = ~Votre style nous plaît, <CHARNAME> !~
+@247  = ~Pourriez-vous devenir un merveilleux monstre ?~
+@248  = ~Saurez-vous nous trouver lorsque nous nous sentirons moroses, nous sortirez-vous de notre monde morne et sans risque ?~
+@249  = ~Nous entraînerez-vous dans un monde d'étrangeté, de péril et d'effervescence émotionnelle ?~
+@250  = ~Nous entraînerez-vous dans un monde d'étrangeté, de péril et de scènes de chambre très osées ?~
+@251  = ~Nous entendrez-vous lorsque nos coeurs diront "oui" ? Nous pousserez-vous, mais jamais plus que ce que nous pourrions supporter ?~
+@252  = ~Faudra-t-il que nous vous aimions ?~
+@253  = ~Ah...~
+@254  = ~Eh bien...~
+@255  = ~Je ferai de mon mieux.~
+@256  = ~Excellent !~
+@257  = ~Ooh, ooh, puis je vous aider ? Je connais *très bien* <CHARNAME>. Et j'ai une bonne plume. Tenez, voici un de mes poèmes... Hum, il n'est pas encore terminé car je n'ai pas trouvé une bonne rime avec "orange", mais...~
+@258  = ~Je vous suggère de... nous envoyer l'une de vos oeuvres, et nous vous recontacterons.~
+@259  = ~Dès que nous aurons trouvé un moment pour... y jeter un coup d'oeil. Maintenant, où en étions-nous ? Ah oui...~
+@260  = ~Signez ici, ici et là (cette dernière à l'encre rouge, c'est la tradition), serrons-nous la main pour nous porter chance...~
+@261  = ~Et l'affaire est faite !~
+@262  = ~Mais je n'ai pas...~
+@263  = ~Je vais être le héros d'une histoire !~ ~Je vais être l'héroïne d'une histoire !~
+@264  = ~Gorion m'a dit de ne jamais rien signer !!~
+@265  = ~Aargh !!!~
+@266  = ~Nous vous ferons parvenir un exemplaire dédicacé lorsque nous aurons terminé.~
+@267  = ~Oh, mais nous nous entretenons fréquemment avec ces gens-là pour que nos romans fassent bien couleur locale.~
+@268  = ~Niklos et Narlen parlent le *meilleur* jargon de voleurs !~
+@269  = ~Nous avons presque fini la première ébauche de... *votre livre*.~
+@270  = ~Puisque vous passiez dans le coin, voulez-vous y jeter un coup d'oeil ?~
+@271  = ~Peut-être pourriez-vous répondre à quelques dernières questions un peu pointues, ce genre de choses.~
+@272  = ~Je suis plongé jusqu'au cou dans des complots politiques et des bains de sang. Je n'ai pas une minute à perdre !~ ~Je suis plongée jusqu'au cou dans des complots politiques et des bains de sang. Je n'ai pas une minute à perdre !~
+@273  = ~Ce n'est pas le moment ! Mon demi-frère mégalomane et de sang divin s'est aménagé un repaire dans l'Ombre-ville, comme un blaireau blessé ! Je dois en finir !~
+@274  = ~Vous avez l'air épuisé <CHARNAME>, vous titubez littéralement. Quoi que vous ayez à faire, je suis certain que cela peut attendre une heure ou deux.~
+@275  = ~Prenez une chaise, nettoyez ce sang sur votre visage et buvez une tasse de notre thé spécial nuit blanche...~
+@276  = ~C'est du bon thé : on y a ajouté des herbes.~
+@277  = ~Détendez-vous avec le livre. Vos combats qui vont suivre ne se passeront que mieux.~
+@278  = ~Et pendant que vous y êtes, nous pourrons nous entretenir avec vos compagnons.~
+@279  = ~C'est gagnant-gagnant !~
+@280  = ~Non, je dois d'abord régler son compte à Sarevok. Je reviendrai plus tard.~
+@281  = ~Ceci est ridicule, je n'ai pas de temps pour ce genre de blagues.~
+@282  = ~Oui, m'asseoir quelques temps et lire un bon livre est une riche idée. Amenez-moi du thé !~
+@283  = ~Cela fait un bon moment que j'ai envie de le lire !~
+@284  = ~Je pourrais le prendre et le lire plus tard... Est-ce que cela vous va ?~
+@285  = ~Super ! Je vais préparer le thé. Dai va vous en convoquer par magie un exemplaire.~
+@286  = ~Super ! Dai va vous en convoquer par magie un exemplaire.~
+@287  = ~Amusez-vous bien en prenant d'assaut l'Ombre-ville...~
+@288  = ~Eh bien... nous prendrons en considération vos remarques lorsque nous travaillerons sur la prochaine version.~
+@289  = ~Le jour de Gloire est arrivé, notre héros aime le livre !~
+@290  = ~Allez-y, <CHARNAME>. Pensez à noter toute scène digne d'intérêt, ou les rebondissements choquants de l'intrigue...~
+@291  = ~Que votre confrontation finale soit rapide, déterminante et emplie d'action dramatique !~
+@292  = ~* * * * * *   L'AVENEMENT DE L'ENFANT DE CHATEAU-SUIF   * * * * * *
+
+
+              un roman basé sur les évènements actuels, par
+
+
+                                 K D Troumpett~
+@293  = ~D'une manière ou d'une autre, on allait en arriver là. Mulahey le demi-orque incanta une prière à son dieu sombre et dément, et un éclair apparut dans ses mains.
+     "Il faut que vous sachiez," dit <CHARNAME> d'un ton désinvolte, "que je ne puis vous laisser continuer vos activités." Une lame d'acier sortit de son fourreau, et son crissement résonna dans la caverne sombre. "C'en est fini pour vous !"...~
+@294  = ~(Continuer à lire)~
+@295  = ~(Aller à la dernière page)~
+@296  = ~D'une manière ou d'une autre, on allait forcément en arriver à un imbroglio de ce genre. Mulahey le demi-orque incanta une prière à son dieu sombre et dément, et un éclair apparut dans ses mains.
+     "Oh s'il te plaît" dit <CHARNAME> d'une voix trainante, pas le moins du monde impressionné. "Tous ces tracas et ces embrouilles pour ma petite personne ? Mon petit gars, éteins-moi cette foudre dans tes mains et nous pourrons trouver une solution, un arrangement... acceptable pour tout le monde."...~ ~D'une manière ou d'une autre, on allait forcément en arriver à un imbroglio de ce genre. Mulahey le demi-orque incanta une prière à son dieu sombre et fou, et un éclair apparut dans ses mains.
+     "Oh s'il te plaît" dit <CHARNAME> d'une voix trainante, pas le moins du monde impressionnée. "Tous ces tracas et ces embrouilles pour ma petite personne ? Mon petit gars, éteins-moi cette foudre dans tes mains et nous pourrons trouver une solution, un arrangement... acceptable pour tout le monde."...~
+@297  = ~L'aube ouvrit ses yeux rougis sur la Porte de Baldur, grande dame de toutes les cités, et étendit ses doigts pâles et tremblants sur les toits à pignons, tours et clochers. Déployée sur la corniche du plus haut donjon du palais ducal, une troupe de gardes du Poing Enflammé aux visages durs comme la pierre cernait un aventurier solitaire, agrippé au paratonnerre d'une manière fort précaire.
+     "Je peux tout expliquer !" cria <CHARNAME>, ses jambes s'agitant frénétiquement. "Je vous jure que j'ai une bonne raison, je vais vous expliquer !"...~ ~L'aube ouvrit ses yeux rougis sur la Porte de Baldur, grande dame de toutes les cités, et étendit ses doigts pâles et tremblants sur les toits à pignons, tours et clochers. Déployée sur la corniche du plus haut donjon du palais ducal, une troupe de gardes du Poing Enflammé aux visages durs comme la pierre cernait une aventurière solitaire, agrippée au paratonnerre d'une manière fort précaire.
+     "Je peux tout expliquer !" cria <CHARNAME>, ses jambes s'agitant frénétiquement. "Je vous jure que j'ai une bonne raison, je vais vous expliquer !"...~
+@298  = ~"Oh, mais pourquoi nous quereller si inutilement, mon beau faucon féroce ?" Dans l'obscurité enveloppant la caverne, Davaeorn ressemblait à un gnome décrépit, offrant des sacs de richesses. Sa voix prit un ton mielleux. "Nous sommes semblables, toi et moi. Ensemble nous pourrons..."
+     Transpercé par quinze centimètres d'acier parfaitement aiguisé, ses dernières paroles se muèrent en un gargouillement inaudible.
+     La voix de <CHARNAME> oscillait entre le grognement et le sanglot. "Je ne suis *absolument pas* comme vous !"...~
+@299  = ~"Oh, mais pourquoi nous quereller si inutilement, mon beau faucon féroce ?" Dans l'obscurité enveloppant la caverne, Davaeorn conta une histoire de sombres plaisirs, fit miroiter les récompenses et le pouvoir que <CHARNAME> pourrait obtenir s'il s'éloignait de la voie de l'honneur. D'une voix mielleuse, il dit : "rejoins-moi, mon jeune ami, et ensemble nous pourrons..."
+     Ses dernières paroles se muèrent en un gargouillement inaudible.
+     <CHARNAME> retira le couteau incurvé du torse du mage recroquevillé et essuya le sang noir de Davaeorn. "Vous n'auriez fait que me ralentir"...~ ~"Oh, mais pourquoi nous quereller si inutilement, mon beau faucon féroce ?" Dans l'obscurité enveloppant la caverne, Davaeorn conta une histoire de sombres plaisirs, fit miroiter les récompenses et le pouvoir que <CHARNAME> pourrait obtenir si elle s'éloignait de la voie de l'honneur. D'une voix mielleuse, il dit : "rejoins-moi, ma jeune amie, et ensemble nous pourrons..."
+     Ses dernières paroles se muèrent en un gargouillement inaudible.
+     <CHARNAME> retira le couteau incurvé du torse du mage recroquevillé et essuya le sang noir de Davaeorn. "Vous n'auriez fait que me ralentir"...~
+@300  = ~     (Notes dans la marge)
+
+-----Cette introduction ne rentre-t-elle pas un peu trop vite dans le récit ? - D
+
+-----D'abord l'action, le contexte viendra après - K~
+@301  = ~     ...Les étincelles s'éparpillaient toujours plus loin, au fur et à mesure que <CHARNAME> tisonnait avec irritation les morceaux de charbon ardents avec un bout de bâton brisé. L'odeur de la résine de pin et la morsure glacée d'une gelée printanière tardive flottaient dans l'air. De l'autre côté du feu de camp, les yeux de Delio semblaient perplexes ; l'ami de <CHARNAME> était perturbé ces derniers temps. "Où iras-tu maintenant ?" La voix familière de Delio avait pris un ton soigneusement évasif.
+     "Au nord. A Bois-Manteau. Je crois que tu connais mes raisons."
+     "Pour sûr, <CHARNAME>. Je..."
+     Delio s'interrompit car l'un de leurs compagnons, un robuste guerrier, venait de grogner dans son sommeil ; celui-ci se retourna dans ses couvertures comme un ours ivre, avant de s'immobiliser et de se mettre à ronfler bruyamment.
+     "... Non. Nous discuterons plus tard."~
+@302  = ~(Revenir au début)~
+@303  = ~     ...Les étincelles s'éparpillaient toujours plus loin, au fur et à mesure que <CHARNAME> tisonnait avec irritation les morceaux de charbon ardents avec un bout de bâton brisé. L'odeur de la résine de pin et la morsure glacée d'une gelée printanière tardive flottaient dans l'air. De l'autre côté du feu de camp, les yeux de Delio ressemblaient à des disques d'ambre luisant dans l'obscurité. "Où iras-tu maintenant ?" La voix de Delio, à la fois douce et forte comme une vieille eau-de-vie, avait pris un ton soigneusement évasif.
+      "Au nord. A Bois-Manteau. Je crois que tu connais mes raisons."
+     "Pour sûr, <CHARNAME>. Je..."
+     Delio s'interrompit car l'un de leurs compagnons, un robuste guerrier, venait de grogner dans son sommeil ; celui-ci se retourna dans ses couvertures comme un ours ivre, avant de s'immobiliser et de se mettre à ronfler bruyamment.
+     "... Non. Nous discuterons plus tard."~
+@304  = ~     ...Les étincelles s'éparpillaient toujours plus loin, au fur et à mesure que <CHARNAME> tisonnait avec irritation les morceaux de charbon ardents avec un bout de bâton brisé. L'odeur de la résine de pin et la morsure glacée d'une gelée printanière tardive flottaient dans l'air. De l'autre côté du feu de camp, Delio fixa <CHARNAME> d'un regard perçant comme si celui-ci pouvait suffire à lire dans l'esprit du jeune aventurier comme dans un livre ouvert. "Où iras-tu maintenant ?" La voix bourrue de Delio avait pris un ton soigneusement évasif.
+     "Au nord. A Bois-Manteau. Je crois que tu connais mes raisons."
+     "Pour sûr, <CHARNAME>. Je..."
+     Delio s'interrompit car l'un de leurs compagnons, un robuste guerrier, venait de grogner dans son sommeil ; celui-ci se retourna dans ses couvertures comme un ours ivre, avant de s'immobiliser et de se mettre à ronfler bruyamment.
+     "... Non. Nous discuterons plus tard."~ ~     ...Les étincelles s'éparpillaient toujours plus loin, au fur et à mesure que <CHARNAME> tisonnait avec irritation les morceaux de charbon ardents avec un bout de bâton brisé. L'odeur de la résine de pin et la morsure glacée d'une gelée printanière tardive flottaient dans l'air. De l'autre côté du feu de camp, Delio fixa <CHARNAME> d'un regard perçant comme si celui-ci pouvait suffire à lire dans l'esprit de la jeune aventurière comme dans un livre ouvert. "Où iras-tu maintenant ?" La voix bourrue de Delio avait pris un ton soigneusement évasif.
+     "Au nord. A Bois-Manteau. Je crois que tu connais mes raisons."
+     "Pour sûr, <CHARNAME>. Je..."
+     Delio s'interrompit car l'un de leurs compagnons, un robuste guerrier, venait de grogner dans son sommeil ; celui-ci se retourna dans ses couvertures comme un ours ivre, avant de s'immobiliser et de se mettre à ronfler bruyamment.
+     "... Non. Nous discuterons plus tard."~
+@305  = ~     (Notes dans la marge)
+
+-----C'est peut-être un peu trop tôt pour placer le "sublime objet de désir" ? - K
+
+-----Ce n'est jamais trop tôt. - D~
+@306  = ~-----"voix familière" ? *Familière* ? Ce mot est ennuyeux. - K
+
+-----Alors pourquoi pas, "la voix calme et assurée" ? - D
+
+-----Tu m'as tuée, Dai ! "Oh, mais étais-tu en train d'essayer de m'embrasser ? Désolée, tu étais si *calme* et *assuré* que je me suis endormie, veux-tu bien réessayer ?" - K
+
+-----Nous pourrions un peu approfondir la chose. Peut-être Delio est-il sorti d'une puberté tardive avec quelques années d'avance. Les humains font cela, tant mieux pour ces gamins précoces. Hum, "d'une voix rauque et ferme", ou alors "à la fois douce et forte comme une vieille eau-de-vie"... - D
+
+-----*Voilà* : l'eau-de-vie. A ce propos, il m'en reste encore une demi-bouteille, et c'est de la bonne. Veux-tu venir ce soir m'aider à la finir ? - K~
+@307  = ~...Delio glissa ses deux mains dans le col de <CHARNAME> et la plaqua énergiquement contre le mur. Le regard de <CHARNAME> glissa vers les mains pales et faussement fines de Delio, puis elle se mit à glousser hystériquement.
+     "Non !" grinça Delio. "Accroche-toi, il ne faut pas que tu t'effondres maintenant. Fais-le pour *moi*. Les autres sont à terre, ils ne te remercieront pas si tu te retrouves pendue comme une simple criminelle." Le tonnerre résonna à nouveau dans le ciel et la pluie qui menaçait depuis longtemps se mit à tomber dans l'allée, ce qui eut pour effet de tremper les cheveux de jais de Delio et de plaquer sur son corps la chemise blanche de <CHARNAME> l'aventurière - ou plutôt la fugitive...~
+@308  = ~"Tu es blessée" murmura Delio, les yeux rivés sur une tache rouge qui s'étendait peu à peu dans le tissu blanc sous ses doigts. Elle poussa un juron, tira le lacet du col et écarta l'étoffe. Elle regarda fixement la coupure nette le long de la gorge fine de <CHARNAME>. Sa main vint spontanément recouvrir la blessure, mais trop délicatement pour arrêter l'hémorragie ; le sang vint rougir ses doigts plaqués sur la blessure, au rythme du pouls affaibli de <CHARNAME>. 
+     <CHARNAME> recouvrit sa main.~
+@309  = ~...Delio glissa ses deux mains dans le col de <CHARNAME> et le plaqua énergiquement contre le mur. Le regard de <CHARNAME> glissa vers les puissantes mains aux longs doigts de Delio, puis il se mit à glousser hystériquement.
+     "Non !" grinça Delio. "Accroche-toi, il ne faut pas que tu t'effondres maintenant. Fais-le pour *moi*. Les autres sont à terre, ils ne te remercieront pas si tu te retrouves pendu comme un simple criminel." Le tonnerre résonna à nouveau dans le ciel et la pluie qui menaçait depuis longtemps se mit à tomber dans l'allée, ce qui eut pour effet de tremper les cheveux de jais de Delio et de plaquer sur son corps la chemise blanche de <CHARNAME> l'aventurier - ou plutôt le fugitif...~
+@310  = ~"Tu es blessé" murmura Delio, les yeux rivés sur une tache rouge qui s'étendait peu à peu dans le tissu blanc sous ses doigts. Il poussa un juron, tira le lacet du col et écarta l'étoffe. Il regarda fixement la coupure nette le long de la gorge large de <CHARNAME>. Sa main vint spontanément recouvrir la blessure, mais trop délicatement pour arrêter l'hémorragie ; le sang vint rougir ses doigts plaqués sur la blessure, au rythme du pouls affaibli de <CHARNAME>. 
+     <CHARNAME> recouvrit sa main.~
+@311  = ~...Delio glissa ses deux mains dans le col de <CHARNAME> et la plaqua énergiquement contre le mur. Le regard de <CHARNAME> glissa vers les puissantes mains aux longs doigts de Delio, puis elle se mit à glousser hystériquement.
+    "Non !" grinça Delio. "Accroche-toi, il ne faut pas que tu t'effondres maintenant. Fais-le pour *moi*. Les autres sont à terre, ils ne te remercieront pas si tu te retrouves pendue comme une simple criminelle." Le tonnerre résonna à nouveau dans le ciel et la pluie qui menaçait depuis longtemps se mit à tomber dans l'allée, ce qui eut pour effet de tremper les cheveux de jais de Delio et de plaquer sur son corps la chemise blanche de <CHARNAME> l'aventurière - ou plutôt la fugitive...~
+@312  = ~"Tu es blessée" murmura Delio, les yeux rivés sur une tache rouge qui s'étendait peu à peu dans le tissu blanc sous ses doigts. Il poussa un juron, tira le lacet du col et écarta l'étoffe. Il regarda fixement la coupure nette le long de la gorge fine de <CHARNAME>. Sa main vint spontanément recouvrir la blessure, mais trop délicatement pour arrêter l'hémorragie ; le sang vint rougir ses doigts plaqués sur la blessure, au rythme du pouls affaibli de <CHARNAME>. 
+     <CHARNAME> recouvrit sa main.~
+@313  = ~...Delio glissa ses deux mains dans le col de <CHARNAME> et le plaqua énergiquement contre le mur. Le regard de <CHARNAME> glissa vers les mains pales et faussement fines de Delio, puis il se mit à glousser hystériquement.
+      "Non !" grinça Delio. "Accroche-toi, il ne faut pas que tu t'effondres maintenant. Fais-le pour *moi*. Les autres sont à terre, ils ne te remercieront pas si tu te retrouves pendu comme un simple criminel." Le tonnerre résonna à nouveau dans le ciel et la pluie qui menaçait depuis longtemps se mit à tomber dans l'allée, ce qui eut pour effet de tremper les cheveux de jais de Delio et de plaquer sur son corps la chemise blanche de <CHARNAME> l'aventurier - ou plutôt le fugitif...~
+@314  = ~"Tu es blessé" murmura Delio, les yeux rivés sur une tache rouge qui s'étendait peu à peu dans le tissu blanc sous ses doigts. Elle poussa un juron, tira le lacet du col et écarta l'étoffe. Elle regarda fixement la coupure nette le long de la gorge large de <CHARNAME>. Sa main vint spontanément recouvrir la blessure, mais trop délicatement pour arrêter l'hémorragie ; le sang vint rougir ses doigts plaqués sur la blessure, au rythme du pouls affaibli de <CHARNAME>. 
+     <CHARNAME> recouvrit sa main.~
+@315  = ~La Lune apparut soudain à travers une trouée dans les nuages, faisant miroiter des reflets d'argent sur leurs visages humides. Le cri des gardes du Poing Enflammé se fit entendre au loin, semblable au raffut d'une meute de chiens de chasse.
+     "Il est temps de partir", dit <CHARNAME>, un rictus sur son visage...~
+@316  = ~(Notes dans la marge)
+
+-----Mais pourquoi tu nous cases systématiquement des scènes d'eau ? - K
+
+-----Grandeur, interactivité de la scène, l'éternel espèce de truc de l'eau courante qui symbolise une forte émotion ; et la vision surprise d'une étoffe trempée, moulant adorablement les formes de son corps. - D
+
+-----Ton argument est très convaincant. - K~
+@317  = ~(Notes dans la marge)
+
+-----Nous pourrions, enfin, peut-être, introduire une romance secondaire entre deux équipiers de <CHARNAME> ? Une scène de baiser ! Ou alors une sorte d'angoisse relationnelle. Par les engelures furonculeuses d'Oghma, il me faut absolument trouver des *allusions érotiques*. - K
+
+-----Au niveau érotisme, je peux te donner un coup de main. - D~
+@318  = ~..."Tout est clair maintenant," déclara <CHARNAME>, marchant d'un pas décidé dans la rue, les talons de ses bottes claquant sur le pavé. "Le fer pourri de Nashkel, la mystérieuse disparition de l'héritier Etoilargent, les prédictions changeantes de Galileus l'astrologue. Et même cette aberrante infestation de koboldes au pont de Flammevin."
+     "Tu ne veux quand même pas dire que -" s'écria le loyal serviteur de <CHARNAME>.
+     "Oh que si. Au palais ducal !"...~
+@319  = ~...La lugubre et massive tour s'effritait et s'affaissa de moitié alors que <CHARNAME> et son équipe s'en échappaient à l'issue d'une course épuisante. "Ouf," bredouilla l'aventurier. "Au moins nous en avons terminé." Derrière eux les pierres s'écrasaient au sol les unes après les autres comme si, libérée de l'emprise du rêve dément de Durlag le tueur de trolls, une gigantesque main invisible cherchait à réduire en miettes la tour.
+     "Et maintenant," déclara <CHARNAME>, "nous allons rentrer à la Porte de Baldur, retrouver ses magnifiques palais et ses tortueuses allées, ses filles qui vendent des oranges sur le trottoir, ses joueurs de flûte, ses marchands, ses marins, ses bourgeois assis sur de moelleux coussins, et tous ses puissants aventuriers dépensant leur butin avec largesse. Je compte bien me joindre à eux. Allez-vous me suivre, mes amis ?"
+     L'équipe de <CHARNAME> répondit par une acclamation.
+     "Et je vais encore vous dire une chose," marmonna <CHARNAME>, "si je ne revois plus jamais de métamorphe de ma vie alors je mourrai *heureux*"...~ ~...La lugubre et massive tour s'effritait et s'affaissa de moitié alors que <CHARNAME> et son équipe s'en échappaient à l'issue d'une course épuisante. "Ouf," bredouilla l'aventurière. "Au moins nous en avons terminé." Derrière eux les pierres s'écrasaient au sol les unes après les autres comme si, libérée de l'emprise du rêve dément de Durlag le tueur de trolls, une gigantesque main invisible cherchait à réduire en miettes la tour.
+     "Et maintenant," déclara <CHARNAME>, "nous allons rentrer à la Porte de Baldur, retrouver ses magnifiques palais et ses tortueuses allées, ses filles qui vendent des oranges sur le trottoir, ses joueurs de flûte, ses marchands, ses marins, ses bourgeois assis sur de moelleux coussins, et tous ses puissants aventuriers dépensant leur butin avec largesse. Je compte bien me joindre à eux. Allez-vous me suivre, mes amis ?"
+     L'équipe de <CHARNAME> répondit par une acclamation.
+     "Et je vais encore vous dire une chose," marmonna <CHARNAME>, "si je ne revois plus jamais de métamorphe de ma vie alors je mourrai *heureuse*"...~
+@320  = ~...<CHARNAME> se pencha à la proue du navire, laissant derrière lui la chaleur trouble et les bêtes folles de l'île perdue de Baldurien disparaître sous le souffle d'un vent vif et purificateur. L'aventurier serra l'épée dans ses mains, relique d'or sacrée du fondateur de la ville, si efficace contre les bêtes métamorphes, et chanta en silence une supplique à Umberlie pour un vent favorable ou, mieux encore, un coup de vent vicieux capable même de fendre le bois, pourvu que cela puisse les porter suffisamment vite. Si seulement ils pouvaient rentrer en ville *à temps*...~ ~...<CHARNAME> se pencha à la proue du navire, laissant derrière elle la chaleur trouble et les bêtes folles de l'île perdue de Baldurien disparaître sous le souffle d'un vent vif et purificateur. L'aventurière serra l'épée dans ses mains, relique d'or sacrée du fondateur de la ville, si efficace contre les bêtes métamorphes, et chanta en silence une supplique à Umberlie pour un vent favorable ou, mieux encore, un coup de vent vicieux capable même de fendre le bois, pourvu que cela puisse les porter suffisamment vite. Si seulement ils pouvaient rentrer en ville *à temps*...~
+@321  = ~..."Ne savez-vous pas que nous tuons ce que nous aimons le plus au monde ?" Le vieux sage s'affaissa en avant, son visage distordu dans son agonie alors que <CHARNAME> achevait de retourner son couteau. Le jeune aventurier saisit son corps frêle et le laissa glisser doucement au sol, puis lui recouvrit les yeux avant qu'un éclair argenté ne les traverse. "Repose en paix... père"...~ ~..."Ne savez-vous pas que nous tuons ce que nous aimons le plus au monde ?" Le vieux sage s'affaissa en avant, son visage distordu dans son agonie alors que <CHARNAME> achevait de retourner son couteau. La jeune aventurière saisit son corps frêle et le laissa glisser doucement au sol, puis lui recouvrit les yeux avant qu'un éclair argenté ne les traverse. "Repose en paix... père"...~
+@322  = ~(Notes dans la marge)
+
+-----Dai ? Je comprends bien que ces "métamorphes aux yeux d'argent ayant pris la forme des gens qu'on aime" sont en ce moment les méchants les plus à la mode. Mais ils commencent *sérieusement* à me ficher les jetons. Tu vas me prendre pour une idiote, mais... s'ils existaient vraiment ? - K
+
+-----Comment sais-tu que je suis le vrai moi ? Il nous faut une phrase passe-partout.  Gargouille. - D
+
+-----Tarte au citron ! - K
+
+-----Je t'aime.  - D~
+@323  = ~...<CHARNAME> fit reposer ses bras bronzés sur le bord de la baignoire et, d'un geste brusque, laissa sa tête tomber en arrière, ses orteils s'agitant distraitement. Ses seins montaient puis descendaient légèrement dans les bulles. Elle soupira, rêveuse dans l'eau parfumée et n'écoutant qu'à moitié son amant.
+     "... j'ai éjecté Jack la Piqûre et le Cormyrien de - bon, tu n'as pas besoin de savoir d'où - et j'ai vendu ta belle dague avec l'améthyste sur sa poignée."
+     "J'aimais bien cette dague", dit <CHARNAME>, ses yeux encore clos.
+     "La conséquence étant que nous aurons *tous* des tenues luxueuses pour la réception au palais, même le rôdeur..."~
+@324  = ~"*Pitié*, ne me dis pas que tu comptes m'habiller en jupe à crinoline". <CHARNAME> ouvrit ses yeux et battit des paupières, pleine d'espoir.
+     "Les grandes jupes font fureur cette année", répondit Delio, ses yeux d'ambre luisants. "Elles mettent bien en valeur ces hanches larges, euh... faites pour porter des enfants je voulais dire ; et bien sûr elles permettent d'afficher une surface de tissu suffisante."
+     <CHARNAME> fit la grimace.
+     "C'est un champ de bataille comme un autre. Et nous devons porter les bonnes armes et la bonne armure, sinon on ne nous laissera même pas franchir la porte d'entrée... Hé, mais que fais-tu ?"
+     <CHARNAME> serra fermement le poignet de Delio, l'entraînant lentement mais sûrement vers le bas. "Ne devons-nous pas sentir bon *tous les deux* ?", lui sussurra-t-elle.~
+@325  = ~Mais lorsque Delio se retrouva penché au-dessus du bain, obstruant la lumière, <CHARNAME> s'enfonça légèrement dans l'eau.
+     "Chut," dit Delio ; celui-ci recula et se tourna de façon à serrer la main de <CHARNAME>, paume contre paume et les doigts mêlés. "Je suis moi, je suis à toi, je ne suis pas une... bestiole aux yeux d'argent."
+     <CHARNAME> prit une profonde inspiration. "Très bien". Un soudain sourire fit briller ses dents. "Mais moi, j'en suis peut-être une. Mon cher, comment pourrais-tu me tester de manière suffisamment... satisfaisante ?"
+     Dans la lumière de la lampe, les yeux de Delio prirent une teinte dorée et brillants de désir, allant et venant de la tête aux pieds du corps musclé de <CHARNAME>. "J'ai quelques idées".
+     "J'aime toutes tes idées". Puis elle entraîna Delio vers elle...~
+@326  = ~...<CHARNAME> fit reposer ses bras minces sur le bord de la baignoire et, d'un geste brusque, laissa sa tête tomber en arrière, ses orteils s'agitant distraitement. Ses seins montaient puis descendaient légèrement dans les bulles. Elle soupira, rêveuse dans l'eau parfumée et n'écoutant qu'à moitié son amant.
+     "... j'ai éjecté Jack la Piqûre et le Cormyrien de - bon, tu n'as pas besoin de savoir d'où - et j'ai vendu ta belle dague avec l'améthyste sur sa poignée."
+     "J'aimais bien cette dague", dit <CHARNAME>, ses yeux encore clos.
+     "La conséquence étant que nous aurons *tous* des tenues luxueuses pour la réception au palais, même le rôdeur..."~
+@327  = ~"*Pitié*, ne me dis pas que tu comptes m'habiller en jupe à crinoline". <CHARNAME> ouvrit ses yeux et battit des paupières, pleine d'espoir.
+     "Les grandes jupes font fureur cette année", répondit Delio, ses yeux d'ambre luisants. "Elles mettent bien en valeur ces hanches larges, euh... faites pour porter des enfants je voulais dire ; et bien sûr elles permettent d'afficher une surface de tissu suffisante."
+     <CHARNAME> fit la grimace.
+     "C'est un champ de bataille comme un autre. Et nous devons porter les bonnes armes et la bonne armure, sinon on ne nous laissera même pas franchir la porte d'entrée... Hé, mais que fais-tu ?"
+     Les doigts agiles de <CHARNAME> saisirent le poignet de Delio, son pouce cerclant doucement autour de son point de pulsation, puis l'attira légèrement vers le bas. "Ne devons-nous pas sentir bon *tous les deux* ?", lui sussurra-t-elle.~
+@328  = ~Mais lorsque Delio se retrouva penché au-dessus du bain, obstruant la lumière, <CHARNAME> s'enfonça légèrement dans l'eau.
+     "Chut," dit Delio ; celui-ci recula et se tourna de façon à serrer la main de <CHARNAME>, paume contre paume et les doigts mêlés. "Je suis moi, je suis à toi, je ne suis pas une... bestiole aux yeux d'argent."
+     <CHARNAME> prit une profonde inspiration. "Très bien". Un soudain sourire fit briller ses dents. "Mais moi, j'en suis peut-être une. Mon cher, comment pourrais-tu me tester de manière suffisamment... satisfaisante ?"
+     Dans la lumière de la lampe, les yeux de Delio prirent une teinte dorée et brillants de désir, allant et venant de la tête aux pieds du corps félin de <CHARNAME>. "J'ai quelques idées".
+     "J'aime toutes tes idées". Puis elle entraîna Delio vers elle...~
+@329  = ~     ...<CHARNAME> fit reposer ses bras musclés sur le bord de la baignoire et, d'un geste brusque, laissa sa tête tomber en arrière, caressant distraitement son menton et sa gorge. Il soupira, rêveur dans l'eau parfumée et n'écoutant qu'à moitié sa bien-aimée.
+     "... j'ai éjecté Jack la Piqûre et le Cormyrien de - bon, tu n'as pas besoin de savoir d'où - et j'ai vendu ta belle dague avec l'améthyste sur sa poignée."
+     "J'aimais bien cette dague", dit <CHARNAME>, ses yeux encore clos.
+     "La conséquence étant que nous aurons *tous* des tenues luxueuses pour la réception au palais, même le rôdeur..."~
+@330  = ~"*Pitié*, ne me dis pas que tu comptes m'habiller en sarouel." <CHARNAME> regarda Delio d'un air suppliant.
+     "Les pantalons larges font fureur cette année" répondit Delio, ses yeux d'ambre luisants. "Ils mettent en valeur tes larges, euh, puissantes hanches, et bien sûr ils permettent d'afficher une surface de tissu suffisante."
+    <CHARNAME> fit la grimace.
+     "C'est un champ de bataille comme un autre. Et nous devons porter les bonnes armes et la bonne armure, sinon on ne nous laissera même pas franchir la porte d'entrée... Hé, mais que fais-tu ?"
+      <CHARNAME> serra fermement le poignet de Delio, l'entraînant lentement mais sûrement vers le bas. "Ne devons-nous pas sentir bon *tous les deux* ?", lui sussurra-t-il.~
+@331  = ~Mais lorsque Delio se retrouva penchée au-dessus du bain, obstruant la lumière, <CHARNAME> s'enfonça légèrement dans l'eau.
+     "Chut," dit Delio ; celle-ci recula et se tourna de façon à serrer la main de <CHARNAME>, paume contre paume et les doigts mêlés. "Je suis moi, je suis à toi, je ne suis pas une... bestiole aux yeux d'argent."
+    <CHARNAME> prit une profonde inspiration. "Très bien". Un soudain sourire fit briller ses dents. "Mais moi, j'en suis peut-être une. Ma chère, comment pourrais-tu me tester de manière suffisamment... satisfaisante ?"
+     Dans la lumière de la lampe, les yeux de Delio prirent une teinte dorée et brillants de désir, allant et venant de la tête aux pieds du corps musclé de <CHARNAME>. "J'ai quelques idées".
+     "J'aime toutes tes idées". Puis il entraîna Delio vers lui...~
+@332  = ~     ...<CHARNAME> fit reposer ses bras minces sur le bord de la baignoire et, d'un geste brusque, laissa sa tête tomber en arrière, caressant distraitement son menton et sa gorge. Il soupira, rêveur dans l'eau parfumée et n'écoutant qu'à moitié sa bien-aimée.
+     "... j'ai éjecté Jack la Piqûre et le Cormyrien de - bon, tu n'as pas besoin de savoir d'où - et j'ai vendu ta belle dague avec l'améthyste sur sa poignée."
+     "J'aimais bien cette dague", dit <CHARNAME>, ses yeux encore clos.
+     "La conséquence étant que nous aurons *tous* des tenues luxueuses pour la réception au palais, même le rôdeur..."~
+@333  = ~"*Pitié*, ne me dis pas que tu comptes m'habiller en sarouel." <CHARNAME> regarda Delio d'un air suppliant.
+     "Les pantalons larges font fureur cette année" répondit Delio, ses yeux d'ambre luisants. "Ils mettent en valeur tes larges, euh, puissantes hanches, et bien sûr ils permettent d'afficher une surface de tissu suffisante."
+    <CHARNAME> fit la grimace.
+     "C'est un champ de bataille comme un autre. Et nous devons porter les bonnes armes et la bonne armure, sinon on ne nous laissera même pas franchir la porte d'entrée... Hé, mais que fais-tu ?"
+    Les doigts agiles de <CHARNAME> saisirent le poignet de Delio, son pouce cerclant doucement autour de son point de pulsation, puis l'attira légèrement vers le bas. "Ne devons-nous pas sentir bon *tous les deux* ?", lui sussurra-t-il.~
+@334  = ~(Notes dans la marge)
+
+-----La grande fête ! De grands et beaux gentilshommes et gentes dames, de belles robes à ne plus savoir où donner de la tête, ces merveilleux escaliers et, oh ! Des lustres pour s'y accrocher et se balancer ! - D
+
+-----Nous pourrions relier cette partie de l'intrigue avec l'histoire du fils Ecudargent disparu - K
+
+-----Et s'ils n'aiment pas que leur belle fête au palais se fasse descendre par la prose populaire, ils n'auront qu'à nous accorder des invitations la prochaine fois ! - D
+
+-----Au passage, sais-tu si <CHARNAME> utilise une rapière ?  - K~
+@335  = ~(Notes dans la marge)
+
+-----<CHARNAME> avait le pied leste. Il saisit en toute hâte une rapière que l'un de ses fidèles compagnons venait de lui faire glisser sur les dalles de marbre, arme gage d'un ultime espoir de survie alors qu'une brute en armure levait sur lui une gigantesque épée à deux mains capable de décapiter un cheval... Mais coup de maître ! <CHARNAME> lança alors de toutes ses forces la fine lame, qui vint trancher net la gorge de la brute ; celle-ci s'écroula comme une triste montagne (*il faut que je trouve une meilleure comparaison*). Mais pas le temps de souffler, car surgissait de derrière une table renversée, hum... - D
+
+-----Cela a l'air bien.  Qui est le grand méchant de l'histoire, déjà ? - K
+
+-----Cela deviendra clair quand le moment sera venu, j'en suis sûr. - D~
+@336  = ~(Notes dans la marge)
+
+-----Peu crédible. Que dirais-tu plutôt d'un éblouissant spectacle de magie à la fois profane et divine - le feu, la glace, la maçonnerie s'écroulant au fur et à mesure que le palais se retrouve *horriblement endommagé* par les sorts qui s'enchaînent dans tous les sens, des squelettes et des ombres marchant parmi les vivants, une foule de gens qui hurlent en s'enfuyant poursuivis par des ours, et la trame elle-même de la réalité qui semble ébranlée et déchirée.  - D
+
+-----Et finalement, lorsque <CHARNAME> se retrouve à court de la moindre étincelle de magie et que tout semble perdu... attends ! - <CHARNAME> s'immobilise, semble tomber dans une sorte de torpeur méditative... - K
+
+-----Et ouiii ! Un sort de foudre dans le visage de... qui est le grand méchant, déjà ?  - D
+
+-----Cela deviendra clair quand le moment sera venu, j'en suis sûre.   - K~
+@337  = ~(Notes dans la marge)
+
+-----Hé, <CHARNAME> me semble plutôt du genre à se tailler un bon gros bâton de bois sec et éventuellement y fixer un couteau au bout. Pas de rapière.  - D
+
+-----Cela ne fait pas très "palais ducal". Pourquoi pas plutôt la canne en prunelier de Belt, qu'en désespoir de cause <CHARNAME> arrache des mains flasques et inconscientes du duc, et qu'il se met à manier avec l'aisance et la célérité d'un guerrier-né face aux... hordes de sbires sans visage mais redoutables, qui menacent maintenant les compagnons chers au coeur de <CHARNAME>... - K
+
+-----Ca peut marcher. - D
+
+-----Qui est le grand méchant de l'histoire, déjà ?  - K
+
+-----Cela deviendra clair quand le moment sera venu, j'en suis sûr  - D~
+@338  = ~(Notes dans la marge)
+
+-----<CHARNAME> me semble plutôt être un combattant à mains nues.  Un guerrier à mains nues *contemplatif*. Qui joue au chat et à la souris dans ce grand hall rempli de miroirs et d'écrans, dans un labyrinthe d'images mouvantes, qui traque ses ennemis au son de leurs pas et de leur souffle, évitant de justesse un ninja furtif de Kara-Tur armé d'un couteau, et qui finit par assommer son dernier vicieux adversaire d'un magistral coup de poing à travers une porte en chêne de quinze centimètres... - D
+
+-----Cela a l'air bien. Qui est le grand méchant de l'histoire, déjà ?  - K
+
+-----Cela deviendra clair quand le moment sera venu, j'en suis sûr  - D~
+@339  = ~(Le dernier chapitre reste à écrire...)~
+@340  = ~... un oeil rouge géant et pernicieux !~
+
+@341 = ~La rumeur court que vous avez secouru dans la mine de Nashkel quelqu'un de petit et mignon...~
+@342 = ~Et qui est ce beau gosse musclé derrière votre épaule ?~
+@343 = ~Vous seriez parfait sur la couverture du livre, sire. Et vous pourriez donner vos royalties à un ordre caritatif, ou alors les dépenser en vernis pour votre armure. (Nous ne vous jugeons pas.)~
+@344 = ~Hélas madame Kitty et monsieur Dai, j'ai fait la promesse solennelle à ma famille de tout faire pour ne pas apparaître dans certaines... fictions, si j'ai possibilité de l'éviter.~
+@345 = ~Oh, la vieille rengaine du "ne surtout pas apparaître dans les journaux, les chansons de geste ou les fictions grandiloquentes". Je ne savais pas que les familles nobles en étaient encore là.~
+@346 = ~Ma mère accorde beaucoup de valeur aux vieilles traditions.~
+@347 = ~Et qui est cette sculpturale dame blonde juste derrière vous, <CHARNAME> ?~
+@348 = ~Nous pouvons écrire un superbe portrait de vous, madame.~
+@349 = ~Est-ce que tu te rappelles cette nuit à la belle étoile où nous avons soudain eu besoin d'une aiguille, <CHARNAME> ? Ce fut si amusant : nous l'avons cherchée dans une *très* grosse meule de foin.~
+@350 = ~Ou la fois où... mais chut Kitty, je vous le raconterai loin des délicates oreilles masculines... (murmure à l'oreille)~
+@351 = ~(s'étouffe) Cela risque d'être un peu *trop* osé pour nos lecteurs. (Je n'aurais jamais pensé dire cela un jour.)~
+@352 = ~Hé, qu'est-ce qu'elle vient de te dire ?~
+@353 = ~(Plus tard, Dai.)~
+@354 = ~Dans la vie, il arrive toujours un moment où on se retrouve appelé à vivre un destin supérieur. C'est une expérience terrifiante, une leçon d'humilité, mais on ressent pourtant le sentiment d'une ineffable justice... Je vous propose humblement de devenir le sex-symbole de votre nouveau livre.~
+@355 = ~Vraiment Coran ? Vous ?~
+@356 = ~Après avoir fui la ville et nous avoir laissé avec une nouvelle à moitié terminée "Le livre de chevet d'Hanali : les secrets de l'amant elfe", et après avoir laissé des ardoises dans toutes les tavernes ?~
+@357 = ~J'ai posté le reste de mes notes dès que les gardes du temple ont cessé de me poursuivre...~
+@358 = ~Oui, mais à notre *concurrent*...~
+@359 = ~Non.~
+@360 = ~Mais...~
+@361 = ~Mes relations avec <CHARNAME> ne concernent pas le grand public.~
+@362 = ~(soupir) Comme la dame le voudra.~
+@363 = ~Alors avec qui voulez-vous partager la vedette ? Peut-être avec cette guerrière aux armes visiblement très utilisées ? (Dernièrement le létal est devenu sexy.)~
+@364 = ~Vous voulez que j'apparaisse dans votre livre, demi-portions ? Je pourrais vous écraser juste avec mon pouce.~
+@365 = ~(tousse) Hum, ne vous sentez pas obligée de nous en faire la démonstration.~
+@366 = ~Ce serait tout simple. Regardez, vous pliez le pouce comme ça...~
+
+@367 = ~Ouais, jusqu'à ce que cela finisse en eau de boudin sur la route de Château-Suif. Enfin, c'est ce qu'on nous a dit.~
+@368 = ~C'est quoi l'histoire ? Vous vous foutez du monde ? Ou...~
+@369 = ~On m'a piégé !~ ~On m'a piégée !~
+@370 = ~Vous voyez, la loi et moi ne sommes pas vraiment... proches, mais en réalité je ne suis pas si terrible que j'en ai l'air. Je suis plutôt sympathique, vraiment, vous pouvez faire confiance à un visage honnête, candide et franc comme le mien...~
+@371 = ~J'avais de bonnes raisons d'agir comme je l'ai fait. Les regrets me poursuivent inlassablement, croyez-moi. Mais tout ce que j'ai fait représentait la meilleure solution...~
+@372 = ~Mais lorsque Delio se retrouva penchée au-dessus du bain, obstruant la lumière, <CHARNAME> s'enfonça légèrement dans l'eau.
+      "Chut," dit Delio ; celle-ci recula et se tourna de façon à serrer la main de <CHARNAME>, paume contre paume et les doigts mêlés. "Je suis moi, je suis à toi, je ne suis pas une... bestiole aux yeux d'argent."
+    <CHARNAME> prit une profonde inspiration. "Très bien". Un soudain sourire fit briller ses dents. "Mais moi, j'en suis peut-être une. Ma chère, comment pourrais-tu me tester de manière suffisamment... satisfaisante ?"
+     Dans la lumière de la lampe, les yeux de Delio prirent une teinte dorée et brillants de désir, allant et venant de la tête aux pieds du corps félin de <CHARNAME>. "J'ai quelques idées".
+     "J'aime toutes tes idées". Puis il entraîna Delio vers lui...~

@@ -1,0 +1,1004 @@
+/* Les textes manquants jusqu'à @171 sont utilisés dans setup.tra ! */
+
+@16  = ~Kim~
+
+@19  = ~Le vase de La Balafre~
+@20  = ~Vous reconnaîtriez ce vase absolument n'importe où. C'est celui que vous avez failli renverser du tonneau sur lequel il était posé lorsque vous avez accepté l'invitation de La Balafre à le suivre dans ses quartiers privés très exigus. 
+
+Ce vase ressemble à une chope à bière Baalor, mais il a été fabriqué par un artisan de talent et ses ornements sont très artistiques. Il est évident qu'il n'est pas fait pour contenir de la bière, il est juste décoratif.
+Vous ne savez absolument pas comment le vendeur a bien pu l'obtenir.~ 
+@21  = ~Bougeoir~
+@22  = ~Il s'agit d'un bougeoir. Sa surface est un peu bosselée et vous distinguez quelques rayures, ce qui n'est pas surprenant pour un objet plutôt usagé. Son métal brille, mais semble de peu de valeur.~ 
+@23  = ~Assiette dorée~
+@24  = ~Cette assiette assez fragile faisait certainement autrefois partie d'une ménagère complète.~
+@25  = ~Le corps de La Balafre~
+@26  = ~Il s'agit du corps de La Balafre. Il a l'air frais et en excellent état, si on considère la manière dont La Balafre est mort et le temps qui s'est écoulé depuis. Des prêtres ont dû en prendre soin, avant qu'Angelo ne prenne le contrôle du Poing enflammé et ne les oblige à arrêter.~
+@27  = ~Reçu de transport~
+@28  = ~Il s'agit du reçu que Chester et Hung vous ont donné. Y sont consignées les informations au sujet du transport de la caisse supplémentaire que Duntrin a amenée à l'entrepôt, celle que vous suspectez d'avoir contenu La Balafre.~
+@29  = ~Donnerjan~ 
+@30  = ~Boutique d'occasions de Donnerjan~
+@31  = ~Kelder~
+@32  = ~Hung~
+@33  = ~Chester~
+@34  = ~Duntrin~
+@35  = ~Je suis un homme de parole.~ [%tutu_var%SCAR04]
+
+@37  = ~Les Voleurs de l'Ombre vous envoient leurs salutations.~ [%tutu_var%HUSAM03]
+@38  = ~Ils sont trop nombreux, on bat en retraite !~ [%tutu_var%HUSAM02]
+
+@41  = ~Bartus~
+
+@43  = ~Lina~
+
+@45  = ~Quentin~
+
+@49  = ~Meilla~
+@50  = ~Jana~
+@51  = ~Cragmor~
+@52  = ~Le chat de Meilla~
+@53  = ~Il s'agit de Murmure, le chat de Meilla. Probablement aussi vieux qu'elle, il est en train de faire la sieste et semble très  bien là où il est.~
+@54  = ~Lettre~
+@55  = ~Chère Meilla, 
+
+c'est très gentil de ta part de t'être souvenue de mon anniversaire, même si les anniversaires ne m'amusent plus guère maintenant. Je pense à toi en ce moment. Je me demande comment tu vas. Je me demande ce qui se serait passé, si j'avais donné une chance à notre amour. Je sais dans quel état j'étais, Meilla, je sais ce qui s'est passé entre nous et je suis désolé. Pouvons-nous nous voir ? Pourrions-nous reprendre notre histoire ? J'attends ta réponse.
+
+Amoureusement, 
+Dhugal~
+
+@57  = ~Catin~
+@58  = ~Parapluie d'été~
+@59  = ~Schvantz~ /* Ce nom est extrait du jeu, d'un des dialogues avec les courtisans */
+@60  = ~Lars~
+@61  = ~Ariane~ 
+@62  = ~Bonjour mon ami.~ [GENMG06] ~Bonjour mon amie.~ [GENMG06]
+@63  = ~Gunther~
+@64  = ~Salut mon ami.~ [GENFG04] ~Salut mon amie.~ [GENFG04]
+@65  = ~La vieille Mab~
+@66  = ~Oui mon ami ?~ [GENFG05] ~Oui mon amie ?~ [GENFG05]
+@67  = ~Madame Isobel Whitley~
+@68  = ~Oui mon gars ?~ [GENMG12] ~Oui miss ?~ [GENMG12]
+@69  = ~Pete~
+
+@71  = ~Il s'agit de l'épée longue de Hull, qu'il vous a donnée après vos... adieux à Château-Suif. Une épée longue standard, pas très bien entretenue mais solide et bien équilibrée.
+
+PARAMETRES :
+
+Dégâts : 1D8
+TAC0 : +1
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : grande épée
+Type : arme à une main
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+@72  = ~Il s'agit de l'épée longue de Hull, qu'il vous a donnée après vos... adieux à Château-Suif. Une épée longue standard, pas très bien entretenue mais solide et bien équilibrée.
+
+
+PARAMETRES :
+
+Dégâts : 1D8 (tranchant)
+TAC0 : +1
+Facteur de vitesse : 5
+Type de compétence : grande épée
+Type : arme à une main
+Poids : 4~
+
+@79  = ~Molly~
+
+@81  = ~Journal de Centeol~
+@82  = ~Il s'agit du journal de Centeol, la femme qui fut changée en une créature d'apparence abominable. Il constitue une bonne source d'informations pour ceux qui veulent en savoir plus sur son passé.
+
+"...nous avons parlé à nouveau. Je l'ai rencontré près de la Maison du Talisman. Il poursuivait ses recherches. Oh, comme j'aimerais pouvoir l'aider. Je me fiche de ce que les autres pensent. Je veux juste que ses rêves deviennent réalité. Mais... ça va. Je peux au moins l'admirer quand il étudie ses grimoires. Je devrais m'en contenter. Jamais il ne quittera Tanova pour moi..."
+
+"...il s'est disputé avec la reine. Je ne sais pas pourquoi ; je ne sais pas, mais Tanova... Elle n'est pas venue. Elle l'a laissé seul. Mon malheureux bien-aimé... Je vais essayer de l'aider. Je ne sais pas trop comment, mais je vais le faire. Promis."
+
+"Il a de nouveau rencontré la reine. Cette fois ils ne se sont pas querellés. C'est bien. Je ne veux pas qu'il soit seul. Bouleversé. Distant."
+
+"Elle - Tanova - l'a encore abandonné. Seul. Il a passé toute la journée SEUL. Elle ne lui a même pas demandé s'il voulait parler. Elle ne le mérite pas."
+
+"...elle devrait MOURIR... on dirait une sangsue..."
+
+"...JE LE FERAI..."
+
+"JE PEUX LE FAIRE."
+
+Il manque des pages ; le texte suivant a été écrit deux mois après.
+
+"Comment a-t-il pu ?! Je l'aime tant... elle a mérité de mourir. J'ai fait tout ce que je pouvais pour l'aider. Mais il m'a MAUDITE ! POURQUOI ?! Mais tout va se terminer... Ceci... va se terminer... Mais je les entends... J'entends ces abominations à huit pattes à l'intérieur... elles ne s'arrêtent jamais..."
+
+"...quel que soit le temps écoulé, je ne pourrai jamais oublier..."
+
+"Personne ne me verra. Je resterai seule. Seule avec mes souvenirs. Eux ne partent pas. Ils ne meurent jamais."
+
+"Tout cela se terminera-t-il ?"
+
+"...je vous en prie, silence ! Je veux juste un peu de paix ! S'il vous plaît..."
+
+"Je suis morte. Je n'existe plus pour Féérune. Je n'existe plus pour lui."
+
+"...mais je ne peux oublier..."
+
+Il s'agit de la toute dernière ligne.
+
+Poids : 1~
+
+@84  = ~Sombre fantasme~
+@85  = ~Marque du fantasme~
+
+@87  = ~Ool-Garias~
+@88  = ~Is'samya~
+@89  = ~Personnage louche~
+
+@91  = ~Le grand Zudini~
+
+@93  = ~Prêtre de l'Aube Blaise~
+@94  = ~Soeur Sapientia~
+@95  = ~Livre du prêtre de l'Aube Blaise~
+@96  = ~Livre du prêtre de l'Aube Blaise
+
+Ce petit livre relié de cuir est rempli de prières et d'offices qui font le quotidien d'un fidèle d'Oghma, dieu des érudits. Il détaille non seulement les messes du matin et du soir, mais aussi les rituels et méditations utilisées lorsqu'on commence un traité savant, lorsqu'on compare des traductions ou des copies inexactes, ou lorsqu'on doit annoter un texte. Son contenu est plutôt ordinaire, hormis ses illustrations : elles brillent de lapis-lazuli et de feuilles d'or et comprennent, entre autres images, les outils d'un enlumineur ou, poussant sur les côtés d'une page emplie de prose, une vigne de pois grimpants en fleur.~
+@97  = ~Lettre de soeur Sapientia~
+@98  = ~Lettre de soeur Sapientia
+
+Pour le prêtre de l'Aube Blaise, du temple de la Chanson du Matin à l'est de Bérégost, de la part de soeur Sapientia du temple d'Oghma à Château-Suif.
+
+14 Tarsakh : Mon amour,
+
+j'ai pensé à toi ce matin en semant le jardin de la cuisine. Le soleil éclairait les murs du château et illuminait la rosée, donnant un aspect étrange aux jeunes pousses d'épinards et aux pois de senteur...
+
+
+22 Tarsakh : il y a eu une invasion de grenouilles ce matin au réfectoire, et beaucoup de gémissements et de robes agitées alors que les Honorables Erudits fuyaient la menace bondissante. J'ai peur que l'éclair rose et l'enfant adoptif de Gorion soient derrière ceci. Je devrais être choquée par cet outrage mais au moment où j'écris, une grenouille est assise sur ma page, verte comme de la mousse naissante et pas plus grande que l'ongle de mon pouce. Maintenant, au sujet de tes réflexions sur la métempsycose...
+
+
+28 Tarsakh : Nous avons travaillé les peaux d'agneau pour les transformer en parchemin la semaine dernière. L'odeur est infecte et mes mains me font mal. Merci pour les plumes ! J'ai la plus noire des encres noires...
+
+
+1er Mirtul : Cela fait quarante ans... Déjà ? Quarante ans que tu as demandé à Château-Suif une copie propre des Aubades de Sanderly ? Je n'ai pas vu le temps passer, mon amour.
+
+Je ne sais quand je pourrai te faire passer cette lettre tant les routes sont dangereuses en ce moment, mais je vais m'efforcer de trouver un messager fiable.
+
+A toi pour toujours,
+
+Soeur Sapientia~ 
+
+@100  = ~Ender Sai~
+
+@102  = ~Je peux vous parler, si vous le souhaitez.~ [LATHAN11]
+@103  = ~C'est bon de vous voir, mon ami.~ [LATHAN09] ~C'est bon de vous voir, mon amie.~ [LATHAN09]
+@104  = ~Je ne suis pas enclin à la violence, mais je n'ai pas l'habitude de traiter avec des gens comme vous.~ [LATHAN17]
+@105  = ~Dai~
+@106  = ~Comment allez-vous ? Belle journée, n'est-ce pas ?~ [GNOMEF04]
+@107  = ~Oh, vous êtes assez bien, je présume.~ [GNOMEF01]
+@108  = ~Ne commencez pas à vouloir m'intimider, cela ne marchera pas.~ [GNOMEF02]
+@109  = ~Kitty~
+@110  = ~Le premier jet de Kitty et Dai~
+@111  =  ~L'avènement de l'enfant de Château-Suif~
+
+@113  = ~Hanaly~
+@114  = ~Fantôme~
+@115  = ~Yvonne~
+@116  = ~Pipe d'Hanaly~
+@117  = ~Cette pipe vous a été donnée par Hanaly le fantôme. Bien qu'elle soit vieille et abîmée, l'odeur d'un tabac de qualité imprègne encore son bol et sa tige.~
+@118  = ~Galet des fantômes~
+@119  = ~Cette petite pierre vous a été donnée par les fantômes Hanaly et Yvonne lorsque vous les avez réunis. Le courant de la rivière l'a rendue lisse et bien arrondie, et elle vous apporte une sensation agréable dans votre main.~ 
+@120  = ~Cette petite pierre vous a été donnée par les fantômes Hanaly et Yvonne lorsque vous les avez réunis. Elle est restée longtemps dans la rivière, polie par le courant. Lorsqu'on la tient dans la main, elle vous indique brièvement son pouvoir d'occultation.
+
+PARAMETRES :
+
+Spécial : confère à son utilisateur l'équivalent d'un sort de Flou. Ce pouvoir est utilisable une fois par jour.~
+@121  = ~Cette petite pierre vous a été donnée par les fantômes Hanaly et Yvonne lorsque vous les avez réunis. Elle est restée longtemps dans la rivière, polie par le courant. Lorsqu'on la tient dans la main, elle vous indique brièvement son pouvoir d'occultation.
+
+PARAMETRES :
+
+Spécial : confère à son utilisateur l'équivalent d'un sort de Flou.
+Charges : 10~
+
+@122  = ~Il s'agit d'un brouillon inachevé d'un roman léger vaguement basé sur vos récentes aventures. La prose a de la bravoure, l'humour est plutôt passe-partout et l'intrigue avance à un rythme satisfaisant.
+Vu sous un certain angle, cela ressemble *quand même* assez à ce qui s'est produit.~
+
+@124  = ~Fille morte~
+@125  = ~Il s'agit du cadavre d'une jeune fille. Elle porte un manteau joliment tissé et les restes de motifs ornementaux de fleurs séchées plutôt traditionnels.~
+@126  = ~Journal intime du nécromancien~
+@127  = ~Il s'agit du journal intime du nécromancien. Sa lecture confirme tout ce qu'il vous a dit au sujet de ses motivations, ainsi que beaucoup de tristesse et d'auto-apitoiement. 
+
+Il semble déterminé à ne pas diffuser la magie noire dans laquelle il s'est engagé, et le déclare à plusieurs endroits : "pour ne pas inciter d'autres personnes à suivre la voie sinistre que j'ai empruntée". Rien n'est écrit au sujet des connaissances que le nécromancien a certainement acquises concernant la résurrection de personnes disparues depuis longtemps. 
+
+Quels que soient les résultats de ses recherches, il semble déterminé à les emporter avec lui dans la tombe.~
+@128  = ~Bouteille remplie de sang~
+@129  = ~Cette bouteille contient du sang de vache.~
+@130  = ~Cette bouteille contient du sang de chat.~
+@131  = ~Cette bouteille contient le sang d'une jeune fille.~
+@132  = ~Cette bouteille contient du sang de nymphe.~
+@133  = ~Lettre de madame Thirsty~
+@134  = ~Il s'agit de la lettre que madame Thirsty a écrite au fermier Brun. Elle compte plusieurs pages d'une écriture fine et régulière. En y jetant un coup d'oeil, vous remarquez que le mot "Berta" revient au moins cinq fois par page.~
+@135  = ~Steaks de boeuf frais~ 
+@136  = ~Il s'agit des steaks de Berta, la vache de madame Thirsty. La viande a l'air excellente mais vous ne voyez pas trop quoi en faire, à part les manger évidemment.
+
+Si elle est consommée en totalité, cette viande soigne 9 points de vie à la personne qui la mange.~
+@137  = ~Berta~ 
+@138  = ~Madame Sutherland~ 
+@139  = ~Trevor~ 
+@140  = ~Minette~ 
+@141  = ~Nécromancien~ 
+@142  = ~Susan~ 
+@143  = ~Madame Thirsty~ 
+@144  = ~Boucher~ 
+@145  = ~Mère en deuil~ 
+@146  = ~Beth~ 
+
+@148  = ~Thee Oldde Magyck : Volume II~ 
+@149  = ~Ce livre de magie semble très ancien. Il est écrit dans une langue oubliée depuis longtemps, et semble traiter de runes et de signes qui vous sont inconnus. Il doit avoir un grand intérêt pour une personne étudiant la magie à très haut niveau.~ 
+@150  = ~Pierre ionique~ 
+@151  = ~Il s'agit d'une pierre ionique enchantée.~ 
+
+@153  = ~Savon anti-malédiction~
+@154  = ~Savon anti-malédiction de maîtresse Ombremiroir
+
+Cette bouteille de savon liquide a été concoctée selon une vieille recette gnome transmise par la mère de Gellana Ombremiroir, la prêtresse Gollumi Myrnickle. Cette lotion mauve et piquante, mélange d'herbes, d'eau bénite, de cendres bénites et de suif de mouton de noble race, délivrera l'utilisateur de certaines malédictions mineures et afflictions mentales.
+
+ATTENTION : peut faire pousser des poils sur votre poitrine, ou les enlever.
+
+Pouvoirs :
+
+Délivrance de la malédiction x 10~
+
+/* Note to translators: "Left" in the sense of "leaving behind */
+/* Traduction française : un autre sens a été choisi, qui évite de "divulgâcher" la fin de cette rencontre */
+@157  = ~Gauche~
+@158  = ~Lettre~
+@159  = ~Lettre que Gauche a laissée~
+@160  = ~J'ai dû partir. Je suis désolé. Mais je reviendrai.~
+
+@162  = ~Alec~ 
+
+@164  = ~Arlene~
+
+@166  = ~Della May~
+
+@168  = ~Garde~ 
+
+@170  = ~Il s'agit de la pierre ionique que Thalantyr vous a donnée pendant le moment que vous avez passé avec lui en privé. Elle augmente l'intelligence de son porteur de 2.
+
+PARAMETRES :
+ 
+
+Spécial : Intelligence augmentée de 2
+
+Poids : 2~
+
+@172  = ~Mikala~ 
+@173  = ~Cape de protection contre le gel~
+@174  = ~Cape de protection contre le gel
+
+On ne sait pas grand chose de cette cape. Certains disent qu'elle fut tissée avec les cheveux blancs des hommes charmés par les sirènes, mais le tissu est bien trop doux pour que cette légende ait un fond de vérité.
+
+PARAMETRES :
+
+Résistance au froid : +50%
+Poids : 3~
+@175  = ~Ce sarcophage est la dernière demeure d'une jeune femme. Quelqu'un a pris grand soin de garnir l'intérieur du sarcophage de coussins de soie.~
+
+@176  = ~Chantelle~
+@177  = ~Magnus~
+@178  = ~Cavalier blanc~
+@179  = ~Il s'agit d'un cavalier blanc d'un jeu d'échecs.~
+@180  = ~Il s'agit d'un cavalier blanc d'un jeu d'échecs. Il est sculpté avec soin dans de l'ivoire, et porte le nom du menuisier qui vous l'a fabriqué sous forme d'une minuscule signature en lettres thorassiennes sous sa base : "Mehmel".
+Le menuisier vous a assuré qu'il est du même style que celui du grand maître ancien Aljhumal.~
+@181  = ~Vieille pièce d'un jeu d'échecs~
+@182  = ~Il s'agit d'un fou d'un jeu d'échecs.~
+@183  = ~Il s'agit d'un fou d'un jeu d'échecs. Il est sculpté avec soin dans de l'ivoire, et porte le nom du menuisier qui vous l'a fabriqué sous forme d'une minuscule signature en lettres thorassiennes sous sa base : "Mehmel".
+Le menuisier vous a assuré qu'il est du même style que celui du grand maître ancien Aljhumal.~
+@184  = ~Pièce magique d'un jeu d'échecs~
+@185  = ~Il s'agit d'un fou d'un jeu d'échecs.~
+@186  = ~Il s'agit d'un fou blanc d'un jeu d'échecs. Maître Thalantyr l'a enchanté avec le sort "bénédiction".
+
+PARAMETRES :
+
+Spécial : lance le sort "bénédiction" (10 charges)~
+@187  = ~Il s'agit d'un fou blanc d'un jeu d'échecs. Maître Thalantyr l'a enchanté avec le sort "bénédiction".
+
+PARAMETRES :
+
+Spécial : sort de bénédiction (une fois par jour)~
+@188  = ~Morceau d'ivoire~
+@189  = ~Il s'agit d'une grosse dent d'ivoire.~
+@190  = ~Il s'agit d'une grosse et vieille dent d'ivoire. Bien que vous l'ayez trouvée dans le fouillis de l'épave du bateau, elle semble entière, et précieuse.~
+@191  = ~Maître Mehmel~
+
+
+/* New for v2.0 */
+
+@192  = ~Femme~
+@193  = ~Homme~
+
+@194  = ~Baguette de Centeol~
+@195  = ~On dit que cette baguette fut donnée à la dame araignée après la découverte de ses pouvoirs magiques. Elle l'utilisait pour protéger ses compagnons et alliés des poignards dissimulés dans l'ombre, mais après tous les incidents, après que son coeur ait été brisé, il semble que la baguette ait reçu de nouveaux pouvoirs.
+Cette baguette est froide et gluante, mais son extrémité brille d'une douce et chaude lumière.
+
+PARAMETRES :
+
+La baguette donne une résistance de 25% aux dégâts perforants. La cible est également ignorée par toutes les espèces d'araignées, même si elle les attaque. Ces deux effets durent 60 secondes.
+Charges : 10
+Poids : 1~
+@196  = ~Augmentation de la sagesse de 1~
+@197  = ~La sagesse a été augmentée de 1 à titre permanent~
+@198  = ~J'aimerais avoir ma vieille pipe et mon tabac.~ [%tutu_var%HALFL04]
+@199  = ~Messager petite-personne~
+@200  = ~Sacoche de lettres de Bartleby~
+@201  = ~Sacoche de lettres de Bartleby
+
+Il s'agit d'un sac de lettres que vous avez trouvé sur le corps du messager Bartleby Piedleste. Il est robuste, doublé de soie huilée et façonné pour protéger son fragile contenu de l'humidité, du froid, et de la terrifiante noirceur stygienne de minuit.~
+@202  = ~Fantôme de Bartleby~
+@203  = ~Barkis~
+@204  = ~Amulette héliotrope de Garrick~
+@205  = ~Amulette héliotrope de Garrick
+
+Un cadeau fait à Garrick par une amie. Cet objet n'est clairement pas magique, mais Garrick semble cependant y être très attaché et le caresse souvent pendant qu'il fredonne un air mélodieux.~
+@206  = ~Lettre à Madame Tremblotte~
+@207  = ~Madame Erable Saule Tremblotte
+Auberge de la Lame et des Etoiles
+Porte de Baldur
+ 
+Depuis que je vous ai vue dans votre bosquet pour la première fois, si grande et si droite, vos cheveux embrasés par le soleil d'automne, je vous adore tout autant que la marguerite aime l'aube.
+ 
+Nos joies sylvestres pourraient devenir robustes comme un chêne et douces comme des pommes. Sans vous, je suis triste comme un arbre mort. Ne m'abandonnez pas au fin fond de la forêt.
+ 
+Votre admirateur dévoué,
+ 
+Woody Dubois~
+@208  = ~Lettre d'une fan~
+@209  = ~De Carnatia Carnifex, surnommée "la bouchère", au barde de l'auberge du Magicien Ardent, à Bérégost.  
+ 
+Mon cher Garrick,
+ 
+Puis-je vous appeler Garrick ? J'espère que je ne suis pas trop directe. Je doute que vous vous souveniez de moi, simple aventurière parmi tant d'autres, et je n'ai pas pu rester discuter après les... tensions avec ces paladins. Mais je veux que vous sachiez à quel point j'ai adoré votre interprétation de "La cueillette de fleurs de nénuphar" ; la douceur de vos harmonies lors des "Ebats en La majeur" de Gilraen, au moment où j'ai fracassé la table sur la tête de Sire Reynald, était parfaitement sublime. Merveilleuse. Extraordinaire.
+ 
+Je vous joins une petite preuve de mon estime pour vous, un anneau que j'ai récupéré dans la tombe d'un prince antique, que je vous garantis être exempt de toute malédiction ! J'adorerais que vous portiez ma couleur préférée à votre doigt.
+ 
+Venez avec moi. Soyez *mon* barde. Je vous couvrirai de bijoux et de soie, et je ferai des tripes de mes ennemis les cordes de votre harpe (vos doigts sont si agiles et sensibles, et votre sens du rythme si exquis que je me demande ce qui se passerait si... mais je m'égare, ce n'est pas le moment pour ce genre de question).
+ 
+Voyagez vers l'est depuis la Côte des Epées, je serai au courant de votre arrivée. Et je saurai vous trouver.
+ 
+Votre humble fan,
+ 
+Carnatia~
+@210  = ~Lettre d'un explorateur de souterrains~
+@211  = ~Pour Nesiara Rille, 
+Auberge de Brasamical
+
+Ma Nessie chérie,
+
+je suis sur un bon coup. Oublie l'école Ulcaster : ces livres antiques sont ennuyeux. J'ai trouvé un vieux marchand qui m'a vendu un bijou de famille ; un peu cher, certes, mais je sentais la magie vibrer en lui et je ne pouvais pas laisser passer cette occasion. Pauvre homme, si seulement il avait su ce qu'il vendait... Mais ce n'est pas mon problème.
+
+Je détiens maintenant la pierre-sésame de la tour de Durlag ! Je n'ai plus qu'à filer vers le sud, vider ce vieux tas de pierres de ses richesses, encaisser l'argent et monter un magasin à l'auberge avec les bénéfices.
+
+Tout va bien se passer, n'est-ce pas ?
+
+Je rêve de te serrer dans mes bras,
+
+Ton Pootsie chéri.~
+@212  = ~Lettre pour Perleflamme~
+@213  = ~Pour Perleflamme Cheveuxd'Elfe, de Bérégost
+
+Je ne suis pas patiente ; je ne suis pas gentille.   
+ 
+J'envie et je me vante ; je sers mes propres intérêts, toujours, mais incitée par ma colère et l'accumulation des torts à mon égard. Toute vertu que vous pourriez percevoir en moi n'est qu'une vision déformée à travers une lentille.
+ 
+Mais je...
+ 
+Mais
+
+Permettez-moi de clarifier tout ceci, mon cher. De toutes les nombreuses bizarreries de mon exécrable caractère, il en est une que je n'ai encore jamais réussi à regretter : c'est que je ne peux rien vous refuser. En bref, et avant que mes divagations ne deviennent parfaitement ennuyeuses, si vous êtes donc déterminé à suivre cette voie, alors la vieille misanthrope usée que je suis est prête à vous y suivre et vous soutenir jusqu'aux limites les plus extrêmes de votre satisfaction. Ce que je veux dire, c'est que...
+ 
+(C'est-à-dire aussi longtemps que vous voudrez de moi.) 
+ 
+Toute à vous.
+
+M~
+@214  = ~Lettre à Skie Ecudargent~
+@215  = ~De la part de Lord Eddard Ecudargent, Marquis de Dumley, à l'attention de la très honorable Skie Ecudargent, dans sa propriété de la Porte de Baldur,
+ 
+Salutations et félicitations, ma très chère soeur.
+ 
+J'espère que vous avez bien étudié vos livres et suivi avec assiduité vos leçons de danse, et que votre première saison s'est terminée en apothéose.  
+
+Mon voyage se passe bien. Avec des routes si dangereuses les marchandises sont très recherchées et nos simples chariots sont souvent fêtés dans les villes que nous traversons - cela en devient amusant. Nous voyageons prudemment, nous évitons les principales routes commerciales, et n'avons pas eu le moindre problème. Les animaux de la forêt ne sont pas effrayés, ils marchent souvent droit vers notre caravane, et mon carnet d'esquisses grossit à vue d'oeil. Ci-joint ce dessin d'un renard, que j'ai vu se prélasser près du tronc d'un arbre au petit matin. Il avait un air louche de pirate et m'a observé cinq bonnes minutes avant de s'éloigner. J'ai hélas attrapé un rhume depuis que j'ai quitté la ville, dormir à la belle étoile enveloppé dans une simple couverture est une perspective très romantique, mais éprouvante pour la constitution d'une personne qui n'y est pas habituée. Le pot de baume de Myrnickle que vous m'avez donné m'a été particulièrement utile.  
+ 
+Comme il est étrange que les mots me viennent si facilement sur papier, alors qu'ils s'évanouissent dans ma gorge lorsque je me trouve en face de ma petite soeur ; lorsque je me réfugie dans les recommandations d'un livre de savoir-vivre, lorsque je m'enquiers de votre santé et lorsque je présente mes salutations à notre père. Mais en cette froide matinée tout se passe entre nous et ce papier, alors je vous donne un renard, un terrible rhume et ceci...
+ 
+La mort de notre mère a été une véritable épreuve pour moi. Elle m'a énormément manqué et j'ai, dans ma détresse, fui les liens de famille alors que j'aurais dû m'efforcer de les resserrer autour de nous trois. J'ai été stupide - et je le suis encore, pour mon plus grand malheur. Je vous supplie de ne pas me demander les raisons pour lesquelles j'ai quitté la ville ; la réponse ne vous plairait point.
+ 
+Quant à cet ami musicien dont tout le monde parle, je m'en tiendrai à ceci : j'espère qu'il vous traitera avec tout le respect et la courtoisie que vous méritez, ma très chère Skie, et je prie Sunie que vous surmontiez les tempêtes qui s'annoncent. L'amour est une bien étrange créature, notre famille ne le sait que trop bien.
+ 
+Mes salutations à Père et belle-mère Brilla. Je suis pour eux, comme toujours, un fils dévoué.
+
+Votre frère qui vous aime,
+
+Eddard~
+@216  = ~Lettre d'un client heureux~
+@217  = ~Pour : Madame Alyth Elendara
+De la part de : Maître Stephan Re'Cap
+ 
+Chère Dame Alyth,
+ 
+Mon maître, Magus Davaeorn, m'a une fois de plus accordé le plaisir de vous écrire pour vous remercier de la dernière livraison de confiseries et de vins fins de Calimshan, et pour vous soumettre notre commande pour le mois prochain. Le fait de vivre à l'écart de la civilisation me rend très reconnaissant non seulement pour les produits raffinés que vous fournissez régulièrement, mais aussi pour l'opportunité de correspondre avec une dame aussi belle et accomplie que vous. Je me délecte de lire vos messages personnels et de recevoir les petits cadeaux que vous joignez à vos factures. Le paquet de "bonbons baisers", par exemple, était un régal (est-ce trop coquin de ma part de demander si les vrais sont aussi savoureux ?) En tant que fournisseur de mes victuailles, j'insiste pour que vous me réapprovisionniez immédiatement.
+ 
+En réponse à votre question (ou, devrais-je dire, votre invitation) dans votre dernière note privée : j'apprécierais énormément de pouvoir visiter votre établissement et de vous rencontrer en personne. Il y a juste une difficulté : obtenir la permission de Magus Davaeorn. Je sollicite humblement votre indulgence car mon maître n'est pas le plus permissif des employeurs et il est peu probable qu'il me permette de sortir d'ici. Peut-être pourriez-vous envoyer une note requérant pour une raison ou pour une autre l'intervention de l'un des membres de notre équipe. J'aurais alors une bonne raison d'aborder ce sujet avec lui. Et croyez bien que la chance de pouvoir vous rencontrer décuplera ma capacité de persuasion !
+ 
+Bien à vous,
+ 
+Stephan~
+@218  = ~Lettre pour Silence~
+@219  = ~Silence dans le Sanctuaire
+
+
+BARKIS EST D'ACCORD~
+
+
+@220  = ~Cordelia~
+@221  = ~Camryn~
+@222  = ~Hein ?~ [TIShf]
+@223  = ~Tamah~
+@224  = ~Que voulez-vous ?~ [TITamf]
+@225  = ~Sac de livres~
+@226  = ~Il s'agit d'un sac de livres en cuir finement décoré. Il a été offert par Camryn le scribe à <CHARNAME> comme cadeau d'adieu lorsqu'<PRO_HESHE> a quitté Château-Suif. Sa taille est parfaite pour transporter de nombreux livres.~
+@227  = ~Lettre adressée à Tamah~
+@228  = ~Chère Tamah,
+Ici, dans le silence de mon bureau, il me manque le frottement de ta plume, ta douce toux et le grincement de ta chaise lorsque tu te déplaces. Tous ces petits bruits qui indiquaient le fait glorieux que toi, ma chère, étais près de moi. Nul besoin de lever les yeux pour voir que tes délicats petits doigts créaient de la beauté si près de moi. Je pouvais même étendre le pied sous la table que nous partagions et frôler tes chevilles élégantes. Ces jours-là étaient le paradis, je pensais les connaître pour l'éternité... Seulement dans ma rêverie, Tamah. Seulement avec le visage ruisselant de larmes.
+--C.~
+@229  = ~Douce Tamah,
+Tu m'as dit, lors de notre première rencontre, que je te rappelais ton grand-père maternel, un célèbre érudit elfe de Franc-Marché. Tu t'es sentie intimidée par notre différence d'âge, par l'étendue et l'ampleur de mes connaissances, et par ma plus grande expérience de la vie. Tu as dit que ta maigre somme d'années et de connaissances te donnait l'impression de ne pas être à la hauteur du poste que je t'offrais. Ah, ma fougueuse amante ! Sache maintenant que je me suis senti aussi démuni pour aimer une femme aussi magnifique que toi. Dans mon lit et dans mes bras, mes siècles n'étaient que des instants par rapport à ta connaissance instinctive et sans limite de l'amour. Je me suis senti aussi jeune et léger que toi, ma chère, lorsque tu m'as parlé des beautés du monde extérieur, que tu m'as expliqué les plaisanteries de Dreppin, le garçon d'écurie, et que tu m'as fait passer d'un désir irrationnel à un plaisir inégalé. Considère donc que dans ce domaine comme dans la plupart des autres, nous sommes des partenaires convenablement assortis, quel que soit notre âge.
+--C.~
+@230  = ~Tamah bien-aimée,
+
+Ce matin en me réveillant, seul comme c'est maintenant mon habitude, j'ai repensé à la sensation de tes cheveux dans mes mains. Leurs poids sur mes paumes juste avant que tes mèches soyeuses et douce ne glissent entre mes doigts tachés d'encre. C'est un halo de gloire brillant et éclatant qui orne tes tempes, ma chère. Je donnerais tous les matins qu'il me reste si je pouvais une fois de plus passer ton peigne d'ébène dans tes cheveux, après une nuit passée avec tes longues mèches en pagaille qui me chatouillaient les lèvres, ou à s'étaler voluptueusement sur mon oreiller.
+--C.~
+@231  = ~Ma Tamah chérie,
+Aujourd'hui, il y a peu de choses dans mes pensées qui puissent chasser entièrement le souvenir de tes yeux. Aussi grand et profond qu'un fleuve qui s'écoule lentement. Mais ô combien ils s'illuminent quand tu souris ! Ils brillent comme s'ils étaient éclairés de l'intérieur par une flamme féroce. Et pour qui ? Pour la farce séculaire du pédant que tu disais aimer. En vérité, mon amour, je suis à la fois humble et émerveillé par la joie que tu as éprouvée en ma présence et je ne cesse de me questionner sur le mystère de tout cela.
+--C.~
+@232  = ~Chère Tamah,
+Mon cœur s'est tordu de douleur, il m'a fallu un moment pour réaliser qu'aujourd'hui, cinq ans se sont écoulés depuis ton départ. Dans mon chagrin, il n'y a toujours pas de place pour profiter des petits plaisirs qui existaient autrefois dans ma vie. Pourquoi ? Parce qu'en 20 brèves années, tu as laissé ton empreinte sur chaque petite mesure de bonheur. Je ne peux toujours pas travailler, manger, dormir (non ! Pas même ma rêverie) sans que je ne me rappelle de ta perte. Cette vive présence de l'absence est toujours à mes côtés, une ombre qui obscurcit le visage du soleil de ma vie. Comme j'aimerais que tu reviennes.
+--C.~
+@233  = ~Charmante Tamah,
+Ah, ma chère, je ressens vivement ton absence, non seulement dans les moments de solitude, mais aussi en compagnie de ceux que j'appelle mes amis. Tu avais un esprit si vif que tous te respectaient malgré ta jeunesse. Tu échangeais facilement des piques avec Ulraunt et des plaisanteries avec Gorion. Tu pouvais discuter d'un épisode de l'histoire du Cormyr avec Phlydia aussi facilement que tu échangeais des blagues salaces avec Winthrop. Je n'avais jamais réalisé que ma propre langue me faisait défaut jusqu'à ce que je te rencontre. En ta présence, elle fourche et bégaie sur le moindre mot. Seul l'amour que mes yeux te témoignaient était éloquent, occupés comme ils l'étaient à admirer ta confiance et ta joie de vivre.
+--C.~
+@234  = ~Ma sulfureuse Tamah,
+Un soir, tard, je me suis souvenu du moment où nous sommes tombés amoureux. Nous travaillions sur une édition de "Séduction d'une nymphe" de Celsor. Tu dessinais les illustrations et je devais appliquer des encres de couleur et des feuilles d'or. Ah... de si coquines images que tu avais créées, ma chère. Mais également si jolies. Seul un scribe de mon âge peut apprécier la rareté de voir une illustratrice de ton talent. Toi seule peut ramener un vieil elfe comme moi à une virilité vigoureuse. Nous illustrions la scène où Coreddon caresse Ephemera dans le jardin, je m'en souviens, et ta main a frôlé la mienne. Mon cœur était déjà à toi, ma chérie, mais je craignais d'en parler, de peur que tu ne te moques des fantasmes d'un vieil elfe. Tremblant, j'ai posé ma main sur la tienne, et tu m'as demandé si tu pouvais être mon Ephemera. Les lèvres que j'avais autrefois utilisées uniquement pour parler ont été mises à profit, ma bien-aimée. Cette nuit-là j'ai assurément essayé d'être Coreddon, bien que je doute qu'Ulraunt ait apprécié de savoir l'usage que nous avons fait de son carré de bégonias dans le jardin de Château-Suif !
+--C.~
+@235  = ~Tamah,
+De combien de façons puis-je te dire que tu avais raison ? Qu'un jour, moi aussi, j'enragerais contre les murs de Château-Suif comme un oiseau en cage. Je me suis réfugié à Château-Suif pour ne jamais avoir à affronter mes peurs, mais me voici, à les scruter fixement. Laisse-moi te parler brièvement de mon enfance, Tamah. Je suis né à Eauprofonde en 1032 CV, l'année où l'archimage Ahghairon est devenu le premier seigneur d'Eauprofonde et a apporté à cette ville un gouvernement fondé sur la raison plutôt que sur la force des armes. Je devrais le savoir : mes parents étaient ses amis et ont été tués lors d'une tentative de putsch par l'un des seigneurs de guerre vaincus qu'Ahghairon avait supplanté. Dès l'enfance, par conséquent, j'ai eu peur d'aimer qui que ce soit. Aussi paisible qu'elle soit devenue, Eauprofonde bouillonne encore de l’ambition des maîtres de guilde. Je ne me suis jamais senti en sécurité nulle part, sauf à Château-Suif. Pourtant, ma sage Tamah, tu avais raison. Même caché dans ma tour, l'amour m'a trouvé. La passion a rapidement régi mes nuits et la douce harmonie mes jours. En voulant te garder près de moi, je t'ai faite fuir... Hélas, j'ai perdu ma plus chère amie et compagne ! Avec ta force pour tenir mes peurs à distance, mon amour, je sais que je peux partir d'ici. Avec ta main, cette vie peut être bouleversée.
+--C.~
+@236  = ~Ma Tamah,
+Cet après-midi, en regardant par la fenêtre, j'ai vu que les hirondelles étaient revenues sur les corniches de la bibliothèque. Elles s'abritent dans les sculptures et les embellissements du bâtiment. Un couple a choisi de construire son nid sur le rebord de la fenêtre de notre... de ma chambre. Bien que je souhaite la bienvenue à ce petit couple et à leurs bébés dans mon humble demeure, j'ai pleuré. Rappelle-moi, ma douce... N'avons-nous pas déjà parlé de mariage ? D'enfants ? Ne nous sommes-nous pas déjà amusés à l'idée d'un enfant possédant mon menton et tes yeux ? Je suppose que je pourrais me souvenir de chacun de tes mots dans ma rêverie si je ne craignais pas que ce souvenir ne me rende fou. Des familles et des enfants ont rejoint Château-Suif, mon amour ; Winthrop et Gorion ont chacun adopté un enfant. Le bruit des pas d'enfants résonne dans les salles de la bibliothèque et <CHARNAME>, l'enfant de Gorion, a renversé par deux fois mes bouteilles d'encre. J'aurais dû être furieux, mais à la place, je lui ai donné un crayon de couleur et un parchemin vierge pour dessiner. Aurai-je un jour la chance de pouvoir exprimer mon amour de façon aussi manifeste pour mes propres enfants ? Comment ai-je pu être aussi aveugle ?
+--C.~
+@237  = ~Ma Tamah bien-aimée,
+Cela fait des années que tu m'as quittée, ma très chère, et mes tiroirs de bureau commencent à déborder de lettres qui te sont adressées. J'ai désespérément besoin d'un moyen de te contacter, même si je n'ai pas la moindre idée de l'endroit où tu es allée. C'est alors que j'ai réalisé que tu es une enlumineuse de talent. Bien plus douée que moi, en vérité. Dès le début, les nobles payaient un supplément pour des échantillons de ta création. Et maintenant, une édition "Tamah" d'un livre est de grande valeur. Je sais que cela t'amuserait de savoir qu'un seigneur vient tout juste de gagner son droit d'entrée à Château-Suif grâce à l'une de nos éditions "spéciales" de "Séduction d'une nymphe" de Celsor. Comme ils seraient tous consternés s'ils savaient que nos ébats avaient lieu seulement à quelques centimètres de chaque édition que nous avons créée ! Mais j'en oublie mon objectif en t'écrivant aujourd'hui. Tu dois bien travailler quelque part pour une famille riche ou encore une bibliothèque privée. Si j'y envoie un livre... peut-être le liras-tu. Tu pourrais même te souvenir de l'endroit où nous avions l'habitude de cacher nos petits mots d'amour. Et alors trouver cette lettre... Je vais commencer par inclure mes lettres dans les recueils de poésie que je copie pour mes mécènes. J'espère qu'au moins l'une d'entre elles pourra atteindre un jour tes yeux et te dire que je continue à t'aimer. Je n'ai cure de ce qui s'est passé entre ton départ et le moment où tu liras ceci, ma bien-aimée. Je veux que tu me reviennes.
+--C.~
+@238  = ~Mon amour... Ma Tamah,
+Ulraunt se moque à chaque fois que je fais référence à toi, ma chère. Car même après le passage de trois décennies, je t'appelle toujours "mon amour". Son attitude n'est pas inhabituelle. La plupart des humains qui me connaissent trouvent pour le moins étrange cet attachement persistant. Ils l'appellent généralement "lien elfique", tout en secouant la tête par pitié, comme si j'étais une sorte de fou d'encore t'aimer. Même toi, la personne la plus proche et la plus précieuse en mon cœur, n'a pas compris comment j'ai pu le garder en veille pendant trois cents ans jusqu'à ce que tu t'empares de ma vie et que tu exerces une tyrannie aussi bienveillante sur son battement solitaire. Sache donc, ma chérie, que même parmi des êtres aussi singulièrement fidèles que les elfes, il y en a qui étonnent leurs congénères de par leur réclusion. J'étais l'un de ceux-là ; dans ma jeunesse, j'étais froid et insensible aux émotions. Mes parents m'appelaient "Órëlóra" ("sans-cœur") pour ma réserve et mon indifférence. Mon attachement a toujours été aux secrets anciens et aux savoirs cachés. Je suis devenu un mage d'une puissance non négligeable dans la fleur de l'âge, avant de délaisser la magie pour le délice de la connaissance pure. Je me moquais de mes semblables, elfes comme humains, qui avaient tissé des liens d'amour pour finalement les voir brisés par les serviteurs du temps. Imagine donc ma surprise lorsque je t'ai rencontrée. Je fus bouleversé à vie : j'ai couru frénétiquement après toi dans les salles de la bibliothèque et à travers les jardins de Château-Suif ! J'ai dû m'immerger dans la contemplation de ta beauté et t'amener, avec un sentiment doux-amer, à un plaisir qu'aucun de nous n'avait connu auparavant. Première et ultime chose en mon cœur, Tamah... Bien sûr, que tu es toujours "mon amour" !
+--C.~
+@239  = ~Ma douce Tamah,
+J'écris cette lettre à l'heure véritablement indue de trois heures et demie du matin. Je suis resté assez longtemps éveillé et je vais simplement commencer ma journée plus tôt en t'adressant un mot. Je n'ai pas du tout besoin de dormir, comme tu le sais, mais la rêverie ne m'a apporté ces derniers temps que des répétitions interminables de notre dernière dispute et de ton départ bien trop précipité. Le vide du sommeil m'a abandonné et me fait désirer ton corps. J'aimerais tant revenir en ces temps où nous dormions nus et enlacés. J'ai envie d'humer ton parfum, de te goûter, de sentir la texture de ta peau contre mes lèvres et ma langue. Mais hélas, mon bourgeon de rose, ce n'est que dans mon souvenir que je peux, comme un papillon, humer ton parfum enivrant et boire le nectar de tes pétales soyeux. Je suis totalement seul en ce petit matin ; je dois discipliner mes ardeurs sans ton aimable assistance. Que les dieux me viennent en aide !
+--C.~
+@240  = ~À ma chère Tamah,
+Une fois, alors que nous parlions de mariage, je me souviens t'avoir parlé de la plus ancienne des coutumes elfiques : l'échange des vœux d'amour éternel. Tu as été surprise de découvrir que les elfes n'ont besoin ni d'édifices religieux, ni de prêtres, ni de cérémonies, ni de l'approbation des institutions locales et nationales pour s'unir. Ce ne sont là, mon amour, que les ornements d'un accord fondamental entre des partenaires aimants et consentants. Je n'ai jamais été hostile aux mariages humains, j'ai été invité à plus d'un mariage au cours de mon existence mais je les trouve répétitifs, bien qu'amusants. Je t'épouserais comme tu le souhaiterais, ma chère, mais je te rappellerai constamment que je suis déjà tien. Les paroles que nous nous sommes adressées dans les jardins de Château-Suif lorsque nous nous sommes mutuellement déclarés notre flamme étaient mes vœux d'engagements. Je n'ai pas besoin d'autres promesses pour être éternellement ton compagnon. Accepte cette bague comme preuve de mes dires. Tu es la seule femme avec laquelle je souhaite être marié.
+--C.~
+@241  = ~Pardonne-moi, Tamah,
+Ce matin, je me suis souvenu de notre dispute finale... une fois encore... mais à une différence près. Dans mon esprit, une fois de plus, tu es partie en une telle colère car je ne voulais pas quitter la sécurité de Château-Suif. À nouveau, tu m'as rappelé que le Gardien des Livres n'aimait pas notre union et qu'il ne nous autoriserait qu'à contrecœur à élever des enfants ici. J'ai protesté : il ne nous avait pas interdit d'avoir une famille ici...mais tu as fait la sourde-oreille. Je me souviens t'avoir entendue dire que tu voulais ressentir la liberté de vivre sans la contrainte des murs de pierre et d'ouïr quotidiennement le chœur des jeunes voix qui t'entourent alors que tu allaites ton dernier-né. Tu voulais être certaine qu'ils auraient tous des prés et des bois à explorer au lieu de l'air vicié des salles de la bibliothèque. Les bruits habituels de la nature au lieu des murmures et chuchotements dans un silence imposé. Je me suis souvenu de tout cela, mon amour, mais avec une nuance. Cette fois, sachant ce que je ne savais pas à l'époque - ce que cela signifiait de vivre avec seulement ta présence absente à mes côtés, je me suis imaginé en train de céder et de te donner ce que tu désirais tant. Pourquoi cette différence ? Órëlóra est devenu Quantë órë... Mon cœur est rempli...
+--C.~
+@242  = ~<CHARNAME>,
+
+<DAYANDMONTH>, dans l'année de la bannière, <YEAR>.
+J'écris à la hâte une dernière note... Cette fois-ci pour vous. Quand je me suis levé ce matin, j'ai senti de l'excitation dans l'air. J'ai senti que quelque chose dans ma vie était sur le point de changer. Même si cela signifie que je dois faire face à ma propre mort, mon cœur tout entier se languit d'embrasser ce changement. Vous pourriez penser que je suis fou de croire cela, mais je suis persuadé que je vais revoir Tamah aujourd'hui, même si ce n'est que dans un quelconque au-delà qu'il est permis à un homme qui n'entrera pas à Arvanaith sans son amante humaine à ses côtés. Mais je divague et j'ai momentanément oublié la raison de cette lettre... Je vais vous demander quelque chose, <CHARNAME>, en étant bien conscient que votre passé vous a été camouflé (ceux d'entre nous dans la confidence n'avaient pas le droit d'en parler de peur d'attirer... une attention... non sollicitée). Je vous demande d'embrasser le changement. Refuser de le faire ne peut que vous conduire au malheur. C'est là la leçon que je souhaite vous transmettre. Appliquez-la bien. J'inclus dans cette note un petit témoignage de mon estime. Cela m'a bien servi dans la vie. Puisse cela vous servir au moins tout aussi bien.
+
+À jamais votre ami,
+
+Camryn~
+@243  = ~Astrophil et Stella~ //"Sonnet 45: Stella Oft Sees" par Sir Philip Sidney
+@244  = ~Stella souvent voit du chagrin le vrai visage
+Peint sur mon visage assombri et tempêtueux ;
+Se prendre à plaindre ma disgrâce elle ne peut,
+Tout en se sachant seul auteur d'un tel ouvrage.
+Oyant toutefois la fable de personnages
+Qui d'obscures amours prirent le cours piteux,
+La miséricorde en son sein soudain s'émeut
+Si bien qu'une fontaine de larmes fait rage.
+Las, si la Fontaine, qui naît de la fiction,
+Doit, même fausse, amplement créer plus de grâce
+Que d'un servant la ruine, et causer tes questions,
+Alors crois lire en moi, mon aimée, la disgrâce
+D'amants voués à quelque funeste tragédie,
+Et pleure donc, sinon moi, du moins mon récit.
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@245  = ~Stella souvent voit du chagrin le vrai visage
+ Peint sur mon visage assombri et tempêtueux ;
+Se prendre à plaindre ma disgrâce elle ne peut,
+Tout en se sachant seul auteur d'un tel ouvrage.
+Oyant toutefois la fable de personnages
+Qui d'obscures amours prirent le cours piteux,
+La miséricorde en son sein soudain s'émeut
+Si bien qu'une fontaine de larmes fait rage.
+Las, si la Fontaine, qui naît de la fiction,
+Doit, même fausse, amplement créer plus de grâce
+Que d'un servant la ruine, et causer tes questions,
+Alors crois lire en moi, mon aimée, la disgrâce
+D'amants voués à quelque funeste tragédie,
+Et pleure donc, sinon moi, du moins mon récit.~
+@246  = ~Pamphilia à Amphilanthus~ //"from Pamphilia to Amphilanthus: 4" par Lady Mary Wroth
+@247  = ~Lorsque je contemplais l'image de mon bien-aimé
+D'un regard avide vers lui mes yeux se tournaient,
+Peur et désir intérieurement s'affrontaient :
+Peur d'être marquée, désir d'encore me rapprocher.
+Et dans mon âme un esprit apparaissait,
+Fort de son audace, et qui se targuait
+D'être mon génie, pourtant à mes yeux je n'osais
+Accorder confiance là où d'autres semblaient persuadés.
+Alors j'ai cherché d'où venait ce danger,
+Si une telle indignité en moi reposait ;
+Mes yeux affamés ne devraient pas être bénis de la vision
+Lorsque la jalousie distille son poison ;
+Mais dans mon coeur par les regards jaloux épargné
+Triomphera l'image la plus vraie.
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@248  = ~Lorsque je contemplais l'image de mon bien-aimé
+D'un regard avide vers lui mes yeux se tournaient,
+Peur et désir intérieurement s'affrontaient :
+Peur d'être marquée, désir d'encore me rapprocher.
+Et dans mon âme un esprit apparaissait,
+Fort de son audace, et qui se targuait
+D'être mon génie, pourtant à mes yeux je n'osais
+Accorder confiance là où d'autres semblaient persuadés.
+Alors j'ai cherché d'où venait ce danger,
+Si une telle indignité en moi reposait ;
+Mes yeux affamés ne devraient pas être bénis de la vision
+Lorsque la jalousie distille son poison ;
+Mais dans mon coeur par les regards jaloux épargné
+Triomphera l'image la plus vraie.~
+@249  = ~Sonnet 18~
+@250  = ~Te parangonnerai-je à quelque jour d’été ?
+Tu es bien plus aimable et bien mieux tempérée.
+De rudes vents remuent les doux bourgeons de mai
+Et le bail estival bien vite est terminé.
+
+Quelquefois trop brûlant l’œil du ciel irradie
+Et son teint de vermeil fréquemment se ternit.
+Au fil de la beauté toute beauté fléchit,
+Par le Sort, la Nature instable, défournie.
+
+L’éternel été tien jamais ne cessera
+Ni ne perdra l’avoir de beauté que tu as,
+Ni le trépas menteur n’obombrera tes pas
+
+Puisqu’en vers éternels toujours tu grandiras
+Tant que l’homme aura souffle et tant que l’œil verra :
+Tant que vivra ceci, par ceci tu vivras.
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@251  = ~Te parangonnerai-je à quelque jour d’été ?
+Tu es bien plus aimable et bien mieux tempérée.
+De rudes vents remuent les doux bourgeons de mai
+Et le bail estival bien vite est terminé.
+
+Quelquefois trop brûlant l’œil du ciel irradie
+Et son teint de vermeil fréquemment se ternit.
+Au fil de la beauté toute beauté fléchit,
+Par le Sort, la Nature instable, défournie.
+
+L’éternel été tien jamais ne cessera
+Ni ne perdra l’avoir de beauté que tu as,
+Ni le trépas menteur n’obombrera tes pas
+
+Puisqu’en vers éternels toujours tu grandiras
+Tant que l’homme aura souffle et tant que l’œil verra :
+Tant que vivra ceci, par ceci tu vivras.~
+@252  = ~A Celia~ //"Song: to Celia" par Ben Jonson
+@253  = ~Bois à ma santé, des yeux seulement
+Et je m'engagerai par les miens.
+Ou laisse juste un baiser sur la coupe
+Et je n'aurai pas besoin de vin.
+La soif qui monte de l'âme
+Réclame une boisson divine ;
+Mais, obtiendrais-je une gorgée du nectar jovien,
+Je ne l'échangerais pas contre le tien.
+Je t'envoie ce soir une guirlande de roses
+Non tant pour t'honorer
+Que pour lui donner, près de toi, la chance
+De ne pas se faner ;
+Il te suffira seulement de la respirer
+Et de me la retourner,
+Après, elle croîtrait et sentirait, je le jure
+Pas d'elle-même mais de toi !
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@254  = ~Bois à ma santé, des yeux seulement
+Et je m'engagerai par les miens.
+Ou laisse juste un baiser sur la coupe
+Et je n'aurai pas besoin de vin.
+La soif qui monte de l'âme
+Réclame une boisson divine ;
+Mais, obtiendrais-je une gorgée du nectar jovien,
+Je ne l'échangerais pas contre le tien.
+Je t'envoie ce soir une guirlande de roses
+Non tant pour t'honorer
+Que pour lui donner, près de toi, la chance
+De ne pas se faner ;
+Il te suffira seulement de la respirer
+Et de me la retourner,
+Après, elle croîtrait et sentirait, je le jure
+Pas d'elle-même mais de toi !~
+@255  = ~Elle marche dans sa beauté~ //"She Walks in Beauty", par Lord Byron
+@256  = ~I. Elle marche dans sa beauté
+Elle marche dans sa beauté, semblable à la nuit
+des climats sans nuages et des cieux étoilés ;
+tout ce qu’ont de plus beau la lumière et l’ombre
+est réuni dans ses traits et dans ses yeux,
+brillant de ces molles et tendres clartés
+que refuse le ciel à la splendeur du jour.
+
+II. Une ombre de plus, un rayon de moins
+diminuerait de moitié cette grâce ineffable
+qui ondoie dans les tresses de sa noire chevelure,
+ou éclaire doucement ce visage ;
+où des pensées d’une sérénité suave disent combien
+est pure cette demeure, combien elle leur est chère.
+
+III. Et sur cette joue, et sur ce front si doux,
+si calme, si éloquent,
+ce sourire séduisant, ces teintes animées,
+annoncent des jours passés dans la vertu,
+une âme en paix avec tous,
+un cœur dont l’amour est innocent !
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@257  = ~Elle marche dans sa beauté
+Elle marche dans sa beauté, semblable à la nuit
+des climats sans nuages et des cieux étoilés ;
+tout ce qu’ont de plus beau la lumière et l’ombre
+est réuni dans ses traits et dans ses yeux,
+brillant de ces molles et tendres clartés
+que refuse le ciel à la splendeur du jour.
+
+II. Une ombre de plus, un rayon de moins
+diminuerait de moitié cette grâce ineffable
+qui ondoie dans les tresses de sa noire chevelure,
+ou éclaire doucement ce visage ;
+où des pensées d’une sérénité suave disent combien
+est pure cette demeure, combien elle leur est chère.
+
+III. Et sur cette joue, et sur ce front si doux,
+si calme, si éloquent,
+ce sourire séduisant, ces teintes animées,
+annoncent des jours passés dans la vertu,
+une âme en paix avec tous,
+un cœur dont l’amour est innocent !~
+@258  = ~Le regard~ //"The Look", par Sara Teasdale 
+@259  = ~Strephon m'embrassa au printemps,
+Robin à l'automne,
+Mais Colin ne fit que me regarder
+Et jamais ne m'embrassa.
+ 
+Le baiser de Strephon se perdit en plaisanteries,
+Celui de Robin dans nos jeux,
+Mais le baiser dans les yeux de Colin
+Me hante jour et nuit.
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@260  = ~Strephon m'embrassa au printemps,
+Robin à l'automne,
+Mais Colin ne fit que me regarder
+Et jamais ne m'embrassa.
+ 
+Le baiser de Strephon se perdit en plaisanteries,
+Celui de Robin dans nos jeux,
+Mais le baiser dans les yeux de Colin
+Me hante jour et nuit.~
+@261  = ~Je t'ai aimé d'abord~ //"Monna Innominata (I loved you first)" par Christina Georgina Rossetti
+@262  = ~Je t'ai aimé d'abord ; mais ensuite ton amour,
+Surpassant le mien, a chanté une chanson tellement plus admirable,
+Noyant les roucoulements amicaux de ma colombe.
+Qui doit le plus à l'autre ? Mon amour a longtemps duré,
+Et à un moment donné, le tien m'a semblé plus fort ;
+Je t'ai aimé, je t'ai deviné, tu as lu en moi
+Et m'as aimée pour ce qui pourrait ou ne pourrait pas être ;
+Non, poids et mesures nous font du tort à tous les deux.
+Car en vérité, l'amour ne connaît ni "le mien" ni "le tien" ;
+Ou les "je" et "tu" séparés de l'amour libre,
+Car l'un est les deux et les deux ne font qu'un dans l'amour :
+Un riche amour ignore le "ce qui est à toi n'est pas à moi" ;
+A deux, on possède à la fois force et durée,
+Tous les deux, de l'amour qui nous unit.
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@263  = ~Je t'ai aimé d'abord ; mais ensuite ton amour,
+Surpassant le mien, a chanté une chanson tellement plus admirable,
+Noyant les roucoulements amicaux de ma colombe.
+Qui doit le plus à l'autre ? Mon amour a longtemps duré,
+Et à un moment donné, le tien m'a semblé plus fort ;
+Je t'ai aimé, je t'ai deviné, tu as lu en moi
+Et m'as aimée pour ce qui pourrait ou ne pourrait pas être ;
+Non, poids et mesures nous font du tort à tous les deux.
+Car en vérité, l'amour ne connaît ni "le mien" ni "le tien" ;
+Ou les "je" et "tu" séparés de l'amour libre,
+Car l'un est les deux et les deux ne font qu'un dans l'amour :
+Un riche amour ignore le "ce qui est à toi n'est pas à moi" ;
+A deux, on possède à la fois force et durée,
+Tous les deux, de l'amour qui nous unit.~
+@264  = ~When to her Lute Corinna Sings~ //par Thomas Campion
+@265  = ~Quand Corinna chante à son luth,
+Sa voix ranime les cordes de plomb.
+Et quand les notes les plus hautes s'élèvent,
+Les troubles échos s'évanouissent ;
+Quand elle évoque le deuil,
+Un seul de ses soupirs, et les cordes se brisent.
+Ainsi vit ou meurt son luth,
+Entraîné par sa passion, tout comme moi.
+Et quand elle chante le plaisir,
+Mon esprit s'éveille soudainement ;
+Mais si ses paroles ne sont que tristesse,
+Même les cordes sensibles de mon cœur se brisent.
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@266  = ~Quand Corinna chante à son luth,
+Sa voix ranime les cordes de plomb.
+Et quand les notes les plus hautes s'élèvent,
+Les troubles échos s'évanouissent ;
+Quand elle évoque le deuil,
+Un seul de ses soupirs, et les cordes se brisent.
+Ainsi vit ou meurt son luth,
+Entraîné par sa passion, tout comme moi.
+Et quand elle chante le plaisir,
+Mon esprit s'éveille soudainement ;
+Mais si ses paroles ne sont que tristesse,
+Même les cordes sensibles de mon cœur se brisent.~
+@267  = ~L’Amoureux Berger à sa Bergère~ //par Christopher Marlowe
+@268  = ~Viens vivre avec moi, viens sois mes amours,
+Et nous goûterons plaisirs tous les jours,
+Que peuvent donner bosquets ou vallées
+Ou monts escarpés, ou bois ou feuillées ;
+
+Nous nous assiérons au pic des rochers,
+Et lors nous verrons de loin les bergers,
+À leurs beaux troupeaux donner la pâture
+Et les doux oiseaux chanter la nature.
+
+Et je te ferai, mon cœur te le dit,
+De gentils bouquets, de roses un lit,
+Un bonnet de fleurs, puis une jaquette,
+Et de myrte blanc blanche collerette ;
+
+Et de la toison de nos chers agneaux,
+Moi je te ferai cotillons, manteaux,
+Souliers bien mignons contre la froidure,
+Avec boucles d’or pour leur fermeture ;
+
+Et je te ferai superbe ceinture,
+De l’or de nos blés, avec émaillure…
+Ah ! si ces plaisirs, tu les veux, …accours,
+Viens vivre avec moi, viens sois mes amours !
+
+Pour chaque repas ma gente bergère
+Des vins recherchés, délicate chère,
+Sur des plats d’argent, riches, précieux
+Te seront servis, comme on sert les Dieux.
+
+Et de nos bergers, chant, danse joyeuse
+De s’exécuter pour te rendre heureuse,
+Ah ! si ces plaisirs, tu les veux, …. accours,
+Viens vivre avec moi, viens sois mes amours !
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@269  = ~Viens vivre avec moi, viens sois mes amours,
+Et nous goûterons plaisirs tous les jours,
+Que peuvent donner bosquets ou vallées
+Ou monts escarpés, ou bois ou feuillées ;
+
+Nous nous assiérons au pic des rochers,
+Et lors nous verrons de loin les bergers,
+À leurs beaux troupeaux donner la pâture
+Et les doux oiseaux chanter la nature.
+
+Et je te ferai, mon cœur te le dit,
+De gentils bouquets, de roses un lit,
+Un bonnet de fleurs, puis une jaquette,
+Et de myrte blanc blanche collerette ;
+
+Et de la toison de nos chers agneaux,
+Moi je te ferai cotillons, manteaux,
+Souliers bien mignons contre la froidure,
+Avec boucles d’or pour leur fermeture ;
+
+Et je te ferai superbe ceinture,
+De l’or de nos blés, avec émaillure…
+Ah ! si ces plaisirs, tu les veux, …accours,
+Viens vivre avec moi, viens sois mes amours !
+
+Pour chaque repas ma gente bergère
+Des vins recherchés, délicate chère,
+Sur des plats d’argent, riches, précieux
+Te seront servis, comme on sert les Dieux.
+
+Et de nos bergers, chant, danse joyeuse
+De s’exécuter pour te rendre heureuse,
+Ah ! si ces plaisirs, tu les veux, …. accours,
+Viens vivre avec moi, viens sois mes amours !~
+@270  = ~L'ancienne Arcadia~ //par Sir Philip Sidney
+@271  = ~Là-bas, mon Claius ! Le regard d'Urania s'éclaira. Le cheval lui-même, je crois, se lamentait d'être ainsi délesté ; et quant à toi, pauvre Claius, quand tu allas l'aider à descendre, je vis la révérence et le désir te déchirer tellement que tu rougis et tremblas à la fois et qu'au lieu de la porter, tu étais prêt à tomber toi-même. Elle posa mon manteau (à ce moment-là très beau) et s'assit dessus ; elle se tourna vers une colline lointaine, regardant en arrière vers sa demeure natale, une grande tristesse dans ses yeux à cause de sa séparation, dont la lumineuse beauté irradiait pourtant une gaieté si naturelle qu'elle donnait l'impression que même le chagrin souriait ; à ce moment elle nous parla à tous, ouvrant ses lèvres rubicondes ; et Seigneur, comme mes oreilles se délectaient avec avidité des douces paroles qu'elle prononçait ! Elle posa sa main sur tes yeux lorsqu'elle vit des larmes y jaillir, comme si elle voulait les cacher aux autres tout en voulant ressentir elle-même une partie de ta peine. Mais pauvre de moi, lorsqu'elle mit le pied dans le bateau, à cet instant, pour ainsi dire, elle partageait sa divine beauté entre terre et mer. Et quand elle eut embarqué, ne vis-tu pas comme les vents sifflaient et les mers dansaient de joie, comme les voiles se gonflaient d'orgueil, tout cela par la seule présence d'Urania ? O Urania, bénie sois-tu Urania, la plus douce des beautés et la plus belle des douceurs !
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@272  = ~Là-bas, mon Claius ! Le regard d'Urania s'éclaira. Le cheval lui-même, je crois, se lamentait d'être ainsi délesté ; et quant à toi, pauvre Claius, quand tu allas l'aider à descendre, je vis la révérence et le désir te déchirer tellement que tu rougis et tremblas à la fois et qu'au lieu de la porter, tu étais prêt à tomber toi-même. Elle posa mon manteau (à ce moment-là très beau) et s'assit dessus ; elle se tourna vers une colline lointaine, regardant en arrière vers sa demeure natale, une grande tristesse dans ses yeux à cause de sa séparation, dont la lumineuse beauté irradiait pourtant une gaieté si naturelle qu'elle donnait l'impression que même le chagrin souriait ; à ce moment elle nous parla à tous, ouvrant ses lèvres rubicondes ; et Seigneur, comme mes oreilles se délectaient avec avidité des douces paroles qu'elle prononçait ! Elle posa sa main sur tes yeux lorsqu'elle vit des larmes y jaillir, comme si elle voulait les cacher aux autres tout en voulant ressentir elle-même une partie de ta peine. Mais pauvre de moi, lorsqu'elle mit le pied dans le bateau, à cet instant, pour ainsi dire, elle partageait sa divine beauté entre terre et mer. Et quand elle eut embarqué, ne vis-tu pas comme les vents sifflaient et les mers dansaient de joie, comme les voiles se gonflaient d'orgueil, tout cela par la seule présence d'Urania ? O Urania, bénie sois-tu Urania, la plus douce des beautés et la plus belle des douceurs !~
+@273  = ~Le Decameron : Prince Galeotio~ //du Decameron, par Giovanni Boccaccio
+@274  = ~Chaque fois, très gracieuses dames, que je considère en moi-même combien vous êtes toutes naturellement compatissantes, je reconnais que le présent ouvrage vous paraîtra avoir un commencement pénible et ennuyeux, car il porte au front le douloureux souvenir de la mortalité causée par la peste que nous venons de traverser, souvenir généralement importun à tous ceux qui ont vu cette peste ou qui en ont eu autrement connaissance. Ce n’est pas que je veuille, pour cela, vous effrayer et vous empêcher de lire plus avant, comme si vous deviez, en lisant, trépasser vous-mêmes au milieu des soupirs et les larmes. Cet horrible commencement ne vous causera pas plus d’ennui qu’aux voyageurs une montagne raide et élevée, après laquelle vient une belle et agréable plaine qui paraît d’autant plus séduisante, que la fatigue de la montée et de la descente a été plus grande. Et de même que l’allégresse succède à la douleur, ainsi les misères sont effacées par la joie qui les suit. À ce court ennui — je dis court, parce qu’il ne dure que quelques pages — succéderont vite la douceur et le plaisir que je vous ai promis précédemment, et que, si je ne vous le disais, vous n’auriez peut-être pas attendus d’un pareil début. Et de vrai, si j’avais pu honnêtement vous mener vers ce que je désire par un chemin autre que cet âpre sentier, je l’aurais volontiers fait. Mais, qu’elle qu’ait été la cause des événements dont on lira ci-après le récit, comme il n’était pas possible d’en démontrer l’exactitude sans rappeler ce souvenir, j’ai été quasi contraint par la nécessité à en parler.
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@275  = ~Chaque fois, très gracieuses dames, que je considère en moi-même combien vous êtes toutes naturellement compatissantes, je reconnais que le présent ouvrage vous paraîtra avoir un commencement pénible et ennuyeux, car il porte au front le douloureux souvenir de la mortalité causée par la peste que nous venons de traverser, souvenir généralement importun à tous ceux qui ont vu cette peste ou qui en ont eu autrement connaissance. Ce n’est pas que je veuille, pour cela, vous effrayer et vous empêcher de lire plus avant, comme si vous deviez, en lisant, trépasser vous-mêmes au milieu des soupirs et les larmes. Cet horrible commencement ne vous causera pas plus d’ennui qu’aux voyageurs une montagne raide et élevée, après laquelle vient une belle et agréable plaine qui paraît d’autant plus séduisante, que la fatigue de la montée et de la descente a été plus grande. Et de même que l’allégresse succède à la douleur, ainsi les misères sont effacées par la joie qui les suit. À ce court ennui — je dis court, parce qu’il ne dure que quelques pages — succéderont vite la douceur et le plaisir que je vous ai promis précédemment, et que, si je ne vous le disais, vous n’auriez peut-être pas attendus d’un pareil début. Et de vrai, si j’avais pu honnêtement vous mener vers ce que je désire par un chemin autre que cet âpre sentier, je l’aurais volontiers fait. Mais, qu’elle qu’ait été la cause des événements dont on lira ci-après le récit, comme il n’était pas possible d’en démontrer l’exactitude sans rappeler ce souvenir, j’ai été quasi contraint par la nécessité à en parler.~
+@276  = ~La reine des fées~ //"La reine des fées" par Edmund Spenser
+@277  = ~Moi l'homme, à qui la Muse, il y a déjà quelque temps, s'est déguisée,
+comme le temps lui a appris, en simple Berger,
+suis maintenant poussé à effectuer une tâche
+pour laquelle ma flûte de Roseau, bien inappropriée, doit céder la place à d'austères trompettes :
+et je dois maintenant chanter les gestes doux de Chevaliers et de gentes Dames,
+dont les éloges ont sommeillé bien longtemps dans le silence.
+À moi, fort simple en vérité, la Muse sacrée demande
+de proclamer, haut et fort, parmi la foule qu'elle a assemblée :
+des combats féroces et des amours fidèles moraliseront mon chant
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@278  = ~Moi l'homme, à qui la Muse, il y a déjà quelque temps, s'est déguisée,
+comme le temps lui a appris, en simple Berger,
+suis maintenant poussé à effectuer une tâche
+pour laquelle ma flûte de Roseau, bien inappropriée, doit céder la place à d'austères trompettes :
+et je dois maintenant chanter les gestes doux de Chevaliers et de gentes Dames,
+dont les éloges ont sommeillé bien longtemps dans le silence.
+À moi, fort simple en vérité, la Muse sacrée demande
+de proclamer, haut et fort, parmi la foule qu'elle a assemblée :
+des combats féroces et des amours fidèles moraliseront mon chant.~
+@279  = ~To the Virgins~ //"To the Virgins, to Make Much of Time" by Robert Herrick
+@280  = ~Cueillez aujourd'hui les boutons de rose ;
+le Temps s'envole à tire-d'aile ;
+voyez cette fleur et son clair sourire :
+elle sera morte demain.
+
+Plus haut le soleil, la lampe céleste,
+est déjà monté dans la nue,
+plus tôt il aura terminé sa course,
+et plus est proche son déclin.
+
+L'âge est le meilleur qui vient le premier,
+quand le sang est jeune et ardent ;
+mais vite il se glace, et, de mal en pis,
+les ans succéderont aux ans.
+
+Vivez, sans scrupule, votre jeunesse ;
+c'est le moment, mariez-vous ;
+car lorsque seront fanés vos vingt ans,
+vous pourriez attendre toujours !
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@281  = ~Cueillez aujourd'hui les boutons de rose ;
+le Temps s'envole à tire-d'aile ;
+voyez cette fleur et son clair sourire :
+elle sera morte demain.
+
+Plus haut le soleil, la lampe céleste,
+est déjà monté dans la nue,
+plus tôt il aura terminé sa course,
+et plus est proche son déclin.
+
+L'âge est le meilleur qui vient le premier,
+quand le sang est jeune et ardent ;
+mais vite il se glace, et, de mal en pis,
+les ans succéderont aux ans.
+
+Vivez, sans scrupule, votre jeunesse ;
+c'est le moment, mariez-vous ;
+car lorsque seront fanés vos vingt ans,
+vous pourriez attendre toujours !~
+@282  = ~Change~ //par Kathleen Jessie Raine
+@283  = ~Change,
+disait le soleil à la lune,
+tu ne peux demeurer.
+
+Change,
+dit la lune aux eaux,
+tout s’écoule.
+
+Change, dit le champ à l’herbe,
+temps des semailles et des moissons,
+paille et grain.
+
+Tu dois changer,
+disait le ver au bouton,
+même si ce n’est pas pour une rose. 
+Les pétales se fanent
+pour que des ailes puissent s’élever,
+portées par le vent.
+
+Tu changes,
+disait la mort à la jeune fille,
+ton visage blême en souvenir, en beauté.
+
+Es-tu prêt à changer ?
+dit la pensée au cœur,
+à laisser passer toute ta vie
+pour ce qui n’est pas connu,
+ce qui n’est pas né,
+dans l’alchimie du rêve du monde ?
+
+Tu changeras,
+disent les étoiles au soleil,
+dit la nuit aux étoiles.
+
+(La tranche de ce livre est un peu plus épaisse que d'habitude.)~
+@284  = ~Change,
+disait le soleil à la lune,
+tu ne peux demeurer.
+
+Change,
+dit la lune aux eaux,
+tout s’écoule.
+
+Change, dit le champ à l’herbe,
+temps des semailles et des moissons,
+paille et grain.
+
+Tu dois changer,
+disait le ver au bouton,
+même si ce n’est pas pour une rose. 
+Les pétales se fanent
+pour que des ailes puissent s’élever,
+portées par le vent.
+
+Tu changes,
+disait la mort à la jeune fille,
+ton visage blême en souvenir, en beauté.
+
+Es-tu prêt à changer ?
+dit la pensée au cœur,
+à laisser passer toute ta vie
+pour ce qui n’est pas connu,
+ce qui n’est pas né,
+dans l’alchimie du rêve du monde ?
+
+Tu changeras,
+disent les étoiles au soleil,
+dit la nuit aux étoiles.~
+@285  = ~Une lettre tombe de la tranche du livre.~
+@286  = ~Une lettre tombe de la tranche du livre, ainsi qu'un anneau.~
+@287  = ~Bague de fiançailles~
+@288  = ~C'est la bague de fiançailles que Camryn a envoyé à Tamah avec une de ses lettres cachées.~
+@289  = ~Anneau de Camryn~
+@290  = ~Cet anneau était la propriété de Camryn, le maître enlumineur et scribe de Château-Suif. Il appréciait l'apprentissage et le savoir, il était versé dans l'histoire de nombreuses personnes, lieux et sujets. Il a donné cette bague d'érudit à <CHARNAME> comme cadeau d'adieu lorsqu'il a finalement quitté Château-Suif.
+
+
+
+PARAMETRES :
+
+
+Capacités d'équipement :
+
+- Intelligence : +1
+- Connaissances : +5~
+@291  = ~Dispero~
+
+/*
+@292  = 
+@293  = 
+@294  = 
+@295  =
+@296  =
+@297  =
+@290  =
+@299  =
+@300  =
+*/
+
+/* new for v3.0 */
+/* Entrée de journal pour Le retour de La Balafre */
+@10000 = ~Corps de La Balafre 
+
+J'ai trouvé le vase de La Balafre dans une boutique appelée "Les occasions de Donnerjan" sur la place du marché du quartier central de la Porte de Baldur ! Il faut que je demande au vendeur où il l'a obtenu. Je sais que ce vase était très cher à La Balafre. Je l'ai vu le jour où j'ai visité ses appartements.~
