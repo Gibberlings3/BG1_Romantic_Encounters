@@ -925,7 +925,7 @@ Global("C#Q11_SearchBlood","GLOBAL",11): Beth is woman -> "c#q11c4"
 
 
 
-IF ~!Exists("c#q11be1") !Exists("c#q11be2")
+IF ~!Exists("c#q11be1")
 GlobalGT("C#Q11_SearchBlood","GLOBAL",8) GlobalLT("C#Q11_SearchBlood","GLOBAL",12)~ THEN necro_hasblood_01
 SAY @250
 IF ~~ THEN DO ~ClearAllActions() StartCutsceneMode() StartCutscene("c#q11c4")~ EXIT
