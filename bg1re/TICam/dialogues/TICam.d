@@ -722,13 +722,13 @@ SAY @190
 
 + ~PartyHasItem("TIC9SCRL") Global("TICBooks","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @199 DO ~SetGlobal("TICBooks","LOCALS",1) TakePartyItemAll("TIC9SCRL") DestroyItem("TIC9SCRL") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3j
 
-+ ~PartyHasItem("TIC10SCR") Global("TICMyLove","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @200 DO ~SetGlobal("TICMyLove","LOCALS",1) TakePartyItemAll("TIC10SCRL") DestroyItem("TIC10SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3k
++ ~PartyHasItem("TIC10SCR") Global("TICMyLove","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @200 DO ~SetGlobal("TICMyLove","LOCALS",1) TakePartyItemAll("TIC10SCR") DestroyItem("TIC10SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3k
 
-+ ~PartyHasItem("TIC11SCR") Global("TICBed","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @201 DO ~SetGlobal("TICBed","LOCALS",1) TakePartyItemAll("TIC11SCRL") DestroyItem("TIC11SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3l
++ ~PartyHasItem("TIC11SCR") Global("TICBed","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @201 DO ~SetGlobal("TICBed","LOCALS",1) TakePartyItemAll("TIC11SCR") DestroyItem("TIC11SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3l
 
-+ ~PartyHasItem("TIC12SCR") Global("TICMarriage","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @202 DO ~SetGlobal("TICMarriage","LOCALS",1) TakePartyItemAll("TIC12SCRL")  TakePartyItemAll("TICAMRIN") DestroyItem("TIC12SCR") DestroyItem("TICAMRIN") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3m
++ ~PartyHasItem("TIC12SCR") Global("TICMarriage","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @202 DO ~SetGlobal("TICMarriage","LOCALS",1) TakePartyItemAll("TIC12SCR")  TakePartyItemAll("TICAMRIN") DestroyItem("TIC12SCR") DestroyItem("TICAMRIN") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3m
 
-+ ~PartyHasItem("TIC13SCR") Global("TICArgument","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @203 DO ~SetGlobal("TICArgument","LOCALS",1) TakePartyItemAll("TIC13SCRL") DestroyItem("TIC13SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3n
++ ~PartyHasItem("TIC13SCR") Global("TICArgument","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @203 DO ~SetGlobal("TICArgument","LOCALS",1) TakePartyItemAll("TIC13SCR") DestroyItem("TIC13SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3n
 
 
 /* ---------------- */
@@ -751,13 +751,13 @@ SAY @190
 
 + ~PartyHasItem("TIC9SCRL") Global("TICBooks","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @199 DO ~SetGlobal("TICBooks","LOCALS",1) TakePartyItemAll("TIC9SCRL") DestroyItem("TIC9SCRL") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3j
 
-+ ~PartyHasItem("TIC10SCR") Global("TICMyLove","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @200 DO ~SetGlobal("TICMyLove","LOCALS",1) TakePartyItemAll("TIC10SCRL") DestroyItem("TIC10SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3k
++ ~PartyHasItem("TIC10SCR") Global("TICMyLove","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @200 DO ~SetGlobal("TICMyLove","LOCALS",1) TakePartyItemAll("TIC10SCR") DestroyItem("TIC10SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3k
 
-+ ~PartyHasItem("TIC11SCR") Global("TICBed","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @201 DO ~SetGlobal("TICBed","LOCALS",1) TakePartyItemAll("TIC11SCRL") DestroyItem("TIC11SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3l
++ ~PartyHasItem("TIC11SCR") Global("TICBed","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @201 DO ~SetGlobal("TICBed","LOCALS",1) TakePartyItemAll("TIC11SCR") DestroyItem("TIC11SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3l
 
-+ ~PartyHasItem("TIC12SCR") Global("TICMarriage","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @202 DO ~SetGlobal("TICMarriage","LOCALS",1) TakePartyItemAll("TIC12SCRL")  TakePartyItemAll("TICAMRIN") DestroyItem("TIC12SCR") DestroyItem("TICAMRIN") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3m
++ ~PartyHasItem("TIC12SCR") Global("TICMarriage","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @202 DO ~SetGlobal("TICMarriage","LOCALS",1) TakePartyItemAll("TIC12SCR")  TakePartyItemAll("TICAMRIN") DestroyItem("TIC12SCR") DestroyItem("TICAMRIN") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3m
 
-+ ~PartyHasItem("TIC13SCR") Global("TICArgument","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @203 DO ~SetGlobal("TICArgument","LOCALS",1) TakePartyItemAll("TIC13SCRL") DestroyItem("TIC13SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3n
++ ~PartyHasItem("TIC13SCR") Global("TICArgument","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @203 DO ~SetGlobal("TICArgument","LOCALS",1) TakePartyItemAll("TIC13SCR") DestroyItem("TIC13SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3n
 
 /* ------------- */
 + ~Global("RE1Cam_MoreThanFriend","LOCALS",0)~ + @204 + a3o
@@ -792,13 +792,13 @@ SAY @206
 
 + ~PartyHasItem("TIC9SCRL") Global("TICBooks","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @199 DO ~SetGlobal("TICBooks","LOCALS",1) TakePartyItemAll("TIC9SCRL") DestroyItem("TIC9SCRL") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3j
 
-+ ~PartyHasItem("TIC10SCR") Global("TICMyLove","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @200 DO ~SetGlobal("TICMyLove","LOCALS",1) TakePartyItemAll("TIC10SCRL") DestroyItem("TIC10SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3k
++ ~PartyHasItem("TIC10SCR") Global("TICMyLove","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @200 DO ~SetGlobal("TICMyLove","LOCALS",1) TakePartyItemAll("TIC10SCR") DestroyItem("TIC10SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3k
 
-+ ~PartyHasItem("TIC11SCR") Global("TICBed","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @201 DO ~SetGlobal("TICBed","LOCALS",1) TakePartyItemAll("TIC11SCRL") DestroyItem("TIC11SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3l
++ ~PartyHasItem("TIC11SCR") Global("TICBed","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @201 DO ~SetGlobal("TICBed","LOCALS",1) TakePartyItemAll("TIC11SCR") DestroyItem("TIC11SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3l
 
-+ ~PartyHasItem("TIC12SCR") Global("TICMarriage","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @202 DO ~SetGlobal("TICMarriage","LOCALS",1) TakePartyItemAll("TIC12SCRL")  TakePartyItemAll("TICAMRIN") DestroyItem("TIC12SCR") DestroyItem("TICAMRIN") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3m
++ ~PartyHasItem("TIC12SCR") Global("TICMarriage","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @202 DO ~SetGlobal("TICMarriage","LOCALS",1) TakePartyItemAll("TIC12SCR")  TakePartyItemAll("TICAMRIN") DestroyItem("TIC12SCR") DestroyItem("TICAMRIN") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3m
 
-+ ~PartyHasItem("TIC13SCR") Global("TICArgument","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @203 DO ~SetGlobal("TICArgument","LOCALS",1) TakePartyItemAll("TIC13SCRL") DestroyItem("TIC13SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3n
++ ~PartyHasItem("TIC13SCR") Global("TICArgument","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",0)~ + @203 DO ~SetGlobal("TICArgument","LOCALS",1) TakePartyItemAll("TIC13SCR") DestroyItem("TIC13SCR") ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3n
 
 
 /* ---------------- */
@@ -821,13 +821,13 @@ SAY @206
 
 + ~PartyHasItem("TIC9SCRL") Global("TICBooks","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @199 DO ~SetGlobal("TICBooks","LOCALS",1) TakePartyItemAll("TIC9SCRL") DestroyItem("TIC9SCRL") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3j
 
-+ ~PartyHasItem("TIC10SCR") Global("TICMyLove","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @200 DO ~SetGlobal("TICMyLove","LOCALS",1) TakePartyItemAll("TIC10SCRL") DestroyItem("TIC10SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3k
++ ~PartyHasItem("TIC10SCR") Global("TICMyLove","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @200 DO ~SetGlobal("TICMyLove","LOCALS",1) TakePartyItemAll("TIC10SCR") DestroyItem("TIC10SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3k
 
-+ ~PartyHasItem("TIC11SCR") Global("TICBed","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @201 DO ~SetGlobal("TICBed","LOCALS",1) TakePartyItemAll("TIC11SCRL") DestroyItem("TIC11SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3l
++ ~PartyHasItem("TIC11SCR") Global("TICBed","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @201 DO ~SetGlobal("TICBed","LOCALS",1) TakePartyItemAll("TIC11SCR") DestroyItem("TIC11SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3l
 
-+ ~PartyHasItem("TIC12SCR") Global("TICMarriage","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @202 DO ~SetGlobal("TICMarriage","LOCALS",1) TakePartyItemAll("TIC12SCRL")  TakePartyItemAll("TICAMRIN") DestroyItem("TIC12SCR") DestroyItem("TICAMRIN") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3m
++ ~PartyHasItem("TIC12SCR") Global("TICMarriage","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @202 DO ~SetGlobal("TICMarriage","LOCALS",1) TakePartyItemAll("TIC12SCR")  TakePartyItemAll("TICAMRIN") DestroyItem("TIC12SCR") DestroyItem("TICAMRIN") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3m
 
-+ ~PartyHasItem("TIC13SCR") Global("TICArgument","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @203 DO ~SetGlobal("TICArgument","LOCALS",1) TakePartyItemAll("TIC13SCRL") DestroyItem("TIC13SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3n
++ ~PartyHasItem("TIC13SCR") Global("TICArgument","LOCALS",0) Global("RE1Cam_RewardLetters","GLOBAL",1)~ + @203 DO ~SetGlobal("TICArgument","LOCALS",1) TakePartyItemAll("TIC13SCR") DestroyItem("TIC13SCR") GiveGoldForce(20) ClearAllActions() StartCutSceneMode() StartCutScene("TICamCS3")~ EXIT // + a3n
 
 /* ------------- */
 
