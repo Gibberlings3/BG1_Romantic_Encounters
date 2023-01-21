@@ -1276,7 +1276,7 @@ Si vous jouez avec le jeu BG original, ce mod est compatible avec MotSC (= TWM)
 
 Au niveau de la compatibilité, suivre l'ordre d'installation ci-dessous :
 
-EBG1 - Transitions - bg1npc project - bg1re - bg1ub - Jarl's Adventure Pack (v0.7)
+EndlessBG1 - Transitions - bg1re 
 
 
 ----------------
@@ -1376,6 +1376,13 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 9.1:
+-fixed EraseJournalEntry references.
+-missed lines from tp2 traified.
+-removed reference to nonexistent scriptname (Necromancer's Trouble).
+-corrected reference to letters (Camryn and Tamah).
+-typo correction.
 
 Version 9.0:
 -French version completed, by les d'Oghmatiques (Le Marquis, Galathée, Lothringen, Shaywen, Zooloo) and Jazira ; proofreading par Graoumf.

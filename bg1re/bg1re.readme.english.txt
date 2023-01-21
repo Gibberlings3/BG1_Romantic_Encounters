@@ -967,6 +967,8 @@ There's a chapel and altar in the mines. Why not a wedding? Love, as we all know
 Bonus quest: Scar - The Return, by jastey
 ------------------------------------------------------------------
 
+**This component will be included automatically if both Scar's Spare Time and Duke Eltan's Spare Minute are enabled, and does not have its own install option.**
+
 Type: Quest
 Availability: Precondition is the visiting of Scar's private quarters. Later, talk to Duke Eltan about how Scar was murdered (in the Harbour master's house). This will trigger the quest to find Scar's body. (Components "Scar's Spare Time" and "Duke Eltan's Spare Minute" have to be installed AND the PC has to visit Scar in his private quarters at least shortly)
 Rating: Teen content. Nothing in terms of sexual, but we are dealing with the search for the corpse of a murdered man.
@@ -1274,7 +1276,7 @@ If you play it with the original BG, the mod is compatible with MotSC (= TWM)
 
 For compatibility, please stick to the install order:
 
-EBG1 - Transitions - bg1npc project - bg1re - bg1ub - Jarl's Adventure Pack (v0.7)
+EndlessBG1 - Transitions - bg1re 
 
 ----------------
 VIII. Known Issues
@@ -1373,6 +1375,13 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 9.1:
+-fixed EraseJournalEntry references.
+-missed lines from tp2 traified.
+-removed reference to nonexistent scriptname (Necromancer's Trouble).
+-corrected reference to letters (Camryn and Tamah).
+-typo correction.
 
 Version 9.0:
 -French version completed, by les d'Oghmatiques (Le Marquis, Galathée, Lothringen, Shaywen, Zooloo) and Jazira ; proofreading par Graoumf.
