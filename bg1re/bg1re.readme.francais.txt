@@ -1378,7 +1378,10 @@ XII. History
 ----------------
 
 Version 9.1:
+-Ioun Stone from Thalantyr should not be tagged as critical item.
+-Added checks whether Melicamp is in the area (Dinner with Thalantyr).
 -fixed EraseJournalEntry references.
+-Added clsoing variable for quest (The Honest Lies of Two Riversides).
 -missed lines from tp2 traified.
 -removed reference to nonexistent scriptname (Necromancer's Trouble).
 -corrected reference to letters (Camryn and Tamah).
