@@ -570,7 +570,7 @@ SAY @367
 ++ @368 + game_over_01
 + ~!Dead("Noober") !Allegiance("Noober",ENEMY) Global("C#LC_ThalchessNoober","GLOBAL",1)~ + @369 DO ~SetGlobal("C#LC_ThalchessNoober","GLOBAL",2)~ + thalan_noober
 + ~!Dead("Ragefast") Global("C#LC_ThalchessRagefast","LOCALS",0)~ + @370 DO ~SetGlobal("C#LC_ThalchessRagefast","LOCALS",1)~ + thalan_ragefast
-+ ~!Dead("Melicamp") Global("C#LC_ThalchessMelicamp","LOCALS",0)~ + @371 DO ~SetGlobal("C#LC_ThalchessMelicamp","LOCALS",1)~ + chess_melicamp
++ ~!Dead("Melicamp") InMyArea("Melicamp") Global("C#LC_ThalchessMelicamp","LOCALS",0)~ + @371 DO ~SetGlobal("C#LC_ThalchessMelicamp","LOCALS",1)~ + chess_melicamp
 + ~Global("C#LC_ThalchessRevenge","LOCALS",0)~ + @372 DO ~SetGlobal("C#LC_ThalchessRevenge","LOCALS",1)~ + chess_revenge
 + ~Global("C#LC_ThalchessPlayElse","LOCALS",0)~ + @373 DO ~SetGlobal("C#LC_ThalchessPlayElse","LOCALS",1)~ + chess_else
 ++ @374 + chess_goodbye
@@ -580,7 +580,7 @@ IF ~~ THEN game_over_01
 SAY @375
 + ~!Dead("Noober") !Allegiance("Noober",ENEMY) Global("C#LC_ThalchessNoober","GLOBAL",1)~ + @369 DO ~SetGlobal("C#LC_ThalchessNoober","GLOBAL",2)~ + thalan_noober
 + ~!Dead("Ragefast") Global("C#LC_ThalchessRagefast","LOCALS",0)~ + @376 DO ~SetGlobal("C#LC_ThalchessRagefast","LOCALS",1)~ + thalan_ragefast
-+ ~!Dead("Melicamp") Global("C#LC_ThalchessMelicamp","LOCALS",0)~ + @371 DO ~SetGlobal("C#LC_ThalchessMelicamp","LOCALS",1)~ + chess_melicamp
++ ~!Dead("Melicamp") InMyArea("Melicamp") Global("C#LC_ThalchessMelicamp","LOCALS",0)~ + @371 DO ~SetGlobal("C#LC_ThalchessMelicamp","LOCALS",1)~ + chess_melicamp
 + ~Global("C#LC_ThalchessRevenge","LOCALS",0)~ + @372 DO ~SetGlobal("C#LC_ThalchessRevenge","LOCALS",1)~ + chess_revenge
 + ~Global("C#LC_ThalchessPlayElse","LOCALS",0)~ + @373 DO ~SetGlobal("C#LC_ThalchessPlayElse","LOCALS",1)~ + chess_else
 ++ @377 + chess_goodbye
@@ -805,8 +805,8 @@ END //APPEND
 CHAIN
 IF ~~ THEN %tutu_var%THALAN talk_05
 @32
-== %tutu_var%THALAN IF ~!Dead("Melicamp")~ THEN @33
-== %tutu_var%THALAN IF ~Dead("Melicamp")~ THEN @34
+== %tutu_var%THALAN IF ~!Dead("Melicamp") InMyArea("Melicamp")~ THEN @33
+== %tutu_var%THALAN IF ~OR(2) Dead("Melicamp") !InMyArea("Melicamp")~ THEN @34
 END
 IF ~~ THEN + talk_08
 
