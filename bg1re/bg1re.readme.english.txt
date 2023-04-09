@@ -1282,6 +1282,8 @@ EndlessBG1 - Transitions - bg1re
 VIII. Known Issues
 ----------------
 
+-Dinner with Thalantyr: the White Knight Errand stays in the inventory although Thalantyr should have taken it.
+
 -Items in bags might not be recognized by quest NPCs. Take items out of bags / inventory containers before talking to quest NPCs. This happened for some letters of "Camryn and Tamah" and is an engine issue. The letters were recognized after opening the bag once before reinitiating dialogue with Tamah.
 
 -classic BG1(TotSC): the cutscene in AR0200 does not blacken the area graphics. This seems to be a glitch of the area.
@@ -1321,8 +1323,9 @@ Greenhorn: beta tester
 jastey: mod maintenance, contributor, coder, alpha tester, beta tester
 justthisguyrevamp: beta tester
 Kulyok: contributor, coder, alpha tester, beta tester
-Lava Del'Vortel: contributor, coder, alpha tester, area edits, BAM artist
 LastnightLeft: contributor
+Lauriel: contributor
+Lava Del'Vortel: contributor, coder, alpha tester, area edits, BAM artist
 Lingz: beta tester
 Miloch: area edits
 mimikoi: beta tester 
@@ -1377,6 +1380,7 @@ XII. History
 ----------------
 
 Version 9.1:
+-added reply options to Duke Eltan to be able to tell him of progress with regard to saving the other dukes (from Lauriel) (Duke Eltan's Spare Minute)
 -Ioun Stone from Thalantyr should not be tagged as critical item.
 -Added checks whether Melicamp is in the area (Dinner with Thalantyr).
 -fixed EraseJournalEntry references.

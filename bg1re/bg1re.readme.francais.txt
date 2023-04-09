@@ -1322,8 +1322,9 @@ Greenhorn: beta tester
 jastey: mod maintenance, contributor, coder, alpha tester, beta tester
 justthisguyrevamp: beta tester
 Kulyok: contributor, coder, alpha tester, beta tester
-Lava Del'Vortel: contributor, coder, alpha tester, area edits, BAM artist
 LastnightLeft: contributor
+Lauriel: contributor
+Lava Del'Vortel: contributor, coder, alpha tester, area edits, BAM artist
 Lingz: beta tester
 Miloch: area edits
 mimikoi: beta tester 
@@ -1378,6 +1379,7 @@ XII. History
 ----------------
 
 Version 9.1:
+-added reply options to Duke Eltan to be able to tell him of progress with regard to saving the other dukes (from Lauriel) (Duke Eltan's Spare Minute)
 -Ioun Stone from Thalantyr should not be tagged as critical item.
 -Added checks whether Melicamp is in the area (Dinner with Thalantyr).
 -fixed EraseJournalEntry references.
