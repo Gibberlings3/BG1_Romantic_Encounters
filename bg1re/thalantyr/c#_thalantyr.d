@@ -305,9 +305,9 @@ END
 
 IF ~~ THEN thalan_chess_08
 SAY @323
-IF ~~ THEN DO ~GiveGoldForce(500) 
-ActionOverride("Thalantyr",TakePartyItem("c#lcthke"))
+IF ~~ THEN DO ~ActionOverride("Thalantyr",TakePartyItem("c#lcthke"))
 ActionOverride("Thalantyr",DestroyItem("c#lcthke"))
+GiveGoldForce(500)
 SetGlobal("C#LC_ThalantyrAsked","GLOBAL",12) %ERASEJOURNALENTRY_307%
 %ERASEJOURNALENTRY_283%~ %SOLVED_JOURNAL% @324 EXIT
 END
