@@ -4,6 +4,13 @@
 /* all letters have been delivered - set short timer */
 IF 
   Global("RE1_RainSnow","GLOBAL",9)
+  !PartyHasItem("T1M2LET1")
+  !PartyHasItem("T1M2LET2")
+  !PartyHasItem("T1M2LET3")
+  !PartyHasItem("T1M2LET4")
+  !PartyHasItem("T1M2LET5")
+  !PartyHasItem("T1M2LET6")
+  !PartyHasItem("T1M2LET7")
 THEN
   RESPONSE #100
 	SetGlobal("RE1_RainSnow","GLOBAL",10)
