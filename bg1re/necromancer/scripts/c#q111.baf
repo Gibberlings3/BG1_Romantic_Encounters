@@ -24,16 +24,16 @@ THEN
 	SetGlobal("C#Q11_Necroquest","GLOBAL",12)
 END
 
-IF %BGT_VAR%
-	Exists("C#Q11cat")
+IF 
+	InMyArea("C#Q11cat")
 	Global("C#Q11_Necroquest","GLOBAL",8)
 THEN
   RESPONSE #100
 	ActionOverride("C#Q11cat",DestroySelf())
 END
 
-IF %BGT_VAR%
-	Exists("C#Q11cat")
+IF 
+	InMyArea("C#Q11cat")
 	Global("C#Q11_Necroquest","GLOBAL",9)
 THEN
   RESPONSE #100

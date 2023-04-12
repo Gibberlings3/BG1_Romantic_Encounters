@@ -1022,7 +1022,8 @@ IF ~StateCheck(Myself,STATE_CHARMED)~ THEN BEGIN trevor_charmed
   IF ~~ THEN EXIT
 END
 
-IF ~True()~ THEN BEGIN trevor
+
+IF ~AreaCheck("%SWBaldursGate_FlamingFistHQ_L1%")~ THEN BEGIN trevor
   SAY  @270 
 
 + ~Global("C#Q11_SearchBlood","GLOBAL",5)~ + @271 + report_necro
