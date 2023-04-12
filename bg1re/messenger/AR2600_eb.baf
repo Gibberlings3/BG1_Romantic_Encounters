@@ -1,0 +1,12 @@
+/* Workaround in case the automated savegame is used */
+IF 
+  Global("T1SapiCreation","GLOBAL",1)
+  Global("Chapter","GLOBAL",%tutu_prologue_reset%)
+  Global("RE1_Messenger","GLOBAL",0)
+  !InMyArea("T1SAPI")
+  Global("RE1_RespawnT1SAPI","GLOBAL",0)
+THEN
+  RESPONSE #100
+	CreateCreature("T1SAPI",[4116.578]%FACE_3%)
+	SetGlobal("RE1_RespawnT1SAPI","GLOBAL",1)
+END

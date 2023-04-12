@@ -1,0 +1,10 @@
+/* Workaround in case the automated savegame is used */
+IF
+Global("RE1_AlecCandlekeep","GLOBAL",1)
+!InMyArea("RE1Alec")
+Global("RE1_RespawnAlec","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("RE1Alec",[1234.547],5)
+SetGlobal("RE1_RespawnAlec","GLOBAL",1)
+END
