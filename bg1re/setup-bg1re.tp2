@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~9.1~
+VERSION ~10.0~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -2568,9 +2568,11 @@ END
 ACTION_IF GAME_IS ~bgt eet~ THEN BEGIN
 EXTEND_TOP ~%Candlekeep%.bcs~ ~bg1re/messenger/T1SapiAR2600.baf~ 
       EVALUATE_BUFFER 
+EXTEND_BOTTOM ~%Candlekeep%.bcs~ ~bg1re/messenger/AR2600_eb.baf~ EVALUATE_BUFFER 
 END ELSE BEGIN //Tutu, BG:EE and BG
 EXTEND_TOP ~%tutu_var%ar2600.bcs~ ~bg1re/messenger/T1SapiAR2600.baf~ 
       EVALUATE_BUFFER 
+EXTEND_BOTTOM ~%Candlekeep%.bcs~ ~bg1re/messenger/AR2600_eb.baf~ EVALUATE_BUFFER 
 END 
 
 // Sapientia in Return to Candlekeep: The Sequel
@@ -3761,10 +3763,12 @@ COMPILE EVALUATE_BUFFER ~bg1re/alec/RE1Alec.d~
 
 ACTION_IF GAME_IS ~bgt eet~ THEN BEGIN
 EXTEND_TOP ~%Candlekeep%.bcs~ ~bg1re/alec/AR2600.baf~ EVALUATE_BUFFER 
+EXTEND_BOTTOM ~%Candlekeep%.bcs~ ~bg1re/alec/AR2600_eb.baf~ EVALUATE_BUFFER 
 EXTEND_TOP ~%Candlekeep_Ch6%.bcs~ ~bg1re/alec/AR2626.baf~ EVALUATE_BUFFER 
 EXTEND_TOP ~%Candlekeep_Ch6_Inn_L1%.bcs~ ~bg1re/alec/AR2629.baf~ EVALUATE_BUFFER 
 END ELSE BEGIN //Tutu, BG:EE and BG
-EXTEND_TOP ~%tutu_var%ar2600.bcs~ ~bg1re/alec/AR2600.baf~ EVALUATE_BUFFER 
+EXTEND_TOP ~%tutu_var%ar2600.bcs~ ~bg1re/alec/AR2600.baf~ EVALUATE_BUFFER
+EXTEND_BOTTOM ~%Candlekeep%.bcs~ ~bg1re/alec/AR2600_eb.baf~ EVALUATE_BUFFER  
 EXTEND_TOP ~%tutu_var%ar2626.bcs~ ~bg1re/alec/AR2626.baf~ EVALUATE_BUFFER 
 EXTEND_TOP ~%tutu_var%ar2629.bcs~ ~bg1re/alec/AR2629.baf~ EVALUATE_BUFFER 
 END 
