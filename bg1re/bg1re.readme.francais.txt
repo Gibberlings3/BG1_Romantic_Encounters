@@ -1378,16 +1378,20 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
-Version 9.1:
--added reply options to Duke Eltan to be able to tell him of progress with regard to saving the other dukes (from Lauriel) (Duke Eltan's Spare Minute)
--Ioun Stone from Thalantyr should not be tagged as critical item.
+Version 10.0:
+-Added reply options to Duke Eltan to be able to tell him of progress with regard to saving the other dukes (from Lauriel) (Duke Eltan's Spare Minute)
+-Ioun Stone from Thalantyr should not be tagged as critical item (Dinner with Thalantyr).
+-Quest should not close before all letters are delivered (dirty fix by checking whether letters are still in inventory if variable indicates quest end - should not set before but it somehow did for one player); Skie and Garrick will react to their letters if placed in their inventory.) (Messenger 2)
+-Tagged book case as a critical item so it will remain with group (Camryn and Tamah).
+-Script checks for Player1 in the area so encounters will not happen one after the other if group is scattered between floors (Interruptions).
 -Added checks whether Melicamp is in the area (Dinner with Thalantyr).
--fixed EraseJournalEntry references.
--Added clsoing variable for quest (The Honest Lies of Two Riversides).
--missed lines from tp2 traified.
--removed reference to nonexistent scriptname (Necromancer's Trouble).
--corrected reference to letters (Camryn and Tamah).
--typo correction.
+-Added fail save hack for spawned quest cres in Candlekeep main area (prologue) in case players load the automated prologue save (Messenger 2, A Childhood Friend).
+-Added closing variable for quest for crossmod (The Honest Lies of Two Riversides).
+-Removed reference to nonexistent scriptname (Necromancer's Trouble).
+-Corrected reference to letters (Camryn and Tamah).
+-Missed lines from tp2 traified.
+-Fixed EraseJournalEntry references.
+-Typo correction.
 
 Version 9.0:
 -French version completed, by les d'Oghmatiques (Le Marquis, Galathée, Lothringen, Shaywen, Zooloo) and Jazira ; proofreading par Graoumf.
