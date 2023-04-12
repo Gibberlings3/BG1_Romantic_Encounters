@@ -651,10 +651,11 @@ END
 
 
 
-
+/* deactivated - it's confusing if she waits that long
 // If Skie joins, add a timer to trigger her In Party talks.  (Same as Garrick's, because there are low odds of collision etc. etc.)
 
 ADD_TRANS_ACTION ~%tutu_var%SKIE~ BEGIN 7 END BEGIN 0 END ~SetGlobalTimer("T1M2LetterTimer","GLOBAL",THREE_DAYS)~
+*/
 
 // Skie in Party,  Activated From Script
 
