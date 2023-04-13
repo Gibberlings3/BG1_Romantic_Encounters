@@ -71,7 +71,6 @@ END
 
 IF
 	!Exists("c#q11be1")
-	!Exists("c#q11be2")
 	GlobalGT("C#Q11_SearchBlood","GLOBAL",8) 
 	GlobalLT("C#Q11_SearchBlood","GLOBAL",12)	
 	See([PC])

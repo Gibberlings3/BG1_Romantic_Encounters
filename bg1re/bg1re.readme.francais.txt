@@ -7,7 +7,7 @@
 Contenu
 
 I.    Introduction
-II.   Informations générales
+II.   Informations gÃ©nÃ©rales
 	1.  Classification 
 	2.  Types de composants
 	3.  Style des descriptions
@@ -16,138 +16,138 @@ III.  Description des composants
      	1.  Le briefing de Bardolan, par berelinde (contenu adulte / version adolescente)
      	2.  Du temps libre pour La Balafre, par jastey (contenu adulte / version adolescente)
      	3.  L'obsession de Kim, par jastey (contenu adulte / version adolescente - AVERTISSEMENT - voir ci-dessous)
-     	4.  Extension de la rencontre avec Bjornin (traitement médical personnalisé), par jastey
-     	5.  Plus d'amidon dans mon mât, par jastey
+     	4.  Extension de la rencontre avec Bjornin (traitement mÃ©dical personnalisÃ©), par jastey
+     	5.  Plus d'amidon dans mon mÃ¢t, par jastey
      	6.  Une minute pour le duc Eltan, par jastey
-     	7.  L'entrainement très spécial de Husam, par jastey (contenu adulte / version adolescente)
-     	8.  Laurel, après la chasse, par jastey
-     	9.  La séduction de Bartus, par jastey
+     	7.  L'entrainement trÃ¨s spÃ©cial de Husam, par jastey (contenu adulte / version adolescente)
+     	8.  Laurel, aprÃ¨s la chasse, par jastey
+     	9.  La sÃ©duction de Bartus, par jastey
      	10. Le massage de Lina, par jastey (contenu adulte / version adolescente)
-     	11. Première nuit avec Quentin, par Kulyok (contenu adulte / version adolescente)
+     	11. PremiÃ¨re nuit avec Quentin, par Kulyok (contenu adulte / version adolescente)
      	12. Les jeux de Niklos, par Kulyok (contenu adulte)
      	13. Slythe et Krystin, par Kulyok (contenu adulte)
      	14. Sans regret, par Anonyme
      	15. Amour payant, par Thimblerig
      	16. Hull : le sens du devoir, par Lava Del'Vortel
-     	17. Fin de soirée avec Jaheira, par Kulyok
-     	18. La bénédiction de Sil, par Lava Del'Vortel
-     	19. Melicamp : le garçon volaille, par Lava Del'Vortel
+     	17. Fin de soirÃ©e avec Jaheira, par Kulyok
+     	18. La bÃ©nÃ©diction de Sil, par Lava Del'Vortel
+     	19. Melicamp : le garÃ§on volaille, par Lava Del'Vortel
      	20. Une lecture avec Rinnie, par Western Paladin
      	21. Molly cherche un mari, par Kulyok
-     	22. Le deuil de Centeol, la dame araignée, par Lava Del'Vortel
+     	22. Le deuil de Centeol, la dame araignÃ©e, par Lava Del'Vortel
      	23. L'essentiel, par Lava Del'Vortel
      	24. Le repaire du Moissonneur, par Lava Del'Vortel
      	25. Le grand Zudini, par Kulyok
      	26. Le messager, par Thimblerig
-     	27. Ender Sai : la récompense du héros, par Thimblerig
+     	27. Ender Sai : la rÃ©compense du hÃ©ros, par Thimblerig
      	28. Les romanciers, par Thimblerig
-     	29. Les honnêtes mensonges des Deux Rives, par Lava Del'Vortel
-     	30. Le dilemme d'un nécromancien, par jastey
+     	29. Les honnÃªtes mensonges des Deux Rives, par Lava Del'Vortel
+     	30. Le dilemme d'un nÃ©cromancien, par jastey
      	31. Un diner avec Thalantyr, par jastey
-     	32. Ceinture de changement de sexe et réactions, par Thimblerig, Kulyok, Domi, Lava, Lastknightleft, 
+     	32. Ceinture de changement de sexe et rÃ©actions, par Thimblerig, Kulyok, Domi, Lava, Lastknightleft, 
 					   Twani, Jastey et Daisy Ninja Girl
-     	33. Le rêve du guérisseur, par Kulyok
-     	34. Ce qu'était Gauche, par Lava Del'Vortel et Thimblerig
+     	33. Le rÃªve du guÃ©risseur, par Kulyok
+     	34. Ce qu'Ã©tait Gauche, par Lava Del'Vortel et Thimblerig
      	35. Un ami d'enfance, par Kulyok 
      	36. Arlene la travailleuse, par Kulyok
      	37. Della May de Thay, par Kulyok
-     	38. Un garde dépravé à Château-Suif, par Kulyok (contenu adulte - AVERTISSEMENT - voir ci-dessous)
+     	38. Un garde dÃ©pravÃ© Ã  ChÃ¢teau-Suif, par Kulyok (contenu adulte - AVERTISSEMENT - voir ci-dessous)
      	39. La flamme du phoenix, par Kulyok (contenu adulte)
      	40. Mikala la moniale, par Twani
 	41. Le messager 2 : pluie, neige et noirceur de la nuit, par Thimblerig et tibicina
      	42. Camryn et Tamah, par tibicina
-	43. Petites indiscrétions, par jastey
+	43. Petites indiscrÃ©tions, par jastey
 	44. Les amoureux de Bois-Manteau, par tibicina
-	Quête bonus : La Balafre - le retour, par jastey 
-IV.   Liste des rencontres " sérieuses" et des quêtes
-V.   Liste des rencontres, triées par lieu 
+	QuÃªte bonus : La Balafre - le retour, par jastey 
+IV.   Liste des rencontres " sÃ©rieuses" et des quÃªtes
+V.   Liste des rencontres, triÃ©es par lieu 
 VI.    Installation
-VII.   Compatibilité
-VIII.  Problèmes connus
+VII.   CompatibilitÃ©
+VIII.  ProblÃ¨mes connus
 IX. Crossmodding
-X.   Crédits
-XI.    Outils utilisés
+X.   CrÃ©dits
+XI.    Outils utilisÃ©s
 XII.   Historique
-XIII.  Informations légales
+XIII.  Informations lÃ©gales
 
 ----------------
 I. Introduction
 ----------------
 
-Baldur's Gate Romantic Encounters Modification (BG1RE) est un mod pour les versions BG1:TotSC classique, BG1Tutu v4, EasyTutu, BGT et BG:EE ; il ajoute plusieurs rencontres et quêtes dans le jeu. 
+Baldur's Gate Romantic Encounters Modification (BG1RE) est un mod pour les versions BG1:TotSC classique, BG1Tutu v4, EasyTutu, BGT et BG:EE ; il ajoute plusieurs rencontres et quÃªtes dans le jeu. 
 
-Les composants de BG1RE n'ont pas tous pour but de coucher avec quelqu'un. BG1RE ajoute à BG1 des rencontres romantiques, des dialogues intenses, des dîners privés inattendus, des témoignages romantiques d'un lointain passé et des quêtes tournant autour du véritable amour, concrétisé ou déçu. 
-Evidemment, certains composants proposent au PJ des coucheries faciles, avec des personnes qui se feront payer ou des étranger(e)s consentant(e)s. Pour certaines rencontres, le PJ devra réfléchir à deux fois car il risque de se retrouver bouleversé s'il n'arrête pas la "romance" à temps.
+Les composants de BG1RE n'ont pas tous pour but de coucher avec quelqu'un. BG1RE ajoute Ã  BG1 des rencontres romantiques, des dialogues intenses, des dÃ®ners privÃ©s inattendus, des tÃ©moignages romantiques d'un lointain passÃ© et des quÃªtes tournant autour du vÃ©ritable amour, concrÃ©tisÃ© ou dÃ©Ã§u. 
+Evidemment, certains composants proposent au PJ des coucheries faciles, avec des personnes qui se feront payer ou des Ã©tranger(e)s consentant(e)s. Pour certaines rencontres, le PJ devra rÃ©flÃ©chir Ã  deux fois car il risque de se retrouver bouleversÃ© s'il n'arrÃªte pas la "romance" Ã  temps.
 
 Remarque : l'"Extension de la rencontre avec Bjornin" autrefois incluse dans le mod Baldur's Gate Mini Quests and Encounters Modification (BGQE) fait maintenant partie de ce mod, avec quelques petits ajouts.
 
-Ce mod est un travail collégial qui regroupe de nombreux composants de différents auteurs. Merci à tous les contributeurs d'avoir rendu ce mod possible !
+Ce mod est un travail collÃ©gial qui regroupe de nombreux composants de diffÃ©rents auteurs. Merci Ã  tous les contributeurs d'avoir rendu ce mod possible !
 
 ----------------
-II. Informations générales
+II. Informations gÃ©nÃ©rales
 ----------------
 
 1.  Classification
 -----------------
 Il y a en premier lieu deux types de classification pour les contenus des composants de ce mod : "adolescent" et "adulte". 
 
-En second lieu, on différencie les composants accompagnés d'un "avertissement" par rapport aux autres.
+En second lieu, on diffÃ©rencie les composants accompagnÃ©s d'un "avertissement" par rapport aux autres.
 
-Dans ce mod, contenu "adolescent" signifie qu'il n'y a ni description ni mention de contenu sexuellement explicite. Le contenu du composant peut inclure des préludes (non explicites) et des discussions "après coup", mais le contenu sexuellement explicite n'est pas affiché et est remplacé par un fondu au noir.
+Dans ce mod, contenu "adolescent" signifie qu'il n'y a ni description ni mention de contenu sexuellement explicite. Le contenu du composant peut inclure des prÃ©ludes (non explicites) et des discussions "aprÃ¨s coup", mais le contenu sexuellement explicite n'est pas affichÃ© et est remplacÃ© par un fondu au noir.
 
-Contenu adulte : le composant contient des descriptions explicites d'actes intimes (sans toutefois aller jusqu'à la pornographie), soit sous forme de description, soit sous forme de dialogue entre personnages (qui peut inclure des descriptions de fantasmes sexuels). 
+Contenu adulte : le composant contient des descriptions explicites d'actes intimes (sans toutefois aller jusqu'Ã  la pornographie), soit sous forme de description, soit sous forme de dialogue entre personnages (qui peut inclure des descriptions de fantasmes sexuels). 
 
-Certains composants possèdent un "avertissement" : ils présentent un contenu incluant des actes intimes dans une atmosphère menaçante, des discussions au sujet de problèmes de consentement, des tentatives de rapports sexuels forcés ou d'autres thèmes que certains joueurs pourraient trouver choquants. Ces composants sont donc accompagnés d'un avertissement au moment de l'installation, et il est possible de ne pas les installer.
+Certains composants possÃ¨dent un "avertissement" : ils prÃ©sentent un contenu incluant des actes intimes dans une atmosphÃ¨re menaÃ§ante, des discussions au sujet de problÃ¨mes de consentement, des tentatives de rapports sexuels forcÃ©s ou d'autres thÃ¨mes que certains joueurs pourraient trouver choquants. Ces composants sont donc accompagnÃ©s d'un avertissement au moment de l'installation, et il est possible de ne pas les installer.
 
 
 2.  Types de composants
 -----------------
-Les composants sont classés par "types" pour donner au joueur une idée de ce qu'ils contiennent.
+Les composants sont classÃ©s par "types" pour donner au joueur une idÃ©e de ce qu'ils contiennent.
 
 Ces types sont :
 
-  1. Rencontre. Il peut s'agir d'un nouveau personnage, ou de l'extension d'un personnage déjà présent dans le jeu. Il n'y a que des dialogues, et pas de nouvelle quête. Tous les composants donnant au PJ la possibilité d'avoir des relations intimes sont étiquetés "Rencontre".
+  1. Rencontre. Il peut s'agir d'un nouveau personnage, ou de l'extension d'un personnage dÃ©jÃ  prÃ©sent dans le jeu. Il n'y a que des dialogues, et pas de nouvelle quÃªte. Tous les composants donnant au PJ la possibilitÃ© d'avoir des relations intimes sont Ã©tiquetÃ©s "Rencontre".
 
-  2. Quête. Ces composants demandent au joueur de résoudre un problème ou, à minima, de réaliser une mission de type "fedEx". Ces composants ne donnent pas l'occasion au personnage principal de pratiquer des actes sexuels.
+  2. QuÃªte. Ces composants demandent au joueur de rÃ©soudre un problÃ¨me ou, Ã  minima, de rÃ©aliser une mission de type "fedEx". Ces composants ne donnent pas l'occasion au personnage principal de pratiquer des actes sexuels.
 
-  3. Dialogue. Ces composants développent les dialogues d'un personnage déjà présent dans le jeu ou créent une rencontre avec un nouveau personnage, mais il ne se passe rien de plus que des discussions.
+  3. Dialogue. Ces composants dÃ©veloppent les dialogues d'un personnage dÃ©jÃ  prÃ©sent dans le jeu ou crÃ©ent une rencontre avec un nouveau personnage, mais il ne se passe rien de plus que des discussions.
 
-  4. Options de réponse. Ces composants rajoutent des options de réponses possibles aux dialogues, mais pas nécessairement de nouvelles réactions aux personnages en question.
+  4. Options de rÃ©ponse. Ces composants rajoutent des options de rÃ©ponses possibles aux dialogues, mais pas nÃ©cessairement de nouvelles rÃ©actions aux personnages en question.
 
 
 3.  Style des descriptions
 -----------------
-Le mod propose le choix entre une version descriptive des textes et une version non-descriptive. Si vous choisissez d'installer la "version descriptive", les composants qui contiennent des textes explicites afficheront ces textes. Dans ce cas les textes comportent évidemment du contenu adulte. 
+Le mod propose le choix entre une version descriptive des textes et une version non-descriptive. Si vous choisissez d'installer la "version descriptive", les composants qui contiennent des textes explicites afficheront ces textes. Dans ce cas les textes comportent Ã©videmment du contenu adulte. 
 
-La version non-descriptive est appelée "style-BG". Elle contient aussi peu de contenu explicite que possible, ce qui à mon avis correspond assez bien au style du jeu Baldur's Gate original. Au lieu d'une description textuelle, ce style propose plutôt un contenu basé sur des dialogues. Certains composants contiennent un grand nombre de descriptions textuelles et seront donc raccourcis dans cette version. Cette version comporte du contenu adulte. 
+La version non-descriptive est appelÃ©e "style-BG". Elle contient aussi peu de contenu explicite que possible, ce qui Ã  mon avis correspond assez bien au style du jeu Baldur's Gate original. Au lieu d'une description textuelle, ce style propose plutÃ´t un contenu basÃ© sur des dialogues. Certains composants contiennent un grand nombre de descriptions textuelles et seront donc raccourcis dans cette version. Cette version comporte du contenu adulte. 
 
 
 ----------------
 III. Description des composants
 ----------------
 
-Le mod est constitué d'un certain nombre de composants optionnels.
+Le mod est constituÃ© d'un certain nombre de composants optionnels.
 
-N'hésitez pas à utiliser toutes les variables ci-dessous pour les réactions de vos propres PNJs. Lire la section "Crossmodding" pour les consignes liées à l'utilisation de ces variables !
+N'hÃ©sitez pas Ã  utiliser toutes les variables ci-dessous pour les rÃ©actions de vos propres PNJs. Lire la section "Crossmodding" pour les consignes liÃ©es Ã  l'utilisation de ces variables !
 
 
-0.  Composant principal : ~Quantité de... détails, version descriptive ou version "style BG"~ (obligatoire)
+0.  Composant principal : ~QuantitÃ© de... dÃ©tails, version descriptive ou version "style BG"~ (obligatoire)
 ------------------------------------------------------------------
-Ce mod propose différents choix d'installation en fonction de la classification et du style des descriptions. Ce composant est obligatoire.
+Ce mod propose diffÃ©rents choix d'installation en fonction de la classification et du style des descriptions. Ce composant est obligatoire.
 
-Les choix d'installation distinguent les contenus adolescents des contenus adultes, ainsi que les composants avec ou sans avertissement. Ces derniers sont accompagnés de la mention AVERTISSEMENT. Merci de lire attentivement la description des composants (plus loin dans ce fichier) avant de choisir ceux que vous allez installer.
+Les choix d'installation distinguent les contenus adolescents des contenus adultes, ainsi que les composants avec ou sans avertissement. Ces derniers sont accompagnÃ©s de la mention AVERTISSEMENT. Merci de lire attentivement la description des composants (plus loin dans ce fichier) avant de choisir ceux que vous allez installer.
 
-Pendant l'installation, vous avez le choix de la classification et du caractère descriptif de chaque composant :
+Pendant l'installation, vous avez le choix de la classification et du caractÃ¨re descriptif de chaque composant :
 
-- "Version adolescent" : installe automatiquement les versions adolescentes de tous les composants qui proposent du contenu adulte ; une partie du contenu de certaines rencontres ne sera donc pas installée. Certaines rencontres qui ne proposent que du contenu adulte ne seront pas installées.
+- "Version adolescent" : installe automatiquement les versions adolescentes de tous les composants qui proposent du contenu adulte ; une partie du contenu de certaines rencontres ne sera donc pas installÃ©e. Certaines rencontres qui ne proposent que du contenu adulte ne seront pas installÃ©es.
 
-- "Style-BG" : ces composants comportent du contenu adulte. Les descriptions textuelles ne sont pas installées et sont remplacées par des "options de dialogue". Si vous choisissez ce type d'installation, tous les composants peuvent être installés.
+- "Style-BG" : ces composants comportent du contenu adulte. Les descriptions textuelles ne sont pas installÃ©es et sont remplacÃ©es par des "options de dialogue". Si vous choisissez ce type d'installation, tous les composants peuvent Ãªtre installÃ©s.
 
-- "Version descriptive" : les descriptions textuelles (des rencontres qui en proposent) seront installées. Elles comportent évidemment du contenu adulte. Si vous choisissez ce type d'installation, tous les composants peuvent être installés.
+- "Version descriptive" : les descriptions textuelles (des rencontres qui en proposent) seront installÃ©es. Elles comportent Ã©videmment du contenu adulte. Si vous choisissez ce type d'installation, tous les composants peuvent Ãªtre installÃ©s.
 
-Ces trois choix se combinent avec les deux possibilités suivantes :
+Ces trois choix se combinent avec les deux possibilitÃ©s suivantes :
 
-- Sauter les composants avec avertissement : les composants comportant un avertissement ne seront pas du tout affichés.
+- Sauter les composants avec avertissement : les composants comportant un avertissement ne seront pas du tout affichÃ©s.
 
 - Afficher/installer tous les composants.
 
@@ -156,13 +156,13 @@ Ces trois choix se combinent avec les deux possibilités suivantes :
 ------------------------------------------------------------------
 
 Type : Rencontre (extension d'un personnage du jeu original)
-Lieu : Nashkel. Démarre à la première rencontre, et pas de limite de temps pour les étapes suivantes.
+Lieu : Nashkel. DÃ©marre Ã  la premiÃ¨re rencontre, et pas de limite de temps pour les Ã©tapes suivantes.
 Classification : contenu adulte, version adolescente disponible (des paroles un peu suggestives, mais pas de contenu ou de descriptions explicites) 
 Restrictions au niveau du personnage principal : aucune
 Variables : Global("RE1_BardolanFlirt","GLOBAL",1) si vous acceptez d'accompagner Bardolan dans ses appartements
 Global("RE1_BardolanSex","GLOBAL",1) : si la situation devient plus intime.
 
-Bardolan est le commandant amnien qui accueille le personnage principal lors de sa première visite à Nashkel. En plein dans l'affaire du capitaine Brage, toutes les responsabilités sont maintenant sur les épaules de Bardolan. Il est donc très anxieux et stressé. Le personnage principal peut l'aider à se détendre, et pourquoi pas de manière très... privée. Quoi qu'il en soit, Bardolan vous remerciera si vous lui accordez un moment de répit dans son travail.
+Bardolan est le commandant amnien qui accueille le personnage principal lors de sa premiÃ¨re visite Ã  Nashkel. En plein dans l'affaire du capitaine Brage, toutes les responsabilitÃ©s sont maintenant sur les Ã©paules de Bardolan. Il est donc trÃ¨s anxieux et stressÃ©. Le personnage principal peut l'aider Ã  se dÃ©tendre, et pourquoi pas de maniÃ¨re trÃ¨s... privÃ©e. Quoi qu'il en soit, Bardolan vous remerciera si vous lui accordez un moment de rÃ©pit dans son travail.
 
 
 
@@ -170,122 +170,122 @@ Bardolan est le commandant amnien qui accueille le personnage principal lors de 
 ------------------------------------------------------------------
 
 Type: Rencontre (extension d'un personnage du jeu original)
-Lieu : Porte de Baldur. Ce composant ajoute plusieurs possibilités de discussion avec La Balafre à plusieurs étapes des quêtes qui le concernent. La rencontre se déclenche dès que La Balafre indique "J'ai enfin quelque chose qu'on peut vraiment appeler du "temps libre", et c'est franchement rare".
+Lieu : Porte de Baldur. Ce composant ajoute plusieurs possibilitÃ©s de discussion avec La Balafre Ã  plusieurs Ã©tapes des quÃªtes qui le concernent. La rencontre se dÃ©clenche dÃ¨s que La Balafre indique "J'ai enfin quelque chose qu'on peut vraiment appeler du "temps libre", et c'est franchement rare".
 Classification : contenu adulte, version adolescente disponible (des paroles un peu suggestives, mais pas de contenu ou de descriptions explicites) 
-Restrictions au niveau du personnage principal : le personnage principal ne doit pas être d'alignement mauvais, la réputation doit être supérieure à 11 pour qu'il accepte de vous parler, la réputation doit être supérieure à 15 pour qu'il vous amène dans ses appartements ; une situation intime ne se déclenchera que pour un personnage principal féminin.
+Restrictions au niveau du personnage principal : le personnage principal ne doit pas Ãªtre d'alignement mauvais, la rÃ©putation doit Ãªtre supÃ©rieure Ã  11 pour qu'il accepte de vous parler, la rÃ©putation doit Ãªtre supÃ©rieure Ã  15 pour qu'il vous amÃ¨ne dans ses appartements ; une situation intime ne se dÃ©clenchera que pour un personnage principal fÃ©minin.
 Variables : Global("RE1_ScarFlirt","GLOBAL",1) si vous le suivez dans ses appartements.
 Global("RE1_ScarSex","GLOBAL",1) si le personnage principal accepte un rapport sexuel.
 
-Tout personnage principal peut maintenant avoir une discussion privée avec La Balafre et l'aider à se détendre un peu après son travail stressant. Un personnage principal féminin pourra aussi montrer à cet humble célibataire qu'il est encore sacrément séduisant. Quoi qu'il arrive, ne vous attendez pas à une relation à long terme avec un commandant en second du Poing Enflammé surchargé de travail.
+Tout personnage principal peut maintenant avoir une discussion privÃ©e avec La Balafre et l'aider Ã  se dÃ©tendre un peu aprÃ¨s son travail stressant. Un personnage principal fÃ©minin pourra aussi montrer Ã  cet humble cÃ©libataire qu'il est encore sacrÃ©ment sÃ©duisant. Quoi qu'il arrive, ne vous attendez pas Ã  une relation Ã  long terme avec un commandant en second du Poing EnflammÃ© surchargÃ© de travail.
 
-Note : pour pouvoir jouer la quête bonus "La Balafre - le retour", le personnage principal doit au minimum avoir suivi La Balafre dans ses appartements, même s'il ne s'est rien passé de plus.
+Note : pour pouvoir jouer la quÃªte bonus "La Balafre - le retour", le personnage principal doit au minimum avoir suivi La Balafre dans ses appartements, mÃªme s'il ne s'est rien passÃ© de plus.
 
 
 
 3.  L'obsession de Kim, par jastey (contenu adulte / version adolescente - AVERTISSEMENT)
 ------------------------------------------------------------------
 
-Avertissement : cette rencontre octroie au personnage principal le choix de satisfaire ou non les besoins sexuels d'une personne sans défense. Bien qu'il n'y ait aucune violence physique, le contenu de cette rencontre pourrait choquer certains joueurs.
+Avertissement : cette rencontre octroie au personnage principal le choix de satisfaire ou non les besoins sexuels d'une personne sans dÃ©fense. Bien qu'il n'y ait aucune violence physique, le contenu de cette rencontre pourrait choquer certains joueurs.
 
-Type : rencontre (personnage adapté)
-Lieu : Château-Suif, chapitre 6.
-Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
-Restrictions au niveau du personnage principal : aucune (le genre de Kim sera différent de celui du personnage principal)
+Type : rencontre (personnage adaptÃ©)
+Lieu : ChÃ¢teau-Suif, chapitre 6.
+Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
+Restrictions au niveau du personnage principal : aucune (le genre de Kim sera diffÃ©rent de celui du personnage principal)
 Variables : Global("RE1_KimFlirt","GLOBAL",1) si la situation devient intime.
 Global("RE1_KimSex","GLOBAL",1) si le personnage principal donne... un coup de main.
 
-Kim a eu un grave accident. Et parfois les os ne guérissent pas aussi bien qu'ils le devraient. C'est pour cela que Kim n'a pu utiliser ses bras depuis bien longtemps et qu'il risque encore d'attendre plusieurs semaines... Et dans son état, certaines... pensées deviennent bien plus pressantes qu'elles ne le seraient en temps normal.
+Kim a eu un grave accident. Et parfois les os ne guÃ©rissent pas aussi bien qu'ils le devraient. C'est pour cela que Kim n'a pu utiliser ses bras depuis bien longtemps et qu'il risque encore d'attendre plusieurs semaines... Et dans son Ã©tat, certaines... pensÃ©es deviennent bien plus pressantes qu'elles ne le seraient en temps normal.
 
 
 
-4.  Extension de la rencontre avec Bjornin (traitement médical personnalisé), par jastey
+4.  Extension de la rencontre avec Bjornin (traitement mÃ©dical personnalisÃ©), par jastey
 ------------------------------------------------------------------
 
 Type : rencontre (extension d'un personnage du jeu original)
-Lieu : Bérégost, au Jongleur Jovial. Ajoute plusieurs options de dialogue à différents stages de la quête de Bjornin et du demi-ogre, et encore après. Il sera possible de le rencontrer après, si les personnages veulent discuter avec lui.
-Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
-Restrictions au niveau du personnage principal : dialogues : Rep > 9 ; aller dans ses appartements : l'alignement ne doit pas être mauvais, Rep > 17 
+Lieu : BÃ©rÃ©gost, au Jongleur Jovial. Ajoute plusieurs options de dialogue Ã  diffÃ©rents stages de la quÃªte de Bjornin et du demi-ogre, et encore aprÃ¨s. Il sera possible de le rencontrer aprÃ¨s, si les personnages veulent discuter avec lui.
+Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
+Restrictions au niveau du personnage principal : dialogues : Rep > 9 ; aller dans ses appartements : l'alignement ne doit pas Ãªtre mauvais, Rep > 17 
 Variables: Global("RE1_BjorninFlirt","GLOBAL",1) si vous allez avec lui dans ses appartements
 
-Bjornin, le paladin blessé de Bérégost, a intrigué mon personnage principal lorsqu'elle l'a rencontré pour la première fois. Elle a eu envie de lui parler un peu plus.
+Bjornin, le paladin blessÃ© de BÃ©rÃ©gost, a intriguÃ© mon personnage principal lorsqu'elle l'a rencontrÃ© pour la premiÃ¨re fois. Elle a eu envie de lui parler un peu plus.
 
-Ce composant permet au personnage principal (homme ou femme) de réputation supérieure à 9 d'avoir une conversation plus poussée avec Bjornin. Un personnage qui arrive à gagner sa confiance peut ensuite soigner ses blessures de manière plus poussée. Bjornin y prendra plaisir mais la rencontre restera plutôt romantique, il ne faut pas attendre grand chose d'un paladin blessé qui souffre.
+Ce composant permet au personnage principal (homme ou femme) de rÃ©putation supÃ©rieure Ã  9 d'avoir une conversation plus poussÃ©e avec Bjornin. Un personnage qui arrive Ã  gagner sa confiance peut ensuite soigner ses blessures de maniÃ¨re plus poussÃ©e. Bjornin y prendra plaisir mais la rencontre restera plutÃ´t romantique, il ne faut pas attendre grand chose d'un paladin blessÃ© qui souffre.
 
 Remarque : ce composant comporte tout le contenu de l'ancien composant "Extension de la rencontre avec Bjornin" du mod BGQE.
 
 
 
-5.  Pas d'amidon dans mon mât, par jastey
+5.  Pas d'amidon dans mon mÃ¢t, par jastey
 ------------------------------------------------------------------
 
-Type : Options de réponse (extension d'un personnage du jeu original)
+Type : Options de rÃ©ponse (extension d'un personnage du jeu original)
 Lieu : premier niveau souterrain des mines de Bois-Manteau
-Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
+Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
 Restrictions au niveau du personnage principal : aucune
-Variables : Global("RE1_StarchFlirt","GLOBAL",1), si on choisit de donner une réponse suggestive
+Variables : Global("RE1_StarchFlirt","GLOBAL",1), si on choisit de donner une rÃ©ponse suggestive
 
-Ce composant n'est pas vraiment à prendre au sérieux, même si ce n'est pas un gag. Il rajoute un dialogue avec le garde du  premier niveau souterrain des mines de Bois-Manteau, qui demande au personnage principal un avis au sujet de ses "fins de nuit", car le stress qu'il subit lui a un peu "vidé son mât de son amidon", si vous voyez ce qu'il veut dire... Le personnage principal peut alors lui donner un conseil, ou du moins essayer.
+Ce composant n'est pas vraiment Ã  prendre au sÃ©rieux, mÃªme si ce n'est pas un gag. Il rajoute un dialogue avec le garde du  premier niveau souterrain des mines de Bois-Manteau, qui demande au personnage principal un avis au sujet de ses "fins de nuit", car le stress qu'il subit lui a un peu "vidÃ© son mÃ¢t de son amidon", si vous voyez ce qu'il veut dire... Le personnage principal peut alors lui donner un conseil, ou du moins essayer.
 
 
 
 6.  Une minute pour le duc Eltan, par jastey
 ------------------------------------------------------------------
 
-Type : Dialogue (options de dialogue supplémentaires pour un personnage du jeu original)
-Lieu : Chapitre 7, bâtiment du Maître du port, après y avoir amené le duc Eltan
-Classification : contenu adolescent (paroles suggestives dans l'une des options de réponse)
+Type : Dialogue (options de dialogue supplÃ©mentaires pour un personnage du jeu original)
+Lieu : Chapitre 7, bÃ¢timent du MaÃ®tre du port, aprÃ¨s y avoir amenÃ© le duc Eltan
+Classification : contenu adolescent (paroles suggestives dans l'une des options de rÃ©ponse)
 Restrictions au niveau du personnage principal : aucune
 Variables : Global("RE1_EltanFlirt","GLOBAL",1) si la situation devient intime.
 
-Vous venez juste de sauver le duc d'un empoisonnement. Il est affaibli, et vous presse d'en finir avec cette conspiration. Ce composant donne au personnage principal la possibilité de lui parler un peu plus, mais ne vous attendez pas à ce qu'un duc vous accorde beaucoup de temps, en particulier lorsque vous avez la lourde tâche d'annihiler les machinations du Trône de Fer.
+Vous venez juste de sauver le duc d'un empoisonnement. Il est affaibli, et vous presse d'en finir avec cette conspiration. Ce composant donne au personnage principal la possibilitÃ© de lui parler un peu plus, mais ne vous attendez pas Ã  ce qu'un duc vous accorde beaucoup de temps, en particulier lorsque vous avez la lourde tÃ¢che d'annihiler les machinations du TrÃ´ne de Fer.
 
-Remarque : il est obligatoire d'installer ce composant si vous souhaitez jouer la quête bonus "La Balafre - le retour".
+Remarque : il est obligatoire d'installer ce composant si vous souhaitez jouer la quÃªte bonus "La Balafre - le retour".
 
 
 
-7.  L'entrainement très spécial de Husam, par jastey (contenu adulte / version adolescente)
+7.  L'entrainement trÃ¨s spÃ©cial de Husam, par jastey (contenu adulte / version adolescente)
 ------------------------------------------------------------------
 
 Type : rencontre (extension d'un personnage du jeu original)
 Lieu : Chapitre 7 avant de rechercher les assassins dans les Caves Souterraines, et guilde des voleurs avant d'entrer dans le labyrinthe.
-Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
+Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
 Restrictions au niveau du personnage principal : aucune
 Variables: Global("RE1_HusamFlirt","GLOBAL",1) si le personnage principal suit Husam, 
 Global("RE1_HusamSex","GLOBAL",1) si la situation devient intime.
 
-Husam a plusieurs visages. Il sait se déguiser en homme ivre pour pouvoir parler au personnage principal, tout en gardant son esprit parfaitement vif. Il sait bien que parfois, pour parvenir à son objectif, il faut ce qu'il faut ; et il ne voit non plus aucune objection à utiliser ses mains.
+Husam a plusieurs visages. Il sait se dÃ©guiser en homme ivre pour pouvoir parler au personnage principal, tout en gardant son esprit parfaitement vif. Il sait bien que parfois, pour parvenir Ã  son objectif, il faut ce qu'il faut ; et il ne voit non plus aucune objection Ã  utiliser ses mains.
 
-Il sera donc très compréhensif si vous lui dites qu'avant de partir à la recherche des assassins du duc Entar et de La Balafre dans les Caves Souterraines, vous auriez bien besoin de vous détendre un peu. A vous de savoir si un Voleur de l'Ombre est aussi habile qu'on le dit pour manier ses... outils.
+Il sera donc trÃ¨s comprÃ©hensif si vous lui dites qu'avant de partir Ã  la recherche des assassins du duc Entar et de La Balafre dans les Caves Souterraines, vous auriez bien besoin de vous dÃ©tendre un peu. A vous de savoir si un Voleur de l'Ombre est aussi habile qu'on le dit pour manier ses... outils.
 
-Après une première... préparation personnelle, Husam fera une seconde approche à la Guilde des Voleurs avant que le personnage principal ne descende dans le labyrinthe à la poursuite de Sarevok.
+AprÃ¨s une premiÃ¨re... prÃ©paration personnelle, Husam fera une seconde approche Ã  la Guilde des Voleurs avant que le personnage principal ne descende dans le labyrinthe Ã  la poursuite de Sarevok.
 
 
 
-8.  Laurel, après la chasse, par jastey
+8.  Laurel, aprÃ¨s la chasse, par jastey
 ------------------------------------------------------------------
 
 Type : rencontre (extension d'un personnage du jeu original)
-Lieu : rivière de l'Ours
-Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
-Restrictions au niveau du personnage principal : personnage principal masculin, d'une réputation minimum de 15.
-Variables : Global("RE1_LaurelFlirt","GLOBAL",1) si le personnage principal suit Laurel derrière les buissons, 
+Lieu : riviÃ¨re de l'Ours
+Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
+Restrictions au niveau du personnage principal : personnage principal masculin, d'une rÃ©putation minimum de 15.
+Variables : Global("RE1_LaurelFlirt","GLOBAL",1) si le personnage principal suit Laurel derriÃ¨re les buissons, 
 Global("RE1_LaurelSex","GLOBAL",1) si la situation devient intime.
 
-Laurel est une paladine, et elle est en mission. Elle n'a pas beaucoup de temps, mais elle est suffisamment sensée pour savoir qu'il ne suffit pas de manger et de se reposer pour garder son corps en parfaite santé, si le personnage principal voit ce qu'elle veut dire...
+Laurel est une paladine, et elle est en mission. Elle n'a pas beaucoup de temps, mais elle est suffisamment sensÃ©e pour savoir qu'il ne suffit pas de manger et de se reposer pour garder son corps en parfaite santÃ©, si le personnage principal voit ce qu'elle veut dire...
 
 
 
-9.  La séduction de Bartus, par jastey
+9.  La sÃ©duction de Bartus, par jastey
 ------------------------------------------------------------------
 
 Type: rencontre 
-Lieu : première rencontre : Bérégost (pour un personnage principal masculin), auberge du Jongleur Jovial (pour un personnage principal féminin)
+Lieu : premiÃ¨re rencontre : BÃ©rÃ©gost (pour un personnage principal masculin), auberge du Jongleur Jovial (pour un personnage principal fÃ©minin)
 Classification : contenu adolescent (langage assez suggestif, mais pas de contenu explicite)
-Restrictions au niveau du personnage principal : baiser accidentel uniquement pour un personnage principal féminin.
-Variables : Global("RE1_BartusFlirt","GLOBAL",1) après que Bartus ait accidentellement embrassé le personnage principal.
-Global("RE1_BartusSex","GLOBAL",1) si Bartus donne au personnage principal la "récompense de l'héroïne".
+Restrictions au niveau du personnage principal : baiser accidentel uniquement pour un personnage principal fÃ©minin.
+Variables : Global("RE1_BartusFlirt","GLOBAL",1) aprÃ¨s que Bartus ait accidentellement embrassÃ© le personnage principal.
+Global("RE1_BartusSex","GLOBAL",1) si Bartus donne au personnage principal la "rÃ©compense de l'hÃ©roÃ¯ne".
 
-Bartus est un gentilhomme, un courtisan, qui s'occupe de celles qu'il appelle ses "douces dames", de nobles dames qui se laissent parfois séduire par Bartus. Cependant il n'est pas très futé, et c'est peut-être pour cela qu'il peut se retrouver à embrasser par accident un personnage principal féminin dans la lumière tamisée d'un couloir de la taverne. Cela ne sera toutefois pas son principal problème, et il risque rapidement d'avoir besoin d'aide. Pour les personnages principaux masculins, la quête commence ici. Si les aventuriers viennent à son secours, ils pourront retrouver Bartus à la taverne de la Lanterne Assourdie, à la Porte de Baldur, où il faudra lui insuffler la conviction de poursuivre ses rêves.
+Bartus est un gentilhomme, un courtisan, qui s'occupe de celles qu'il appelle ses "douces dames", de nobles dames qui se laissent parfois sÃ©duire par Bartus. Cependant il n'est pas trÃ¨s futÃ©, et c'est peut-Ãªtre pour cela qu'il peut se retrouver Ã  embrasser par accident un personnage principal fÃ©minin dans la lumiÃ¨re tamisÃ©e d'un couloir de la taverne. Cela ne sera toutefois pas son principal problÃ¨me, et il risque rapidement d'avoir besoin d'aide. Pour les personnages principaux masculins, la quÃªte commence ici. Si les aventuriers viennent Ã  son secours, ils pourront retrouver Bartus Ã  la taverne de la Lanterne Assourdie, Ã  la Porte de Baldur, oÃ¹ il faudra lui insuffler la conviction de poursuivre ses rÃªves.
 
 
 
@@ -293,76 +293,76 @@ Bartus est un gentilhomme, un courtisan, qui s'occupe de celles qu'il appelle se
 ------------------------------------------------------------------
 
 Type : rencontre
-Lieu : auberge de Brasamical, rez-de-chaussée
-Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
+Lieu : auberge de Brasamical, rez-de-chaussÃ©e
+Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
 Restrictions au niveau du personnage principal : personnage principal masculin
-Variables: Global("RE1_LinaFlirt","GLOBAL",1) après que le personnage principal ait accepté un massage personnel, 
+Variables: Global("RE1_LinaFlirt","GLOBAL",1) aprÃ¨s que le personnage principal ait acceptÃ© un massage personnel, 
 Global("RE1_LinaSex","GLOBAL",1) si la situation devient plus sexuelle.
 
-Vous faites forte impression à Lina, vous le magnifique aventurier, avec vos armes et votre armure. Et elle aimerait vous aider à vous détendre et oublier les chemins poussiéreux un moment. En fait, elle est même surprise de voir jusqu'où cela pourrait aller avec vous...
+Vous faites forte impression Ã  Lina, vous le magnifique aventurier, avec vos armes et votre armure. Et elle aimerait vous aider Ã  vous dÃ©tendre et oublier les chemins poussiÃ©reux un moment. En fait, elle est mÃªme surprise de voir jusqu'oÃ¹ cela pourrait aller avec vous...
 
 
 
-11. Première nuit avec Quentin, par Kulyok (contenu adulte / version adolescente)
+11. PremiÃ¨re nuit avec Quentin, par Kulyok (contenu adulte / version adolescente)
 ------------------------------------------------------------------
 
 Type : rencontre
-Lieu : auberge de Brasamical, près du bar, tous les chapitres
-Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
-Restrictions au niveau du personnage principal : personnage principal féminin humain, demi-elfe ou elfe
+Lieu : auberge de Brasamical, prÃ¨s du bar, tous les chapitres
+Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
+Restrictions au niveau du personnage principal : personnage principal fÃ©minin humain, demi-elfe ou elfe
 Variables : RE1_QuentinFlirt, si vous allez discuter avec Quentin dans sa chambre
-RE1_QuentinSex, si vous choisissez d'aller jusqu'à la relation sexuelle
+RE1_QuentinSex, si vous choisissez d'aller jusqu'Ã  la relation sexuelle
 
-Si vous visitez l'auberge de Brasamical, vous y trouverez un étranger au bar. Simple, n'est-ce pas ? Mais il pourrait intéresser les joueurs soucieux de leur personnage féminin qui arrive blessé, épuisé et affamé à l'auberge de Brasamical pour la première fois. Peut-être a-t-elle envie d'un peu de réconfort ? Ou peut-être qu'elle s'intéresse peu aux autres et lorsqu'un bel étranger lui fait une proposition elle se dit : pourquoi pas ? Ou peut-être qu'il est grand temps qu'elle perde sa virginité lors d'une amourette avec un bel étranger ?
+Si vous visitez l'auberge de Brasamical, vous y trouverez un Ã©tranger au bar. Simple, n'est-ce pas ? Mais il pourrait intÃ©resser les joueurs soucieux de leur personnage fÃ©minin qui arrive blessÃ©, Ã©puisÃ© et affamÃ© Ã  l'auberge de Brasamical pour la premiÃ¨re fois. Peut-Ãªtre a-t-elle envie d'un peu de rÃ©confort ? Ou peut-Ãªtre qu'elle s'intÃ©resse peu aux autres et lorsqu'un bel Ã©tranger lui fait une proposition elle se dit : pourquoi pas ? Ou peut-Ãªtre qu'il est grand temps qu'elle perde sa virginitÃ© lors d'une amourette avec un bel Ã©tranger ?
 
-A vous de choisir. Venez à l'auberge de Brasamical et cherchez un jeune homme armé d'un arc court, près du bar.
+A vous de choisir. Venez Ã  l'auberge de Brasamical et cherchez un jeune homme armÃ© d'un arc court, prÃ¨s du bar.
 
 
 
 12. Les jeux coquins de Niklos, par Kulyok (contenu adulte - AVERTISSEMENT)
 ------------------------------------------------------------------
 
-Avertissement : cette rencontre contient des tentatives d'actes sexuels forcés sur le personnage principal. Même si au final les parties impliquées resteront libres de leurs choix, le contenu de cette rencontre pourrait choquer certains joueurs.
+Avertissement : cette rencontre contient des tentatives d'actes sexuels forcÃ©s sur le personnage principal. MÃªme si au final les parties impliquÃ©es resteront libres de leurs choix, le contenu de cette rencontre pourrait choquer certains joueurs.
 
 Type : rencontre (extension d'un personnage du jeu original)
 Lieu : Porte de Baldur, entre la taverne du Chant de l'Elfe et la boutique de Toubazar Drin, UTILISEZ DES SAUVEGARDES OU VOUS N'AVEZ PAS ENCORE ETE A LA PORTE DE Baldur
 Classification : contenu adulte
-Restrictions au niveau du personnage principal : personnage principal féminin
+Restrictions au niveau du personnage principal : personnage principal fÃ©minin
 Variables : RE1_NiklosFlirt, si vous suivez Niklos
 RE1_NiklosSex si vous avez une relation sexuelle
 
-Vous vous rappelez du type près de la taverne du Chant de l'Elfe et la boutique de Toubazar Drin à la porte de Baldur, qui vous donne 50 pièces d'or juste pour que vous écoutiez ce que son patron a à vous dire ? Le type de la guilde des voleurs ? Et ouais, c'est bien Niklos, il est chaud et son langage est... fleuri. CE CUL ! Cette rencontre est disponible pour tout personnage féminin et est normalement compatible avec le reste des dialogues de Niklos.
+Vous vous rappelez du type prÃ¨s de la taverne du Chant de l'Elfe et la boutique de Toubazar Drin Ã  la porte de Baldur, qui vous donne 50 piÃ¨ces d'or juste pour que vous Ã©coutiez ce que son patron a Ã  vous dire ? Le type de la guilde des voleurs ? Et ouais, c'est bien Niklos, il est chaud et son langage est... fleuri. CE CUL ! Cette rencontre est disponible pour tout personnage fÃ©minin et est normalement compatible avec le reste des dialogues de Niklos.
 
-Note : vous DEVEZ charger une sauvegarde où vous n'avez pas encore été à la Porte de Baldur (car le mod ajoute une variable "mort" à Niklos). Installez le mod et démarrez une nouvelle partie, ou bien chargez une sauvegarde faite avant d'être entré dans la ville.
+Note : vous DEVEZ charger une sauvegarde oÃ¹ vous n'avez pas encore Ã©tÃ© Ã  la Porte de Baldur (car le mod ajoute une variable "mort" Ã  Niklos). Installez le mod et dÃ©marrez une nouvelle partie, ou bien chargez une sauvegarde faite avant d'Ãªtre entrÃ© dans la ville.
 
 
 
 13. Slythe et Krystin, par Kulyok (contenu adulte - AVERTISSEMENT)
 ------------------------------------------------------------------
 
-Avertissement : Cette rencontre implique des rapports intimes dans une atmosphère menaçante. Si au final les personnages impliqués restent libres de leurs choix, certains joueurs pourront trouver ce contenu choquant.
-Type : rencontre (développement d'un personnage apparaissant dans le jeu)
+Avertissement : Cette rencontre implique des rapports intimes dans une atmosphÃ¨re menaÃ§ante. Si au final les personnages impliquÃ©s restent libres de leurs choix, certains joueurs pourront trouver ce contenu choquant.
+Type : rencontre (dÃ©veloppement d'un personnage apparaissant dans le jeu)
 Lieu : Porte de Baldur, Chapitre 7, Caves Souterraines
 Classification : contenu adulte
-Restrictions au niveau du personnage principal : personnage de sexe féminin avec un minimum de 13 en charisme
-Variables : RE1_SlytheKrystinFlirt si on accompagne Slythe et Krystin, et RE1_SlytheKrystinSex pour une sorte de plan à trois.
+Restrictions au niveau du personnage principal : personnage de sexe fÃ©minin avec un minimum de 13 en charisme
+Variables : RE1_SlytheKrystinFlirt si on accompagne Slythe et Krystin, et RE1_SlytheKrystinSex pour une sorte de plan Ã  trois.
 
-Slythe et Krystin sont de mémorables truands des Caves Souterraines. Ce sont aussi des assassins maléfiques qui portent sur eux beaucoup de butin, et ils doivent donc mourir. Mais avant cela, un personnage principal féminin séduisant peut choisir de bien s'amuser avec eux tout en s'offrant la sensation de vivre dangereusement, d'obtenir la possibilité de régler le contentieux à l'amiable (ah ah, mais bien sûr...) et évidemment d'épicer les choses avec un peu de sexe. Soyez cependant sur vos gardes, car cette rencontre peut se terminer plutôt soudainement ! Cette rencontre est normalement compatible avec tout autre mod qui modifie les dialogues avec ces personnages.
+Slythe et Krystin sont de mÃ©morables truands des Caves Souterraines. Ce sont aussi des assassins malÃ©fiques qui portent sur eux beaucoup de butin, et ils doivent donc mourir. Mais avant cela, un personnage principal fÃ©minin sÃ©duisant peut choisir de bien s'amuser avec eux tout en s'offrant la sensation de vivre dangereusement, d'obtenir la possibilitÃ© de rÃ©gler le contentieux Ã  l'amiable (ah ah, mais bien sÃ»r...) et Ã©videmment d'Ã©picer les choses avec un peu de sexe. Soyez cependant sur vos gardes, car cette rencontre peut se terminer plutÃ´t soudainement ! Cette rencontre est normalement compatible avec tout autre mod qui modifie les dialogues avec ces personnages.
 
 
 
 14. Sans regret, par Anonyme
 ------------------------------------------------------------------
 
-Type : quête
-Lieu : Nord-est de la Porte de Baldur (niveau inférieur), "House 1" de la solution du site Dudleyville (AR0305) : http://forgottenwars.com/bg1/ar0300.htm
+Type : quÃªte
+Lieu : Nord-est de la Porte de Baldur (niveau infÃ©rieur), "House 1" de la solution du site Dudleyville (AR0305) : http://forgottenwars.com/bg1/ar0300.htm
 Classification : contenu adolescent
 Restrictions au niveau du personnage principal : aucune
 Variables : aucune
 
-Une vieille dame, en fin de vie. Une lettre qu'elle n'est plus capable de lire, et beaucoup de "et si..." qui ne trouveront pas de réponse, même après sa mort.
+Une vieille dame, en fin de vie. Une lettre qu'elle n'est plus capable de lire, et beaucoup de "et si..." qui ne trouveront pas de rÃ©ponse, mÃªme aprÃ¨s sa mort.
 
-Aidez Meilla à se souvenir en lui lisant la lettre une dernière fois. Oh, et amenez s'il vous plaît son chat chez ses voisins, car il faut le nourrir.
+Aidez Meilla Ã  se souvenir en lui lisant la lettre une derniÃ¨re fois. Oh, et amenez s'il vous plaÃ®t son chat chez ses voisins, car il faut le nourrir.
 
 
 
@@ -374,19 +374,19 @@ Lieu : Caves Souterraines et Lanterne Assourdie, tous les chapitres
 Classification : Contenu adolescent - langage suggestif, mais fondu au noir au moment de l'apparition du contenu explicite
 Restrictions au niveau du personnage principal : aucune
 Variables :
-- Parapluie d'été - RE1_SumUmTalk pour suivre à quel niveau de conversation on se trouve, RE1_SumUmFlirt si vous lui faites une proposition ;
+- Parapluie d'Ã©tÃ© - RE1_SumUmTalk pour suivre Ã  quel niveau de conversation on se trouve, RE1_SumUmFlirt si vous lui faites une proposition ;
 - Les Catins des Caves Souterraines - RE1_HarlotSex si vous couchez avec eux/elles ;
-- Schvantz - RE1_SchvantzFlirt, si vous vous renseignez au sujet de "sessions privées", RE1_SchvantzSex si vous couchez avec lui ;
-- Ariane - RE1_ArianeFlirt si vous allez dans un endroit... *privé* avec elle ; RE1_ArianeSex si vous voulez plus qu'un simple massage ;
+- Schvantz - RE1_SchvantzFlirt, si vous vous renseignez au sujet de "sessions privÃ©es", RE1_SchvantzSex si vous couchez avec lui ;
+- Ariane - RE1_ArianeFlirt si vous allez dans un endroit... *privÃ©* avec elle ; RE1_ArianeSex si vous voulez plus qu'un simple massage ;
 - Lars - RE_1LarsFlirt - augmente si vous lui parlez ou si vous lui posez des questions au sujet de son nom ; il change parfois d'endroit, donc si vous ne le trouvez pas quelque part essayez un peu plus loin ;
-- Gunther et ses amis - pas de variable particulière.
+- Gunther et ses amis - pas de variable particuliÃ¨re.
 
 
-Amour payant rajoute des courtisans, disponibles pour les aventuriers, aux Caves Souterraines et à la Lanterne Assourdie à la Porte de Baldur. Les courtisans que ce composant ajoute dans les Caves Souterraines sont dénommés "Catins" pour les distinguer de ceux déjà présents dans le jeu original.
+Amour payant rajoute des courtisans, disponibles pour les aventuriers, aux Caves Souterraines et Ã  la Lanterne Assourdie Ã  la Porte de Baldur. Les courtisans que ce composant ajoute dans les Caves Souterraines sont dÃ©nommÃ©s "Catins" pour les distinguer de ceux dÃ©jÃ  prÃ©sents dans le jeu original.
 
-A la Lanterne Assourdie, ce composant ajoute Ariane ainsi que les deux courtisans masculins mentionnés dans le jeu : Schvantz et Gunther. Gunther n'est pas au travail car c'est sa journée de repos, on peut le trouver au niveau le plus bas de la Lanterne Assourdie en train de boire de la bière et du vieux Cognac avec ses amis.
+A la Lanterne Assourdie, ce composant ajoute Ariane ainsi que les deux courtisans masculins mentionnÃ©s dans le jeu : Schvantz et Gunther. Gunther n'est pas au travail car c'est sa journÃ©e de repos, on peut le trouver au niveau le plus bas de la Lanterne Assourdie en train de boire de la biÃ¨re et du vieux Cognac avec ses amis.
 
-Ont également été ajoutés à la Lanterne Assourdie des artistes qu'on peut s'attendre à trouver dans ce genre d'établissement : Lars danse pour les clients, et Parapluie d'été essaiera d'offrir aux aventuriers un moment de plaisir intellectuel. Ou peut-être un simple tasse de thé.
+Ont Ã©galement Ã©tÃ© ajoutÃ©s Ã  la Lanterne Assourdie des artistes qu'on peut s'attendre Ã  trouver dans ce genre d'Ã©tablissement : Lars danse pour les clients, et Parapluie d'Ã©tÃ© essaiera d'offrir aux aventuriers un moment de plaisir intellectuel. Ou peut-Ãªtre un simple tasse de thÃ©.
 
 
 
@@ -394,49 +394,49 @@ Ont également été ajoutés à la Lanterne Assourdie des artistes qu'on peut s'atte
 ------------------------------------------------------------------
 
 Type : rencontre (extension d'un personnage du jeu original)
-Lieu : Château-Suif
-Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
+Lieu : ChÃ¢teau-Suif
+Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
 Restrictions au niveau du personnage principal : personnage avec un minimum de 13 en charisme
 Variables : Global("RE1_HullFlirt","GLOBAL",1) si vous suivez Hull dans le coin.
 
-Château-Suif... même cet endroit a ses habitants bien à lui. Ils ont leur propre passé, leurs bons moments et leurs désirs. Hull est l'un d'entre eux - le surveillant, la sentinelle, le gardien. Pas toujours parfait, mais qui peut se targuer de l'être ? Il n'a jamais essayé de séduire, ou d'être une personne qui pourrait se servir de vous.
+ChÃ¢teau-Suif... mÃªme cet endroit a ses habitants bien Ã  lui. Ils ont leur propre passÃ©, leurs bons moments et leurs dÃ©sirs. Hull est l'un d'entre eux - le surveillant, la sentinelle, le gardien. Pas toujours parfait, mais qui peut se targuer de l'Ãªtre ? Il n'a jamais essayÃ© de sÃ©duire, ou d'Ãªtre une personne qui pourrait se servir de vous.
 
-Chacun a besoin de compagnie. Chacun a besoin d'un ami – et certains sont parfois un peu plus. Puisque vous devez partir, pourquoi ne pas aller dire "au revoir" à Hull ?
+Chacun a besoin de compagnie. Chacun a besoin d'un ami â€“ et certains sont parfois un peu plus. Puisque vous devez partir, pourquoi ne pas aller dire "au revoir" Ã  Hull ?
 
 
 
-17. Fin de soirée avec Jaheira, par Kulyok
+17. Fin de soirÃ©e avec Jaheira, par Kulyok
 ------------------------------------------------------------------
 
 Type: Dialogue
-Lieu : après être entré à Nashkel pour la première fois ; Tutu/BGT/BG:EE: lors d'un repos ; BG1 : la nuit dans une taverne.
+Lieu : aprÃ¨s Ãªtre entrÃ© Ã  Nashkel pour la premiÃ¨re fois ; Tutu/BGT/BG:EE: lors d'un repos ; BG1 : la nuit dans une taverne.
 Classification : contenu adolescent
 Restrictions au niveau du personnage principal : aucune
 
-Jaheira est un des compagnons les plus populaires. C'est une bonne amie, et parfois une sorte de maman. Et si elle vous demandait quel genre de partenaire vous recherchez ? Si elle vous parlait de sa relation avec Khalid ? Si elle vous donnait un avis non sollicité, partageait un verre avec vous avant de vous envoyer au lit ? Cette rencontre est disponible à partir du chapitre 2, lors d'un repos ou pendant une nuit (BG1).
+Jaheira est un des compagnons les plus populaires. C'est une bonne amie, et parfois une sorte de maman. Et si elle vous demandait quel genre de partenaire vous recherchez ? Si elle vous parlait de sa relation avec Khalid ? Si elle vous donnait un avis non sollicitÃ©, partageait un verre avec vous avant de vous envoyer au lit ? Cette rencontre est disponible Ã  partir du chapitre 2, lors d'un repos ou pendant une nuit (BG1).
 
 
 
-18. La bénédiction de Sil, par Lava Del'Vortel
+18. La bÃ©nÃ©diction de Sil, par Lava Del'Vortel
 ------------------------------------------------------------------
 
 Type : Dialogue (extension d'un personnage du jeu original)
-Lieu : zone du phare abandonné
+Lieu : zone du phare abandonnÃ©
 Classification : contenu adolescent
 Restrictions au niveau du personnage principal : aucune
 
-Sur la côte vit une étrange tribu. Ses membres ne sont ni des bêtes sauvages, ni de loyales créatures célestes. Ces femmes aiment le tissage et les perles. Elles aiment aussi le poison et les chants. Ce sont des sirènes ; elles attirent les hommes, protègent leur territoire et ont vu mourir beaucoup d'hommes et de femmes. Inclinez-vous et saluez Dame Sil, et elle vous racontera peut-être l'histoire d'un amour tragique.
+Sur la cÃ´te vit une Ã©trange tribu. Ses membres ne sont ni des bÃªtes sauvages, ni de loyales crÃ©atures cÃ©lestes. Ces femmes aiment le tissage et les perles. Elles aiment aussi le poison et les chants. Ce sont des sirÃ¨nes ; elles attirent les hommes, protÃ¨gent leur territoire et ont vu mourir beaucoup d'hommes et de femmes. Inclinez-vous et saluez Dame Sil, et elle vous racontera peut-Ãªtre l'histoire d'un amour tragique.
 
-Ce composant est compatible avec le mod "The Lure of the Sirine's Call", merci à Jastey.
+Ce composant est compatible avec le mod "The Lure of the Sirine's Call", merci Ã  Jastey.
 
 
 
-19. Melicamp : le garçon volaille, par Lava Del'Vortel
+19. Melicamp : le garÃ§on volaille, par Lava Del'Vortel
 ------------------------------------------------------------------
 
 Type : rencontre (extension d'un personnage du jeu original)
-Lieu : Haute Haie (chez Thalantyr), après que Melicamp ait été métamorphosé avec succès
-Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
+Lieu : Haute Haie (chez Thalantyr), aprÃ¨s que Melicamp ait Ã©tÃ© mÃ©tamorphosÃ© avec succÃ¨s
+Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
 Restrictions au niveau du personnage principal : aucune
 Variables : Global("RE1_MelicampFlirt","GLOBAL",1) si vous suivez Melicamp dans un endroit discret.
 Global("RE1_MelicampSex","GLOBAL",1) si Melicamp et le personnage principal s'embrassent.
@@ -444,7 +444,7 @@ Global("RE1_MelicampSex","GLOBAL",1) si Melicamp et le personnage principal s'em
 
 cot cot cot... codec ! Ce caquetage est tentant, n'est-ce pas ?
 
-Aidez Melicamp à dissiper la magie qui l'a transformé en poulet. Une fois que cette malédiction aura disparu, il va souhaiter vous remercier. Accepterez-vous son offre ? Voudrez-vous le suivre ? Peut-être discuter et vous reposer un moment ?
+Aidez Melicamp Ã  dissiper la magie qui l'a transformÃ© en poulet. Une fois que cette malÃ©diction aura disparu, il va souhaiter vous remercier. Accepterez-vous son offre ? Voudrez-vous le suivre ? Peut-Ãªtre discuter et vous reposer un moment ?
 
 
 
@@ -452,15 +452,15 @@ Aidez Melicamp à dissiper la magie qui l'a transformé en poulet. Une fois que ce
 ------------------------------------------------------------------
 
 Type: Encounter (extension d'un personnage du jeu original)
-Lieu : la maison avec un auvent rayé dans la zone AR0200 (FW0200 dans Tutu), près du palais Ducal
-Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
+Lieu : la maison avec un auvent rayÃ© dans la zone AR0200 (FW0200 dans Tutu), prÃ¨s du palais Ducal
+Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
 Restrictions au niveau du personnage principal : personnage principal masculin
-Variables : RE1_RinnieEncounter (si vous lui parlez de son poème)
+Variables : RE1_RinnieEncounter (si vous lui parlez de son poÃ¨me)
 RE1_RinnieSex (si la situation devient intime)
 
-Rinnie, barde à la Porte de Baldur, est à la recherche d'un livre assez obscur au sujet d'un endroit qui l'est tout autant. Elle est à la recherche de l'inspiration, et de renseignements. Elle est aussi à la recherche d'un aventurier amical et lettré qui aurait envie de passer un moment avec elle. Si vous allez lui parler, elle vous en dira plus. 
+Rinnie, barde Ã  la Porte de Baldur, est Ã  la recherche d'un livre assez obscur au sujet d'un endroit qui l'est tout autant. Elle est Ã  la recherche de l'inspiration, et de renseignements. Elle est aussi Ã  la recherche d'un aventurier amical et lettrÃ© qui aurait envie de passer un moment avec elle. Si vous allez lui parler, elle vous en dira plus. 
 
-NOTE : les options de réponses supplémentaires de ce composant n'apparaîtront que si le personnage principal se trouve seul avec Rinnie.
+NOTE : les options de rÃ©ponses supplÃ©mentaires de ce composant n'apparaÃ®tront que si le personnage principal se trouve seul avec Rinnie.
 
 
 
@@ -468,25 +468,25 @@ NOTE : les options de réponses supplémentaires de ce composant n'apparaîtront qu
 ------------------------------------------------------------------
 
 Type : Dialogue
-Lieu : après être entré dans la Porte de Baldur, près des portes de la cité
+Lieu : aprÃ¨s Ãªtre entrÃ© dans la Porte de Baldur, prÃ¨s des portes de la citÃ©
 Classification : contenu adolescent
-Restrictions au niveau du personnage principal : aucune, contenu spécial pour chaque membre masculin du groupe, y compris le personnage principal
+Restrictions au niveau du personnage principal : aucune, contenu spÃ©cial pour chaque membre masculin du groupe, y compris le personnage principal
 
-Ce composant est censé être un moment de détente. Hum. Vous vous souvenez de Salvanas, l'elfe lubrique ? Ou de cette maman dans le district du Temple, qui cherchait de l'argent pour sa petite fille ? Eh bien voici une version adulte de *cette* petite fille, et elle veut un mari. Et faites attention, il se pourrait bien qu'il y en ait un dans votre groupe ! Et puis éloignez Xzar... ou pas. Un peu fofolle, un peu pénible mais en tout cas innocente et pas maléfique pour un sou (ou presque). On la trouve près de l'entrée de la Porte de Baldur, dans la zone de la boutique de Toubazar Drin.
+Ce composant est censÃ© Ãªtre un moment de dÃ©tente. Hum. Vous vous souvenez de Salvanas, l'elfe lubrique ? Ou de cette maman dans le district du Temple, qui cherchait de l'argent pour sa petite fille ? Eh bien voici une version adulte de *cette* petite fille, et elle veut un mari. Et faites attention, il se pourrait bien qu'il y en ait un dans votre groupe ! Et puis Ã©loignez Xzar... ou pas. Un peu fofolle, un peu pÃ©nible mais en tout cas innocente et pas malÃ©fique pour un sou (ou presque). On la trouve prÃ¨s de l'entrÃ©e de la Porte de Baldur, dans la zone de la boutique de Toubazar Drin.
 
 
 
-22. Le deuil de Centeol, la dame araignée, par Lava Del'Vortel
+22. Le deuil de Centeol, la dame araignÃ©e, par Lava Del'Vortel
 ------------------------------------------------------------------
 
-Type : quête (extension d'un personnage du jeu original)
+Type : quÃªte (extension d'un personnage du jeu original)
 Lieu : le repaire de Centeol, et le pont de Flammevin (Poe)
 Classification : contenu adolescent
 Restrictions au niveau du personnage principal : aucune
 
-L'amour peut faire souffrir. La passion peut être une malédiction. L'envie peut faire souffrir plus que n'importe quel autre pêché. La ligne qui sépare l'amour, l'engagement et le chagrin est très fine, parfois même invisible. Il y a eu une femme qui, autrefois, a connu tout cela. Mais tous les êtres humains ont leurs limites. Beaucoup de gens ont assisté à sa chute et l'un d'entre eux l'a maudite, ce qui l'a changée en une créature pathétique, solitaire et démente.
+L'amour peut faire souffrir. La passion peut Ãªtre une malÃ©diction. L'envie peut faire souffrir plus que n'importe quel autre pÃªchÃ©. La ligne qui sÃ©pare l'amour, l'engagement et le chagrin est trÃ¨s fine, parfois mÃªme invisible. Il y a eu une femme qui, autrefois, a connu tout cela. Mais tous les Ãªtres humains ont leurs limites. Beaucoup de gens ont assistÃ© Ã  sa chute et l'un d'entre eux l'a maudite, ce qui l'a changÃ©e en une crÃ©ature pathÃ©tique, solitaire et dÃ©mente.
 
-Ce composant est une petite mini-quête qui montre exactement ce que Centeol a pu ressentir avant que son destin ne soit scellé. Il permet aussi au personnage principal de créer un poème spécial pour s'assurer qu'elle ne sera jamais oubliée.
+Ce composant est une petite mini-quÃªte qui montre exactement ce que Centeol a pu ressentir avant que son destin ne soit scellÃ©. Il permet aussi au personnage principal de crÃ©er un poÃ¨me spÃ©cial pour s'assurer qu'elle ne sera jamais oubliÃ©e.
 
 
 
@@ -495,14 +495,14 @@ Ce composant est une petite mini-quête qui montre exactement ce que Centeol a pu
 
 Type : rencontre
 Lieu : Ombre-Ville
-Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
+Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
 Restrictions au niveau du personnage principal : aucune
 Variables : Global("RE1_EssentionFlirt","GLOBAL",1) si le personnage principal demande le pouvoir de l'esprit.
 SetGlobal("RE1_EssentionSex","GLOBAL",1) si le personnage principal accepte l'union.
 
-...Tout être possède sa propre ombre,
-Tout être fut conçu d'Essence.
-Faites-leur sentir votre rugissante colère,
+...Tout Ãªtre possÃ¨de sa propre ombre,
+Tout Ãªtre fut conÃ§u d'Essence.
+Faites-leur sentir votre rugissante colÃ¨re,
 Et brisez pour toujours la cage...
 
 ...trouvez-moi, et je vous donnerai le pouvoir...
@@ -513,16 +513,16 @@ Et brisez pour toujours la cage...
 ------------------------------------------------------------------
 
 Type : rencontre
-Lieu : Nord de la Porte de Baldur, A l'extérieur des Trois Chopes
+Lieu : Nord de la Porte de Baldur, A l'extÃ©rieur des Trois Chopes
 Classification : contenu adulte
 Restrictions au niveau du personnage principal : aucune
-Variables : Global("RE1_HarvestmanFlirt","GLOBAL",1) si le personnage principal suit l'homme dans les chambres cachées (à la première visite).
+Variables : Global("RE1_HarvestmanFlirt","GLOBAL",1) si le personnage principal suit l'homme dans les chambres cachÃ©es (Ã  la premiÃ¨re visite).
 Global("RE1_HarvestmanSex","GLOBAL",1) si le personnage principal accepte des relations intimes.
 
 
-Etes-vous amateur de sombres plaisirs ? Etes-vous toujours à la recherche de nouvelles expériences pour vous donner le frisson ? Laissez ces créatures sombres et dangereuses s'occuper de vous... Dites-leur ce que vous voulez. Utilisez-les comme vous le voulez. Prenez-les toutes deux, ou juste une : c'est vous qui fixez les règles.
+Etes-vous amateur de sombres plaisirs ? Etes-vous toujours Ã  la recherche de nouvelles expÃ©riences pour vous donner le frisson ? Laissez ces crÃ©atures sombres et dangereuses s'occuper de vous... Dites-leur ce que vous voulez. Utilisez-les comme vous le voulez. Prenez-les toutes deux, ou juste une : c'est vous qui fixez les rÃ¨gles.
 
-Visitez la Porte de Baldur : il existe maintenant un endroit qui pourrait vous offrir quelque chose de plus que les Caves Souterraines. Cherchez un homme à l'extérieur des Trois Chopes, écoutez son offre et peut-être découvrirez-vous un nouvel endroit bien caché.
+Visitez la Porte de Baldur : il existe maintenant un endroit qui pourrait vous offrir quelque chose de plus que les Caves Souterraines. Cherchez un homme Ã  l'extÃ©rieur des Trois Chopes, Ã©coutez son offre et peut-Ãªtre dÃ©couvrirez-vous un nouvel endroit bien cachÃ©.
 
 
 
@@ -530,45 +530,45 @@ Visitez la Porte de Baldur : il existe maintenant un endroit qui pourrait vous o
 ------------------------------------------------------------------
 
 Type : Dialogue
-Lieu : près de la tente du devin, sur la place du marché au centre de la Porte de Baldur
+Lieu : prÃ¨s de la tente du devin, sur la place du marchÃ© au centre de la Porte de Baldur
 Classification : contenu adulte
-Restrictions au niveau du personnage principal : aucune, contenu spécial pour chaque femme du groupe, y compris pour un personnage principal féminin
+Restrictions au niveau du personnage principal : aucune, contenu spÃ©cial pour chaque femme du groupe, y compris pour un personnage principal fÃ©minin
 
-Une sorte d'équivalent masculin de Molly, le grand Zudini est un devin mais il ne dit la bonne aventure que pour les dames. Cela inclut CHARNAME et 10 jolies PNJs : Alora, Branwen, Dynahéir, Faldorn, Imoen, Jaheira, Safana, Shar-Teel, Skie et Viconia. Vu que beaucoup de ces dames connaîtront une fin horrible dans BG2, ses présages seront plutôt sombres, d'où la classification "adulte". Oh, et n'oubliez pas de vous laver les mains avant de manger ! C'est un conseil toujours utile !
+Une sorte d'Ã©quivalent masculin de Molly, le grand Zudini est un devin mais il ne dit la bonne aventure que pour les dames. Cela inclut CHARNAME et 10 jolies PNJs : Alora, Branwen, DynahÃ©ir, Faldorn, Imoen, Jaheira, Safana, Shar-Teel, Skie et Viconia. Vu que beaucoup de ces dames connaÃ®tront une fin horrible dans BG2, ses prÃ©sages seront plutÃ´t sombres, d'oÃ¹ la classification "adulte". Oh, et n'oubliez pas de vous laver les mains avant de manger ! C'est un conseil toujours utile !
 
 
 
 26. Le messager, par Thimblerig
 ------------------------------------------------------------------
 
-Type : quête
-Lieu : temple d'Oghma à Château-Suif pendant le prologue ; Vestibule du temple de Lathandre (n'importe quel chapitre) ;
+Type : quÃªte
+Lieu : temple d'Oghma Ã  ChÃ¢teau-Suif pendant le prologue ; Vestibule du temple de Lathandre (n'importe quel chapitre) ;
 Classification : tout public
 Restrictions au niveau du personnage principal : aucune
-Interactions avec les PNJs : Imoen possède quelques dialogues, mais sa présence n'est pas nécessaire
-Variables : RE1_Messenger (1 : après avoir rencontré Sapientia, 2 : après avoir accepté la quête de Sapientia, 3 : après avoir rencontré  Blaise, 4 : après avoir accepté la quête de Blaise, 5 : après une mauvaise fin, 6 et 7 : après une bonne fin)
+Interactions avec les PNJs : Imoen possÃ¨de quelques dialogues, mais sa prÃ©sence n'est pas nÃ©cessaire
+Variables : RE1_Messenger (1 : aprÃ¨s avoir rencontrÃ© Sapientia, 2 : aprÃ¨s avoir acceptÃ© la quÃªte de Sapientia, 3 : aprÃ¨s avoir rencontrÃ©  Blaise, 4 : aprÃ¨s avoir acceptÃ© la quÃªte de Blaise, 5 : aprÃ¨s une mauvaise fin, 6 et 7 : aprÃ¨s une bonne fin)
 
-Une résidente âgée de Château-Suif, soeur Sapientia, aimerait faire passer un message à son ami Blaise, prêtre de l'Aube du temple de Lathandre. Un vieil amour peut-il renaître ? Ce composant inclut une douce romance, de l'humour fin et des personnes qui ont connu Charname avant qu'il ou elle ne devienne célèbre.
+Une rÃ©sidente Ã¢gÃ©e de ChÃ¢teau-Suif, soeur Sapientia, aimerait faire passer un message Ã  son ami Blaise, prÃªtre de l'Aube du temple de Lathandre. Un vieil amour peut-il renaÃ®tre ? Ce composant inclut une douce romance, de l'humour fin et des personnes qui ont connu Charname avant qu'il ou elle ne devienne cÃ©lÃ¨bre.
 
 Notes de l'auteur :
-- cette quête n'est pas très ardue, mais il est cependant possible d'avoir une surprise déplaisante.
-- Si vous n'obtenez pas cette quête avec soeur Sapientia, vous pouvez la jouer en partie en allant voir le prêtre de l'Aube Blaise
+- cette quÃªte n'est pas trÃ¨s ardue, mais il est cependant possible d'avoir une surprise dÃ©plaisante.
+- Si vous n'obtenez pas cette quÃªte avec soeur Sapientia, vous pouvez la jouer en partie en allant voir le prÃªtre de l'Aube Blaise
 
 
 
-27. Ender Sai : la récompense du héros, par Thimblerig (AVERTISSEMENT)
+27. Ender Sai : la rÃ©compense du hÃ©ros, par Thimblerig (AVERTISSEMENT)
 ------------------------------------------------------------------
 
-Avertissement : cette rencontre aborde le problème du consentement. Même si au final les parties impliquées resteront libres de leurs choix, le contenu de cette rencontre pourrait choquer certains joueurs.
+Avertissement : cette rencontre aborde le problÃ¨me du consentement. MÃªme si au final les parties impliquÃ©es resteront libres de leurs choix, le contenu de cette rencontre pourrait choquer certains joueurs.
 
 Type : rencontre (extension d'un personnage du jeu original)
 Lieu : auberge de Brasamical, chapitre 4 (il aura disparu au chapitre 5)
-Classification : contenu adolescent - pas de contenu explicite, mais implique une discussion sur la vieille histoire des problèmes de consentement
-Restrictions au niveau du personnage principal : aucune, options de dialogue pour une variété d'alignements
+Classification : contenu adolescent - pas de contenu explicite, mais implique une discussion sur la vieille histoire des problÃ¨mes de consentement
+Restrictions au niveau du personnage principal : aucune, options de dialogue pour une variÃ©tÃ© d'alignements
 Interactions avec les PNJs : discussion avec Jaheira et Khalid
-Variables : RE1_EnderProposal - s'incrémente lorsque vous ou Ender faites une proposition ; RE1_EnderFlirt - si vous allez dans sa chambre ; RE1_EnderSex - si vous passez la nuit avec lui
+Variables : RE1_EnderProposal - s'incrÃ©mente lorsque vous ou Ender faites une proposition ; RE1_EnderFlirt - si vous allez dans sa chambre ; RE1_EnderSex - si vous passez la nuit avec lui
 
-Ender Sai, voleur malin au pied leste, retenu captif dans le camp des bandits de Tazok. Vous l'avez peut-être libéré de ses liens, ou alors il a réussi à survivre d'une manière ou d'une autre. Quoi qu'il en soit, il pense qu'il vous doit beaucoup si sa carcasse est encore en vie, et il veut vous en remercier... Retrouvez-le dans la salle commune de l'auberge de Brasamical, à la gauche du bar, pour discuter, boire et évoquer la récompense du héros. 
+Ender Sai, voleur malin au pied leste, retenu captif dans le camp des bandits de Tazok. Vous l'avez peut-Ãªtre libÃ©rÃ© de ses liens, ou alors il a rÃ©ussi Ã  survivre d'une maniÃ¨re ou d'une autre. Quoi qu'il en soit, il pense qu'il vous doit beaucoup si sa carcasse est encore en vie, et il veut vous en remercier... Retrouvez-le dans la salle commune de l'auberge de Brasamical, Ã  la gauche du bar, pour discuter, boire et Ã©voquer la rÃ©compense du hÃ©ros. 
 
 
 
@@ -576,97 +576,97 @@ Ender Sai, voleur malin au pied leste, retenu captif dans le camp des bandits de
 ------------------------------------------------------------------
 
 Type : rencontre
-Lieu : salle commune de l'auberge de la Lame et des Etoiles, à partir du moment où vous êtes arrivé à la Porte de Baldur ; guilde des voleurs, après le combat au palais ducal ;
+Lieu : salle commune de l'auberge de la Lame et des Etoiles, Ã  partir du moment oÃ¹ vous Ãªtes arrivÃ© Ã  la Porte de Baldur ; guilde des voleurs, aprÃ¨s le combat au palais ducal ;
 Classification : contenu adolescent, quelques phrases un peu suggestives ;
 Restrictions au niveau du personnage principal : aucune ;
-Interactions : Skie, Eldoth, Xan, Imoen et Garrick disposent de quelques interjections mineures, on n'est pas obligé de les avoir dans le groupe ;
-Interactions avec d'autres mods : si le BG1 NPC Project est installé, Ajantis, Branwen, Dynahéir et Shar-Teel (si sa romance est en cours), Coran (s'il flirte avec vous d'une manière ou d'une autre) et Xan (s'il a la malchance de faire partie du groupe) auront peut-être quelque chose à dire ;
-Variables: RE1_KDMeet 5 signifie qu'ils sont d'accord pour écrire un roman en votre honneur ;
+Interactions : Skie, Eldoth, Xan, Imoen et Garrick disposent de quelques interjections mineures, on n'est pas obligÃ© de les avoir dans le groupe ;
+Interactions avec d'autres mods : si le BG1 NPC Project est installÃ©, Ajantis, Branwen, DynahÃ©ir et Shar-Teel (si sa romance est en cours), Coran (s'il flirte avec vous d'une maniÃ¨re ou d'une autre) et Xan (s'il a la malchance de faire partie du groupe) auront peut-Ãªtre quelque chose Ã  dire ;
+Variables: RE1_KDMeet 5 signifie qu'ils sont d'accord pour Ã©crire un roman en votre honneur ;
 
-Devenir célèbre peut avoir ses bons côtés. Pour en bénéficier, discutez avec Kitty et Dai à l'auberge de la Lame et des Etoiles !
+Devenir cÃ©lÃ¨bre peut avoir ses bons cÃ´tÃ©s. Pour en bÃ©nÃ©ficier, discutez avec Kitty et Dai Ã  l'auberge de la Lame et des Etoiles !
 
-Note : Si Kitty et Dai ne savent pas qui vous êtes, montez votre réputation au maximum ou descendez-la au minimum pour ouvrir plus de possibilités de dialogue ; avoir déjà vécu de grandes aventures lors de l'entrevue avec Kitty et Dai vous ouvrira plus d'options au niveau du contenu final. 
+Note : Si Kitty et Dai ne savent pas qui vous Ãªtes, montez votre rÃ©putation au maximum ou descendez-la au minimum pour ouvrir plus de possibilitÃ©s de dialogue ; avoir dÃ©jÃ  vÃ©cu de grandes aventures lors de l'entrevue avec Kitty et Dai vous ouvrira plus d'options au niveau du contenu final. 
 
 
 
-29. Les honnêtes mensonges des Deux Rives, par Lava Del'Vortel
+29. Les honnÃªtes mensonges des Deux Rives, par Lava Del'Vortel
 ------------------------------------------------------------------
 
-Type : quête
-Lieu : Nashkel, de nuit, après avoir entendu une rumeur à ce sujet (du barman ou du prêtre du temple)
+Type : quÃªte
+Lieu : Nashkel, de nuit, aprÃ¨s avoir entendu une rumeur Ã  ce sujet (du barman ou du prÃªtre du temple)
 Classification : contenu adolescent
 Restrictions au niveau du personnage principal : aucune
 Variables : aucune
 
-Il y a des histoires d'amour et de mort. De vie et de haine. Parfois, les deux se mélangent : la mort devient vie éternelle, l'amour devient haine et les mensonges deviennent vérité. Le temps est parfois le pire des tortionnaires.
+Il y a des histoires d'amour et de mort. De vie et de haine. Parfois, les deux se mÃ©langent : la mort devient vie Ã©ternelle, l'amour devient haine et les mensonges deviennent vÃ©ritÃ©. Le temps est parfois le pire des tortionnaires.
 
-Ecoutez deux fantômes très particuliers et décidez si vous souhaitez mettre fin à leur torture, si vous voulez enfin les libérer pour qu'ils puissent se réunir et quitter ensemble ce monde dans lequel ils sont emprisonnés.
+Ecoutez deux fantÃ´mes trÃ¨s particuliers et dÃ©cidez si vous souhaitez mettre fin Ã  leur torture, si vous voulez enfin les libÃ©rer pour qu'ils puissent se rÃ©unir et quitter ensemble ce monde dans lequel ils sont emprisonnÃ©s.
 
 
 
-30. Le dilemme d'un nécromancien, par jastey (AVERTISSEMENT)
+30. Le dilemme d'un nÃ©cromancien, par jastey (AVERTISSEMENT)
 ------------------------------------------------------------------
 
-Avertissement : cette rencontre peut contenir de la violence (non sexuelle) envers un jeune enfant. Bien qu'il soit possible d'éviter complètement cette voie lors de la quête, le contenu peut cependant être désagréable, voire choquant pour certains joueurs.
+Avertissement : cette rencontre peut contenir de la violence (non sexuelle) envers un jeune enfant. Bien qu'il soit possible d'Ã©viter complÃ¨tement cette voie lors de la quÃªte, le contenu peut cependant Ãªtre dÃ©sagrÃ©able, voire choquant pour certains joueurs.
 
-Type : quête
-Lieu : Nord de la Porte de Baldur, maison au toit bleu, tout à fait à droite de la carte. Quêtes secondaires : cimetière de Nashkel, Nord de la Porte de Baldur derrière le temple de Heaum.
+Type : quÃªte
+Lieu : Nord de la Porte de Baldur, maison au toit bleu, tout Ã  fait Ã  droite de la carte. QuÃªtes secondaires : cimetiÃ¨re de Nashkel, Nord de la Porte de Baldur derriÃ¨re le temple de Heaum.
 Classification : contenu adolescent
 Restrictions au niveau du personnage principal : aucune
 Variables : aucune
 
-Des corps de jeunes filles ont été volés sur toute la Côte des Epées ! Un nécromancien est en train de monter une terrifiante armée ! Mais... pourquoi a-t-il besoin de corps de jeunes filles, alors ? Avant que le personnage principal ne se perde en suppositions, le mieux est de fouiller la vieille maison et de découvrir la véritable raison...
+Des corps de jeunes filles ont Ã©tÃ© volÃ©s sur toute la CÃ´te des EpÃ©es ! Un nÃ©cromancien est en train de monter une terrifiante armÃ©e ! Mais... pourquoi a-t-il besoin de corps de jeunes filles, alors ? Avant que le personnage principal ne se perde en suppositions, le mieux est de fouiller la vieille maison et de dÃ©couvrir la vÃ©ritable raison...
 
-Cette quête peut se développer dans différentes directions selon les choix du personnage principal. Vous pouvez aider le nécromancien à terminer sa quête, pour cela, le personnage principal a besoin de sang et il y aura plusieurs possibilités, toutes situées dans le Nord de la Porte de Baldur. Ou alors le convaincre que ce qu'il fait est maléfique, et dans ce cas le personnage principal aura deux quêtes secondaires à résoudre, l'une d'entre elles étant de trouver quoi faire d'une vache à la Porte de Baldur... Elle n'a rien à faire là, alors peut-être y a-t-il une ferme dans les environs qui aurait besoin d'une paire de bras ? Ou peut-être CHARNAME a-t-il envie d'un bon morceau de viande bien juteux ?
+Cette quÃªte peut se dÃ©velopper dans diffÃ©rentes directions selon les choix du personnage principal. Vous pouvez aider le nÃ©cromancien Ã  terminer sa quÃªte, pour cela, le personnage principal a besoin de sang et il y aura plusieurs possibilitÃ©s, toutes situÃ©es dans le Nord de la Porte de Baldur. Ou alors le convaincre que ce qu'il fait est malÃ©fique, et dans ce cas le personnage principal aura deux quÃªtes secondaires Ã  rÃ©soudre, l'une d'entre elles Ã©tant de trouver quoi faire d'une vache Ã  la Porte de Baldur... Elle n'a rien Ã  faire lÃ , alors peut-Ãªtre y a-t-il une ferme dans les environs qui aurait besoin d'une paire de bras ? Ou peut-Ãªtre CHARNAME a-t-il envie d'un bon morceau de viande bien juteux ?
 
-Vous pouvez également amener le sang de la nymphe Abela au nécromancien, mais faites attention car tuer une nymphe occasionne une grosse perte de réputation (ceci fait partie des règles du jeu original, aucun changement n'a été fait par ce mod).
+Vous pouvez Ã©galement amener le sang de la nymphe Abela au nÃ©cromancien, mais faites attention car tuer une nymphe occasionne une grosse perte de rÃ©putation (ceci fait partie des rÃ¨gles du jeu original, aucun changement n'a Ã©tÃ© fait par ce mod).
 
-Note : la quête principale et les quêtes secondaires peuvent encore être menées durant le chapitre 7, mais dans ce cas vous ne recevrez pas de récompense du Poing Enflammé.
+Note : la quÃªte principale et les quÃªtes secondaires peuvent encore Ãªtre menÃ©es durant le chapitre 7, mais dans ce cas vous ne recevrez pas de rÃ©compense du Poing EnflammÃ©.
 
 
 
 31. Un diner avec Thalantyr, par jastey
 ------------------------------------------------------------------
 
-Type : rencontre (quête fedEx, puis extension d'un personnage du jeu original)
-Lieu : après avoir terminé la quête de Melicamp, une nouvelle option de dialogue apparaîtra. Informez-vous sur le livre que Thalantyr recherche, apportez-le lui et vous convaincrez peut-être le grand maître Thalantyr de partager un dîner avec vous.
-Classification : contenu adolescent. Il n'y a même pas de langage cru.
-Variables : RE1_ThalantyrFlirt, si le personnage principal suit Thalantyr dans ses appartements privés
+Type : rencontre (quÃªte fedEx, puis extension d'un personnage du jeu original)
+Lieu : aprÃ¨s avoir terminÃ© la quÃªte de Melicamp, une nouvelle option de dialogue apparaÃ®tra. Informez-vous sur le livre que Thalantyr recherche, apportez-le lui et vous convaincrez peut-Ãªtre le grand maÃ®tre Thalantyr de partager un dÃ®ner avec vous.
+Classification : contenu adolescent. Il n'y a mÃªme pas de langage cru.
+Variables : RE1_ThalantyrFlirt, si le personnage principal suit Thalantyr dans ses appartements privÃ©s
 
-Vous êtes-vous jamais demandé ce qui est arrivé à Thalantyr, le grand maître magicien, ce qui l'a poussé à s'isoler dans une tour gardée par des golems de chair ? Eh bien après ce composant vous ne le saurez toujours pas mais le personnage principal en aura tout de même une meilleure idée ; de plus vous aurez dégusté un bon repas et ressenti la douce fierté d'avoir convaincu un puissant mage solitaire et grognon de partager un dîner avec vous et de lui donner l'étrange satisfaction de servir une aventurière jeune et naïve comme vous !
-Une fois la quête de Melicamp achevée, Thalantyr parlera d'un livre qu'il recherche. Le personnage principal peut lui ramener le livre et si <CHARNAME> refuse d'être récompensé en pièces d'or, le puissant (et plutôt grognon) mage devra trouver quelque chose d'autre à offrir en retour !... 
+Vous Ãªtes-vous jamais demandÃ© ce qui est arrivÃ© Ã  Thalantyr, le grand maÃ®tre magicien, ce qui l'a poussÃ© Ã  s'isoler dans une tour gardÃ©e par des golems de chair ? Eh bien aprÃ¨s ce composant vous ne le saurez toujours pas mais le personnage principal en aura tout de mÃªme une meilleure idÃ©e ; de plus vous aurez dÃ©gustÃ© un bon repas et ressenti la douce fiertÃ© d'avoir convaincu un puissant mage solitaire et grognon de partager un dÃ®ner avec vous et de lui donner l'Ã©trange satisfaction de servir une aventuriÃ¨re jeune et naÃ¯ve comme vous !
+Une fois la quÃªte de Melicamp achevÃ©e, Thalantyr parlera d'un livre qu'il recherche. Le personnage principal peut lui ramener le livre et si <CHARNAME> refuse d'Ãªtre rÃ©compensÃ© en piÃ¨ces d'or, le puissant (et plutÃ´t grognon) mage devra trouver quelque chose d'autre Ã  offrir en retour !... 
 
-Depuis la version 1.4, ce composant a été élargi par "une partie d'échecs avec Thalantyr" : après avoir partagé le dîner, parlez à nouveau à Thalantyr pour obtenir une invitation à une partie d'échecs avec le puissant vieux mage. Bien sûr, cette perspective ne l'enthousiasmera guère. Et d'ailleurs une des pièces du jeu d'échecs manque et devrait être remplacée...  
+Depuis la version 1.4, ce composant a Ã©tÃ© Ã©largi par "une partie d'Ã©checs avec Thalantyr" : aprÃ¨s avoir partagÃ© le dÃ®ner, parlez Ã  nouveau Ã  Thalantyr pour obtenir une invitation Ã  une partie d'Ã©checs avec le puissant vieux mage. Bien sÃ»r, cette perspective ne l'enthousiasmera guÃ¨re. Et d'ailleurs une des piÃ¨ces du jeu d'Ã©checs manque et devrait Ãªtre remplacÃ©e...  
 
 Note : ***spoiler***
-Le livre en question se trouve dans la maison de Ragevite. Il acceptera de le donner si on le lui demande et ne verra pas d'objection à ce que le personnage principal le prenne. Pour la pièce du jeu d'échecs, le mod crée un menuisier au festival de Nashkel. L'ivoire nécessaire peut être trouvée dans l'épave.
+Le livre en question se trouve dans la maison de Ragevite. Il acceptera de le donner si on le lui demande et ne verra pas d'objection Ã  ce que le personnage principal le prenne. Pour la piÃ¨ce du jeu d'Ã©checs, le mod crÃ©e un menuisier au festival de Nashkel. L'ivoire nÃ©cessaire peut Ãªtre trouvÃ©e dans l'Ã©pave.
 
 
 
-32. Ceinture de changement de sexe et réactions, par Thimblerig, Kulyok, Domi, Lava, Lastknightleft, Twani, Jastey, et Daisy Ninja Girl
+32. Ceinture de changement de sexe et rÃ©actions, par Thimblerig, Kulyok, Domi, Lava, Lastknightleft, Twani, Jastey, et Daisy Ninja Girl
 ------------------------------------------------------------------
 
 Type : Dialogue
-Lieu : se déclenche lorsqu'un personnage porte la ceinture maudite de changement de sexe
-Classification : tout public, uniquement des dialogues, certains textes sont parfois un tout petit peu évocateurs mais restent lisibles par un enfant
-Variables: "RE1_GirdleGender#NPC#" (lorsqu'un personnage s'équipe de la ceinture);"RE1_Girdle#NPC#PCDidIt" (lorsque les autres personnages remarquent que l'un des personnages en est équipé) ; "RE1_PCGender" (pour BG1 de base seulement : 1 pour une femme, 2 pour un homme)
+Lieu : se dÃ©clenche lorsqu'un personnage porte la ceinture maudite de changement de sexe
+Classification : tout public, uniquement des dialogues, certains textes sont parfois un tout petit peu Ã©vocateurs mais restent lisibles par un enfant
+Variables: "RE1_GirdleGender#NPC#" (lorsqu'un personnage s'Ã©quipe de la ceinture);"RE1_Girdle#NPC#PCDidIt" (lorsque les autres personnages remarquent que l'un des personnages en est Ã©quipÃ©) ; "RE1_PCGender" (pour BG1 de base seulement : 1 pour une femme, 2 pour un homme)
 
-La ceinture de l'ogre, ceinture maudite, cause de l'apparition soudaine de nouveaux organes génitaux : ceci pourrait créer un choc pour certains personnages. D'autres pourraient être intrigués, peut-être que cela leur rappellera des aventures passées... Ce composant leur permet de donner leur avis à ce sujet.
+La ceinture de l'ogre, ceinture maudite, cause de l'apparition soudaine de nouveaux organes gÃ©nitaux : ceci pourrait crÃ©er un choc pour certains personnages. D'autres pourraient Ãªtre intriguÃ©s, peut-Ãªtre que cela leur rappellera des aventures passÃ©es... Ce composant leur permet de donner leur avis Ã  ce sujet.
 
 Contenu du mod :
 
-- Des réponses pour presque tous les PNJs qui s'équipent avec la ceinture (sauf Ajantis, Edwin et Shar-Teel - voir notes de fin) ;
-- Des réponses de la part des PNJs si le personnage principal décide de la porter ;
-- Une version peu chère du sort de délivrance de la malédiction, pour les personnages souhaitant jouer le rôle de cobaye : parlez à  Gellana Ombremiroir (auberge de Brasamical) avec la ceinture dans votre inventaire si vous souhaitez tester sa solution.
+- Des rÃ©ponses pour presque tous les PNJs qui s'Ã©quipent avec la ceinture (sauf Ajantis, Edwin et Shar-Teel - voir notes de fin) ;
+- Des rÃ©ponses de la part des PNJs si le personnage principal dÃ©cide de la porter ;
+- Une version peu chÃ¨re du sort de dÃ©livrance de la malÃ©diction, pour les personnages souhaitant jouer le rÃ´le de cobaye : parlez Ã   Gellana Ombremiroir (auberge de Brasamical) avec la ceinture dans votre inventaire si vous souhaitez tester sa solution.
 
-Réactions des PNJs qui s'équipent de la ceinture :
+RÃ©actions des PNJs qui s'Ã©quipent de la ceinture :
 
 Alora - pas d'interjections - par Thimblerig
 Baeloth - pas d'interjections - par Jastey
 Branwen - pas d'interjections - par Kulyok
 Coran - pas d'interjections - par Domi
 Dorn - pas d'interjections - par Twani and Thimblerig 
-Dynahéir - pas d'interjections - par Thimblerig
+DynahÃ©ir - pas d'interjections - par Thimblerig
 Eldoth - interjection avec Skie - par Kulyok
 Faldorn - pas d'interjections - par Domi
 Garrick - interjections avec Eldoth et Skie - par Thimblerig
@@ -675,86 +675,86 @@ Jaheira - interjection avec Khalid - par Thimblerig
 Kagain - pas d'interjections - par Thimblerig
 Khalid - interjection avec Jaheira - par Thimblerig
 Kivan - pas d'interjections - par Domi
-Minsc - interjections avec Alora, Branwen, Dynahéir, Faldorn, Imoen, Jaheira, Neera, Safana, Skie, Shar-Teel et Viconia - par Thimblerig, avec Kulyok, Jastey, et DaisyNinjaGirl
+Minsc - interjections avec Alora, Branwen, DynahÃ©ir, Faldorn, Imoen, Jaheira, Neera, Safana, Skie, Shar-Teel et Viconia - par Thimblerig, avec Kulyok, Jastey, et DaisyNinjaGirl
 Montaron - pas d'interjections - par Thimblerig
 Neera - pas d'interjections - par Jastey et Twani 
 Quayle - interjection avec Tiax - par Lava
 Rasaad - pas d'interjections - par Twani 
 Safana - pas d'interjections - par Thimblerig
 Skie - interjections avec Eldoth et Garrick - par Lava, avec Thimblerig
-Tiax - pas d'interjections, contenu supplémentaire s'il garde la ceinture quelques temps - par Lastknightleft
+Tiax - pas d'interjections, contenu supplÃ©mentaire s'il garde la ceinture quelques temps - par Lastknightleft
 Tiax-Safana discussion - par Lastknightleft
 Viconia - pas d'interjections - par Thimblerig et Jastey
 Xan - pas d'interjections - par Kulyok
 Yeslick - pas d'interjections - par Thimblerig
 
 
-Réactions des PNJs si le personnage principal s'équipe de la ceinture :
+RÃ©actions des PNJs si le personnage principal s'Ã©quipe de la ceinture :
 
-Baeloth - F à M ; M à F - par Jastey 
-Branwen - F à M ; M à F - par Kulyok
-Coran - F à M ; M à F ; romance - divers textes par Domi ou Thimblerig
+Baeloth - F Ã  M ; M Ã  F - par Jastey 
+Branwen - F Ã  M ; M Ã  F - par Kulyok
+Coran - F Ã  M ; M Ã  F ; romance - divers textes par Domi ou Thimblerig
 Dorn - entier - par Jastey
-Dynahéir - F à M ; M à F ; romance - par Domi
-Faldorn - F à M - par Domi
-Garrick - F à M ; M à F - par Domi
-Imoen - F à M ; M à F - par Thimblerig
+DynahÃ©ir - F Ã  M ; M Ã  F ; romance - par Domi
+Faldorn - F Ã  M - par Domi
+Garrick - F Ã  M ; M Ã  F - par Domi
+Imoen - F Ã  M ; M Ã  F - par Thimblerig
 Jaheira - entier - par Domi
 Kagain - entier, interjection avec Yeslick - par Thimblerig
 Khalid - entier - par Thimblerig
-Kivan - F à M ; M à F - par Domi et Thimblerig
-Neera - F à M ; M à F - par Jastey et Twani
-Rasaad - F à M ; M à F - par Jastey
-Safana - F à M - par Domi
-Shar-Teel - F à M - par Domi
-Skie - F à M, si le personnage principal possède un score de charisme suffisant - par Thimblerig
+Kivan - F Ã  M ; M Ã  F - par Domi et Thimblerig
+Neera - F Ã  M ; M Ã  F - par Jastey et Twani
+Rasaad - F Ã  M ; M Ã  F - par Jastey
+Safana - F Ã  M - par Domi
+Shar-Teel - F Ã  M - par Domi
+Skie - F Ã  M, si le personnage principal possÃ¨de un score de charisme suffisant - par Thimblerig
 Xan - entier - par Kulyok
 
 Notes :
 
-- Ajantis, Edwin et Shar-Teel ont déjà des réactions dans le BG1 NPC Project, et ne sont donc pas traités ici. (Au cours de sa romance du BG1 NPC, Ajantis aura aussi quelque chose à dire si le personnage principal s'équipe de la ceinture.)
+- Ajantis, Edwin et Shar-Teel ont dÃ©jÃ  des rÃ©actions dans le BG1 NPC Project, et ne sont donc pas traitÃ©s ici. (Au cours de sa romance du BG1 NPC, Ajantis aura aussi quelque chose Ã  dire si le personnage principal s'Ã©quipe de la ceinture.)
 
-- Pour les joueurs du BG1 standard (ou "de base") : si vous installez ce mod pendant une partie, les PNJs ne remarqueront pas que le personnage principal porte la ceinture, sauf si vous réglez manuellement la variable Global "RE1_PCGender" à 1 pour un personnage principal féminin et 2 pour un personnage principal masculin.
+- Pour les joueurs du BG1 standard (ou "de base") : si vous installez ce mod pendant une partie, les PNJs ne remarqueront pas que le personnage principal porte la ceinture, sauf si vous rÃ©glez manuellement la variable Global "RE1_PCGender" Ã  1 pour un personnage principal fÃ©minin et 2 pour un personnage principal masculin.
 
-- Si vous utilisez le mod BG1 NPC Project (version 20 ou inférieure), soyez conscient qu'équiper le personnage principal de la ceinture risque de déclencher des romances avec des PNJs "du même sexe". Ceci est dû au code du BG1 NPC, jouer avec cette ceinture a de grandes chances de déclencher ce genre de situation.
+- Si vous utilisez le mod BG1 NPC Project (version 20 ou infÃ©rieure), soyez conscient qu'Ã©quiper le personnage principal de la ceinture risque de dÃ©clencher des romances avec des PNJs "du mÃªme sexe". Ceci est dÃ» au code du BG1 NPC, jouer avec cette ceinture a de grandes chances de dÃ©clencher ce genre de situation.
 
 Codage : Thimblerig, Jastey, Kulyok, Lava et Berelinde
 
 
 
 
-33. Le rêve du guérisseur, Kulyok
+33. Le rÃªve du guÃ©risseur, Kulyok
 ------------------------------------------------------------------
 
 Type : rencontre (extension d'un personnage du jeu original)
-Lieu : Côte de l'épave (ouest de Haute Haie)
-Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
-Restrictions au niveau du personnage principal : personnage principal féminin
-Variables : RE1_SurgeonFlirt, si vous choisissez de suivre le guérisseur ; RE1_SurgeonSex, si vous choisissez de vous engager dans une relation intime
+Lieu : CÃ´te de l'Ã©pave (ouest de Haute Haie)
+Classification : contenu adolescent (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
+Restrictions au niveau du personnage principal : personnage principal fÃ©minin
+Variables : RE1_SurgeonFlirt, si vous choisissez de suivre le guÃ©risseur ; RE1_SurgeonSex, si vous choisissez de vous engager dans une relation intime
 
-Un guérisseur solitaire sur une plage maudite. Un homme qui se sent coupable de ne pas avoir empêché son frère Davaeorn de devenir un esclavagiste et un assassin, et fait pénitence en soignant les aventuriers de passage. Parmi eux une certaine jeune femme qui, même si elle ne le sait pas forcément, est peut-être dans une situation similaire... Se croiseront-ils sans se remarquer ? Ou sera-ce le coup de foudre entre eux ?
+Un guÃ©risseur solitaire sur une plage maudite. Un homme qui se sent coupable de ne pas avoir empÃªchÃ© son frÃ¨re Davaeorn de devenir un esclavagiste et un assassin, et fait pÃ©nitence en soignant les aventuriers de passage. Parmi eux une certaine jeune femme qui, mÃªme si elle ne le sait pas forcÃ©ment, est peut-Ãªtre dans une situation similaire... Se croiseront-ils sans se remarquer ? Ou sera-ce le coup de foudre entre eux ?
 
-A vous de parler au guérisseur et de décider. Mais faites attention, vous n'aurez qu'une seule chance. Sinon il se contentera de soigner votre groupe et disparaîtra pour toujours.
+A vous de parler au guÃ©risseur et de dÃ©cider. Mais faites attention, vous n'aurez qu'une seule chance. Sinon il se contentera de soigner votre groupe et disparaÃ®tra pour toujours.
 
-ATTENTION : cette rencontre ne se déclenche que si vous demandez au guérisseur de parler de lui (dernière option) ! Si vous êtes seulement d'accord pour les soins, il partira ! 
-
-
+ATTENTION : cette rencontre ne se dÃ©clenche que si vous demandez au guÃ©risseur de parler de lui (derniÃ¨re option) ! Si vous Ãªtes seulement d'accord pour les soins, il partira ! 
 
 
-34. Ce qu'était Gauche, par Lava Del'Vortel et Thimblerig
+
+
+34. Ce qu'Ã©tait Gauche, par Lava Del'Vortel et Thimblerig
 ------------------------------------------------------------------
 
 Type : rencontre
-Lieu : à côté de la maison inondée, près de la route au sud de Bérégost ; entre chaque conversation, Gauche disparaîtra de un à trois jours
+Lieu : Ã  cÃ´tÃ© de la maison inondÃ©e, prÃ¨s de la route au sud de BÃ©rÃ©gost ; entre chaque conversation, Gauche disparaÃ®tra de un Ã  trois jours
 Classification : contenu adolescent, fondu au noir lorsque les situations deviennent intimes
 Restrictions au niveau du personnage principal : aucune
 Variables : RE1_LeftFlirt, si Gauche vous fait une proposition ; RE1_LeftSex, si le personnage principal accepte
 
-Avez-vous déjà entendu parler d'un sorcier mâle ? En avez-vous déjà rencontré un dans la forêt ? Vous êtes-vous déjà demandé pourquoi ils sont liés à ce point à leur sanctuaire ?
+Avez-vous dÃ©jÃ  entendu parler d'un sorcier mÃ¢le ? En avez-vous dÃ©jÃ  rencontrÃ© un dans la forÃªt ? Vous Ãªtes-vous dÃ©jÃ  demandÃ© pourquoi ils sont liÃ©s Ã  ce point Ã  leur sanctuaire ?
 
-Rencontrez Gauche – un homme mystérieux qui habite à côté d'une maison en ruines, qui voit des choses que personne d'autre ne peut voir, et dont les histoires vous surprendront. Rendez-lui visite de temps en temps si vous souhaitez en savoir plus à son sujet, ou alors abandonnez-le à son sort.
+Rencontrez Gauche â€“ un homme mystÃ©rieux qui habite Ã  cÃ´tÃ© d'une maison en ruines, qui voit des choses que personne d'autre ne peut voir, et dont les histoires vous surprendront. Rendez-lui visite de temps en temps si vous souhaitez en savoir plus Ã  son sujet, ou alors abandonnez-le Ã  son sort.
 
-Ce composant apporte dix discussions qui permettront au personnage principal de développer une relation avec le sorcier et de découvrir ses secrets. 
+Ce composant apporte dix discussions qui permettront au personnage principal de dÃ©velopper une relation avec le sorcier et de dÃ©couvrir ses secrets. 
 
 
 
@@ -762,18 +762,18 @@ Ce composant apporte dix discussions qui permettront au personnage principal de 
 ------------------------------------------------------------------
 
 Type : rencontre
-Lieu : Château-Suif, prologue et partie finale de l'aventure
+Lieu : ChÃ¢teau-Suif, prologue et partie finale de l'aventure
 Classification : contenu adolescent
 Restrictions au niveau du personnage principal : aucune
 Variables : aucune
 
-Et si vous aviez un autre bon ami d'enfance à Château-Suif ? Alec, initié d'Oghma, ne va pas devenir votre compagnon à plein temps mais il a de quoi vous raconter quelques histoires. Ce composant apporte cinq conversations :
-1) durant le prologue, près de l'auberge de Château-Suif ;
-2) durant le prologue, près du temple d'Oghma ;
-3) durant le prologue, à l'ouest des baraquements (allez-y de nuit si vous voulez profiter vraiment de l'ambiance) ;
-4) durant la partie finale de l'aventure, près de l'entrée de la bibliothèque ;
-5) durant la partie finale de l'aventure, à l'auberge de Château-Suif.
-Vous pouvez couper court à la conversation quand vous le souhaitez. Toutefois cela mettra fin à la rencontre. Et vous raterez l'histoire des chaussettes !
+Et si vous aviez un autre bon ami d'enfance Ã  ChÃ¢teau-Suif ? Alec, initiÃ© d'Oghma, ne va pas devenir votre compagnon Ã  plein temps mais il a de quoi vous raconter quelques histoires. Ce composant apporte cinq conversations :
+1) durant le prologue, prÃ¨s de l'auberge de ChÃ¢teau-Suif ;
+2) durant le prologue, prÃ¨s du temple d'Oghma ;
+3) durant le prologue, Ã  l'ouest des baraquements (allez-y de nuit si vous voulez profiter vraiment de l'ambiance) ;
+4) durant la partie finale de l'aventure, prÃ¨s de l'entrÃ©e de la bibliothÃ¨que ;
+5) durant la partie finale de l'aventure, Ã  l'auberge de ChÃ¢teau-Suif.
+Vous pouvez couper court Ã  la conversation quand vous le souhaitez. Toutefois cela mettra fin Ã  la rencontre. Et vous raterez l'histoire des chaussettes !
 
 
 
@@ -781,14 +781,14 @@ Vous pouvez couper court à la conversation quand vous le souhaitez. Toutefois ce
 ------------------------------------------------------------------
 
 Type : rencontre
-Lieu : Bérégost, Jongleur Jovial, à gauche de la porte, dans le coin
+Lieu : BÃ©rÃ©gost, Jongleur Jovial, Ã  gauche de la porte, dans le coin
 Classification : contenu adolescent (langage un peu suggestif, mais rien d'explicite)
 Restrictions au niveau du personnage principal : personnage principal masculin
 Variables : RE1_ArleneSex, si vous acceptez la relation sexuelle
 
-Il y a largement assez de prostituées à Bérégost, mais hélas aucune d'entre elle n'accepte d'offrir ses... hum, services à un grand garçon fraîchement sorti de Château-Suif. Ce composant apporte justement une femme qui, elle, n'y voit pas d'inconvénient. Arlene est donc une "travailleuse", et elle se fera une joie de vous faire découvrir des plaisirs interdits. Ce composant ajoute dix mini-rencontres que vous pouvez déclencher à n'importe quel moment de la partie.
+Il y a largement assez de prostituÃ©es Ã  BÃ©rÃ©gost, mais hÃ©las aucune d'entre elle n'accepte d'offrir ses... hum, services Ã  un grand garÃ§on fraÃ®chement sorti de ChÃ¢teau-Suif. Ce composant apporte justement une femme qui, elle, n'y voit pas d'inconvÃ©nient. Arlene est donc une "travailleuse", et elle se fera une joie de vous faire dÃ©couvrir des plaisirs interdits. Ce composant ajoute dix mini-rencontres que vous pouvez dÃ©clencher Ã  n'importe quel moment de la partie.
 
-Avertissement : neuf de ces rencontres nécessitent de payer 40 pièces d'or pour la nuit. Il faut bien qu'Arlene gagne sa vie, après tout.
+Avertissement : neuf de ces rencontres nÃ©cessitent de payer 40 piÃ¨ces d'or pour la nuit. Il faut bien qu'Arlene gagne sa vie, aprÃ¨s tout.
 
 
 
@@ -796,33 +796,33 @@ Avertissement : neuf de ces rencontres nécessitent de payer 40 pièces d'or pour 
 ------------------------------------------------------------------
 
 Type : rencontre
-Lieu : bois aux araignées, à l'est du bois de Lars. Au sud du camp des mages rouges, près d'un grand sapin.
+Lieu : bois aux araignÃ©es, Ã  l'est du bois de Lars. Au sud du camp des mages rouges, prÃ¨s d'un grand sapin.
 Classification : contenu adolescent (langage un peu suggestif, mais rien d'explicite)
 Restrictions au niveau du personnage principal : personnage principal masculin
 Variables: RE1_DellaFlirt, si vous acceptez de suivre Della,
 RE1_DellaSex, si vous acceptez sa proposition.
 
-Ce n'est pas tous les jours qu'un jeune mage rouge tente de vous tuer, particulièrement si ce mage est une femme. On savait déjà que notre héros intéressait énormément de nombreux chasseurs de primes, mais l'intérêt que vous porte Della est particulier. Si vous lui demandez, elle vous en dira peut-être plus. Mais pour l'instant, une seule chose vous intéresse : elle est une représentante de Thay, et on lui a donné l'ordre de vous tuer. Même si elle n'en a vraiment vraiment vraiment pas envie...
+Ce n'est pas tous les jours qu'un jeune mage rouge tente de vous tuer, particuliÃ¨rement si ce mage est une femme. On savait dÃ©jÃ  que notre hÃ©ros intÃ©ressait Ã©normÃ©ment de nombreux chasseurs de primes, mais l'intÃ©rÃªt que vous porte Della est particulier. Si vous lui demandez, elle vous en dira peut-Ãªtre plus. Mais pour l'instant, une seule chose vous intÃ©resse : elle est une reprÃ©sentante de Thay, et on lui a donnÃ© l'ordre de vous tuer. MÃªme si elle n'en a vraiment vraiment vraiment pas envie...
 
-Edwin échange également quelques mots avec elle. Les collègues de Denak dans la forêt des Araignées sont évoqués, mais ils ne participent pas à cette rencontre. Et heureusement.
+Edwin Ã©change Ã©galement quelques mots avec elle. Les collÃ¨gues de Denak dans la forÃªt des AraignÃ©es sont Ã©voquÃ©s, mais ils ne participent pas Ã  cette rencontre. Et heureusement.
 
-Attention : Della vous attaquera si vous coupez court à la discussion. On l'a envoyée pour vous tuer, après tout.
+Attention : Della vous attaquera si vous coupez court Ã  la discussion. On l'a envoyÃ©e pour vous tuer, aprÃ¨s tout.
 
 
 
-38.  Un garde dépravé à Château-Suif, par Kulyok (contenu adulte - AVERTISSEMENT)
+38.  Un garde dÃ©pravÃ© Ã  ChÃ¢teau-Suif, par Kulyok (contenu adulte - AVERTISSEMENT)
 ------------------------------------------------------------------
 
-Avertissement : cette rencontre contient des tentatives d'actes sexuels forcés sur le personnage principal. Même si au final les parties impliquées resteront libres de leurs choix, le contenu de cette rencontre pourrait choquer certains joueurs.
+Avertissement : cette rencontre contient des tentatives d'actes sexuels forcÃ©s sur le personnage principal. MÃªme si au final les parties impliquÃ©es resteront libres de leurs choix, le contenu de cette rencontre pourrait choquer certains joueurs.
 
 Type : rencontre
-Lieu : prologue, Château-Suif, premier étage, si vous volez la perle dans la deuxième chambre (en comptant à partir des escaliers, coffre fermé)
+Lieu : prologue, ChÃ¢teau-Suif, premier Ã©tage, si vous volez la perle dans la deuxiÃ¨me chambre (en comptant Ã  partir des escaliers, coffre fermÃ©)
 Classification : contenu adulte
-Restrictions au niveau du personnage principal : personnage principal féminin
+Restrictions au niveau du personnage principal : personnage principal fÃ©minin
 Variables : RE1_DirtyGuardWhipping, si le garde punit le personnage principal,
-RE1_DirtyGuardSex, si l'héroïne accepte d'aller plus loin
+RE1_DirtyGuardSex, si l'hÃ©roÃ¯ne accepte d'aller plus loin
 
-Cette rencontre n'est recommandée que si vous aimez les jeux de rôle du genre "un garde corrompu prend sur le fait une voleuse et décide de la punir lui-même, et cette femme demande à être punie pour éviter de se faire arrêter. L'héroïne peut cesser ce "jeu" à n'importe quel moment, et le garde ne la harcèlera pas ou ne la menacera pas au-delà du fait de révéler son larcin aux autorités (et dans ce cas il est probable qu'elle ne serait pas punie et ne recevrait qu'un avertissement), mais soyez bien conscient que cette rencontre implique une séance de coups de fouet et des dialogues très crus. Il y a aussi possibilité d'acte sexuel, mais uniquement si l'héroïne y consent.
+Cette rencontre n'est recommandÃ©e que si vous aimez les jeux de rÃ´le du genre "un garde corrompu prend sur le fait une voleuse et dÃ©cide de la punir lui-mÃªme, et cette femme demande Ã  Ãªtre punie pour Ã©viter de se faire arrÃªter. L'hÃ©roÃ¯ne peut cesser ce "jeu" Ã  n'importe quel moment, et le garde ne la harcÃ¨lera pas ou ne la menacera pas au-delÃ  du fait de rÃ©vÃ©ler son larcin aux autoritÃ©s (et dans ce cas il est probable qu'elle ne serait pas punie et ne recevrait qu'un avertissement), mais soyez bien conscient que cette rencontre implique une sÃ©ance de coups de fouet et des dialogues trÃ¨s crus. Il y a aussi possibilitÃ© d'acte sexuel, mais uniquement si l'hÃ©roÃ¯ne y consent.
 
 
 
@@ -832,14 +832,14 @@ Cette rencontre n'est recommandée que si vous aimez les jeux de rôle du genre "u
 Type : rencontre (extension d'un personnage du jeu original)
 Lieu : Nashkel, si vous cliquez sur la tombe avec le texte "Mark D" inscrit
 Classification : contenu adulte
-Restrictions au niveau du personnage principal : personnage principal féminin
+Restrictions au niveau du personnage principal : personnage principal fÃ©minin
 Variables : RE1_PhoenixFlirt, si vous acceptez de suivre le magicien ;
 RE1_PhoenixSex, si vous acceptez la relation intime ;
-RE1_PhoenixRitual, si vous exécutez le rituel jusqu'au bout.
+RE1_PhoenixRitual, si vous exÃ©cutez le rituel jusqu'au bout.
 
-Il y a ce magicien au cimetière de Nashkel... celui qui convoque ses gardes du Phoenix. Il y a anguille sous roche, n'est-ce pas ? Quelque chose de particulièrement intéressant ? Mais quoi ? Et s'il pouvait vous accorder la promesse d'une vie éternelle - au prix d'un dangereux rituel ? Rituel qui impliquerait des... relations intimes ?
+Il y a ce magicien au cimetiÃ¨re de Nashkel... celui qui convoque ses gardes du Phoenix. Il y a anguille sous roche, n'est-ce pas ? Quelque chose de particuliÃ¨rement intÃ©ressant ? Mais quoi ? Et s'il pouvait vous accorder la promesse d'une vie Ã©ternelle - au prix d'un dangereux rituel ? Rituel qui impliquerait des... relations intimes ?
 
-Il n'y a qu'une seule manière de le savoir... 
+Il n'y a qu'une seule maniÃ¨re de le savoir... 
 
 
 
@@ -847,98 +847,98 @@ Il n'y a qu'une seule manière de le savoir...
 ------------------------------------------------------------------
 
 Type : rencontre
-Lieu : Nashkel, le Dragon qui Rote, après avoir nettoyé les mines de Nashkel (chapitre 3 ou plus)
-Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
-Restrictions au niveau du personnage principal : personnage principal féminin (humaine, elfe, demi-elfe, demi-orque (sauf pour BG1))
+Lieu : Nashkel, le Dragon qui Rote, aprÃ¨s avoir nettoyÃ© les mines de Nashkel (chapitre 3 ou plus)
+Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions trÃ¨s explicites)
+Restrictions au niveau du personnage principal : personnage principal fÃ©minin (humaine, elfe, demi-elfe, demi-orque (sauf pour BG1))
 Variables : RE1_MikalaFlirt = 1, si vous partagez un verre de vin avec elle ;
 RE1_MikalaSex = 1, si vous acceptez une relation intime ;
 
-L'héroïne de Nashkel. Un titre bien gagné après tous les efforts de notre héroïne pour faire cesser la crise du fer. Une femme vous attend au Dragon qui Rote, et elle a très envie de rencontrer la personne qui a sauvé les mines... Rejoignez-la, prenez un verre, qui sait jusqu'où cela ira...
+L'hÃ©roÃ¯ne de Nashkel. Un titre bien gagnÃ© aprÃ¨s tous les efforts de notre hÃ©roÃ¯ne pour faire cesser la crise du fer. Une femme vous attend au Dragon qui Rote, et elle a trÃ¨s envie de rencontrer la personne qui a sauvÃ© les mines... Rejoignez-la, prenez un verre, qui sait jusqu'oÃ¹ cela ira...
 
 
 
 41.  Le messager 2 : pluie, neige et noirceur de la nuit, par Thimblerig et tibicina
 ------------------------------------------------------------------
 
-Type : quête
-Lieu : Voie Côtière
+Type : quÃªte
+Lieu : Voie CÃ´tiÃ¨re
 Classification : tout public. Un peu d'humour noir pendant les dialogues avec Bartleby.
 Restrictions au niveau du personnage principal : aucune
-Variables : "RE1_RainSnow" fait apparaître le messager et compte aussi le nombre de lettres livrées
+Variables : "RE1_RainSnow" fait apparaÃ®tre le messager et compte aussi le nombre de lettres livrÃ©es
 
-Ni la pluie, ni la neige, ni la noirceur de la nuit ne peuvent empêcher un messager de la guilde des Long-Marcheurs d'accomplir sa mission... mais un attaque de bandits, si. Sur la Voie Côtière, un petit-homme mourant veut que vous livriez les missives de son dernier sac de courrier : de l'amour, du rire et du chagrin pour quelques habitants de la Côte des Epées.
+Ni la pluie, ni la neige, ni la noirceur de la nuit ne peuvent empÃªcher un messager de la guilde des Long-Marcheurs d'accomplir sa mission... mais un attaque de bandits, si. Sur la Voie CÃ´tiÃ¨re, un petit-homme mourant veut que vous livriez les missives de son dernier sac de courrier : de l'amour, du rire et du chagrin pour quelques habitants de la CÃ´te des EpÃ©es.
 
-(Quelques récompenses mineures pour chaque lettre livrée à son destinataire, et quelque chose de plus si vous les livrez toutes.)
+(Quelques rÃ©compenses mineures pour chaque lettre livrÃ©e Ã  son destinataire, et quelque chose de plus si vous les livrez toutes.)
 
 *
 *
 *
 
-Si vous êtes bloqué, cherchez :
-- Bartleby Piedleste sur la Voie Côtière, près d'une caravane détruite ;
-- Erable Saule Tremblotte, premier étage de la taverne Lames et Etoiles, sud-est de la Porte de Baldur ;
-- Garrick, à Bérégost s'il n'est pas membre de votre groupe ; un dialogue apparaît si vous l'écartez du groupe ;
-- Nessie, à l'auberge de Brasamical ;
-- Perleflamme Cheveux-d'Elfe, dans sa maison à Bérégost ;
-- Skie, lors de votre première rencontre si elle n'est pas membre de votre groupe ; un autre dialogue suit ;
-- Stephan, dans les mines de Bois-Manteau après avoir tué Davaeorn, puis à la taverne du Chant de l'Elfe ; Alyth, à la taverne du Chant de l'Elfe ;
+Si vous Ãªtes bloquÃ©, cherchez :
+- Bartleby Piedleste sur la Voie CÃ´tiÃ¨re, prÃ¨s d'une caravane dÃ©truite ;
+- Erable Saule Tremblotte, premier Ã©tage de la taverne Lames et Etoiles, sud-est de la Porte de Baldur ;
+- Garrick, Ã  BÃ©rÃ©gost s'il n'est pas membre de votre groupe ; un dialogue apparaÃ®t si vous l'Ã©cartez du groupe ;
+- Nessie, Ã  l'auberge de Brasamical ;
+- Perleflamme Cheveux-d'Elfe, dans sa maison Ã  BÃ©rÃ©gost ;
+- Skie, lors de votre premiÃ¨re rencontre si elle n'est pas membre de votre groupe ; un autre dialogue suit ;
+- Stephan, dans les mines de Bois-Manteau aprÃ¨s avoir tuÃ© Davaeorn, puis Ã  la taverne du Chant de l'Elfe ; Alyth, Ã  la taverne du Chant de l'Elfe ;
 - Silence, au magasin du Silence, dans l'est de la Porte de Baldur ;
-- Le fantôme de Bartleby devrait apparaître après que vous ayez livré la dernière lettre.
+- Le fantÃ´me de Bartleby devrait apparaÃ®tre aprÃ¨s que vous ayez livrÃ© la derniÃ¨re lettre.
 
 
 
 42.  Camryn et Tamah, par tibicina
 ------------------------------------------------------------------
 
-Type : quête
-Lieu : Château-Suif, lorsque vous ramenez son livre à Phlydia ; Tamah est dans le jardin de Mutamin (un parchemin de transmutation de la pierre en chair est requis)
-Classification : tout public. Pour la version adolescente, trois lettres avec un contenu un peu suggestif ne seront pas utilisées.
+Type : quÃªte
+Lieu : ChÃ¢teau-Suif, lorsque vous ramenez son livre Ã  Phlydia ; Tamah est dans le jardin de Mutamin (un parchemin de transmutation de la pierre en chair est requis)
+Classification : tout public. Pour la version adolescente, trois lettres avec un contenu un peu suggestif ne seront pas utilisÃ©es.
 Restrictions au niveau du personnage principal : aucune
-Variables : "TICamryn" enregistre la progression de la quête au niveau de Camryn, "TITamah" fait de même pour Tamah. "TICamrynTamah4" > 0 est créée si le personnage principal se montre grossier envers Tamah après l'avoir dé-pétrifiée ; "TISCRLLove" est incrémentée chaque fois que le personnage principal amène une lettre d'amour à Tamah ; "RE1Cam_RewardLetters" = 1 si le personnage principal demande à être payé en échange des lettres.
+Variables : "TICamryn" enregistre la progression de la quÃªte au niveau de Camryn, "TITamah" fait de mÃªme pour Tamah. "TICamrynTamah4" > 0 est crÃ©Ã©e si le personnage principal se montre grossier envers Tamah aprÃ¨s l'avoir dÃ©-pÃ©trifiÃ©e ; "TISCRLLove" est incrÃ©mentÃ©e chaque fois que le personnage principal amÃ¨ne une lettre d'amour Ã  Tamah ; "RE1Cam_RewardLetters" = 1 si le personnage principal demande Ã  Ãªtre payÃ© en Ã©change des lettres.
 
-Avant son départ de Château-Suif, le personnage principal est mis au courant de l'histoire d'amour et de la rupture qui s'en est suivie entre Camryn, le maître enlumineur et scribe de Château-Suif, et son amante têtue, Tamah. Si le personnage principal le souhaite, il pourra collecter jusqu'à treize lettres (dix dans la version adolescente) écrites par Camryn où celui-ci exprime ses sentiments sur divers aspects de son amour envers Tamah. Si on les apporte à Tamah, ces lettres influenceront l'issue de la longue histoire d'amour des deux amants.
+Avant son dÃ©part de ChÃ¢teau-Suif, le personnage principal est mis au courant de l'histoire d'amour et de la rupture qui s'en est suivie entre Camryn, le maÃ®tre enlumineur et scribe de ChÃ¢teau-Suif, et son amante tÃªtue, Tamah. Si le personnage principal le souhaite, il pourra collecter jusqu'Ã  treize lettres (dix dans la version adolescente) Ã©crites par Camryn oÃ¹ celui-ci exprime ses sentiments sur divers aspects de son amour envers Tamah. Si on les apporte Ã  Tamah, ces lettres influenceront l'issue de la longue histoire d'amour des deux amants.
 
 Note :
-les lettres sont cachées dans des livres, ce qu'apprendra le personnage principal s'il ramène son livre à Phlydia à Château-Suif. Pour rendre ces livres uniques, ils possèdent une icône légèrement différente de celle des livres normaux de BG1. Pour récupérer la lettre d'amour contenue dans chaque livre, placer le livre dans les objets rapides et "utilisez-le" via la barre d'objets rapides. Ceci aura pour effet de placer dans l'inventaire la lettre et le livre (sans lettre d'amour).
+les lettres sont cachÃ©es dans des livres, ce qu'apprendra le personnage principal s'il ramÃ¨ne son livre Ã  Phlydia Ã  ChÃ¢teau-Suif. Pour rendre ces livres uniques, ils possÃ¨dent une icÃ´ne lÃ©gÃ¨rement diffÃ©rente de celle des livres normaux de BG1. Pour rÃ©cupÃ©rer la lettre d'amour contenue dans chaque livre, placer le livre dans les objets rapides et "utilisez-le" via la barre d'objets rapides. Ceci aura pour effet de placer dans l'inventaire la lettre et le livre (sans lettre d'amour).
 
 *
 *
 *
 
-Si vous êtes bloqué :
-Les livres contenant une lettre cachée à l'intérieur se trouvent à :
+Si vous Ãªtes bloquÃ© :
+Les livres contenant une lettre cachÃ©e Ã  l'intÃ©rieur se trouvent Ã  :
 - maison #2 (auberge de Brasamical)
-- auberge de Brasamical (deuxième étage)
-- maison de Landrin (Bérégost)
-- maison de Perleflamme, premier étage
-- auberge de Feldpost (premier étage : chambre de Tranzig)
+- auberge de Brasamical (deuxiÃ¨me Ã©tage)
+- maison de Landrin (BÃ©rÃ©gost)
+- maison de Perleflamme, premier Ã©tage
+- auberge de Feldpost (premier Ã©tage : chambre de Tranzig)
 - maison de Jenkal, Gullykin
-- manoir Travenhurst (Bérégost)
+- manoir Travenhurst (BÃ©rÃ©gost)
 - Mines de Bois-Manteau (quartiers de Davaeorn)
-- tour de Ramazith (troisième étage)
+- tour de Ramazith (troisiÃ¨me Ã©tage)
 - maison de Ragevite
 
-Pour la version non-adolescente, trois autres livres se trouvent à :
+Pour la version non-adolescente, trois autres livres se trouvent Ã  :
 - manoir (nord-est de Nashkel)
 - tente de Zordral (festival de Nashkel)
 - chalet (Bois-Manteau carte 1)
 
-Liste des poèmes utilisés, voir plus bas.
+Liste des poÃ¨mes utilisÃ©s, voir plus bas.
 
 
 
-43.  Petites indiscrétions, par jastey
+43.  Petites indiscrÃ©tions, par jastey
 ------------------------------------------------------------------
 
-Type : Série de rencontres
-Lieu : taverne du Chant de l'Elfe, premier étage, petite chambre dans le coin nord-ouest
+Type : SÃ©rie de rencontres
+Lieu : taverne du Chant de l'Elfe, premier Ã©tage, petite chambre dans le coin nord-ouest
 Classification : contenu adolescent, langage un peu suggestif.
 Restrictions au niveau du personnage principal : aucune
-Variables : "C#LCINT_Spawn" s'incrémente au fur et à mesure des rencontres.
+Variables : "C#LCINT_Spawn" s'incrÃ©mente au fur et Ã  mesure des rencontres.
 
-La taverne du Chant de l'Elfe possède une petite chambre idéale pour des rencontres discrètes, sauf qu'il est difficile de rester discret vu qu'il n'y a pas de porte... Donc ce n'est pas vraiment la faute du personnage principal s'il interrompt un dîner romantique en y rentrant, une fois, ou deux... ou trois, hein ?
+La taverne du Chant de l'Elfe possÃ¨de une petite chambre idÃ©ale pour des rencontres discrÃ¨tes, sauf qu'il est difficile de rester discret vu qu'il n'y a pas de porte... Donc ce n'est pas vraiment la faute du personnage principal s'il interrompt un dÃ®ner romantique en y rentrant, une fois, ou deux... ou trois, hein ?
 
-Note : il y a 7 rencontres au total. Pour passer à la suivante, il suffit de quitter le premier étage de la taverne et d'y revenir. La dernière rencontre ne se produit pas avant le chapitre 6. 
+Note : il y a 7 rencontres au total. Pour passer Ã  la suivante, il suffit de quitter le premier Ã©tage de la taverne et d'y revenir. La derniÃ¨re rencontre ne se produit pas avant le chapitre 6. 
 
 
 
@@ -949,138 +949,138 @@ Type : rencontre
 Lieu : Mines de Bois-manteau, niveau 3, dans la chapelle
 Classification : contenu adolescent
 Restrictions au niveau du personnage principal : aucune
-Variables : Global("TICLove","GLOBAL",2) après la rencontre
+Variables : Global("TICLove","GLOBAL",2) aprÃ¨s la rencontre
 
-Il y a une chapelle et un autel dans les mines. Et pourquoi pas un mariage ? Nous savons tous que l'amour peut naître n'importe où, et puis les bandits et le mercenaires ont aussi des sentiments. Mais Cordelia et Dispero ont évidemment choisi le pire jour possible pour leur mariage : des invités indésirables se joignent à la fête... c'est-à-dire vous !
+Il y a une chapelle et un autel dans les mines. Et pourquoi pas un mariage ? Nous savons tous que l'amour peut naÃ®tre n'importe oÃ¹, et puis les bandits et le mercenaires ont aussi des sentiments. Mais Cordelia et Dispero ont Ã©videmment choisi le pire jour possible pour leur mariage : des invitÃ©s indÃ©sirables se joignent Ã  la fÃªte... c'est-Ã -dire vous !
 
 
 
-Quête bonus : La Balafre - le retour, par jastey
+QuÃªte bonus : La Balafre - le retour, par jastey
 ------------------------------------------------------------------
 
-Type : quête
-Déclenchement : avoir visité les appartements privés de La Balafre est un prérequis. Il faut ensuite parler au duc Eltan au sujet du meurtre de La Balafre (dans la bâtisse du Maître du Port). Ceci déclenche la quête pour retrouver le corps de La Balafre (les composants "Du temps libre pour La Balafre" et "Une minute pour le duc Eltan" doivent avoir été installés ET le personnage principal doit avoir rendu visite à La Balafre dans ses appartements privés, même très rapidement).
-Classification : contenu adolescent. Rien de sexuel, mais cette rencontre parle de la recherche du cadavre d'un homme assassiné.
+Type : quÃªte
+DÃ©clenchement : avoir visitÃ© les appartements privÃ©s de La Balafre est un prÃ©requis. Il faut ensuite parler au duc Eltan au sujet du meurtre de La Balafre (dans la bÃ¢tisse du MaÃ®tre du Port). Ceci dÃ©clenche la quÃªte pour retrouver le corps de La Balafre (les composants "Du temps libre pour La Balafre" et "Une minute pour le duc Eltan" doivent avoir Ã©tÃ© installÃ©s ET le personnage principal doit avoir rendu visite Ã  La Balafre dans ses appartements privÃ©s, mÃªme trÃ¨s rapidement).
+Classification : contenu adolescent. Rien de sexuel, mais cette rencontre parle de la recherche du cadavre d'un homme assassinÃ©.
 Variables : aucune ne provoque de conflit de romances entre divers mods.
 
-Vous vous sentez mal au sujet du meurtre de La Balafre ? Vous avez envie de partir à la recherche de son corps disparu, le serrer dans vos bras et crier "NOOOOON !" ? Ce composant vous en offre la possibilité. Il donne également au personnage principal la possibilité de dire au revoir à l'ancien commandant en second en personne, si vous passez une dernière fois dans la bâtisse du Maître du Port avant d'aller pourchasser Sarevok dans le labyrinthe. Mais attention : La Balafre veut que vous restiez très discret à son sujet, parce que mourir une fois lui a suffi.
+Vous vous sentez mal au sujet du meurtre de La Balafre ? Vous avez envie de partir Ã  la recherche de son corps disparu, le serrer dans vos bras et crier "NOOOOON !" ? Ce composant vous en offre la possibilitÃ©. Il donne Ã©galement au personnage principal la possibilitÃ© de dire au revoir Ã  l'ancien commandant en second en personne, si vous passez une derniÃ¨re fois dans la bÃ¢tisse du MaÃ®tre du Port avant d'aller pourchasser Sarevok dans le labyrinthe. Mais attention : La Balafre veut que vous restiez trÃ¨s discret Ã  son sujet, parce que mourir une fois lui a suffi.
 
-Note : vous pouvez également préparer la résurrection de La Balafre sans avoir à vous occuper de son corps. Dites juste aux bonnes personnes qu'il faut informer le duc Eltan, et tout se déroulera en coulisses. Ceci s'adresse aux gens qui ne supportent pas l'idée de transporter un cadavre dans leur sac à dos.
+Note : vous pouvez Ã©galement prÃ©parer la rÃ©surrection de La Balafre sans avoir Ã  vous occuper de son corps. Dites juste aux bonnes personnes qu'il faut informer le duc Eltan, et tout se dÃ©roulera en coulisses. Ceci s'adresse aux gens qui ne supportent pas l'idÃ©e de transporter un cadavre dans leur sac Ã  dos.
 
 
-Indications supplémentaires : *** après avoir parlé au duc Eltan au sujet du meurtre de La Balafre, cherchez la boutique d'occasions de Donnerjan (elle est sur un marché de la Porte de Baldur), achetez-lui un objet bien précis (le personnage principal s'en souviendra) et parlez-lui à nouveau. A partir de là, le personnage principal devra discuter avec plusieurs anciens serviteurs du Poing Enflammé, chacun d'entre eux donnant une information nécessaire pour progresser dans la quête, jusqu'à ce qu'on puisse enfin suivre la piste et arriver au corps de La Balafre. Il faudra parler plusieurs fois au duc Eltan à ce sujet. A partir du moment où le duc Eltan parle des funérailles de La Balafre, un compte à rebours d'un jour se déclenche. Une fois qu'il est arrivé à son terme et que le personnage principal a démasqué Sarevok au Palais (avant de le suivre dans le labyrinthe), le personnage principal pourra rencontrer La Balafre à la bâtisse du Maître du Port. Parlez à nouveau au duc Eltan pour déclencher la rencontre. 
+Indications supplÃ©mentaires : *** aprÃ¨s avoir parlÃ© au duc Eltan au sujet du meurtre de La Balafre, cherchez la boutique d'occasions de Donnerjan (elle est sur un marchÃ© de la Porte de Baldur), achetez-lui un objet bien prÃ©cis (le personnage principal s'en souviendra) et parlez-lui Ã  nouveau. A partir de lÃ , le personnage principal devra discuter avec plusieurs anciens serviteurs du Poing EnflammÃ©, chacun d'entre eux donnant une information nÃ©cessaire pour progresser dans la quÃªte, jusqu'Ã  ce qu'on puisse enfin suivre la piste et arriver au corps de La Balafre. Il faudra parler plusieurs fois au duc Eltan Ã  ce sujet. A partir du moment oÃ¹ le duc Eltan parle des funÃ©railles de La Balafre, un compte Ã  rebours d'un jour se dÃ©clenche. Une fois qu'il est arrivÃ© Ã  son terme et que le personnage principal a dÃ©masquÃ© Sarevok au Palais (avant de le suivre dans le labyrinthe), le personnage principal pourra rencontrer La Balafre Ã  la bÃ¢tisse du MaÃ®tre du Port. Parlez Ã  nouveau au duc Eltan pour dÃ©clencher la rencontre. 
 
-Si vous jouez une partie qui vous laisse dans le "monde" de BG1 après la mort de Sarevok et vous permet d'accéder au palais, certaines parties (ou même la totalité) de "La Balafre - le retour" peuvent être jouées après la mort de Sarevok. Le duc Eltan sera au palais, et la dernière rencontre avec La Balafre s'y déroulera aussi. Ce composant est compatible avec le composant "Duke Eltan Inside the Palace" du mod EndlessBG1, si vous installez bg1re après EBG1. ***
+Si vous jouez une partie qui vous laisse dans le "monde" de BG1 aprÃ¨s la mort de Sarevok et vous permet d'accÃ©der au palais, certaines parties (ou mÃªme la totalitÃ©) de "La Balafre - le retour" peuvent Ãªtre jouÃ©es aprÃ¨s la mort de Sarevok. Le duc Eltan sera au palais, et la derniÃ¨re rencontre avec La Balafre s'y dÃ©roulera aussi. Ce composant est compatible avec le composant "Duke Eltan Inside the Palace" du mod EndlessBG1, si vous installez bg1re aprÃ¨s EBG1. ***
 
 
 
 ----------------
-IV. Liste des rencontres " sérieuses" et des quêtes
+IV. Liste des rencontres " sÃ©rieuses" et des quÃªtes
 ---------------- 
 
-BG1 Romantic Encounters présente un bon nombre de composants qui ne comportent aucune situation sexuelle. D'autres en comportent, mais peuvent être joués sans et se résument alors à une agréable rencontre ou une quête.
-Ces composants sont listés ci-dessous, car ils ont été créés avec beaucoup d'amour et de travail, et ils méritent d'être étiquetés comme rencontre ou quête "sérieuse" !
+BG1 Romantic Encounters prÃ©sente un bon nombre de composants qui ne comportent aucune situation sexuelle. D'autres en comportent, mais peuvent Ãªtre jouÃ©s sans et se rÃ©sument alors Ã  une agrÃ©able rencontre ou une quÃªte.
+Ces composants sont listÃ©s ci-dessous, car ils ont Ã©tÃ© crÃ©Ã©s avec beaucoup d'amour et de travail, et ils mÃ©ritent d'Ãªtre Ã©tiquetÃ©s comme rencontre ou quÃªte "sÃ©rieuse" !
  
 IV.1 Composants qui ne proposent aucune relation sexuelle :
  
-6.  Une minute pour le duc Eltan (requis pour la quête bonus "La Balafre - le retour")
+6.  Une minute pour le duc Eltan (requis pour la quÃªte bonus "La Balafre - le retour")
 14. Sans regret
-17. Fin de soirée avec Jaheira
-18. La bénédiction de Sil
-22. Le deuil de Centeol, la dame araignée
+17. Fin de soirÃ©e avec Jaheira
+18. La bÃ©nÃ©diction de Sil
+22. Le deuil de Centeol, la dame araignÃ©e
 25. Le grand Zudini
 26. Le messager
 28. Les romanciers
-29. Les honnêtes mensonges des Deux Rives
-30. Le dilemme d'un nécromancien
+29. Les honnÃªtes mensonges des Deux Rives
+30. Le dilemme d'un nÃ©cromancien
 31. Un diner avec Thalantyr
-32. Ceinture de changement de sexe et réactions
+32. Ceinture de changement de sexe et rÃ©actions
 41. Le messager 2 : pluie, neige et noirceur de la nuit
 42. Camryn et Tamah
-43. Petites indiscrétions
+43. Petites indiscrÃ©tions
 44. Les amoureux de Bois-Manteau
-Quête bonus : La Balafre - le retour
+QuÃªte bonus : La Balafre - le retour
  
-IV.2 Composants qui peuvent être joués en éludant la relation sexuelle et offrent des dialogues, rencontres et parfois même une quête supplémentaires :
+IV.2 Composants qui peuvent Ãªtre jouÃ©s en Ã©ludant la relation sexuelle et offrent des dialogues, rencontres et parfois mÃªme une quÃªte supplÃ©mentaires :
  
-2.  Du temps libre pour La Balafre (requis pour la quête bonus "La Balafre - le retour")
-9.  La séduction de Bartus
-19. Melicamp : le garçon volaille
+2.  Du temps libre pour La Balafre (requis pour la quÃªte bonus "La Balafre - le retour")
+9.  La sÃ©duction de Bartus
+19. Melicamp : le garÃ§on volaille
 27. Ender Sai
-34. Ce qu'était Gauche
+34. Ce qu'Ã©tait Gauche
 35. Un ami d'enfance
 
 
 
 
 ----------------
-V. Liste des rencontres, classées par lieu
+V. Liste des rencontres, classÃ©es par lieu
 ---------------- 
 
 
 -------------------------------------------------------------------------
 Porte de Baldur
 -----------------
-Centre, place du marché : 					Le grand Zudini, 
+Centre, place du marchÃ© : 					Le grand Zudini, 
 							La Balafre - le retour
 
-Nord, maison avec l'auvent rayé : 				Une lecture avec Rinnie
+Nord, maison avec l'auvent rayÃ© : 				Une lecture avec Rinnie
 
-Nord, à l'extérieur des Trois Chopes : 				Le repaire du Moissonneur
+Nord, Ã  l'extÃ©rieur des Trois Chopes : 				Le repaire du Moissonneur
 
-Nord, maison au toit bleu, tout à fait à droite : 			Le dilemme d'un nécromancien
+Nord, maison au toit bleu, tout Ã  fait Ã  droite : 			Le dilemme d'un nÃ©cromancien
 
-Nord-est, niveau inférieur, "House 1" de la solution du site Dudleyville : 	Sans regret
+Nord-est, niveau infÃ©rieur, "House 1" de la solution du site Dudleyville : 	Sans regret
 
 Nord-est, Caves Souterraines : 				Amour payant
 							Slythe et Krystin 
 
-Nord-ouest, Manoir d'Entar Ecudargent, premier étage		Le messager 2 : pluie, neige et noirceur de la nuit
+Nord-ouest, Manoir d'Entar Ecudargent, premier Ã©tage		Le messager 2 : pluie, neige et noirceur de la nuit
 
 Est, proche de la boutique de Toubazar Drin : 			Molly cherche un mari 
 							Les jeux de Niklos
 
-Est, taverne du Chant de l'Elfe, rez-de-chaussée : 			L'entrainement très spécial de Husam
+Est, taverne du Chant de l'Elfe, rez-de-chaussÃ©e : 			L'entrainement trÃ¨s spÃ©cial de Husam
 
-Est, guilde des voleurs : 					L'entrainement très spécial de Husam (2)
+Est, guilde des voleurs : 					L'entrainement trÃ¨s spÃ©cial de Husam (2)
 
 Est, magasin du Silence : 					Le messager 2 : pluie, neige et noirceur de la nuit
 							Les romanciers (si vous acceptez)
 
-Sud-ouest, QG du Poing Enflammé et devant : 			Du temps libre pour La Balafre
+Sud-ouest, QG du Poing EnflammÃ© et devant : 			Du temps libre pour La Balafre
 
-Sud-Est, Lame et Etoiles, rez-de-chaussée :			Les romanciers
+Sud-Est, Lame et Etoiles, rez-de-chaussÃ©e :			Les romanciers
 							Le messager 2 : pluie, neige et noirceur de la nuit
 
 Ouest, maison de Ragevite: 					Un diner avec Thalantyr
 							Camryn et Tamah
 
-Docks, bâtisse du Maître du Port, Chapitre 7 : 			Une minute pour le duc Eltan
+Docks, bÃ¢tisse du MaÃ®tre du Port, Chapitre 7 : 			Une minute pour le duc Eltan
 							La Balafre - le retour
 
 Docks, la Lanterne Assourdie : 					Amour payant
-							La séduction de Bartus
+							La sÃ©duction de Bartus
 
 
 -------------------------------------------------------------------------
-Rivière de l'Ours						Laurel, après la chasse
+RiviÃ¨re de l'Ours						Laurel, aprÃ¨s la chasse
 
 -------------------------------------------------------------------------
 
-Bérégost
+BÃ©rÃ©gost
 --------------
-Zone principale :						La séduction de Bartus
+Zone principale :						La sÃ©duction de Bartus
 							Le messager 2 : pluie, neige et noirceur de la nuit
 
-Auberge de Feldpost, premier étage : 				Camryn et Tamah
+Auberge de Feldpost, premier Ã©tage : 				Camryn et Tamah
 
-Maison de Perleflamme Cheveux-d'Elfe, rez-de chaussée :		Le messager 2 : pluie, neige et noirceur de la nuit
+Maison de Perleflamme Cheveux-d'Elfe, rez-de chaussÃ©e :		Le messager 2 : pluie, neige et noirceur de la nuit
 
-Maison de Perleflamme Cheveux-d'Elfe, premier étage :		Camryn et Tamah
+Maison de Perleflamme Cheveux-d'Elfe, premier Ã©tage :		Camryn et Tamah
 
 Jongleur Jovial : 						Arlene la travailleuse
 							Extension de la rencontre avec Bjornin
-							La séduction de Bartus (personnage principal féminin)
+							La sÃ©duction de Bartus (personnage principal fÃ©minin)
 
 Maison de Landrin : 						Camryn et Tamah
 
@@ -1091,10 +1091,10 @@ Manoir Travenhurst : 					Camryn et Tamah
 
 -------------------------------------------------------------------------
 
-Château-Suif
+ChÃ¢teau-Suif
 ---------------
 Prologue : 							Alec (un ami d'enfance) 
-							Un garde dépravé  
+							Un garde dÃ©pravÃ©  
 							Hull : le sens du devoir
 							Le messager
 							Camryn et Tamah
@@ -1107,19 +1107,19 @@ Chapitre six : 						Alec (un ami d'enfance)
 
 Bois-Manteau
 -------------
-Toile d'araignée de Centeol : 					Le deuil de Centeol, la dame araignée
+Toile d'araignÃ©e de Centeol : 					Le deuil de Centeol, la dame araignÃ©e
 
-Mines, premier sous-sol : 					Plus d'amidon dans mon mât
+Mines, premier sous-sol : 					Plus d'amidon dans mon mÃ¢t
 
-Mines, troisième sous-sol : 					Les amoureux de Bois-Manteau
+Mines, troisiÃ¨me sous-sol : 					Les amoureux de Bois-Manteau
 
-Mines, quatrième sous-sol : 					Le messager 2 : pluie, neige et noirceur de la nuit
+Mines, quatriÃ¨me sous-sol : 					Le messager 2 : pluie, neige et noirceur de la nuit
 							Camryn et Tamah
 
 
 -------------------------------------------------------------------------
 
-Voie Côtière
+Voie CÃ´tiÃ¨re
 -------------
 Zone principale :						Le messager 2 : pluie, neige et noirceur de la nuit
 
@@ -1128,26 +1128,26 @@ Zone principale :						Le messager 2 : pluie, neige et noirceur de la nuit
 
 Taverne du Chant de l'Elfe
 -------------
-Premier étage :						Le messager 2 : pluie, neige et noirceur de la nuit
-							Petites indiscrétions		
+Premier Ã©tage :						Le messager 2 : pluie, neige et noirceur de la nuit
+							Petites indiscrÃ©tions		
 
 -------------------------------------------------------------------------
 
 Pont de Flammevin						
 --------------
-Zone principale :						Le deuil de Centeol, la dame araignée (dialogue avec Poe si le personnage principal possède le journal)
+Zone principale :						Le deuil de Centeol, la dame araignÃ©e (dialogue avec Poe si le personnage principal possÃ¨de le journal)
 
 
 -------------------------------------------------------------------------
 
 Auberge de Brasamical
 --------------
-Rez-de-chaussée : 						Le massage de Lina
-							Première nuit avec Quentin
-							Ender Sai : la récompense du héros (chapitre 4)
+Rez-de-chaussÃ©e : 						Le massage de Lina
+							PremiÃ¨re nuit avec Quentin
+							Ender Sai : la rÃ©compense du hÃ©ros (chapitre 4)
 							Le messager 2 : pluie, neige et noirceur de la nuit
 
-Deuxième étage :						Camryn et Tamah
+DeuxiÃ¨me Ã©tage :						Camryn et Tamah
 
 Maison :							Camryn et Tamah
 
@@ -1162,13 +1162,13 @@ Maison de Jenkal : 						Camryn et Tamah
 
 Haute haie
 --------------
-Maison de Thalantyr : 					Melicamp : le garçon volaille 
+Maison de Thalantyr : 					Melicamp : le garÃ§on volaille 
 							Un diner avec Thalantyr
 
 
 -------------------------------------------------------------------------
 
-Zone du phare						La bénédiction de Sil
+Zone du phare						La bÃ©nÃ©diction de Sil
 
 
 -------------------------------------------------------------------------
@@ -1181,14 +1181,14 @@ Lanterne Assourdie						Amour payant
 Nashkel
 -------------- 
 Zone principale :						Le briefing de Bardolan 
-							Fin de soirée avec Jaheira
+							Fin de soirÃ©e avec Jaheira
 							La flamme du phoenix 
-							Les honnêtes mensonges des Deux Rives
-							Le dilemme d'un nécromancien
+							Les honnÃªtes mensonges des Deux Rives
+							Le dilemme d'un nÃ©cromancien
 
 Dragon qui Rote : 						Mikala la moniale
 
-Festival :							Un diner avec Thalantyr (un jeu d'échecs) 
+Festival :							Un diner avec Thalantyr (un jeu d'Ã©checs) 
 
 Festival, tente de Zordral : 					Camryn et Tamah
 
@@ -1203,20 +1203,20 @@ Niveau 4 :							Camryn et Tamah
 
 -------------------------------------------------------------------------
 
-Bois aux Araignées	 					Della May de Thay
+Bois aux AraignÃ©es	 					Della May de Thay
 
 
 -------------------------------------------------------------------------
 
-Côte de l'épave						Le rêve du guérisseur
-							Un diner avec Thalantyr (un jeu d'échecs) 
+CÃ´te de l'Ã©pave						Le rÃªve du guÃ©risseur
+							Un diner avec Thalantyr (un jeu d'Ã©checs) 
 
 
 -------------------------------------------------------------------------
 
-Route sud de Bérégost
+Route sud de BÃ©rÃ©gost
 --------------
-Près de la maison inondée : 					Ce qu'était Gauche
+PrÃ¨s de la maison inondÃ©e : 					Ce qu'Ã©tait Gauche
 
 
 -------------------------------------------------------------------------
@@ -1230,71 +1230,71 @@ Ville souterraine						L'essentiel
 VI. Installation
 ----------------
  
-Informations générales (Windows, Mac OS X, et Linux)
-Assurez-vous de faire au préalable une copie de sauvegarde du fichier dialog.tlk (et de dialogf.tlk s'il existe), en cas de problème. Extraire le contenu de l'archive du mod dans le répertoire principal de votre jeu.
+Informations gÃ©nÃ©rales (Windows, Mac OS X, et Linux)
+Assurez-vous de faire au prÃ©alable une copie de sauvegarde du fichier dialog.tlk (et de dialogf.tlk s'il existe), en cas de problÃ¨me. Extraire le contenu de l'archive du mod dans le rÃ©pertoire principal de votre jeu.
 
 
-Note : Avant d'installer ce mod, désinstallez toute version de BGQE (Baldur's Gate Miniquests and Encounters) plus ancienne que la v.9, sinon la rencontre avec Bjornin sera écrasée. Il n'y a aucune détection automatique de cette incompatibilité ! 
+Note : Avant d'installer ce mod, dÃ©sinstallez toute version de BGQE (Baldur's Gate Miniquests and Encounters) plus ancienne que la v.9, sinon la rencontre avec Bjornin sera Ã©crasÃ©e. Il n'y a aucune dÃ©tection automatique de cette incompatibilitÃ© ! 
 
 
 Pour installer le mod, suivre ces instructions :
 
-NOTE : pour BG:EE il est important que vous installiez le mod dans la même langue que celle choisie pour le jeu. Sinon les dialogues du jeu n'apparaîtront pas et vous obtiendrez des messages d'erreur.
+NOTE : pour BG:EE il est important que vous installiez le mod dans la mÃªme langue que celle choisie pour le jeu. Sinon les dialogues du jeu n'apparaÃ®tront pas et vous obtiendrez des messages d'erreur.
 Si vous avez une version Steam ou GOG de BG:EE / SoD, notez bien que vous devez tout d'abord utiliser modmerger. Sans cela, l'installation du mod pourrait corrompre votre jeu. 
 Lien : https://forums.beamdog.com/discussion/50441/modmerge-merge-your-steam-gog-zip-based-dlc-into-something-weidu-nearinfinity-dltcep-can-use
 
 Windows
-Après avoir extrait l'archive dans le répertoire de votre jeu, vous devriez trouver un répertoire bg1re et un fichier setup-bg1re.exe dans le répertoire de votre jeu. Pour installer le mod, double-cliquez sur setup-bg1re.exe et suivez les instructions à l'écran.
-Pour réinstaller, désinstaller ou changer des composants, lancer à nouveau setup-bg1re.exe dans le répertoire de votre jeu.
+AprÃ¨s avoir extrait l'archive dans le rÃ©pertoire de votre jeu, vous devriez trouver un rÃ©pertoire bg1re et un fichier setup-bg1re.exe dans le rÃ©pertoire de votre jeu. Pour installer le mod, double-cliquez sur setup-bg1re.exe et suivez les instructions Ã  l'Ã©cran.
+Pour rÃ©installer, dÃ©sinstaller ou changer des composants, lancer Ã  nouveau setup-bg1re.exe dans le rÃ©pertoire de votre jeu.
 
 Mac OS X
-Vérifiez que vous possédez bien la version Mac OS X du mod (nommée "OSX-bg1re-vx.zip"). Après avoir extrait l'archive dans le dossier principal de votre jeu, vous devriez trouver un dossier bg1re, un fichier setup-bg1re et un fichier setup-bg1re.command dans le dossier principal de votre jeu. Pour installer le mod, double-cliquez sur setup-bg1re.command et suivez les instructions à l'écran.
+VÃ©rifiez que vous possÃ©dez bien la version Mac OS X du mod (nommÃ©e "OSX-bg1re-vx.zip"). AprÃ¨s avoir extrait l'archive dans le dossier principal de votre jeu, vous devriez trouver un dossier bg1re, un fichier setup-bg1re et un fichier setup-bg1re.command dans le dossier principal de votre jeu. Pour installer le mod, double-cliquez sur setup-bg1re.command et suivez les instructions Ã  l'Ã©cran.
 
 Linux
-Téléchargez la dernière version de WeiDU pour Linux depuis WeiDU.org, puis copiez WeiDU et WeInstall dans /usr/bin. Ouvrez ensuite un terminal, allez dans votre dossier d'installation de BG, lancez "tolower" et répondez oui (Y) aux deux questions. Vous pouvez éviter d'exécuter la seconde option (linux.ini) si vous l'avez déjà lancée une fois sur le même dossier. Pour gagner du temps, l'archive est déjà passée en minuscules, il n'est donc pas nécessaire d'exécuter la première option (passer les noms de fichiers en minuscule) si vous n'avez extrait que ce mod depuis la dernière fois que vous avez passé les noms de fichiers en minuscule. Si vous avez un doute, il est souhaitable d'exécuter tolower et de choisir les deux options.
-Lancez WeInstall setup-bg1re depuis le dossier de votre jeu pour installer le mod. Puis lancez wine BGMain.exe et commencez à jouer.
+TÃ©lÃ©chargez la derniÃ¨re version de WeiDU pour Linux depuis WeiDU.org, puis copiez WeiDU et WeInstall dans /usr/bin. Ouvrez ensuite un terminal, allez dans votre dossier d'installation de BG, lancez "tolower" et rÃ©pondez oui (Y) aux deux questions. Vous pouvez Ã©viter d'exÃ©cuter la seconde option (linux.ini) si vous l'avez dÃ©jÃ  lancÃ©e une fois sur le mÃªme dossier. Pour gagner du temps, l'archive est dÃ©jÃ  passÃ©e en minuscules, il n'est donc pas nÃ©cessaire d'exÃ©cuter la premiÃ¨re option (passer les noms de fichiers en minuscule) si vous n'avez extrait que ce mod depuis la derniÃ¨re fois que vous avez passÃ© les noms de fichiers en minuscule. Si vous avez un doute, il est souhaitable d'exÃ©cuter tolower et de choisir les deux options.
+Lancez WeInstall setup-bg1re depuis le dossier de votre jeu pour installer le mod. Puis lancez wine BGMain.exe et commencez Ã  jouer.
 
 
-NOTE : BG1:EE et BG2:EE sont des jeux activement supportés. Veuillez noter que chaque mise à jour du jeu effacera votre configuration actuelle de mods ! Si vous êtes en train de jouer une partie avec des mods installés, il est fortement conseillé d'attendre avant d'installer la mise à jour car même si vous réinstallez ensuite les mods à l'identique, vous risquez de ne plus pouvoir utiliser vos anciennes sauvegardes. 
+NOTE : BG1:EE et BG2:EE sont des jeux activement supportÃ©s. Veuillez noter que chaque mise Ã  jour du jeu effacera votre configuration actuelle de mods ! Si vous Ãªtes en train de jouer une partie avec des mods installÃ©s, il est fortement conseillÃ© d'attendre avant d'installer la mise Ã  jour car mÃªme si vous rÃ©installez ensuite les mods Ã  l'identique, vous risquez de ne plus pouvoir utiliser vos anciennes sauvegardes. 
 
-Pour DESINSTALLER ce mod, double-cliquez à nouveau sur l'exe et choisissez [u] uninstall (pour Windows ; procédure similaire pour les autres systèmes d'exploitation).
+Pour DESINSTALLER ce mod, double-cliquez Ã  nouveau sur l'exe et choisissez [u] uninstall (pour Windows ; procÃ©dure similaire pour les autres systÃ¨mes d'exploitation).
 
 Vous devez commencer une nouvelle partie pour pouvoir jouer ce mod.
 
-Si vous rencontrez des problèmes d'installation ou des bugs durant le jeu, merci de poster votre rapport de bug sur l'un des forums ci-dessous.
+Si vous rencontrez des problÃ¨mes d'installation ou des bugs durant le jeu, merci de poster votre rapport de bug sur l'un des forums ci-dessous.
 Lien : 
 forum anglais : http://gibberlings3.net/forums/index.php?showforum=191
 
 
 ----------------
-VII. Compatibilité
+VII. CompatibilitÃ©
 ----------------
 
-Le mod Baldur's Gate Romantic Encounters est codé avec WeiDU, et n'écrase aucun fichier. Il devrait être compatible avec la plupart des autres mods WeiDU. 
+Le mod Baldur's Gate Romantic Encounters est codÃ© avec WeiDU, et n'Ã©crase aucun fichier. Il devrait Ãªtre compatible avec la plupart des autres mods WeiDU. 
 
 Si vous jouez avec le jeu BG original, ce mod est compatible avec MotSC (= TWM)
 
-Au niveau de la compatibilité, suivre l'ordre d'installation ci-dessous :
+Au niveau de la compatibilitÃ©, suivre l'ordre d'installation ci-dessous :
 
-EBG1 - Transitions - bg1npc project - bg1re - bg1ub - Jarl's Adventure Pack (v0.7)
+EndlessBG1 - Transitions - bg1re 
 
 
 ----------------
-VIII. Problèmes connus
+VIII. ProblÃ¨mes connus
 ----------------
 
-- Les objets dans des sacs ne sont parfois pas reconnus par les PNJs des quêtes. Avant de parler à ces personnages, sortez les objets concernés de leurs sacs ou de leurs containers. Ceci s'est produit pour certaines lettres de  "Camryn et Tamah", il s'agit d'un bug de l'Infinity Engine. Après avoir ouvert le sac et ré-initié le dialogue avec Tamah, les lettres ont été reconnues.
+- Les objets dans des sacs ne sont parfois pas reconnus par les PNJs des quÃªtes. Avant de parler Ã  ces personnages, sortez les objets concernÃ©s de leurs sacs ou de leurs containers. Ceci s'est produit pour certaines lettres de  "Camryn et Tamah", il s'agit d'un bug de l'Infinity Engine. AprÃ¨s avoir ouvert le sac et rÃ©-initiÃ© le dialogue avec Tamah, les lettres ont Ã©tÃ© reconnues.
 
-- BG1 classique (TotSC) : la cinématique dans la zone AR0200 ne déclenche pas le fondu au noir. Il semblerait que ce soit un bug lié à cette zone.
+- BG1 classique (TotSC) : la cinÃ©matique dans la zone AR0200 ne dÃ©clenche pas le fondu au noir. Il semblerait que ce soit un bug liÃ© Ã  cette zone.
 
 
 ----------------
 IX. Crossmodding
 ----------------
 
-N'hésitez pas à rajouter des réactions à ces rencontres dans votre propre mod. Les variables à prendre en compte pour du contenu crossmod sont données plus haut dans la description de chacun des composants. En général, il y a la variable globale "RE1_characternameFlirt" pour vérifier si le personnage principal a montré de l'intérêt pour des moments intimes ("flirted"), et la variable globale "RE1_characternameSex" si des activités sexuelles se sont vraiment produites.
+N'hÃ©sitez pas Ã  rajouter des rÃ©actions Ã  ces rencontres dans votre propre mod. Les variables Ã  prendre en compte pour du contenu crossmod sont donnÃ©es plus haut dans la description de chacun des composants. En gÃ©nÃ©ral, il y a la variable globale "RE1_characternameFlirt" pour vÃ©rifier si le personnage principal a montrÃ© de l'intÃ©rÃªt pour des moments intimes ("flirted"), et la variable globale "RE1_characternameSex" si des activitÃ©s sexuelles se sont vraiment produites.
 
-Remarque : pour certaines rencontres la variable "Flirt" peut avoir une valeur supérieure à "1" (par exemple Lars, à la lanterne Assourdie). Nous vous recommandons donc de vérifier les variables GlobalGT("RE1_characternameFlirt","GLOBAL",0) et GlobalGT("RE1_characternameSex","GLOBAL",0), respectivement.
+Remarque : pour certaines rencontres la variable "Flirt" peut avoir une valeur supÃ©rieure Ã  "1" (par exemple Lars, Ã  la lanterne Assourdie). Nous vous recommandons donc de vÃ©rifier les variables GlobalGT("RE1_characternameFlirt","GLOBAL",0) et GlobalGT("RE1_characternameSex","GLOBAL",0), respectivement.
 
 
 
@@ -1322,8 +1322,9 @@ Greenhorn: beta tester
 jastey: mod maintenance, contributor, coder, alpha tester, beta tester
 justthisguyrevamp: beta tester
 Kulyok: contributor, coder, alpha tester, beta tester
-Lava Del'Vortel: contributor, coder, alpha tester, area edits, BAM artist
 LastnightLeft: contributor
+Lauriel: contributor
+Lava Del'Vortel: contributor, coder, alpha tester, area edits, BAM artist
 Lingz: beta tester
 Miloch: area edits
 mimikoi: beta tester 
@@ -1343,10 +1344,9 @@ tibicina: contributor, alpha tester, proof reader
 Twani: contributor, alpha tester, proof reader
 Vanguard: beta tester
 
-Traduction par les d'Oghmatiques (Le Marquis, Galathée, Lothringen, Shaywen, Zooloo) et Jazira ; relecture par Graoumf.
+Traduction par les d'Oghmatiques (Le Marquis, GalathÃ©e, Lothringen, Shaywen, Zooloo) et Jazira ; relecture par Graoumf.
 
 German translations: Gerri, jastey. 
-
 
 ----------------
 XI. Tools Used
@@ -1378,8 +1378,23 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
+Version 10.0:
+-Added reply options to Duke Eltan to be able to tell him of progress with regard to saving the other dukes (from Lauriel) (Duke Eltan's Spare Minute)
+-Ioun Stone from Thalantyr should not be tagged as critical item (Dinner with Thalantyr).
+-Quest should not close before all letters are delivered (dirty fix by checking whether letters are still in inventory if variable indicates quest end - should not set before but it somehow did for one player); Skie and Garrick will react to their letters if placed in their inventory.) (Messenger 2)
+-Tagged book case as a critical item so it will remain with group (Camryn and Tamah).
+-Script checks for Player1 in the area so encounters will not happen one after the other if group is scattered between floors (Interruptions).
+-Added checks whether Melicamp is in the area (Dinner with Thalantyr).
+-Added fail save hack for spawned quest cres in Candlekeep main area (prologue) in case players load the automated prologue save (Messenger 2, A Childhood Friend).
+-Added closing variable for quest for crossmod (The Honest Lies of Two Riversides).
+-Removed reference to nonexistent scriptname (Necromancer's Trouble).
+-Corrected reference to letters (Camryn and Tamah).
+-Missed lines from tp2 traified.
+-Fixed EraseJournalEntry references.
+-Typo correction.
+
 Version 9.0:
--French version completed, by les d'Oghmatiques (Le Marquis, Galathée, Lothringen, Shaywen, Zooloo) and Jazira ; proofreading par Graoumf.
+-French version completed, by les d'Oghmatiques (Le Marquis, GalathÃ©e, Lothringen, Shaywen, Zooloo) and Jazira ; proofreading par Graoumf.
 -crossmod with Transitions: install should not fail and quest about Scar should be available after Sarevok's death.
 -updated install order data (added Brage's Redemption).
 -added globally unique LABELs to support Project Infinity.
@@ -1429,7 +1444,7 @@ Version 4.1:
 -two more components to French version added: "Mikala the Monk" and "Cloakwood Lovers"
 
 Version 4.0:
--Partial French translation added: Traduction par les d'Oghmatiques : Le Marquis, Zooloo, Shaywen, Galathée, Lothringen, Jazira. Relecture par Graoumf
+-Partial French translation added: Traduction par les d'Oghmatiques : Le Marquis, Zooloo, Shaywen, GalathÃ©e, Lothringen, Jazira. Relecture par Graoumf
 -infer_charset corrected to infer_charsets in tp2
 -component "No Regrets" German title changed to "Ich bereue nichts"
 
@@ -1534,7 +1549,7 @@ Version 2.0:
 
 -(translations) completed german translation for "necromancer's trouble" by Gerri and jastey
 
--(typos) changed Faerun to Faerûn
+-(typos) changed Faerun to FaerÃ»n
 
 -Readme: Added a paragraph "Known Issues"
 
@@ -1562,7 +1577,7 @@ Version 1.4
 --Duke Eltan no longer mentions the possible whereabouts of Scar's body if the PC wasn't in Scar's quarters.
 
 "Duke Eltan's Spare Minute": 
---Duke Eltan now tells the story mentioned in the Faerûn Wiki (http://forgottenrealms.wikia.com/wiki/): A doppelganger took on Scar's identity to approach him and attack him afer Scar was murdered.
+--Duke Eltan now tells the story mentioned in the FaerÃ»n Wiki (http://forgottenrealms.wikia.com/wiki/): A doppelganger took on Scar's identity to approach him and attack him afer Scar was murdered.
 
 "Dinner with Thalantyr"
 --new addition: Dinner with Thalantyr now expanded with "A Game of Chess with Thalantyr"
@@ -1628,7 +1643,7 @@ XIII. Legal Information
 ----------------
 
 =============================================================================
-This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Â©Wizards of the Coast LLC.
 This mod is also not developed, supported, or endorsed by BioWare, Black Isle Studios, Interplay Entertainment Corp., Overhaul Games or Beamdog. All other trademarks and copyrights are property of their respective owners.
 =================================================================================
 

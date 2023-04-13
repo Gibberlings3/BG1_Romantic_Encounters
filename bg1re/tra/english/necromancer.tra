@@ -2,7 +2,7 @@
 /* new for v3.0: changed location */
 @1    = ~Mourning Mom in Front of the Flaming Fist Headquarters
 
-There is a mourning mother in ront of the Flaming Fist headquarters. Somebody stole her daughter's body out of her grave.~
+There is a mourning mother in front of the Flaming Fist headquarters. Somebody stole her daughter's body out of her grave.~
 @2    = ~Who does something like this? Why steal a young girl out of her grave?...~
 @3    = ~I am sorry for your loss.~
 @4    = ~I know what happened to your daughter's body.~
@@ -342,7 +342,7 @@ I witnessed an old lady being arrested because she held a cow inside the city wa
 Maybe I shouldn't have attacked the cow without buying it first.~
 @308  = ~Do not intrude, citizen. This is a matter of the city authority.~
 @309  = ~Oh, don't be daft, Trevor. Surely this helpful man can state his opinion?~
-@310  = ~Oh, don't be daft, Trevor. Surely this helpful woman can state his opinion?~
+@310  = ~Oh, don't be daft, Trevor. Surely this helpful woman can state her opinion?~
 @311  = ~Er, of course, Mrs. Thirsty...~
 @312  = ~Uh, what a situation... I cannot return to the headquarters until this is resolved.~
 @313  = ~You mentioned a fine. Maybe I could help.~

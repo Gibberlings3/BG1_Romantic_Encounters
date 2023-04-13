@@ -1,6 +1,7 @@
 /* First */
 
 IF 
+	InMyArea(Player1)
 	Global("C#LCINT_Spawn","GLOBAL",0)
 THEN
 	RESPONSE #100
@@ -12,6 +13,7 @@ END
 /* Second */
 
 IF 
+	InMyArea(Player1)
 	Global("C#LCINT_Spawn","GLOBAL",3)
 THEN
 	RESPONSE #100
@@ -22,6 +24,7 @@ END
 
 /* Third */
 IF 
+	InMyArea(Player1)
 	Global("C#LCINT_Spawn","GLOBAL",6)
 THEN
 	RESPONSE #100
@@ -32,6 +35,7 @@ END
 
 /* 4th */
 IF 
+	InMyArea(Player1)
 	Global("C#LCINT_Spawn","GLOBAL",9)
 THEN
 	RESPONSE #100
@@ -42,6 +46,7 @@ END
 
 /* 5th */
 IF 
+	InMyArea(Player1)
 	Global("C#LCINT_Spawn","GLOBAL",12)
 THEN
 	RESPONSE #100
@@ -52,6 +57,7 @@ END
 
 /* 6th */
 IF 
+	InMyArea(Player1)
 	Global("C#LCINT_Spawn","GLOBAL",15)
 THEN
 	RESPONSE #100
@@ -61,6 +67,7 @@ END
 
 /* 7th - Chapter > 5 - reuses cres from third encounter */
 IF 
+	InMyArea(Player1)
 	GlobalGT("Chapter","GLOBAL",%tutu_chapter_5%)
 	Global("C#LCINT_Spawn","GLOBAL",18)
 THEN

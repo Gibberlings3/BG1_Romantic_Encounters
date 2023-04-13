@@ -337,7 +337,7 @@ CHAIN IF ~Global("RE1_RiverGhostQuest","GLOBAL",3)~ THEN RE#GHON2 GhostWx02x00
 ==RE#GHON1 @120 
 DO ~GiveItemCreate("T1GSton",Player1,%10_CHARGES%,0,0) AddExperienceParty(100)~
 ==RE#GHON2 @121
-DO ~
+DO ~SetGlobal("RE1_RiverGhostQuest","GLOBAL",4)
 CreateVisualEffect("re1#deat",[2424.3377]) 
     CreateVisualEffect("re1#deat",[2516.3377]) 
 	ActionOverride("RE#GHON1",DestroySelf()) 

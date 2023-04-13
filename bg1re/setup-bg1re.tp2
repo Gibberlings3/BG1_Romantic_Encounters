@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~9.0~
+VERSION ~10.0~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -2329,8 +2329,8 @@ WRITE_ASCII 0x280 ~c#lccens~ #32  // death variable
 WRITE_EVALUATED_ASCII 0x248 ~c#lccens~ #8   // Override script
 WRITE_ASCII 0x268 ~INITDLG~	     #8  // default script
 SAY INITIAL_MEETING ~~ 
-SAY NAME1 ~Ghostly Spirit~
-SAY NAME2 ~Ghostly Spirit~
+SAY NAME1 @292
+SAY NAME2 @292 //~Ghostly Spirit~
 
 
 /* Quest reward: Centeol's Wand */
@@ -2568,9 +2568,11 @@ END
 ACTION_IF GAME_IS ~bgt eet~ THEN BEGIN
 EXTEND_TOP ~%Candlekeep%.bcs~ ~bg1re/messenger/T1SapiAR2600.baf~ 
       EVALUATE_BUFFER 
+EXTEND_BOTTOM ~%Candlekeep%.bcs~ ~bg1re/messenger/AR2600_eb.baf~ EVALUATE_BUFFER 
 END ELSE BEGIN //Tutu, BG:EE and BG
 EXTEND_TOP ~%tutu_var%ar2600.bcs~ ~bg1re/messenger/T1SapiAR2600.baf~ 
       EVALUATE_BUFFER 
+EXTEND_BOTTOM ~%Candlekeep%.bcs~ ~bg1re/messenger/AR2600_eb.baf~ EVALUATE_BUFFER 
 END 
 
 // Sapientia in Return to Candlekeep: The Sequel
@@ -3761,10 +3763,12 @@ COMPILE EVALUATE_BUFFER ~bg1re/alec/RE1Alec.d~
 
 ACTION_IF GAME_IS ~bgt eet~ THEN BEGIN
 EXTEND_TOP ~%Candlekeep%.bcs~ ~bg1re/alec/AR2600.baf~ EVALUATE_BUFFER 
+EXTEND_BOTTOM ~%Candlekeep%.bcs~ ~bg1re/alec/AR2600_eb.baf~ EVALUATE_BUFFER 
 EXTEND_TOP ~%Candlekeep_Ch6%.bcs~ ~bg1re/alec/AR2626.baf~ EVALUATE_BUFFER 
 EXTEND_TOP ~%Candlekeep_Ch6_Inn_L1%.bcs~ ~bg1re/alec/AR2629.baf~ EVALUATE_BUFFER 
 END ELSE BEGIN //Tutu, BG:EE and BG
-EXTEND_TOP ~%tutu_var%ar2600.bcs~ ~bg1re/alec/AR2600.baf~ EVALUATE_BUFFER 
+EXTEND_TOP ~%tutu_var%ar2600.bcs~ ~bg1re/alec/AR2600.baf~ EVALUATE_BUFFER
+EXTEND_BOTTOM ~%Candlekeep%.bcs~ ~bg1re/alec/AR2600_eb.baf~ EVALUATE_BUFFER  
 EXTEND_TOP ~%tutu_var%ar2626.bcs~ ~bg1re/alec/AR2626.baf~ EVALUATE_BUFFER 
 EXTEND_TOP ~%tutu_var%ar2629.bcs~ ~bg1re/alec/AR2629.baf~ EVALUATE_BUFFER 
 END 
@@ -4844,8 +4848,8 @@ This morning I remembered our final argument... again... but with a difference. 
 
 // 16.
 COPY ~bg1re/TICam/items/TIC0SCRL.itm~ ~override/TIC14SCR.itm~
-  SAY NAME1 ~Letter to <CHARNAME>~
-  SAY NAME2 ~Letter to <CHARNAME>~
+  SAY NAME1 @293 /* ~Letter to <CHARNAME>~ */
+  SAY NAME2 @293 //~Letter to <CHARNAME>~
   SAY DESC @242 /* ~My dear <CHARNAME>,
 <DAYANDMONTH>, in the Year of the Banner, <YEAR>.
 I am writing in haste a final note... This time for you. When I got up this morning, I sensed excitement in the air. I felt that something in my life was about to change. Even if this means I am to face my own demise, my whole heart yearns to embrace that change. You might think it foolish of me to believe this, but I am certain that I am to see Tamah today, even if only in whatever afterlife is permitted a man who will not enter Arvanaith without his human lover beside him. But I am rambling and have momentarily forgotten my purpose in writing...I am going to ask something of you, <CHARNAME>, being well aware that you have been kept in the dark about your past (those of us who knew were forbidden to speak of it lest we attract...unwanted...attention). I ask you to embrace change. Refusing to do so can only lead to unhappiness. This is the lesson I wish to pass on to you. Learn it well. I include in this note a small token of my esteem. It has served me well in my life. May it serve you at least as well.

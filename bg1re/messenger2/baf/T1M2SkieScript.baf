@@ -2,9 +2,10 @@
 
 // Activate
 IF %BGT_VAR%
-PartyHasItem("T1M2LET5")
+//PartyHasItem("T1M2LET5")
+HasItem("T1M2LET5",Myself)
 Global("T1M2SkieLetter","GLOBAL",0)
-GlobalTimerExpired("T1M2LetterTimer","GLOBAL")
+//GlobalTimerExpired("T1M2LetterTimer","GLOBAL")
 InParty(Myself)
 Detect(Player1)
 !StateCheck(Player1,CD_STATE_NOTVALID)

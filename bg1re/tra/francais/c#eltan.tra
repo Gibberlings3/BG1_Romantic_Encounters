@@ -368,3 +368,8 @@ Eltan m'a dit qu'on avait trouvé le corps de La Balafre et que celui-ci a pu rec
 //@133 avec le duc Eltan
 
 @327  = ~Ecoutez-moi bien : maintenant il faut que vous partiez. Désolé d'être un peu rude, mais le souvenir de cette nuit m'emplit encore de frayeur. Je suis sûr que la personne qui a fait assassiner La Balafre n'aurait aucun problème à éliminer deux autres témoins. Je vous promets d'informer le duc Eltan dès votre départ.~
+
+/* new for v10.0 */
+@328  = ~I've taken care of the assassins.  I'm just waiting for the coronation to start so I can confront Sarevok in front of witnesses.~
+@329  = ~I've ruined Sarevok's plans to murder the other dukes. Don't worry, they're safe.~
+@330  = ~Good, that's good.  I can rest easier now.~

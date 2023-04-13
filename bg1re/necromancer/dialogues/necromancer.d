@@ -925,7 +925,7 @@ Global("C#Q11_SearchBlood","GLOBAL",11): Beth is woman -> "c#q11c4"
 
 
 
-IF ~!Exists("c#q11be1") !Exists("c#q11be2")
+IF ~!Exists("c#q11be1")
 GlobalGT("C#Q11_SearchBlood","GLOBAL",8) GlobalLT("C#Q11_SearchBlood","GLOBAL",12)~ THEN necro_hasblood_01
 SAY @250
 IF ~~ THEN DO ~ClearAllActions() StartCutsceneMode() StartCutscene("c#q11c4")~ EXIT
@@ -1022,7 +1022,8 @@ IF ~StateCheck(Myself,STATE_CHARMED)~ THEN BEGIN trevor_charmed
   IF ~~ THEN EXIT
 END
 
-IF ~True()~ THEN BEGIN trevor
+
+IF ~AreaCheck("%SWBaldursGate_FlamingFistHQ_L1%")~ THEN BEGIN trevor
   SAY  @270 
 
 + ~Global("C#Q11_SearchBlood","GLOBAL",5)~ + @271 + report_necro

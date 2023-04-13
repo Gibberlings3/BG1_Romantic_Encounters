@@ -7,6 +7,17 @@ Global("EltanMove","GLOBAL",2)*/
 INTERJECT %ELTANDLG_HARBORMASTER% %ELTANDLG_STATE% c#lc_eltan
 == %ELTANDLG_HARBORMASTER% IF ~Global("EltanMove","GLOBAL",2)~ THEN @0
 END
+/* Slythe and bimbo are dead but coronation hasn't happened */
++ ~Global("SarevokBehavior","GLOBAL",0)
+Dead("Slythe")
+Dead("Krystin")
+Global("C#RE1_ToldProgress","LOCALS",0)~ + @328 /* ~I've taken care of the assassins.  I'm just waiting for the coronation to start so I can confront Sarevok in front of witnesses.~ */ DO ~SetGlobal("C#RE1_ToldProgress","LOCALS",1)~ + rest_easier
+/* Slythe and bimbo are dead and coronation has been busted up */
++ ~GlobalGT("SarevokBehavior","GLOBAL",0)
+Dead("Slythe")
+Dead("Krystin")
+!Dead("Sarevok")
+GlobalLT("C#RE1_ToldProgress","LOCALS",2)~ +  @329 /* ~I've ruined Sarevok's plans to murder the other dukes. Don't worry, they're safe.~ */ DO ~SetGlobal("C#RE1_ToldProgress","LOCALS",2)~ + rest_easier 
 + ~PartyHasItem("c#re1sr5")~ + @1 DO ~TakePartyItem("c#re1sr5") SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_06
 + ~PartyHasItem("c#re1sr6")~ + @2 DO ~TakePartyItem("c#re1sr6") SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_06_receit
 + ~Global("C#RE1_ScarRetrieval","GLOBAL",10)~ + @3 DO ~SetGlobal("C#RE1_ScarRetrieval","GLOBAL",12) SetGlobal("c#lc_eltan","GLOBAL",0)~ + heard_scar
@@ -16,6 +27,11 @@ END
 ++ @7 DO ~SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_01
 
 APPEND %ELTANDLG_HARBORMASTER%
+
+IF ~~ THEN rest_easier
+SAY @330 /* ~Good, that's good.  I can rest easier now.~ */
+IF ~~ THEN EXIT
+END
 
 IF ~~ THEN eltan
 SAY @8
