@@ -1378,6 +1378,9 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
+Version 10.1:
+-Russian version completed, by yota13.
+
 Version 10.0:
 -Added reply options to Duke Eltan to be able to tell him of progress with regard to saving the other dukes (from Lauriel) (Duke Eltan's Spare Minute)
 -Ioun Stone from Thalantyr should not be tagged as critical item (Dinner with Thalantyr).
