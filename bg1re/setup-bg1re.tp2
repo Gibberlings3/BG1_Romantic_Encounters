@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~10.1~
+VERSION ~10.2~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -1394,6 +1394,7 @@ END ELSE BEGIN //Tutu, BG:EE and BG
 
 EXTEND_BOTTOM ~%tutu_var%AR0700.bcs~ ~bg1re/scarreturn/c#re1sr_AR0700.baf~ 
       EVALUATE_BUFFER 
+EXTEND_BOTTOM ~%tutu_var%AR0700.bcs~ ~bg1re/scarreturn/c#re1sr_AR0700_mapnote.baf~ EVALUATE_BUFFER
 EXTEND_BOTTOM ~%tutu_var%AR1215.bcs~ ~bg1re/scarreturn/c#re1sr_AR1215.baf~ 
       EVALUATE_BUFFER 
 EXTEND_BOTTOM ~%tutu_var%AR0154.bcs~ ~bg1re/scarreturn/c#re1sr_AR0154.baf~ 
