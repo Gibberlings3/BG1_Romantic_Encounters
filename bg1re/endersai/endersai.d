@@ -406,10 +406,10 @@ END // APPEND
 CHAIN IF ~~ THEN ~T1ENDER~ hrupstairs
 @153
 == ~T1ENDER~ IF ~Global("C#LC_DescriptionText","GLOBAL",1)~ @154
-DO ~SetGlobal("RE1_EnderFlirt","GLOBAL",1) ClearAllActions()
+END
+IF ~~ THEN DO ~SetGlobal("RE1_EnderFlirt","GLOBAL",1) ClearAllActions()
       StartCutSceneMode()
-      StartCutScene("re1end2")~ 
-EXIT
+      StartCutScene("re1end2")~ EXIT
 
 APPEND ~T1ENDER~
 
