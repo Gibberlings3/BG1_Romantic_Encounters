@@ -1381,6 +1381,10 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
+Version 10.2:
+-Fixed bug where cutscene would only start for "Descriptive version" install option ("Ender Sai: The Hero's Reward").
+-Fixed install bug for BG:EE ("Duke Eltan's Spare Minute")
+
 Version 10.1:
 -Russian version completed, by yota13.
 
