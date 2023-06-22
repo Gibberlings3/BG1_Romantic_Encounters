@@ -259,7 +259,9 @@ Availability: Chapter 7, before searching for the murderers in the Undercellar, 
 Rating: mature content, teen version available (some slightly suggestive language, but no explicit content or descriptions)
 PC restrictions: none
 Variables: Global("RE1_HusamFlirt","GLOBAL",1) if the PC goes with Husam, 
-Global("RE1_HusamSex","GLOBAL",1) if there are intimacies
+Global("RE1_HusamSex","GLOBAL",1) if there are intimacies in the first encounter;
+Global("RE1_HusamSex","GLOBAL",2) if there are intimacies for the PC in the second encounter;
+Global("RE1_HusamSex","GLOBAL",3) if there were intimacies for Husam, too.
 
 Husam has many faces. He impersonates a drunk to be able to talk to the PC in disguise, and yet his mind is all sharp and smart. He just knows that sometimes, some things have to be done to get to your goal, and has no objection to laying on hands himself, either. 
 
@@ -1381,7 +1383,9 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
-Version 10.3:
+Version 11.0:
+-Added more tracking variables for crossmod with Husam component ("Husam's Personal Preparation").
+-"Husam's Personal Preparation": PC can also offer Husam intimacies in second encounter for Teen Version.
 -Icon for the bag centered for BGT when dragged in the inventory ("Camryn and Tamah").
 
 Version 10.2:

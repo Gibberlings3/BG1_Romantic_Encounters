@@ -251,7 +251,9 @@ Lieu : Chapitre 7 avant de rechercher les assassins dans les Caves Souterraines,
 Classification : contenu adulte, version adolescente disponible (langage assez suggestif, mais pas de contenu ou de descriptions très explicites)
 Restrictions au niveau du personnage principal : aucune
 Variables: Global("RE1_HusamFlirt","GLOBAL",1) si le personnage principal suit Husam, 
-Global("RE1_HusamSex","GLOBAL",1) si la situation devient intime.
+Global("RE1_HusamSex","GLOBAL",1) si la situation devient intime (first encounter);
+Global("RE1_HusamSex","GLOBAL",2) if there are intimacies for the PC in the second encounter;
+Global("RE1_HusamSex","GLOBAL",3) if there were intimacies for Husam, too.
 
 Husam a plusieurs visages. Il sait se déguiser en homme ivre pour pouvoir parler au personnage principal, tout en gardant son esprit parfaitement vif. Il sait bien que parfois, pour parvenir à son objectif, il faut ce qu'il faut ; et il ne voit non plus aucune objection à utiliser ses mains.
 
@@ -1378,7 +1380,9 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
-Version 10.3:
+Version 11.0:
+-Added more tracking variables for crossmod with Husam component ("Husam's Personal Preparation").
+-"Husam's Personal Preparation": PC can also offer Husam intimacies in second encounter for Teen Version.
 -Icon for the bag centered for BGT when dragged in the inventory ("Camryn and Tamah").
 
 Version 10.2:
