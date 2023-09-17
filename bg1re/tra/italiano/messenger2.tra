@@ -1,0 +1,345 @@
+@0    = ~Salve. (ansima)~
+@1    = ~Hai per caso (ansima) pipa e tabacco?~
+@2    = ~Forse potrei fare qualcosa prima per le ferite aperte?~
+@3    = ~Mi dispiace, amico, non fumo. Quella roba ti ucciderà.~
+@4    = ~Avevo intenzione di saccheggiare il tuo cadavere non appena avessi smesso di dimenarti, ma certo, ecco qua.~
+@5    = ~E' esattamente quello che volevo. (ansima) Non volevo sembrare troppo diretto.~
+@6    = ~Ho sentito che ostacola la crescita.~
+@7    = ~Sei un grande.~
+@8    = ~Heh.~
+@9    = ~Ho subito un colpo quando i banditi hanno attaccato i carri. L'ultima volta che ho visto il giovane Eddy stava (ansima) respingendoli mentre io... strisciavo via per morire, immagino. Bravo ragazzo. Il marmocchio del nobile. Il distintivo è uno scudo argentato. Mi ha dato una lettera.~
+@10   = ~Hai visto mio fratello?~
+@11   = ~Il ragazzo di Silvershield è da queste parti? *Finalmente*.~
+@12   = ~Scommetto che stava devastando quei banditi puzzolenti. Deve essere qui da qualche parte...~
+@13   = ~Allora sei tu la piccola skyling, ragazzina. Carina come ha detto.~
+@14   = ~(piange)~
+@15   = ~(tossisce) Modo schifoso di andarsene per un Lungocamminatore. (tossice) Non così. Non con la borsa piena...~
+@16   = ~Posso dare un'occhiata alle tue ferite, prima di parlare di morte.~
+@17   = ~Possiamo dare un'occhiata alle tue ferite, prima di parlare di morte.~
+@18   = ~Bevi un sorso d'acqua, amico.~
+@19   = ~Hai qualcosa di più forte? *tosse e singhiozzo*. Già, sarebbe fantastico...~
+@20   = ~Vorrei che una bella ragazza mi asciugasse la fronte. Sì, sarebbe bello...~
+@21   = ~... Quindi suonerò mai più il liuto del drago a vapore, segaossa?~
+@22   = ~Anche il guerriero più potente prima o poi dovrà cadere, mio piccolo amico...~
+@23   = ~Questo va oltre le mie capacità, giovane. Mi dispiace.~
+@24   = ~A casa mia gli avremmo tagliato la gola e saremmo andati avanti da tempo. Questo... trascinarsi non serve a niente e a nessuno.~
+@25   = ~(tossisce)~
+@26   = ~Beh, non ballerai il salterello, amico.~
+@27   = ~Non... sembra ben messa.~
+@28   = ~Le mie viscere sono fuori?~
+@29   = ~Potresti sentire uno spiffero.~
+@30   = ~Per usare un eufemismo.~
+@31   = ~Come puoi trovarlo divertente?~
+@32   = ~Da prua a poppa? Heheh, mi hai rallegrato la giornata, marmocchio. (tossisce)~ ~Da prua a poppa? Heheh, mi hai rallegrato la giornata, marmocchia. (tossisce)~
+@33   = ~Uh, non c'è di chè?~
+@34   = ~Porto le mie gioie dove trovo le mie gioie.~
+@35   = ~Fine della strada per me, giusto? (ansima)~
+@36   = ~Succede... a volte, c-che arriviamo semplicemente troppo ta-tardi, <CHARNAME>, e dobbiamo lasciarli andare. Succede~
+@37   = ~E e non parlatemi di trasportare la mia carcassa in un tempio e sprecare soldi che sarebbe meglio donare a vedove e orfani. Una vita sola per *me*: è sempre stata la mia regola.~
+@38   = ~Ma devi *fare* qualcosa per me, ragazzo.~ ~Ma devi *fare* qualcosa per me, ragazza.~
+@39   = ~Mi chiamo Bartleby. Bartleby Quickfoot, membro in regola della Gilda dei Messaggeri del Lungocamminatore.~
+@40   = ~"Né la pioggia, né la neve, né l'oscurità della notte ci impediranno di compiere il nostro dovere." Banditi adesso, si fottano.~
+@41   = ~Prendi la mia borsa. Consegna le lettere. Me lo prometti, vero? Non finire il mio ultimo lavoro, mi uccidereb...~
+@42   = ~...~
+@43   = ~Ehi.~
+@44   = ~Ai! Un fantasma!!~
+@45   = ~Come va la vita, Bartleby?~
+@46   = ~Che cosa succede? Sei stato occupato?~
+@47   = ~Stai scherzando, vero?~
+@48   = ~Beh, sono morto, tanto per cominciare.~
+@49   = ~Heh. Scherzi a parte, sei stato bravo. Tutte le mie lettere, inviate nel modo giusto. Mi fa bene il cuore, assolutamente.~
+@50   = ~Non è stato un problema: stavo *comunque* arrancando nel fango per tutta la Costa della Spada.~
+@51   = ~Sono felice di aver potuto onorare la tua ultima richiesta.~
+@52   = ~Non l'ho fatto per *te*: volevo strappare qualche spicciolo ai destinatari. E sono stati *molto* *deludenti*.~
+@53   = ~Qualunque siano le tue ragioni, mi hai aiutato a uscire da un pasticcio.~
+@54   = ~Grazie mille, <CHARNAME>, figlio di Gorion.~ ~Grazie mille, <CHARNAME>, figlia di Gorion.~
+@55   = ~Come facevi a sapere il mio nome? (Anche se probabilmente mi pentirò di averlo chiesto.)~
+@56   = ~Sei ben informato per essere un fantasma.~
+@57   = ~Si, si, quindi?~
+@58   = ~La tua ombra comincia a diffondersi un bel po' sui Regni.~
+@59   = ~Forse ho detto troppo, fanciulla. Ma mi hai fatto un favore, e noi morti halfling ricompensiamo coloro che ci aiutano. Stai ferma un attimo.~
+@60   = ~Forse ho detto troppo, fanciullo. Ma mi hai fatto un favore, e noi morti halfling ricompensiamo coloro che ci aiutano. Stai fermo un attimo.~
+@61   = ~Cosa stai...~
+@62   = ~Pizzica...~
+@63   = ~Se mi tocchi ti farò saltare via da ciò che resta della tua esistenza, fantasma.~
+@64   = ~Cavolo. Permaloso, alquanto.~
+@65   = ~Tutte queste piccole vite che brulicano. Tutti i loro dolori, le loro gioie e le loro noiose piccole transazioni d'affari. Gocce in un secchio. Gocce nell'oceano, <CHARNAME>, e le loro maree ci muovono. Ricordatelo, quando raggiungerai il Trono. Ops, ora ho davvero detto trop...~
+@66   = ~Se il tuo nome è Maple Willow Aspen ho una lettera per te, ma potrebbe non piacerti...~
+@67   = ~Di che si tratta?  Oh...~
+@68   = ~Mi prendi in giro?  E poi adesso lo fai anche IN PROSA?~
+@69   = ~Io?  Mai!  Sono solo un messaggero.  Ha capito male, signora.  Uh...~
+@70   = ~Penso che sia meglio andarmene in silenzio, ehm, *andarsene*, uhm...~
+@71   = ~Non è una mia lettera. Dica, signora, mentre parliamo potrebbe darmi indicazioni? Sono nuovo in città.~
+@72   = ~Prima di parlarne... ho una lettera per te, ragazzo.~
+@73   = ~(sussulta) Una lettera dalla Signora in Rosso!~
+@74   = ~Ha notato come ho cambiato la musica per adattarla all'atmosfera quando è scoppiata la rissa!  Quando ha lanciato quel berserker dalla finestra e si è lanciata dopo aver gridato che ce l'avrebbe fatta pagare, ce l'avrebbe fatta pagare a tutti, pensavo che non l'avrei mai più rivista, nossignore.~
+@75   = ~Sono lieto che stia bene.~
+@76   = ~Cos'è questa storia dell'anello?~
+@77   = ~Deve essersi perso durante il trasporto.~
+@78   = ~Ecco qua, amico.~ ~Ecco qua, amica.~
+@79   = ~La posta è notoriamente inaffidabile di questi tempi. Dovremmo fare qualcosa al riguardo. Può essere un'avventura!~
+@80   = ~Cavolo, sicuramente è carino. Come una goccia del sangue del cuore. Lo metterò solo in un posto sicuro...~
+@81   = ~Allora, che ne dici della mia proposta? Di proteggere la mia padrona!~
+@82   = ~Allora posso unirmi a te? Posso? Beh, posso? So che posso essere utile!~
+@83   = ~Sissignore, è sicuramente un bel momento per avventurarsi. Gli uccelli cinguettano, i fiori sbocciano... poco fango...~ [GARRK17]
+@84   = ~... Bella compagnia...~
+@85   = ~Grazie, Garrick.~
+@86   = ~Potrei vomitare.~
+@87   = ~Lascia stare, Eldoth, non piaci a nessuno.~
+@88   = ~(sospira)~
+@89   = ~Non siamo abbastanza degni di una ballata, per te, Garrick?~
+@90   = ~Devo ammettere che nella vita reale di un avventuriero, le odissee emozionanti spesso lasciano il posto a lunghe ed estenuanti marce..~
+@91   = ~Rimpianti, piccolo bardo?~
+@92   = ~No, va alla grande! È solo che... mi manca già il mio vecchio pubblico.~
+@93   = ~Avevo dei clienti abituali quando suonavo con Silke allo Stregone Bruciato. C'era quel mercenario mezzorco a cui piaceva il vino di mele e riusciva a ruttare le prime otto battute di "Sunshine Nancy" e i gemelli Hobson che dicevano sempre cose così carine sui miei pezzi strumentali, oh, e questa feroce piccola elfa in pelle cremisi che rompeva le cose a tempo con la musica, a parte il fatto che è stata lì solo per una notte, quindi non posso davvero definirla una cliente abituale...~
+@94   = ~Parlando di pubblico, penso di aver ricevuto alcune lettere dai fan per te.~
+@95   = ~Oh, ehi, ho trovato un pezzo di carta con sopra il tuo nome.~
+@96   = ~O forse andrò a est e cercherò la Signora in rosso...~
+@97   = ~Sei andato a cercare la tua Signora in rosso? Qual era il suo soprannome, mi pare... "Il Macellaio"?~
+@98   = ~Oh... Lei.~
+@99   = ~Capita...~
+@100  = ~Non sembra faccia più caldo in questo momento? Sento molto caldo, tu senti caldo? Ma proseguiamo (non che io stia cambiando argomento o altro) vogliamo proseguire?~
+@101  = ~Non l'ho fatto, perché i miei affetti sono rivolti altrove, anche se non vorrei mettere in imbarazzo quella signora sbandierando con noncuranza il suo nome.  Una nave in mare può avere una sola stella guida. Come il fiore ama una sola ape, anch'io mi struggo, fedele...~
+@102  = ~La strada dell'avventura aspetta?~
+@103  = ~Ho una lettera per una certa Nesiara Rille che vive da queste parti.~
+@104  = ~Sono io! 'Nesiara' nelle occasioni speciali, e 'Nessie' per tutti i giorni. Oh mio Dio, già una lettera di Petronio!~
+@105  = ~Ecco qua. Questa lettera dice che il mio tesoro andrà alla Torre di Durlag!~
+@106  = ~A si?~
+@107  = ~Non che io abbia letto la tua posta privata, ma è possibile.~
+@108  = ~Costruita da Durlag Trollkiller?~
+@109  = ~Chi è Durlag?~
+@110  = ~Immagino che sia una brutta cosa?~
+@111  = ~Durlag che uccise i draghi e, impazzito per la perdita della sua famiglia, ricostruì la sua torre e con amore la trasformò centimetro dopo centimetro in un'astuta trappola mortale innescata con scintillanti gingilli per attirare gli sciocchi, generazione dopo generazione?~
+@112  = ~Beh...~
+@113  = ~Così sembrerebbe, signora.~
+@114  = ~Non vedo nulla di sbagliato in questo piano! Oh, spero davvero che riporti dei rubini. Adoro i bei rubini.~
+@115  = ~Se ne va un altro fidanzato, immagino...~
+@116  = ~Dimmi, sembri un ragazzo a modo. Hai mai pensato di sistemarti mentre hai ancora l'uso di tutte le parti del tuo corpo?~
+@117  = ~Uh, non che tu non sembri molto gentile, Nessie, ma......~
+@118  = ~Sicuro! Dopo che avrò sistemato tutta quella brutta faccenda con gli assassini, gli avvisi di taglia e i nemici letali invisibili, tornerò subito con un anello.~
+@119  = ~Mi dispiace. Lui... potrebbe non morire?~
+@120  = ~Oh cara. Beh, devo andare. Sai com'è: gente da vedere, cose da uccidere...~
+@121  = ~Grazie per avermi portato la lettera. Ecco un po' di soldi per il tuo disturbo, amico. Goditi il ??resto del tuo soggiorno qui.~ ~Grazie per avermi portato la lettera. Ecco un po' di soldi per il tuo disturbo, amica. Goditi il resto del tuo soggiorno qui.~
+@122  = ~Sto cercando qualcuno di nome Nesiara Rille.~
+@123  = ~Nesiara, eh?~
+@124  = ~Hai un bell'aspetto, ma non si è mai troppo attenti in questi giorni bui, come può testimoniare quel tizio che ha fatto storie sulle scale.~
+@125  = ~Il motivo per cui lo chiedi?~
+@126  = ~Porto una missiva, signore.~
+@127  = ~Guarda, c'è un pezzo di carta con sopra il suo nome, non mi interessa altro.~
+@128  = ~Una missiva?~
+@129  = ~Appunto. Si potrebbe addirittura chiamarla corrispondenza.~
+@130  = ~Una corrispondenza?~
+@131  = ~Tu intuisci quel che intendo. Una nota, un'epistola, della famiglia dei memorandum, un dispaccio, un dolce bigliettino. Potrei osare descriverla come... una lettera? ~
+@132  = ~Lei è in sala, a servire i tavoli.~
+@133  = ~Ah, posso aiutarti?  Non ti ho sentito bussare: sono rimasto immerso per ore nelle Satire di Umm Lahab.~
+@134  = ~Credo che questa missiva sia per lei, signore.~
+@135  = ~Sì sì, c'è una lettera per te che mi brucia in tasca. Te la venderò per 20 monete d'oro.~
+@136  = ~Ecco a cosa è arrivato il servizio postale in questi tempi degenerati, puro banditismo... Tieni, allora, figliolo.~ ~Ecco a cosa è arrivato il servizio postale in questi tempi degenerati, puro banditismo... Tieni, allora, figliola.~
+@137  = ~Che cos'è questo? Ah, una felice coincidenza, vedo. "Non sono paziente; non sono gentile"... questo è vero. "Carattere esecrabile", eh? Ah! Lo vedo da me, mio caro...~  ~Che cos'è questo? Ah, una felice coincidenza, vedo. "Non sono paziente; non sono gentile"... questo è vero. "Carattere esecrabile", eh? Ah! lo vedo da me, mia cara...~
+@138  = ~"Ma", cosa intende con questo "ma"...~
+@139  = ~Oh, Mayyasah!~
+@140  = ~Tu... devi scusarmi, amico mio. Ho... ho bisogno di un momento per ricompormi.~ ~Tu... devi scusarmi, amica mia. Ho... ho bisogno di un momento per ricompormi.~
+@141  = ~C'è una lettera per Vostra Signoria...~
+@142  = ~Porto tristi notizie. Vostro fratello ha incontrato la fine nelle terre selvagge appena a nord di Beregost.~
+@143  = ~Da mio fratello? E così presto. La leggerò stasera, dopo cena.~
+@144  = ~Oh sì, un consiglio per te, mia buona donna.~
+@145  = ~Oh sì, un consiglio per te, mio caro amico.~
+@146  = ~Addio, mia signora.~
+@147  = ~Ci sono notizie più tristi. Vostro fratello ha incontrato la fine nelle terre selvagge appena a nord di Beregost.~
+@148  = ~Se mi dai quella cifra per una semplice lettera, che prezzo avrai per avere informazioni sulla morte prematura di tuo fratello?~
+@149  = ~Ora che vedo l'interno della tua tenuta, non posso fare a meno di notare tutti gli oggetti d'arte. Così adorabili e così preziosi.  Hmm...~
+@150  = ~Troverai sicuramente la strada per l'uscita.~
+@151  = ~Aspetti, signorina. Prima di parlare di queste cose, ho un messaggio da suo fratello.~
+@152  = ~Mi hai portato una lettera? Portare la posta non sembra molto... degno di per un avventura. Ma aspetta: questo significa che posso ricompensarti per la tua missione! O coraggioso avventuriero, ti ringrazio dal profondo del mio cuore. Prendi questa Borsa d'Oro, ma è una misera sciocchezza in cambio di ciò che mi hai concesso. (ridacchia)~ ~Mi hai portato una lettera? Portare la posta non sembra molto... degno di per un avventura. Ma aspetta: questo significa che posso ricompensarti per la tua missione! O coraggiosa avventuriera, ti ringrazio dal profondo del mio cuore. Prendi questa Borsa d'Oro, ma è una misera sciocchezza in cambio di ciò che mi hai concesso. (ridacchia)~
+@153  = ~Allora posso venire con te? Desidero stare con il mio coraggioso Eldoth.~
+@154  = ~Porto più che una lettera, quanto delle notizie. Tuo fratello ha incontrato la fine nelle terre selvagge appena a nord di Beregost.~
+@155  = ~M... morto?  Eddard?~
+@156  = ~(Hssst, <CHARNAME>, non dirlo a voce troppo alta. Non che siano affari miei, intendiamoci.)~
+@157  = ~Chi sei tu per interrompere, piccolo signore? Non importa adesso... il tuo capo ha portato notizie di... notizie di mio fratello.~
+@158  = ~Mi dispiace. Dalle tracce attorno al suo corpo, è morto molto coraggiosamente.~
+@159  = ~I banditi hanno attaccato la sua carovana. Per quello che vale, probabilmente è stato veloce.~
+@160  = ~Questo ti rende l'erede, non è vero? Ed è morto così convenientemente lontano... nessuno potrebbe incolpare *te*...~
+@161  = ~Cosa...?~
+@162  = ~Cosa stai insinuando?~
+@163  = ~Solo che la gente parlerà, signorina, e che tu devi essere preparata.~
+@164  = ~Se qualcuno sta uccidendo gli eredi di Silvershield, potresti essere la prossima. Vale la pena stare attenti.~
+@165  = ~Potrei... raccontarti la storia di come l'ho trovato, se preferisci. Per una ricompensa adeguata, ovviamente.~
+@166  = ~Ovviamente nessuno potrebbe concepire di incolpare te, Skie, mia cara, mia dolcezza, il mio prezioso agnello. Il mio amico è semplicemente preoccupato per la tua sicurezza. (Hai l'astuzia di un toro cieco, <CHARNAME>; lascia che se ne occupi *io*.)~
+@167  = ~Perchè, tu orribile...~
+@168  = ~Me ne devo andare da qui!~
+@169  = ~Oh Eldoth, stringimi.  Portami via da questa orribile casa.~
+@170  = ~Sta tranquilla, ragazza mia, mia ragazza coraggiosa. Riparati tra le mie braccia per un po'.  I lupi che si radunano intorno a te e alla tua nuova eredità dovranno prima affrontare *me*.  Io, che conosco la tua bellezza interiore, la tua saggezza e l'innocenza della tua anima, darò la mia vita prima di permettere a un altro di farti del male.  (È così che si fa, <CHARNAME>. Ecco come si *fa*.)~
+@171  = ~Eldoth, io... ti amo. Posso venire, allora?~
+@172  = ~Certo, ragazza. Sembra che *qualcuno* debba prendersi cura di te.~
+@173  = ~(Quando sorridi in quel modo, Eldoth, riesco a vedere tuuuutti i tuoi denti.) Benvenuta nel gruppo, Dama Skie!~
+@174  = ~In questo momento credo fermamente che staresti meglio tra le braccia della tua famiglia. Addio.~
+@175  = ~Uscivo continuamente dalla casa di mio padre, salivo sui tetti e osservavo la gente per strada. È stata una tale avventura! Ma ora che non posso tornare a casa...~
+@176  = ~Non starai facendo la timida adesso, dolcezza?~
+@177  = ~Sarò coraggiosa, lo sarò! Ma il mondo sembra molto *più grande* adesso. E continuo a pensare a mio fratello.~
+@178  = ~Eddard, vero? Prima ho trovato una sua lettera: semplicemente non mi era sembrato il momento adatto per dartela.~
+@179  = ~Ora che me lo dici, ha scarabocchiato un biglietto per te.~
+@180  = ~Penso che ti abbia scritto questo prima di morire.~
+@181  = ~Posso averla? La leggerò... più tardi.~
+@182  = ~Allora... questa lettera di mio fratello?~
+@183  = ~Andavate d'accordo?~
+@184  = ~Deve essere stato bello sapere che ti pensava.~
+@185  = ~Lettera...?  Oh giusto, quella.~
+@186  = ~Lo conoscevo appena. Era sempre alla Ufficio Contabile o in uno degli uffici commerciali, a prendersi cura degli investimenti di famiglia, e lo vedevo forse una volta alla settimana, davanti a una tazza di tè, in incontri molto formali, in cui non mi rivolgeva quasi una parola. Pensavo di annoiarlo. Pensavo... pensavo che non gli importasse della morte della mamma.~
+@187  = ~Non sei stata un po'... sciocca?~
+@188  = ~E la lettera cambia le cose?~
+@189  = ~Devi aver provato molta solitudine.~
+@190  = ~Ma sì, i problemi dei ricchi... *così* peggiori dei miei..~
+@191  = ~Tutta questa... si teneva così tanto dentro, così tanti sentimenti, e non l'ho mai saputo.~
+@192  = ~Forse tutti hanno mondi segreti nascosti dentro di sé, nel bene e nel male.~
+@193  = ~Il mio padre adottivo Gorion ha sempre *detto* che mi amava, ma il modo in cui a volte mi guardava... come se mi stesse per germogliare un'altra testa o avessi fatto a pezzi i gatti di Candlekeep per vedere cosa li faceva funzionare.~
+@194  = ~E ora lo sai. Questa conoscenza ti è utile?~
+@195  = ~Huh.  Sembra una delle canzoni di Eldoth.~
+@196  = ~E cosa pensi che sia nascosto dentro di *lui*... nel bene e nel male?~
+@197  = ~E cosa pensi che fosse nascosto dentro *lui*... nel bene e nel male?~
+@198  = ~Sì, Eldoth è svelto con la lingua, non è vero? Dice sempre alle persone quello che vogliono sentire.~
+@199  = ~Sì, Eldoth era svelto con la lingua, non è vero? Diceva sempre alle persone quello che volevano sentire.~
+@200  = ~Quando Eldoth mi dice che mi ama, sento un tale tepore e mi sento coraggiosa e *speciale*, come l'eroina di un romanzo. Quindi *cosa importa* se a volte è duro con le sue parole.  Non sono tutti così, quando sono stanchi o preoccupati? Dovrei rinunciare a qualcuno per siili sciocchezze? Che tipo di persona sarei, <CHARNAME>, se restassi qui solo quando le cose sono *perfette*.  Qualcuna che non mi piacerebbe molto essere, penso. Quindi gli credo quando mi dice che mi ama, e questo è tutto.~
+@201  = ~Lui mi... mi ama.~
+@202  = ~Oh, dolcezza.~
+@203  = ~Mi piaci molto, Skie, proprio come sei.~
+@204  = ~Finché mantieni il tuo ruolo, principessa, non ha molta importanza.~
+@205  = ~Ha importanza, <CHARNAME>? Adesso non c'è più.~
+@206  = ~Deve essere stato molto snervante.~
+@207  = ~Oh, il suo istinto aveva ragione. *Io* so quanto è dipinta di nero la mia anima.~
+@208  = ~Ho comunque cercato di compiacerlo. Non riesco a capire perché. Forse volevo dimostrargli che si sbagliava.~
+@209  = ~Era solo un motivo in più per odiare quel vecchio sciocco e affettuoso. Detesto la falsità, quando è diretta a me, ovviamente.~
+@210  = ~Era l'uomo più gentile e paziente che abbia mai conosciuto. Non avevo alcuna possibilità di essere *all'altezza* di uno come lui, solo che a volte andava bene...~
+@211  = ~Eh, cosa importa. Adesso è morto.~
+@212  = ~Oh no!  Ho la certezza che fosse orgoglioso di te... a modo suo.~
+@213  = ~Uhm, probabilmente.~
+@214  = ~Certamente?~
+@215  = ~Chi non potrebbe essere orgoglioso di qualcuna eroica come *te*?~
+@216  = ~Devi pensare che sono molto stupida.~
+@217  = ~Sì, ma hai abilità utili e i tuoi legami aristocratici potrebbero tornare utili.~
+@218  = ~Affatto. Penso che tu sia brillante ed entusiasta. Tutti devono iniziare da qualche parte.~
+@219  = ~Penso che molte persone siano stupide. Non lasciare che questo ti abbatta.~
+@220  = ~Oddio... Immie, qui, potrebbe raccontarti alcuni dei miei momenti più... inappropriati.~
+@221  = ~Puoi scommetterci.~
+@222  = ~Allora è questo il mio valore per te? 'usarmi'?~
+@223  = ~Rende le cose molto semplici, per me e per te.~
+@224  = ~Perdonami, principessa, ho abbandonato il mio romanticismo con il mio padre adottivo, soffocato nel suo stesso sangue nell'oscurità.~
+@225  = ~"usare" è la leva; 'usare' è *potere*. Le mie cose, la mia casa, i miei amici e la mia famiglia, tutto ciò che amo: tutto questo può essere portato via.  Ma le mie capacità permangono finché respiro, e l'essere "usati" da parte di altre persone dà loro interesse a mantenermi in salute. Consideralo, Skie.~
+@226  = ~E per quale altro motivo dovrei tenerti attorno, signorina MiSonoRottaUnUnghia?~
+@227  = ~Sul serio?~
+@228  = ~Basta che fai la tua parte nel gruppo e siamo a posto.~
+@229  = ~Mi piaci di più del tuo bardo, se vogliamo essere brutalmente onesti.~
+@230  = ~Parlo più duramente di quanto dovrei, forse. A volte. Ma comprendi: mentre mi proteggi le spalle, io *guarderò* le tue.~
+@231  = ~Presumo di si.~
+@232  = ~Mi... mi dispiace per il tuo dolore, <CHARNAME>.~
+@233  = ~Non so che dire, <CHARNAME>.~
+@234  = ~<CHARNAME>?  Sei davvero un idiota.~ ~<CHARNAME>?  Sei davvero un'idiota.~
+@235  = ~Noi... dovremmo davvero proseguire.~
+@236  = ~C'è una lettera per la Dama Skie.~
+@237  = ~Porto una lettera indirizzata alla Dama Skie, da parte di suo fratello.~
+@238  = ~Aspetta un minuto! Ho una lettera qui. Penso che l'abbia scritta tu. È tua?~
+@239  = ~Spedisci in molti posti? Tipo il Bosco Ammantato?~
+@240  = ~A chi invii la tua merce? Forse a un'impresa mineraria?~
+@241  = ~Penso che tu abbia un cliente di fuori città che è venuto a trovarti.~
+@242  = ~Quindi... Stephan...~
+@243  = ~Mando prelibatezze importate in tutta la Costa della Spada. Il Bosco Ammantato, Gullykin... maghi ritirati nei boschi... La metà di loro paga un extra per l'anonimato, che è una cosa con un valore a se stante.~
+@244  = ~Allora mi assicurerò di dare loro una buona stanza e di indicargli le attrazioni turistiche della città. Accogliere i miei clienti conviene.~
+@245  = ~Ah, il ragazzo. È nervoso, quello, e dubito che resterà a lungo. Non importa. A volte una donna indipendente desidera una relazione che non sia... *complicata*.~
+@246  = ~Ma non posso parlare a lungo: devo preparare una spedizione fuori città.~
+@247  = ~E non sono il tipo che interferisce in cose che non sono affari miei. Mostrami la tua merce.~
+@248  = ~Certo.~
+@249  = ~Alzi la fronte per una domanda. Cosa ti turba?~
+@250  = ~Se sei Silence, e questo è il tuo Santuario, allora penso che questo sia per te.~
+@251  = ~Ho un messaggio che arriva da lontano: "Barkis è d'accordo".~
+@252  = ~E' d'accordo, vero? Il problema è che Barkis è morto.~
+@253  = ~Ma conosco un posto dove le sue ossa troveranno il meritato riposo. Ci sono troppi viaggiatori perduti in questo mondo oscuro per allontanarsi da un'anima stanca.~
+@254  = ~... Quando... la luce... se ne va... cosa... succede...?~
+@255  = ~... così... freddo...~
+@256  = ~... bagliori... nel... oscurità...~ 
+@257  = ~... io... temo... la fine...~
+@258  = ~... dio... bambino...~
+@259  = ~... sono... così... stanco...~
+@260  = ~Quando la candela si spegne, Barkis, cosa succede, in quel momento? Dormi.~
+@261  = ~Non darai sui nervi agli altri miei clienti, piccola ombra..~
+@262  = ~Riposa bene, ragazzo.  Riposa bene.~
+@263  = ~Bartleby il Lungocamminatore
+
+Ho trovato un messaggero halfling vicino ad alcune carovane distrutte sulla Strada della Costa: un'altra morte sulla Costa della Spada. Il suo ultimo desiderio era che consegnassi il contenuto della sua borsa a tracolla. Ci sono lettere per il Vecchio Firebead e Garrick il Bardo nella città di Beregost; per Nesiara Rille alla locanda del Braccio Amico; per Dama Skie Silvershield e Miss Maple Willow Aspen su a nord, a Baldur's Gate; e due senza indirizzo, per 'Dama Alyth Elendara' e 'Silence presso il Santuario'.~
+@264  = ~Bartleby il Lungocamminatore
+
+Ho consegnato una "lettera d'amore" a Maple Willow Aspen. Cavolo, quando una presa in giro mette radici le persone la fanno davvero prosperare. Povera ragazza.~
+@265  = ~Bartleby il Lungocamminatore
+
+Garrick il bardo è sembrato felice di sapere di un ammiratore così entusiasta dei suoi sforzi artistici.~
+@266  = ~Bartleby il Lungocamminatore
+
+Garrick ha approfittato della sua permanenza nel mio gruppo per visitare l'avventuriera Carnatia Carnifex. È avaro di dettagli, ma sembra incolume, anche se ha qualche... segno.~
+@267  = ~Bartleby il Lungocamminatore
+
+Nesiara Rille ha ricevuto la sua missiva in modo composto. Possa il suo Pootsie accumulare i gioielli preziosi a lei promessi per il suo piacere.~
+@268  = ~Bartleby il Lungocamminatore
+
+Nesiara Rille ha ricevuto la sua missiva in modo composto... e questa potrebbe essere l'unica cosa composta in questa situazione, perché teme la morte imminente del suo fidanzato nella Torre di Durlag. Dicono che l'unica cosa peggiore di *essere* un avventuriero è *amarlo*, a volte...~
+@269  = ~Bartleby il Lungocamminatore
+
+Nesiara Rille ha ricevuto la sua missiva in modo composto... e questa potrebbe essere l'unica cosa composta in questa situazione, perché è partito per una stupida commissione verso ciò che resta della Torre di Durlag. Se riesce a recuperare ciò che gli abbiamo lasciato, buon per lui.~
+@270  = ~Bartleby il Lungocamminatore
+
+Ho ritrovato il vecchio Firebead a Beregost e gli ho consegnato un messaggio di un vecchio amico. È diventato completamente pallido mentre lo leggeva, e ho temuto per il suo cuore.~
+@271  = ~Bartleby il Lungocamminatore
+
+Ho dato alla giovane Dama Silvershield un messaggio da parte di suo fratello maggiore Eddard. Mi ha ringraziato, anche se i due non sembravano essere vicini.~
+@272  = ~Bartleby il Lungocamminatore
+
+Ho dato alla giovane Dama Silvershield un messaggio da parte del suo defunto fratello Eddard. Per quanto contenta di averlo, sembrava più incline a piangere che a leggere le sue ultime parole.~
+@273  = ~Bartleby il Lungocamminatore
+
+Ho trovato l'autore di una delle mie lettere: Dopotutto, anche gli schiavisti, gli assassini e i torturatori vogliono la loro piccola ricompensa.~
+@274  = ~Bartleby il Lungocamminatore
+
+Ho contribuito a mettere insieme una coppia di amanti davvero improbabile, anche se, nel caso di Stephan e Alyth, dubito che sarà una situazione da "per sempre felici e contenti".~
+@275  = ~Bartleby il Lungocamminatore
+
+Ho trovato il fornitore di dolciumi e prelibatezze della Miniera del Bosco Ammantato. Alyth era molto riservata riguardo ai suoi rapporti con il Trono di Ferro e non credo che ne sapesse molto. Farà meglio a tacere sui *miei* affari, o ci faremo anche noi... una bella chiacchierata.~
+@276  = ~Bartleby il Lungocamminatore
+
+La Dama Silence prende la sua promessa di dare rifugio alle anime randage *davvero* sul serio, è tutto quello che posso dire.~
+@277  = ~Bartleby il Lungocamminatore~
+@278  = ~Ummm... Si. L'ho scritta alla mia... alla mia amica Alyth. La riprenderò, grazie. Con il mio padrone morto, credo di potergliela portare io stesso.~
+@279  = ~Alyth, hai detto? L'indirizzo sulla lettera dice che risiede a Baldur's Gate.~
+@280  = ~Hmmm....~
+@281  = ~Sembra che il mio prossimo viaggio dovrebbe essere alla Taverna la Canzone dell'Elfo, allora.~
+@282  = ~Oh, no! No! Alyth ci fornisce solo le razioni! Non ha idea che lavoriamo per il Trono di Ferro! Non sa nemmeno che le sue vettovaglie finiscono in una miniera!! Ti scongiuro!! Per favore, non farle del male!!~
+@283  = ~Stai zitto. Allontanati dalla mia vista, codardo. Chi vedo a Baldur's Gate è affar mio.~
+@284  = ~Quindi adesso sei un eroe, eh? Hai cambiato idea riguardo all'affrontarci?~
+@285  = ~Ti ho risparmiato, vero? Non sono il mostro che era il tuo...uh...ex capo. Ora vai!~
+@286  = ~Oh, NO!  Sei tu!!~
+@287  = ~Cosa ci fai qui, Stephan?~
+@288  = ~Comincio a pentirmi di averti lasciato vivere.~
+@289  = ~Non stai cercando di seguirmi, vero?~
+@290  = ~Io... sto semplicemente qui a farmi gli affari miei.~
+@291  = ~Per favore, non dirlo! Sei stato molto gentile con me... ho cambiato vita! Veramente!~
+@292  = ~Oh, no.  No, mai. E'... solo una coincidenza che siamo entrambi qui adesso.~
+@293  = ~Non sto facendo nulla di sbagliato. Sto solo bevendo qualcosa qui... prima di andare di sopra a vedere la mia fidanz... la mia amica Alyth.~
+@294  = ~Sembra più che tu te ne stia nascosto qui nell'angolo. Alyth sa che sei qui?~
+@295  = ~Coincidenza? Improbabile. Avevi paura che saremmo arrivati ad Alyth prima di te.~
+@296  = ~La tua amica?~
+@297  = ~Non è così! (fa una pausa.) Pensi che le cose gentili che ha scritto sulle fatture non fossero vere. Ma lo erano!~
+@298  = ~Ovviamente avevo paura! Ero preoccupato per lei... avevo paura di quello che avresti fatto a qualcuno che tiene a me!~
+@299  = ~Che cosa vuoi dire con questo? Certo che è mia amica. Anche di più! Mi ha scritto delle piccole note su ogni fattura!~
+@300  = ~Si preoccupa davvero per me! Vedrai!!~
+@301  = ~Pensi di essere intelligente, eh? Ma non hai capito niente! Alyth mi ama! Vedi, stamattina mi ha anche offerto la colazione prima di buttarmi fuori con il gatto!!~
+@302  = ~Bartleby il Lungocamminatore
+
+Bartleby ha preso molto sul serio il suo ultimo lavoro: anche da fantasma, ha controllato la mia consegna delle lettere e la sua ricompensa è stata generosa. Piccolo uomo coraggioso, spero che ora trovi riposo.~
+
+@303  = ~Bartleby il Lungocamminatore
+
+Bartleby ha preso molto sul serio il suo ultimo lavoro: anche da fantasma, ha controllato la mia consegna delle lettere. Non gli ho permesso di toccarmi, però. Speriamo che ora trovi riposo.~
+
+/* new for v5.1 */
+@304  = ~... guarda... loro... bruciare...~
+@305  = ~'Pioggia né neve né buio notturno' le mie chiappe tese e formose...~
+@306  = ~(sibila) Qualcuno riesce a sentirmi?~
+@307  = ~Piedi non deludetemi adesso: ho ancora i piedi? Sono un po' insensibile laggiù...~
+@308  = ~Preferirei andare a pescare. (tossisce)~
+@309  = ~ahi.~

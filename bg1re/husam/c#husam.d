@@ -264,32 +264,7 @@ SAY @76
 END
 
 
-/* Second time: in the thief guild, before descending down to the maze
-
-
-Husam will be in the thief's guild. Since in the original game he just vanishes, he will now be created before the PC is about to go down into the maze.
-Using custom cre based on game cre: C#HUSAM.
-
-
-//EXTEND_BOTTOM to AR0153.bcs
-
-IF
-	Global("DukeThanks","GLOBAL",1)
-	Global("C#LC_HusamEncounter","GLOBAL",4)
-	!Exists("HUSAM2")
-	!Dead("HUSAM") 
-	!Dead("HUSAM2") 
-Allegiance not evil etc. <-- this prevents the spawn for vanilla BG1
-THEN
-	RESPONSE #100
-		SetGlobal("C#LC_HusamEncounter","GLOBAL",5)
-		CreateCreature("C#HUSAM",[1134.273],0) 
-END
-*/
-
-
-
-
+/* Second time: in the thief guild, before descending down to the maze */
 
 IF WEIGHT #-1
 ~Global("C#LC_HusamEncounter","GLOBAL",6)~ THEN second_time
@@ -348,6 +323,7 @@ IF WEIGHT #-1
 ~Global("C#LC_HusamEncounter","GLOBAL",7)~ THEN secret_place
 SAY@102
 IF ~Global("C#LC_Details","GLOBAL",0)~ THEN DO ~SetGlobal("C#LC_HusamEncounter","GLOBAL",8)
+      SetGlobal("RE1_HusamSex","GLOBAL",2) 
       ClearAllActions()
       StartCutSceneMode()
       StartCutScene("c#lchus1")~ EXIT
@@ -427,8 +403,6 @@ END
 + ~Gender(Player1,MALE)~ + @133 DO ~SetGlobal("C#LC_HusamIn","LOCALS",1)~ + second_27
 ++ @134 + second_16
 
-
-
 APPEND C#HUSAM
 
 IF ~~ THEN second_15
@@ -453,14 +427,14 @@ IF ~~ THEN C#HUSAM second_17
 == C#HUSAM IF ~!Global("C#LC_HusamIn","LOCALS",1)~ THEN @140
 = @141
 END
-IF ~~ THEN + second_28
+IF ~~ THEN DO ~SetGlobal("RE1_HusamSex","GLOBAL",3)~ + second_28
 
 APPEND C#HUSAM
 
 IF ~~ THEN second_18
 SAY @142
 = @143
-IF ~~ THEN + second_13
+IF ~~ THEN DO ~SetGlobal("RE1_HusamSex","GLOBAL",2)~ + second_13
 END
 
 IF ~~ THEN second_19
@@ -518,7 +492,9 @@ END
 IF WEIGHT #-1
 ~Global("C#LC_HusamEncounter","GLOBAL",8)~ THEN second_26
 SAY @166
-IF ~~ THEN + second_28
+++ @161 /* ~Go on, Husam! It is your turn now.~ */ + second_30
+++ @125 + second_28
+++ @126 + second_28
 END
 
 IF ~~ THEN second_27
@@ -535,8 +511,25 @@ IF ~~ THEN DO ~SetGlobal("C#LC_HusamEncounter","GLOBAL",9)
       StartCutScene("c#lchus5")~ EXIT 
 END
 
+IF ~Global("C#LC_HusamEncounter","GLOBAL",11)~ THEN second_29
+SAY @139
+= @141
+IF ~~ THEN + second_28
+END
 END //APPEND
 
+CHAIN
+IF ~~ THEN C#HUSAM second_30
+@114
+== C#HUSAM IF ~Gender(Player1,MALE)~ THEN @128
+== C#HUSAM IF ~Gender(Player1,FEMALE)~ THEN @129
+== C#HUSAM @130
+END
+IF ~~ THEN DO ~SetGlobal("C#LC_HusamEncounter","GLOBAL",11)
+      SetGlobal("RE1_HusamSex","GLOBAL",3) 
+      ClearAllActions()
+      StartCutSceneMode()
+      StartCutScene("c#lchus1")~ EXIT 
 
 
 

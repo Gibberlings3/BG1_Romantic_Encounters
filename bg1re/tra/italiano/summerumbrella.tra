@@ -1,0 +1,271 @@
+@0    = ~Saluti, onorevole ospite. Sono Summer Umbrella, un artista della Lanterna Fioca. Ti servirò il tè, se lo desideri, o reciterò poesie per te.~
+@1    = ~Ciao di nuovo, mio giovane amico.~ ~Ciao di nuovo, mia giovane amica.~
+@2    = ~Goditi il tuo tempo alla Lanterna Fioca, mio giovane amico.~ ~Goditi il tuo tempo alla Lanterna Fioca, mia giovane amica.~
+@3    = ~Come vuoi. Per favore, porgi i miei saluti a Schvantz. È un giovane dolce con un cuore gentile.~
+@4    = ~Cosa vorresti, onorevole ospite?~
+@5    = ~Per favore, mi serviresti del tè, Summer Umbrella?~
+@6    = ~Vorrei ascoltare un po' di poesia, per favore.~
+@7    = ~Il tuo nome, 'Summer Umbrella', mi suona strano. Me ne parleresti?~
+@8    = ~Mi diresti di più sul tuo nome, Summer Umbrella?~
+@9    = ~I tuoi capelli sono neri, Summer Umbrella, ma qualcosa nel modo in cui parli suggerisce una ricchezza di anni. Hai bambini?~
+@10   = ~Come sei arrivata a questa vita?~
+@11   = ~Ti sei formata come ballerina? Allora come mai stai solo servendo il tè?~
+@12   = ~hai qualche rimpianto?~
+@13   = ~Sono passato solo per salutarti. Ciao!~ ~Sono passata solo per salutarti. Ciao!~
+@14   = ~Offri incontri intimi, Summer Umbrella?~
+@15   = ~Summer Umbrella, sei *abbastanza sicura* di non, ehm, 'inseguire la gente di notte'?~
+@16   = ~Io devo andare.~
+@17   = ~Mi farebbe molto piacere.~
+@18   = ~(Aspetti pazientemente mentre prepara la bevanda.)~
+@19   = ~(Ti agiti mentre armeggia con il suo apparato per preparare il tè.)~
+@20   = ~Ho cambiato idea, facciamo qualcos'altro.~
+@21   = ~Ho cambiato idea: devo andare.~
+@22   = ~(Summer Umbrella ti serve tè nero che sa molto di fumo e un po' di cammello. Mentre bevi parla di viaggi in carovane attraverso deserti aridi, del lamento dei cammelli e del freddo grigio del primo mattino tra le tende sparse...)~
+@23   = ~(Summer Umbrella ti serve il tè in una ciotola di argilla mescolata con burro e sale, e ti racconta storie di alte montagne spoglie e di persone che vivono in case di pietra e parlano con gli dei.)~
+@24   = ~(Bevi questo tè forte e amaro e mantieni una zolletta di zucchero scuro tra i denti mentre lo sorseggi.)~
+@25   = ~(Questo tè è molto leggero e mescolato con gelsomino; ha l'odore della luce del sole in un giardino.)~
+@26   = ~(Summer Umbrella aggiunge acqua al tè in polvere in una ciotola grossolana e lo sbatte energicamente fino a quando non diventa spumoso. La ciotola è calda e leggera nelle tue mani mentre bevi con sorsi misurati e rumorosi.)~
+@27   = ~(Questo tè viene servito in tazze di porcellana d'osso con delicati manici. Aggiungi cubetti di zucchero puliti con pinze delicate e mangi piccoli pasticcini mentre bevi.)~
+@28   = ~(Summer Umbrella riempie un vaso di ottone pesante e decorato con acqua pura e accende un fuoco nel camino interno del vaso. Mentre l'acqua si riscalda lentamente, ti siedi e parli comodamente di molte cose. Col tempo lei fa bollire il tè sul camino e tu lo bevi, mescolando a tuo gusto la densa birra con l'acqua calda della pentola. In questo modo, ti siedi, bevi e parli per ore.)~
+@29   = ~(Summer Umbrella ti serve tè nero infuso con sciroppo di frutta. Piccole bolle di tapioca rimbalzano e danzano nella bevanda.)~
+@30   = ~Certo, onorevole ospite.~
+@31   = ~Questo è un tè nero pesante, trasportato attraverso aspri deserti a dorso di cammello. Sento sempre il sapore del fumo.~
+@32   = ~Prova del tè al burro. Lo bevono così in alta montagna: è molto corroborante!~
+@33   = ~Ah, questo tè è piuttosto amaro. Meglio tenere una zolletta di zucchero tra i denti e sorseggiarlo lentamente.~
+@34   = ~Goditi la fragranza del tuo tè al gelsomino, onorevole ospite.~
+@35   = ~Ti servirò del tè verde alla vecchia maniera. Per favore sii paziente mentre sbatto la polvere di tè finché non diventa leggera e schiumosa nella tua ciotola.~
+@36   = ~Là, profumato tè al latte in tazze di porcellana cinese. Prego, assaggia un'altra piccola torta mentre beviamo.~
+@37   = ~Per favore, goditi questo tè, mescolato con sciroppo di pesca e latte. Le bollicine provengono da un po' di tapioca.~
+@38   = ~Mi piacerebbe.~
+@39   = ~(Ascolti)~
+@40   = ~Ho cambiato idea. Potremmo parlare di qualcos'altro?~
+@41   = ~In realtà, penso che andrò.~
+@42   = ~C'era un poeta, una volta, che viveva in una casa così brutta e grande che non riusciva a vederne la fine. E amava una donna.~
+@43   = ~Questo è ciò che le ha scritto.~
+@44   = ~Tu cammini inconsapevole
+Della snella gazzella
+Che si muove mentre ti muovi
+Ed è tutt'una con le membra
+Che tu hai.~
+@45   = ~Tu vivi inconsapevole
+Dei deboli, degli ultraterreni
+Eco di zoccoli
+Che nei tuoi bianchi ruscelli
+Di argilla chiara che amo~
+@46   = ~ Sono in volo mentre ti giri,
+Mentre ti alzi, mentre ti muovi,
+Mentre dormi, perchè la magra
+Gazzella non riposa mai
+Nel tuo bosco d'avorio.~
+@47   = ~Una canzone alla maniera rustica, quindi.~
+@48   = ~Due contadine sedevano tranquille
+Parlando dei propri mariti.
+Una disse, "Il mio è dolce e buono
+Per tutto il giorno, dà da mangiare alle mie galline
+Mentre mi prendo il mio piacere."~
+@49   = ~Cluck cluck cluck
+La pollastra e il galletto~
+@50   = ~Lui è dolce e buono
+Cluck cluck cluck.~
+@51   = ~Sembra davvero un bravo ragazzo, che fa tutte quelle faccende!~
+@52   = ~Uhm... "galletto" è una specie di eufemismo?~
+@53   = ~Penso che sia davvero dolce che lei dica a tutti quanto è bravo suo marito!~
+@54   = ~Vedo. È molto... rustica. Forse potremmo parlare di qualcos'altro?~
+@55   = ~Polli, contadine, vabbè. Ma io devo andare.~
+@56   = ~Mio piccolo amico, sei davvero adorabile in questo momento.~ ~Mia piccola amica, sei davvero adorabile in questo momento.~
+@57   = ~Non sono piccolo!~ ~Non sono piccola!~
+@58   = ~Possiamo parlar d'altro?~
+@59   = ~Penso che andrò, ora.~
+@60   = ~Alla fine dell'estate, prima che arrivino le piogge, ci piace sederci sui nostri tetti, in questa città, e bere e guardare il cielo notturno. Questa è una canzone per quel tempo:~
+@61   = ~Bevi la luna, lei lo desidera
+E balla, spargendo aspre gocce di sudore.~
+@62   = ~Vorrei poterla toccare,
+Traccia la sua forma con le mie mani assaggiatrici, eppure,~
+@63   = ~Sdraiata qui, guardo la leggerezza
+E così assorbila con i miei occhi.~
+@64   = ~Hmmm, un poema in prosa quindi, su un piccolo fiore bianco che è una ragazza, o una ragazza che è un fiore...~
+@65   = ~Mi ci vedo, mi ci vedo!~
+@66   = ~Oh, quanto sono profumata!~
+@67   = ~Su nella piccola soffitta c'è, semisvestita, una piccola Danzatrice. Sta ora su una gamba, ora su entrambe; disprezza il mondo intero; eppure vive solo nell'immaginazione.~
+@68   = ~Versa dell'acqua dalla teiera su un pezzo di roba che tiene in mano; è il corpetto; la pulizia è una bella cosa. L'abito bianco è appeso al gancio; veniva lavato nella teiera e asciugato sul tetto. Lo indossa, si lega al collo un fazzoletto color zafferano, e poi l'abito sembra più bianco.~
+@69   = ~Come può una ragazza essere un fiore?~
+@70   = ~Come può un fiore essere una ragazza?~
+@71   = ~Conoscevi questa ragazza?~
+@72   = ~Molte cose possono succedere, nella poesia.~
+@73   = ~Non capisco...~
+@74   = ~Oh, beh, se è *poesia*...~
+@75   = ~Forse, una volta.~
+@76   = ~Ma questo era molto tempo fa.~
+@77   = ~Ti reciterò un breve verso di un poeta e mistico del Calimshan:~
+@78   = ~Guarda la rosa che sboccia intorno a noi
+"Ecco, Ridendo", dice, "nel mondo soffio:
+Subito la nappa di seta della mia borsa
+Lacrima, e getta il suo tesoro nel giardino".~
+@79   = ~Non essere sciocca. Le rose non possono parlare. E non hanno neanche alcun tesoro. O *lo hanno*...? Presto, al Roseto!~
+@80   = ~Se la rosa può parlare, significa che è davvero una persona?~
+@81   = ~È un suggerimento che dovrei dare di più in beneficenza? Perché, uh, so che *sembra* che l'avventura sia redditizia ma ci sono molte spese. Tipo... olio per armi! E i mercanti di gemme non pagano quasi *niente* per il bottino! Eh...~
+@82   = ~Mi piace: vivere al sole e al vento fa sentire liberi. È questo che intendeva il poeta?~
+@83   = ~Le poesie possono significare molte cose, tutte in una volta.~
+@84   = ~Se la rosa che parla è una persona, la conosci?~
+@85   = ~Sembra molto scomodo, essere più di una cosa allo stesso tempo.~
+@86   = ~La conosco molto bene!~
+@87   = ~Eppure, ce la caviamo tutti in qualche modo.~
+@88   = ~Un verso di un Calimshita.~
+@89   = ~(Sospiro)~
+@90   = ~Oh, vieni con il vecchio Khayyam e lascia il saggio
+Parlare; una cosa è certa, che la vita vola;
+Una cosa è certa, e il resto sono bugie;
+Il fiore che una volta è sbocciato per sempre muore.~
+@91   = ~Non capisco.~
+@92   = ~È... triste.~
+@93   = ~Il vecchio Khayyam, chiunque fosse, sapeva di cosa si trattava.~
+@94   = ~Beh, so che nessuno farebbe risorgere un *fiore*, ma sono sicuro che se *io* morissi, i miei compagni mi riporterebbero indietro. Sono abbastanza sicuro.~ ~Beh, so che nessuno farebbe risorgere un *fiore*, ma sono sicura che se *io* morissi, i miei compagni mi riporterebbero indietro. Sono abbastanza sicura.~
+@95   = ~Io... perdonami, ma non voglio discutere di questo. Non avrei dovuto proporlo.~
+@96   = ~Ecco un consiglio per un giovane che corteggia:~
+@97   = ~Quindi indossa il cappello d'oro, se questo la commuove;	
+Se riesci a rimbalzare in alto, rimbalza anche per lei,	
+Finché non griderà "Amante, amante dal cappello d'oro, amante saltellante, 	
+devo averti!""~
+@98   = ~Anche se, se sia un consiglio da seguire, dipende da te.~
+@99   = ~Sono abbastanza d'accordo. Farei e farò qualsiasi cosa per compiacere colei che corteggio.~ ~Sono abbastanza d'accordo. Farei e farò qualsiasi cosa per compiacere colui che corteggio.~
+@100  = ~Pensi che debba prendere un cappello d'oro? Dove posso prenderne uno? Li vendono nello stesso posto in cui fanno quei fantasiosi pantaloni? Oh, è tutto così complicato!~
+@101  = ~Preferirei non vedere quel particolare abbigliamento su qualcuno che cerca i miei affetti.~
+@102  = ~I cappelli d'oro sembrano calzare meravigliosamente! Così lucidi ed eleganti! Ehi, pensi che potrei convincere le mie giovani corteggiatrici a indossare... anche altre cose?~ ~I cappelli d'oro sembrano calzare meravigliosamente! Così lucidi ed eleganti! Ehi, pensi che potrei convincere i miei giovani corteggiatori a indossare... anche altre cose?~
+@103  = ~Cappelli d'oro, eh? Immagino che sarebbero molto luminosi, per catturare l'attenzione. Ma non fanno per me, credo.~
+@104  = ~Sembra un copricapo intrigante...~
+@105  = ~Troppo appariscente e mi sentirei un bersaglio.~
+@106  = ~Una breve canzone di desiderio:~
+@107  = ~Vento dell'ovest, quando soffierai?
+La piccola pioggia può piovere?
+Oh Sune! che il mio amore sia tra le mie braccia
+E io di nuovo nel mio letto!~
+@108  = ~Un commento, da uno che era stato innamorato...~
+@109  = ~Ho pensato di raccogliere per me stesso il fiore dell'oblio.~
+@110  = ~Ma l'ho trovato~
+@111  = ~Che già cresceva nel mio cuore.~
+@112  = ~Una canzone di numeri e conteggio, per te:~
+@113  = ~Quante volte ti amo, cara?	 
+  Dimmi quanti pensieri ci sono	 
+Nell'atmosfera	 
+Di un nuovo anno autunnale,	 
+Di cui appaiono le ore bianche e il zibellino	         
+  L'ultimo fiocco dell'Eternità:	 
+Tante volte ti amo, cara.~
+@114  = ~Quante volte amo di nuovo?	 
+  Dimmi quante perle ci sono	 
+In una catena d'argento
+Di pioggia serale,	 
+Disfate dal primario ticchettio,	 
+  E infilando l'occhio di una stella gialla:	 
+Tante volte amo di nuovo.~
+@115  = ~Ma non puoi contarlo, i numeri non finiscono!~
+@116  = ~I fiocchi di neve e la pioggia mi sembrano un po'... vaporosi. E, cosa più importante, freddi.~
+@117  = ~Catene di pioggia? Fiocchi di eternità? È una di quelle metafore?~
+@118  = ~No, Non si possono contare.~
+@119  = ~Preferirei contare le affettuose battute e i baci a migliaia.~
+@120  = ~Alle persone... *piace* quel genere di cose, quando le corteggi?~
+@121  = ~Ho visto un po' troppo il clima in tutti i suoi oltraggi per apprezzare davvero questo tipo di versi.~
+@122  = ~Ahimè, è così.~
+@123  = ~A molti, si.~
+@124  = ~Noi che dichiariamo di intrattenere, che viviamo in questo mondo di fiori e acque alla deriva, spesso assumiamo nomi di lavoro.~
+@125  = ~Trovo che indossare il mio nome fin da presto la serata sia essenziale quanto il trucco per il viso e le mie vesti di grazia. Forse lo trovi strano...?~
+@126  = ~Mi diresti perché hai scelto quel nome?~
+@127  = ~Io... penso di capire? Ma forse si potrebbe parlare d'altro.~
+@128  = ~Penso che andrò ora.~
+@129  = ~Quando ho scelto questo nome, ho pensato a due momenti precisi. Il primo...~
+@130  = ~La prima pioggia leggera d'estate, quando le gocce di pioggia cominciano ad accarezzare la terra calda, e il profumo che sale allora. ah!~
+@131  = ~E più tardi, verso la fine della stagione, quando sono iniziate le forti piogge. Cammini per le strade; qualcuno ti passa accanto. Condividete un ombrello e quindi dovete stare vicini. Spruzzi!... attraversi le pozzanghere; sibilo!... le tende della pioggia; il mormorio sommesso della voce del tuo amico, e il suo calore mentre cammini nel fresco...~
+@132  = ~Mi sembra ancora un nome sciocco.~
+@133  = ~Mi piace. Mi piacciono i nomi con una storia alle spalle.~
+@134  = ~Penso ti si addica.~
+@135  = ~Ah. Io... penso di... capisco.~
+@136  = ~Come vuoi, mio giovane amico.~ ~Come vuoi, mia giovane amica.~
+@137  = ~Non sono giovane!~
+@138  = ~Grazie, piccolo.~ ~Grazie, piccola.~
+@139  = ~Non ho figli del corpo, giovane. Ma della mente: molti.~
+@140  = ~Quando avevo otto anni i miei genitori avevano un disperato bisogno di soldi.~
+@141  = ~Così sono diventato apprendista... o meglio, assoggettata, se preferisci... in una scuola che insegnava danza e musica.~
+@142  = ~Era una scuola severa, ma l'insegnamento era di altissimo livello. Al mio sedicesimo compleanno ero diventata una ballerina affermata e di discreto talento, anche se il flauto o il liuto del drago mi lasciavano piuttosto indifferente.~
+@143  = ~Questo mondo di frivolezza agrodolce mi ha servito bene e ho saldato il mio debito in pochi anni.~
+@144  = ~Quindi la tua famiglia... ti ha venduto?~
+@145  = ~Hai iniziato ad allenarti così giovane? Deve essere stato difficile, quando altri bambini giocavano e si arrampicavano sugli alberi.~
+@146  = ~Capisco. Potremmo parlare d'altro?~
+@147  = ~Huh.  Grazie per avermelo detto. Beh, ho altri affari.~
+@148  = ~Lo considererei un modo eccessivamente duro di definire la situazione. Ho mantenuto la mia famiglia, come è giusto ed onorevole, tramite un commercio rispettabile. Dovrei lamentarmi perché ho iniziato da giovane?~
+@149  = ~Quando la metti così, ha senso.~
+@150  = ~Sì, ma sembra ancora un pò...~
+@151  = ~I bambini non dovrebbero nutrire i loro genitori!~
+@152  = ~La mia famiglia mi ha avviata a una carriera in cui avrei potuto prosperare. Ed ho prosperato, bambino, non dubitarne mai: sono stata una *grande* ballerina nella mia giovinezza. Lascia ogni pianto nel passato.~ ~La mia famiglia mi ha avviata a una carriera in cui avrei potuto prosperare. Ed ho prosperato, bambina, non dubitarne mai: sono stata una *grande* ballerina nella mia giovinezza. Lascia ogni pianto nel passato.~
+@153  = ~Mi piace servire il thè.~
+@154  = ~*Solo* il tea?~
+@155  = ~E recitare poesie, sì. Ma balli mai?~
+@156  = ~Infatti. Posso avere un'altra tazza?~
+@157  = ~Con le mie ginocchia così rigide? Abbi pietà dell'orgoglio di una vecchia!~
+@158  = ~Non sei vecchia, Summer Umbrella!~
+@159  = ~Sono sicuro che balleresti magnificamente.~ ~Sono sicura che balleresti magnificamente.~
+@160  = ~non ho pietà! E ti vorrei veder ballare.~
+@161  = ~Oh, beh.~
+@162  = ~Adulatore!~ ~Adulatrice!~
+@163  = ~No.  Per quanto tu sia affascinante.~
+@164  = ~Potrei chiederti la stessa cosa, tu con le mani indurite dal peso di un'arma, e le ombre nei tuoi occhi.~
+@165  = ~Non ho mai ucciso niente che non lo meritasse!~
+@166  = ~Ho fatto alcune cose di cui non sono orgoglioso, ma penso di poter vivere con me stesso.~ ~Ho fatto alcune cose di cui non sono orgogliosa, ma penso di poter vivere con me stessa.~
+@167  = ~Ho saccheggiato e depredato su e giù per la Costa della Spada e mi sono divertito, grazie.~ ~Ho saccheggiato e depredato su e giù per la Costa della Spada e mi sono divertita, grazie.~
+@168  = ~Con tutto il bene che ho fatto, dovrei dormire come un bambino. Ma faccio brutti sogni...~
+@169  = ~Capisco.~
+@170  = ~Sei giovane, ancora.~
+@171  = ~Com'è che diceva la vecchia strofa? 'Ai miei occhi, i dolori del mondo...~
+@172  = ~E sulle mie labbra si mescola la gioia della vita...'~
+@173  = ~Mia figlia, se fosse vissuta, avrebbe avuto la tua età.~
+@174  = ~Questo rimpianto sarà sufficiente.~
+@175  = ~Mio figlio, se fosse vissuto, avrebbe avuto la tua età.~
+@176  = ~E ciao anche a te!~
+@177  = ~Stai bene? Sembri stanco.~ ~Stai bene? Sembri stanca.~
+@178  = ~Sto abbastanza bene.~
+@179  = ~Ho un leggero raffreddore, ma per il resto sto abbastanza bene.~
+@180  = ~Sto bene, non agitarti!~
+@181  = ~Ma c'è una macchia sulla tua guancia. Ecco, lasciami...~
+@182  = ~Aargh.~
+@183  = ~Oh, Molto bene...~
+@184  = ~Mi illumini la giornata, bambino.~ ~Mi illumini la giornata, bambina.~
+@185  = ~Ma adesso stiamo avendo un incontro intimo, giusto?~
+@186  = ~Sospetto, non nel modo in cui intendevi, comunque. Sono una praticante d'arte. Canto, recito, servo il tè e parlo con gli ospiti.~
+@187  = ~Se desideri un diverso tipo di compagnia, al piano di sotto ci sono artisti che "ti inseguiranno nella notte". O coloro ai quali piacerà essere inseguiti, se preferisci.~
+@188  = ~Ah, capisco. Mi verseresti del tè, allora?~
+@189  = ~In tal caso, vorrei ascoltare un po' di poesia.~
+@190  = ~Di sotto, dici? Me ne andrò, allora.~
+@191  = ~È stato illuminante. Tuttavia, ho altri affari qui.~
+@192  = ~Non ho già chiarito la mia posizione? Che impertinenza!~
+@193  = ~Stavo solo scherzando.~
+@194  = ~Lo so ma... mi piaci.~
+@195  = ~Non c'è niente di male a chiedere.~
+@196  = ~Speravo che avessimo... un'intesa. Che ero più di un semplice cliente di passaggio.~ ~Speravo che avessimo... un'intesa. Che ero più di una semplice cliente di passaggio.~
+@197  = ~Hmmmph.~
+@198  = ~Oh, bambino.~ ~Oh, bambina.~
+@199  = ~No?~
+@200  = ~Sono un grande avventuriero! ho i muscoli!~ ~Sono una grande avventuriera! ho i muscoli!~
+@201  = ~Sarò piccolo di statura, ma ho un grande bagaglio di esperienza!~ ~Sarò piccola di statura, ma ho un grande bagaglio di esperienza!~
+@202  = ~No. Possiamo parlare d'altro prima che il mio orgoglio cada a brandelli?~
+@203  = ~No, decisamente no. E devo andare.~
+@204  = ~Ah, Parlavo con affetto, come si potrebbe fare con un bambino promettente.~ ~Ah, Parlavo con affetto, come si potrebbe fare con una bambina promettente.~
+@205  = ~Per favore, non intendevo offendere.~
+@206  = ~Beh, allora va bene... grr...~
+@207  = ~Preferirei che non lo facessi.~
+@208  = ~Nessuno mi ha parlato come se fossi un bambino dai tempi di Gori... dai tempi di mio padre... dai tempi...~ ~Nessuno mi ha parlato come se fossi una bambina dai tempi di Gori... dai tempi di mio padre... dai tempi...~
+@209  = ~Cercherò di ricordare, picc... onorevole ospite.~
+@210  = ~Oh, capisco.~
+@211  = ~Ho almeno vent'anni!~
+@212  = ~La mia voce ha smesso di incrinarsi almeno un anno fa!~
+@213  = ~Ma guarda i miei bei baffi!~
+@214  = ~Le curve e gli avvallamenti della mia figura non suggeriscono una certa maturità?~
+@215  = ~Sarò un po' magra e... poco sviluppata, ma ti assicuro che tutti i miei attributi femminili ci sono e funzionano perfettamente!~
+@216  = ~I miei anni possono essere pochi, ma ho camminato lontano, combattuto duramente e imparato cose del genere. Non sarò mai più giovane.~
+@217  = ~Perdonami, allora, gio... amico mio. Alla mia età, quasi tutti sembrano bambini.~ ~Perdonami, allora, gio... amica mia. Alla mia età, quasi tutti sembrano bambini.~
+@218  = ~Zitto zitto, piccolino. Lascia che ti tenga. Sì, riposa la testa qui.~ ~Zitta zitta, piccolina. Lascia che ti tenga. Sì, riposa la testa qui.~
+@219  = ~Toglimi le mani di dosso, donna!~
+@220  = ~(Sospira)~
+@221  = ~Io non... abbraccio.~
+@222  = ~Io non abbraccio! Sono rude e cattivo! Ma, ehm, posso restare qui ancora un po'. Per essere educato, capisci...~ ~Io non abbraccio! Sono rude e cattiva! Ma, ehm, posso restare qui ancora un po'. Per essere educata, capisci...~
+@223  = ~Il mondo è malvagio, non è vero? Riposati un po' al riparo dal vento.~
+@224  = ~...~
+@225  = ~Io... perdonami, onorevole ospite. Sono stata imperdonabilmente impertinente.~

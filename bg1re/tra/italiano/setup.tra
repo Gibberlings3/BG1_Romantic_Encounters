@@ -1,0 +1,119 @@
+/* all unused numbers are in setup_game.tra. For new numbers, chose higher than @99172 etc. */
+
+@0   = ~Baldur's Gate Tutu rilevato~
+@1   = ~Baldur's Gate Trilogy rilevato~
+@3   = ~Classic Baldur's Gate rilevato~
+@4   = ~BG:EE rilevato...~ 
+@5   = ~Componente principale: Massa di -ahem- dettagli e BG-style vs. descrizione testuale! (necessario)~ 
+/* @6  = ~Per piacere scegli una delle seguenti installazioni:
+[1] Installa "versione per adolescenti". (Nota: Questo salterà gli incontri non classificati per adolescenti e lascerà il contenuto degli altri)
+[2] Installa "BG-style" [Contenuti per adulti]. (Nota: Questo escluderà i contenuti descrittivi per acuni incontri.)
+[3] Installa "Versione descrittiva" [Contenuti per adulti] (Installa tutti gli incontri ed alcune descrizioni testuali.)
+~
+@7   = ~Per piacere scegli 1, 2, or 3 e premi invio.~
+*/
+@8   = ~versione per adolescenti selezionata.~
+@9   = ~BG-style [Contenuti per adulti] selezionata.~
+@10  = ~Versione descrittiva [Contenuti per adulti] selezionata.~
+
+@11  = ~La riunione di Bardolan, by berelinde~
+@12  = ~Il tempo libero di Scar, by jastey~
+@13  = ~La preoccupazione di Kim, by jastey (ATTENZIONE - Leggere il readme!)~
+@14  = ~Il Componente "Massa di -ahem- dettagli e BG-style vs. descrizione testuale" non è installato o non è stata concessa l'autorizzazione per questo componente.~
+@15  = ~Estensione dell'incontro con Bjornin (Trattamento delle proprie ferite), by jastey~
+@17  = ~Niente amido nell'albero di maggio~
+
+@18  = ~il Minuto libero del Duca Eltan, by jastey~
+
+@36  = ~La preparazione personale di Husam, by jastey~
+
+@39  = ~La caccia alla lettera di Laurel, by jastey~
+
+@40 = ~La seduzione di Bartus, by jastey~
+
+@42  = ~Il massaggio di Lina, by jastey~
+
+@44  = ~Prima notte con Quentin, by Kulyok~
+
+@46  = ~chiacchierando un pò con Niklos, by Kulyok (contenuto adulto. ATTENZIONE - Leggere il readme!)~
+
+@47  = ~Slythe e Krystin, by Kulyok (contenuto adulto. ATTENZIONE - Leggere il readme!)~
+@48  = ~Nessun rimorso~
+
+@56  = ~Amore comprato, by Thimblerig~
+
+@70  = ~Hull: compiti pesanti, by Lava~
+
+@73  = ~Tarda notte con Jaheira, by Kulyok~
+@74  = ~La benedizione di Sil, by Lava~
+@75  = ~Melicamp: Il ragazzo del pollame, by Lava~
+@76  = ~Leggendo con Rinnie, by Western Paladin~
+@77  = ~Questo componente non ha una versione per adolescenti.~
+@78  = ~Molly la ruba-mariti, by Kulyok~
+
+@80  = ~Il lutto di Centeol, la Signora Ragno, by Lava~ 
+
+@83  = ~Il Fine Essenziale, by Lava (ATTENZIONE - Leggere il readme!)~
+
+@86  = ~La tana dei mietitori, by Lava (contenuto adulto)~
+
+@90  = ~Il Grande Zudini, by Kulyok (contenuto adulto)~
+
+@92  = ~Il Messaggero, by Thimblerig~
+
+@99  = ~Ender Sai, la ricompensa dell'eroe, by Thimblerig (ATTENZIONE - Leggere il readme!)~
+
+@101 = ~I Romanzieri, by Thimblerig~
+
+@112  = ~Le Oneste Bugie delle Due Sponde di, By Lava~ 
+
+@123  = ~I Guai del Negromante, by jastey~
+
+@147  = ~A Cena con Thalantyr, by jastey~ 
+
+@152  = ~Reazioni alla Cintura della Mascolinità Femminilità, by Thimblerig, Kulyok, Domi, Lava, Lastknightleft, Twani, Jastey, Daisy Ninja Girl~ 
+
+@155  = ~Il Sogno del Chirurgo, by Kulyok~
+@156  = ~Tutto Ciò che Restava, by Lava and Thimblerig~
+
+@161  = ~Un Amico d'Infanzia, by Kulyok~
+
+@163  = ~Arlene la Ragazza Lavoratrice, by Kulyok~ 
+
+@165  = ~Della May da Thay, by Kulyok~
+
+@167  = ~Una Guardia Corrotta a Candlekeep, by Kulyok (contenuto adulto. ATTENZIONE - Leggere il readme!)~
+
+@169  = ~Phoenix Flame, by Kulyok (contenuto adulto)~
+
+@171  = ~Mikala il Monaco, by Twani~
+
+/* Solo numeri con @99xxx da ora - controlla i numeri in setup-game.tra! */
+
+/*
+@99172  = ~ATTENZIONE:
+    Alcuni componenti contengono contenuti che potrebbero essere inadatti ad alcuni giocatori. Fare riferimento al readme relativo ai componenti con avvertenze!
+
+    Per piacere scegli una delle seguenti installazioni:
+[1] Non Mostrare/installare componenti con avvertenze.
+[2] Mostra/installa tutti i componenti.~
+@99173  = ~Per favore scegli 1 o 2 e premi invio.~
+*/
+@99174  = ~salta i componenti con avvertenze.~
+@99175  = ~Componenti con avvertenze accettati.~
+@99176  = ~Esposizioni minime, by jastey~
+@99177  = ~EET rilevato.~
+@99178  = ~Il Messaggero 2: Con la Pioggia o la Neve o l'Oscurità della Notte, by Thimblerig and tibicina~
+@99179  = ~Camryn e Tamah, by tibicina~
+@99180  = ~Gli Amanti del Bosco Ammantato, by tibicina~
+
+/* new for v3 */
+@99181  = ~Versione per adolescenti e salta i componenti con Avvertenze.~
+@99182  = ~Versione per adolescenti e Mostra/Installa tutti i componenti con Avvertenze.~
+@99183  = ~Versione BG-style [Contenuti per adulti] e salta i componenti con Avvertenze.~
+@99184  = ~Versione BG-style [Contenuti per adulti] e Mostra/Installa tutti i componenti con Avvertenze.~
+@99185  = ~Versione descrittiva [Contenuti per adulti] e salta i componenti con Avvertenze.~
+@99186  = ~Versione descrittiva [Contenuti per adulti] e Mostra/Installa tutti i componenti con Avvertenze.~
+
+/* new for v7 */
+@99187  = ~Questa mod deve essere installata prima di EET_End sull'installazione di EET.~

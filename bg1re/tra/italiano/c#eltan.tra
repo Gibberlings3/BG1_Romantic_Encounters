@@ -1,0 +1,371 @@
+@0    = ~Devi fermare i colpevoli!~
+@1    = ~Ho qui il corpo di Scar! l'ho trovato.~
+@2    = ~Ho nuove sul cadavere di Scar! L'ho trovato.~
+@3    = ~Hai già ricevuto notizie sul corpo di Scar?~
+@4    = ~Come va la faccenda di Scar?~
+@5    = ~Qualche novità sulla possibile resurrezione di Scar?~
+@6    = ~Come procede la vostra guarigione, Vostra Grazia?~
+@7    = ~Andrò per la mia strada.~
+@8    = ~Sono in buone mani qui. Anche se ti ringrazio per la tua preoccupazione, devo chiederti di andartene velocemente e di inseguire i capi del Trono di Ferro!~
+@9    = ~Ah, <CHARNAME>, eccoti. Sarai molto sorpreso di vedere chi si è rifatto vivo, nel significato più vero che c'è. Preparati a incontrare un vecchio amico. So che vorrebbe ringraziarti.~ ~Ah, <CHARNAME>, eccoti. Sarai molto sorpresa di vedere chi si è rifatto vivo, nel significato più vero che c'è. Preparati a incontrare un vecchio amico. So che vorrebbe ringraziarti.~
+@10   = ~È o non è un miracolo? Ah, <CHARNAME>. È sempre bello avere amici. Non dimenticarlo mai, giovane avventuriero. Ho saputo che Scar ha deciso di andarsene. Auguriamogli il meglio. Ho cercato di convincerlo a restare e gli ho offerto di riprendere la sua posizione precedente, una volta che questo (tossisce) sarà finito. Ma si merita un pò di tranquillità. Se l'è guadagnata.~ ~È o non è un miracolo? Ah, <CHARNAME>. È sempre bello avere amici. Non dimenticarlo mai, giovane avventuriera. Ho saputo che Scar ha deciso di andarsene. Auguriamogli il meglio. Ho cercato di convincerlo a restare e gli ho offerto di riprendere la sua posizione precedente, una volta che questo (tossisce) sarà finito. Ma si merita un pò di tranquillità. Se l'è guadagnata.~
+@11   = ~Il motivo per cui hai attaccato un uomo appena risorto sarà sempre motivo di stupore per me. Vai, <CHARNAME>. Vattene e finisci quel che dovresti fare. Quando inizieranno a chiamarti il salvatore di questa città, non dimenticare mai quanto in basso sei finito. Ora vattene.~ ~Il motivo per cui hai attaccato un uomo appena risorto sarà sempre motivo di stupore per me. Vai, <CHARNAME>. Vattene e finisci quel che dovresti fare. Quando inizieranno a chiamarti la salvatrice di questa città, non dimenticare mai quanto in basso sei finita. Ora vattene.~
+@12   = ~Non perdere altro tempo!~
+@13   = ~Sì, non dovrei ritardare ulteriormente la mia ricerca. Addio!~
+@14   = ~Il mio successo in questa faccenda non varrà nulla se tu muori nel frattempo.~
+@15   = ~c'è altro che potrei fare per te?~
+@16   = ~Sei sicuro che starai bene?~
+@17   = ~Non posso andarmene senza parlare di Scar! Per favore... dimmi com'e' morto.~
+@18   = ~Potrei aver bisogno di aiuto!~
+@19   = ~Ho salvato il tuo reale culo. Che ne dici di una ricompensa?~
+@20   = ~Hai ragione, non ho idea del motivo per cui ho iniziato questa conversazione.~
+@21   = ~Buona fortuna a te, giovane <CHARNAME>, e affrettati. Il nostro destino è nelle tue mani!~
+@22   = ~Anche se ciò accadesse, la mia sopravvivenza non è essenziale al momento. Mi hai già salvato da morte certa. Ora devi salvarci tutti fermando quei traditori.~
+@23   = ~Temo di non poter fare nulla. Angelo ha preso il controllo del Pugno Fiammante, ti daranno la caccia a vista. Anche io devo nascondermi finché i suoi piani malvagi non saranno fermati.~
+@24   = ~Non perdere il coraggio! Sei arrivato fin qui e ci riuscirai se sarai pronto a combattere con tutte le tue forze.~ ~Non perdere il coraggio! Sei arrivata fin qui e ci riuscirai se sarai pronta a combattere con tutte le tue forze.~
+@25   = ~Ero stato spogliato di tutto ciò che avevo quando mi hai trovato. Anche se fosse in mio potere darti una ricompensa, ci sarà da aspettare del tempo.~
+@26   = ~Il tuo compito non è finito! Quello che hai fatto non varrà nulla se non fermi ciò che sta accadendo. Non capisci l'importanza di perseguire i capi del Trono di Ferro?~
+@27   = ~Lo sarò, col tempo. Dovrei essere al sicuro qui.~
+@28   = ~Sei sicuro che le persone qui agiranno nel tuo migliore interesse?~
+@29   = ~C'è qualcosa che potrei fare per te? Qualcosa di più... personale?~
+@30   = ~È bello da sentire.~
+@31   = ~Il... Davvero, questo è il corpo di Scar! Come hai fatto in nome degli dei...~
+@32   = ~Una ricevuta? Stai dicendo che... Sì, deve essere così. Come hai fatto in nome degli dei...~
+@33   = ~Non importa. Presto, dammela.~
+@34   = ~Un mio amico, il comandante del porto, ha buoni contatti quasi ovunque. Ti prometto, mio leale amico, che farò qualsiasi cosa in mio potere per il mio ex secondo in comando. Se c'è un modo per favorirlo, lo farò resuscitare. Lo prometto!~ ~Un mio amico, il comandante del porto, ha buoni contatti quasi ovunque. Ti prometto, mia leale amica, che farò qualsiasi cosa in mio potere per il mio ex secondo in comando. Se c'è un modo per favorirlo, lo farò resuscitare. Lo prometto!~
+@35   = ~E se non sarà possibile, gli darò una degna sepoltura. Questo è il minimo che possa fare per il mio vecchio amico.~
+@36   = ~<CHARNAME>, Sono profondamente in debito con te. Ma ora devo insistere che tu vada e fermi colui che c'era dietro tutto questo!~
+@37   = ~Non preoccuparti per cose di minore importanza. Devi concentrarti su ciò che ti aspetta! Mi fido ciecamente del comandante del porto.~
+@38   = ~Non ho compiti che potrei pensare di affidarti. Cosa potresti fare per me solo, quando l'intera città, l'intera Costa della Spada, implora il tuo aiuto?~
+@39   = ~Beh... Un uomo può sentirsi solo, se giace nel suo letto ferito troppo a lungo. Forse potrei aiutarti a rimetterti a nuovo, con un bel massaggio nei punti giusti...~
+@40   = ~Hai ragione, dovrei andare.~
+@41   = ~Ma sul serio ci provi con un duca della città di Baldur's Gate adesso? Se avessi delle guardie per buttarti fuori, questo sarebbe il momento in cui le chiamerei. (tossisce)~
+@42   = ~Ma probabilmente l'hai detto solo per irritarmi, anche se non saprei dire perché (tossisce).~
+@43   = ~Mi sento debole, <CHARNAME>. Hai un grande compito innanzi a te!~
+@44   = ~Nessuna novità, temo. Il mio amico capitano del porto lo ha fatto portare in un luogo sicuro. I sacerdoti non sono d'accordo su ciò che sia possibile fare per lui. Questa è l'ultima notizia che ho ricevuto, purtroppo non c'è altro.~
+@45   = ~È stato assassinato per strada... Ed era solo, lo sciocco!... Dicono che sia stato un assassinio dei Ladri Tenebrosi. (tossisce) Addosso gli è stata trovata la firma dei Ladri Tenebrosi, una maschera infilzata con un pugnale. *Su* di lui, per l'esattezza, <CHARNAME>. Deve essere stato uno spettacolo orribile.~
+@46   = ~Così dico, perché non sono riuscito a vederlo fino a quando finalmente è stato portato nel quartier generale del Pugno Fiammante. Ero già stato colpito e giacevo ferito. Devi sapere (tossisce) che un doppelganger aveva assunto l'aspetto di Scar ed era tornato qui per attaccarmi! Riesci a immaginare il mio orrore, quando il mio secondo in comando si è trasformato in un doppelganger e mi ha attaccato? Creature orribili! Il primo non è riuscito a uccidermi, ma l'altro sicuramente ci sarebbe riuscito, se tu non mi avessi salvato!~
+@47   = ~Stai dicendo che è perduto?~
+@48   = ~Perché, cosa è successo?~
+@49   = ~Beh, è un peccato.~
+@50   = ~Non ho idea di dove sia ora. Era al sicuro, <CHARNAME>, tanto quanto quello di Lord Entar, finchè non è stato trovato. (con un tono amaro) Questo è successo prima che Angelo ci tradisse tutti, devi capire. Speravamo che potesse essere rianimato di nuovo!~
+@51   = ~Quello di Lord Entar è stato consegnato alla sua famiglia. Ma dove sia ora il corpo di Scar non so dirlo. Alcuni scagnozzi di Angelo l'hanno portato da qualche parte, presumo. Eccomi lì, pensando che se ne stessero occupando i sacerdoti, mentre in realtà Angelo si era già sbarazzato del corpo di Scar gettandolo da qualche parte. Devono ancora averlo, perché li ho sentiti dire di voler dividere i suoi averi tra i servi!~
+@52   = ~Potrebbe essere già perduto, giovane amico, e temo che non ci sia tempo per cercarlo, con tutto quello che sta succedendo. Io (tossisce) io certamente non posso. Gli scagnozzi di Angelo non parleranno mai, quindi gli unici che potrebbero aver visto qualcosa restano i servitori un tempo fedeli che furono mandati via quella notte. Probabilmente sono sparsi per tutta la città, se non addirittura fuggiti del tutto. La domanda è come ottenere la loro fiducia, perché dubito che si riveleranno a te.~ ~Potrebbe essere già perduto, giovane amica, e temo che non ci sia tempo per cercarlo, con tutto quello che sta succedendo. Io (tossisce) io certamente non posso. Gli scagnozzi di Angelo non parleranno mai, quindi gli unici che potrebbero aver visto qualcosa restano i servitori un tempo fedeli che furono mandati via quella notte. Probabilmente sono sparsi per tutta la città, se non addirittura fuggiti del tutto. La domanda è come ottenere la loro fiducia, perché dubito che si riveleranno a te.~
+@53   = ~Il Corpo di Scar
+
+Eltan mi ha detto che il corpo di Scar è andato perduto la notte in cui è stato assassinato. Per avere qualche possibilità di ritrovarlo, devo localizzare ed ottenere la fiducia dei suoi ex fedeli servitori del Pugno Fiammante, o cercare ciò che resta dei suoi beni, che potrebbero saltar fuori in città!~
+@54   = ~Si l'ho fatto! Quei fedeli servitori sono venuti qui, e loro... hanno portato quello che hanno trovato. Come hai fatto a trovarlo, in nome degli dei? Ma non importa.~
+@55   = ~Abbiamo dato alle spoglie un meritato riposo, giovane amico. È l'unica cosa che potevamo fare. È stata una sepoltura degna, anche se troppo frettolosa e non proprio adeguata... Avrei voluto porgere i nostri ultimi omaggi a quel brav'uomo in un ambiente più consono, ma non è ancora tempo per questo.~
+@56   = ~C'erano anche dei vecchi amici. Il mio secondo in comando aveva buoni amici... Non dell tipo da sguanaire le armi per vendicare quello che è successo. Ma di quelli dotati di grande potere divino, piuttosto. Io... Devo ammettere che non ci credo davvero, <CHARNAME>. Ma c'è speranza... una debole speranza, che si possa fare una resurrezione.~
+@57   = ~Implica una potente magia, del tipo di cui hai bisogno se la persona è già perduta. Ma non so nulla per certo, e di certo non manterrò alte le mie speranze. Ma credo che la persona che ha affermato questo sapesse il fatto suo.~
+@58   = ~Ancora una volta, permettimi di ringraziarti dal più profondo del mio cuore per questa opportunità, <CHARNAME>. Lui (tossisce) lui non meritava davvero di marcire in una cassa.~
+@59   = ~Il Corpo di Scar
+
+Il duca Eltan ha menzionato amici di Scar che potrebbero possedere poteri divini capaci di rianimarlo. Sembra promettente...~
+@60   = ~No, nessuno, temo. Gli amici dei miei amici fanno del loro meglio per mantenere un basso profilo di tempi come questi. Dobbiamo essere pazienti. Queste cose richiedono tempo.~
+@61   = ~Saluti! Ti posso offrire i miei servigi? Max Donnerjan, l'uomo giusto per smaltimenti e sgomberi di ogni tipo! Sfortunatamente, al momento non ho più merci. Ma torna più tardi, e, chissà?, potresti trovare proprio ciò che da sempre desideri.~
+@62   = ~Ah, è un peccato. Ho esaurito la merce e non sembra che ci siano stati sgomberi di case di recente. Le persone si aggrappano ai loro averi, in tempi come questi.~
+@63   = ~Saluti! Ti posso offrire i miei servigi? Max Donnerjan, l'uomo giusto per smaltimenti e sgomberi di ogni tipo! Posso mostrarti le mie mercanzie?~
+@64   = ~Certo, fammi dare un'occhiata.~
+@65   = ~Da dove prendi la tua merce?~
+@66   = ~No, non sono interessato.~ ~No, non sono interessata.~
+@67   = ~Vuoi rivedere la mia mercanzia?~
+@68   = ~Ho già visto questo vaso. Apparteneva a Scar, che è stato assassinato. È meglio che tu abbia una spiegazione!~
+@69   = ~Dove hai preso questo vaso?~
+@70   = ~Conoscevo il proprietario di questo vaso e sono sicuro che non te l'abbia venduto.~
+@71   = ~Ah, una buona scelta. Questo orcio è chiaramente un oggetto prezioso e molto delicato, decisamente non pensato per bere...~
+@72   = ~Nessuno dei miei articoli è rubato, te lo assicuro! Li ricevo qua e là, dagli sgomberi delle case, ma anche da persone che si vogliono disfare di oggetti vecchi, ma spesso ancora utili. C'è sempre qualcuno che desidera l'oggetto di cui tu ti vuoi sbarazzare, e dico sempre!~
+@73   = ~Nessuna delle mie merci è stata rubata o sottratta con la violenza! Lo giuro! Questo viene dallo smaltimento dei mobili di una casa avvenuto non molto tempo fa. Ho comprato la chiave da un servitore rispettabile, si chiama Kelder. Lavorava per il Pugno Fiammante, prima che le turbolenze degli ultimi eventi gli portassero via il lavoro, pover'uomo. Dovresti riuscire a trovarlo in questa taverna nel quartiere portuale... Non alla Lanterna Fioca, l'altra. Quella a nord della capitaneria di porto.~
+/* new for v3.0: corrected to Carnival */
+@74   = ~Il Corpo di Scar
+
+Ho trovato il vaso di Scar nel negozio di un commerciante al Carnevale di Baldur's Gate! Ha detto di averlo ricevuto da un uomo di nome Kelder che dovrei riuscire a trovare nella taverna a nord della capitaneria di porto. Ho la *certezza* che questo vaso sia stato portato via dagli alloggi di Scar dopo la sua morte. Mi chiedo come quell'uomo sia riuscito a impossessarsi della chiave di Scar, dato che sicuramente l'aveva con sé quando è stato assassinato!~
+@75   = ~Lasciami in pace, giovincello. Non per sembrare offensivo, ma ultimamente la vita non mi ha trattato esattamente bene, e vorrei godermi la mia birra in pace.~ ~Lasciami in pace, giovincella. Non per sembrare offensivo, ma ultimamente la vita non mi ha trattato esattamente bene, e vorrei godermi la mia birra in pace.~
+@76   = ~Ti lascio in pace, allora.~
+@77   = ~Un negoziante mi ha detto che gli hai venduto una chiave, la chiave della casa di Scar! Ti va di chiarire?~
+@78   = ~Che ti è successo?~
+@79   = ~Non per sembrare offensivo, eh? E se ti insegnassi le buone maniere?~
+@80   = ~E quali buone maniere imparerei da te? Andiamo, giovincello, lascia che un vecchio beva la sua birra.~ ~E quali buone maniere imparerei da te? Andiamo, giovincella, lascia che un vecchio beva la sua birra.~
+@81   = ~(sospira) La classica storia di un povero vecchio, giovane. Non ho mai trovato una moglie, il mio lavoro era la mia vita. Il capo è cambiato, non c'è stato più bisogno di me. Ora non ho altro che ricordi. E questa birra.~
+@82   = ~Provaci.~
+@83   = ~L'ho fatto, sì. Non ho assassinato io il nostro secondo in comando, giovincello. Avevo molto rispetto per lui, il nostro Scar. Ma era morto, vedi. Non gli serviva il cappotto per dove stava andando, vero? Non ho frugato il suo corpo, anche se così pensi. All'improvviso tutti erano agitati e il nuovo Comandante ha iniziato a licenziare le persone. Mi è stato dato il cappotto e tutto il resto e mi è stato ordinato di sbarazzarmene solo poche ore dopo aver saputo della sua morte.~ ~L'ho fatto, sì. Non ho assassinato io il nostro secondo in comando, giovincella. Avevo molto rispetto per lui, il nostro Scar. Ma era morto, vedi. Non gli serviva il cappotto per dove stava andando, vero? Non ho frugato il suo corpo, anche se così pensi. All'improvviso tutti erano agitati e il nuovo Comandante ha iniziato a licenziare le persone. Mi è stato dato il cappotto e tutto il resto e mi è stato ordinato di sbarazzarmene solo poche ore dopo aver saputo della sua morte.~
+@84   = ~Ciò che avvenne subito dopo fu che fui messo anch'io per strada. Nessuno era più interessato a nulla che riguardasse l'ex secondo in comando. Al contrario, le persone hanno iniziato a zittirmi quando ho provato a parlarne. Senza più un lavoro retribuito, pensavo che offrire la sua casa a un rigattiere non potesse far male, capisci. Non aveva eredi il nostro secondo in comando, perlomeno nessuno di cui sappia.~
+@85   = ~Non ne vado fiero, giovincello, ma un uomo deve vivere. Se vuoi sapere da chi ho avuto il cappotto, vai a parlare con il giovane Chester o con Hung. Sono stati loro a riportare il corpo, quando tutto faceva pensare che si fosse trattato solo una normale aggressione e che le cose sarebbero tornate presto al loro antico splendore. Li troverai nel loro nuovo posto di lavoro, uno dei magazzini in fondo alla strada. Il secondo da qui, mi pare. Probabilmente sanno anche cosa diavolo stava accadendo. Io di sicuro non lo so.~ ~Non ne vado fiero, giovincella, ma un uomo deve vivere. Se vuoi sapere da chi ho avuto il cappotto, vai a parlare con il giovane Chester o con Hung. Sono stati loro a riportare il corpo, quando tutto faceva pensare che si fosse trattato solo una normale aggressione e che le cose sarebbero tornate presto al loro antico splendore. Li troverai nel loro nuovo posto di lavoro, uno dei magazzini in fondo alla strada. Il secondo da qui, mi pare. Probabilmente sanno anche cosa diavolo stava accadendo. Io di sicuro non lo so.~
+@86   = ~Il Corpo di Scar
+
+Ho parlato con Kelder, un ex servitore del Pugno Fiammante. Ha detto di aver avuto la chiave di Scar da Chester e Hung, che ora lavorano nel secondo magazzino nel distretto portuale.~
+@87   = ~Ho delle domande da farvi.~
+@88   = ~Dai, non cominciare. Ha valore solo per il nostro principale, il sor Nadarin. Grafici, liste, fatture, cose di questo genere. Non penserai seriamente che ci lascerebbe qualcosa veramente di valore, vero?~
+@89   = ~Cosa stai facendo qui?~
+@90   = ~Esco subito.~
+@91   = ~Di guardia, eh? Quindi dovrebbe esserci qualcosa di valore qui, se ci vogliono due persone a vigilare?~
+@92   = ~Kelder mi ha detto che hai riportato il corpo di Scar dopo il suo assassinato. Ho alcune domande a riguardo.~
+@93   = ~Cosa?~
+@94   = ~Ti abbiamo detto tutto quello che sappiamo. Per favore, vogliamo dimenticare tutto e tenerci lontano dai guai. Sarebbe d'aiuto se tu andassi via adesso.~
+@95   = ~Duntrin ha detto che avete preso alcune casse dal quartier generale del Pugno Fiammante. Dove sono?~
+@96   = ~Me ne sto andando.~
+@97   = ~Oh, Io...~
+@98   = ~Ciao ancora.~
+@99   = ~Non dovremmo parlare di più di quella notte, davvero.~
+@100  = ~Noi... noi ci rimettiamo subito... Oh, non sei il sor Nadarin. Ehm, noi siamo... stiamo sorvegliando il banco, si. Non stiamo bighellonando, no, per niente.~
+@101  = ~*Stiamo* facendo la guardia, giusto? Allora, cosa ci fai qui, se posso chiedere?~
+@102  = ~Giusto! Non siamo noi a doverci giustificare.~
+@103  = ~Sì, mi pare che l'abbiamo fatto. Ma non l'abbiamo trovato noi, sai. Siamo stati chiamati per portarlo via dopo che avevano già raccolto tutti gli indizi sui suoi assassini.~
+@104  = ~Non l'abbiamo nemmeno visto davvero. Era già tutto avvolto in un sudario. È curioso, sai. Si sarebbe pensato che lo avrebbero portato direttamente da un sacerdote, per guarirlo e rianimarlo e tutto il resto.~
+@105  = ~Invece li hanno mandati via tutti. Sai, in primo luogo non c'era nessuno a dare ordini con il Duca Eltan gravemente ferito *e* Scar morto, e tutti dicevano "oh, dobbiamo rianimarlo, presto!". E poi Angelo si è imposto, e all'improvviso a nessuno importava più di Scar. Le persone sono state mandate via o sono scappate, o perlomeno così ho inteso...~
+@106  = ~Beh, conosci le voci, Hung, perche' delle persone sono scomparse all'improvviso.~
+@107  = ~Queste voci mi fanno venire i brividi, Chester, e tu lo sai. Non lo so, siamo stati allontanati dal nostro lavoro al Pugno Fiammante proprio nel momento in cui è cominciato il caos...~
+@108  = ~Ti verrebbe da chiedere davvero chi stia facendo tutti i lavoro sporchi lì adesso. Con quasi tutti i servitori mandati via, i mercenari avranno da svuotare i propri vasi da notte da soli, ghneheheh.~
+@109  = ~Chester, vuoi smetterla di interrompermi! Dei.~
+@110  = ~Deve capire, signora, prima si urlava "rianimatelo, dove sono i preti", dopo di che si ordinava "no, questo non accadrà, sgombrate il suo ufficio", e infine è diventato "nessuno fa niente senza Il permesso di Angelo, andatevene tutti di qui".~
+@111  = ~Devi capire, signore, prima si urlava "rianimatelo, dove sono i preti", dopo di che si ordinava "no, questo non accadrà, sgombrate il suo ufficio", e infine è diventato "nessuno fa niente senza Il permesso di Angelo, andatevene tutti di qui".~
+@112  = ~A quel punto, avevamo già iniziato a sbarazzarci della sua roba. Il cappotto che avevamo già dato a Kelder, che avrebbe dovuto buttare. Era sfilacciato, comunque.~
+@113  = ~In poche parole, abbiamo deciso che svignarcela fosse una buona idea. Stavamo comunque per portare delle casse in questo magazzino e abbiamo deciso di rimanere qui quando il sor Nadarin ci ha offerto il lavoro. Spiacenti, non sappiamo altro. Ma se vuoi sapere qualcos'altro riguardo ciò che è successo quella notte, vai a parlare con Duntrin. Anche lui ha cambiato posto di lavoro. Lo troverai nella Taverna Keexie. Sai, quella vicina a Chincaglierie Stregate.~
+@114  = ~Il Corpo di Scar
+
+Ho parlato con Hung e Chester, due ex servitori del Pugno Fiammante. Hanno detto che dovrei andare a parlare con Duntrin, se voglio sapere cos'è successo a Scar dopo che Angelo ha assunto il comando. Dovrei trovarlo alla Taverna Keexie, vicino alla porta della città a est.~
+@115  = ~Quella sarebbe la catasta 2/7, perchè stai...?~
+@116  = ~NO! Non sul serio? Stai seriamente dicendo che... Diavolo amico!~
+@117  = ~Cosa? Che c'è?~
+@118  = ~Hung, la cassa! La cassa per cui Duntrin ha fatto tanto chiasso. Dovrebbe esserci...~
+@119  = ~Che cosa? Cosa, Per i Nove Inferni, non ho idea di cosa tu stia parlando!~
+@120  = ~La cassa! La *cassa*, Hung! Dobbiamo andare a cercarla. *È* una cassa in più rispetto ai documenti, ma Duntrin ha fatto un tale trambusto a riguardo che le abbiamo impilate in modo che il sor Nadarin non se ne accorgesse. Non è stato molto qui ultimamente, il nostro nuovo capo. Ha borbottato qualcosa sugli ordini di trasporto crollati a causa della crisi del ferro e di una promettente ripresa rapida ora che i banditi se ne sono andati, e se n'è subito andato.~
+@121  = ~Ma perché continuo a blaterare? Continuiamo a cercare, va bene?~
+@122  = ~Cosa? Dove?~
+@123  = ~Vaaaa bene, eccoci qui... i documenti della catasta 2/7, catasta 2/7...~
+@124  = ~Sì, sì, posso trovarla! Cosa vuoi fare?~
+@125  = ~Voglio recuperare il corpo di Scar e riportarlo io stesso al Duca Eltan.~
+@126  = ~Non ho tempo per questo. Dimmi solo dov'è e passerò la notizia a Duca Eltan.~
+@127  = ~Non farò niente! Andrai dal comandante del porto e gli dirai tutto. Era l'uomo di fiducia del duca Eltan, il secondo in comando! Non vuoi che il suo corpo si perda in qualche cassa, vero?!~
+@128  = ~Dovremmo?... Beh, immagino che tu abbia ragione. Hung, dobbiamo farlo. È il nostro ultimo... ultimo riguardo nei confronti di un padrone molto apprezzato ed onesto.~
+@129  = ~Fammi solo copiare i dati sul trasporto e le passeremo.~
+@130  = ~Maledetto Duntrin! Perché non ci *ha detto* niente?~
+@131  = ~Ti sarebbe piaciuto sapere che stava lì?~
+@132  = ~Beh... No, hai ragione, Hung.~
+@133  = ~Ascoltate, ora andate, va bene? Mi dispiace sembrare senza cuore, ma questa notte mi ha davvero spaventato. Chiunque abbia fatto uccidere Scar, sono sicuro che non abbia problemi ad uccidere altri due testimoni. Prometto che lo diremo al comandante del porto non appena ve ne sarete andati.~ ~Ascoltate, ora andate, va bene? Mi dispiace sembrare senza cuore, ma questa notte mi ha davvero spaventata. Chiunque abbia fatto uccidere Scar, sono sicura che non abbia problemi ad uccidere altri due testimoni. Prometto che lo diremo al comandante del porto non appena ve ne sarete andati.~
+@134  = ~Il Corpo di Scar
+
+Ho localizzato il corpo di Scar! Probabilmente dovrei chiedere al Duca Eltan cosa fare a riguardo.~
+@135  = ~Va bene, ci siamo. Prendi questa copia della ricevuta, contiene tutte le informazioni necessarie.~
+@136  = ~Ascoltate, prendetelo e andate, va bene? Mi dispiace sembrare senza cuore, ma questa notte mi ha davvero spaventato. Chiunque abbia fatto uccidere Scar, sono sicuro che non abbia problemi ad uccidere altri due testimoni.~ ~Ascoltate, prendetelo e andate, va bene? Mi dispiace sembrare senza cuore, ma questa notte mi ha davvero spaventata. Chiunque abbia fatto uccidere Scar, sono sicura che non abbia problemi ad uccidere altri due testimoni.~
+@137  = ~Il Corpo di Scar
+
+Ho localizzato il corpo di Scar! Sono sicuro che il Duca Eltan vorrebbe saperlo.~
+@138  = ~Allora seguimi, perché non è ancora stata prelevata!~
+@139  = ~Bene, eccoci qui. Vediamo. È quella... Hung, prendi quella parte, ok?...~
+@140  = ~Dang. Dangdangdangdang. Hung, Guarda qua!...~
+@141  = ~È...?~
+@142  = ~Si, si lo è. Maledetto Duntrin! Perché non *ha detto* niente?~
+@143  = ~Ascolta, lo prendi tu, vero? Volevi trovare il corpo, ora ce l'hai. Per favore portatelo via, lontano da questo magazzino.~
+@144  = ~Mi dispiace sembrare senza cuore, ma questa notte mi ha davvero spaventato. Chiunque abbia fatto uccidere Scar, sono sicuro che non abbia problemi a uccidere altri due testimoni. Hung, liberiamoci di questa cassa in più, prima che il sor Nadarin la veda.~ ~Mi dispiace sembrare senza cuore, ma questa notte mi ha davvero spaventata. Chiunque abbia fatto uccidere Scar, sono sicura che non abbia problemi a uccidere altri due testimoni. Hung, liberiamoci di questa cassa in più, prima che il sor Nadarin la veda.~
+@145  = ~Il Corpo di Scar
+
+Ho trovato il corpo di Scar! Era in una cassa. Una cassa! Ho la certezza che il Duca Eltan vorrebbe saperlo.~
+@146  = ~Scusa, non ho tempo per chiacchierare. Ho davvero bisogno di questo lavoro e parlare con i clienti non è in programma, temo.~
+@147  = ~Se hai degli ordini, per favore dalli al mio capo dietro il bancone. Sto solo mettendo a posto i boccali.~
+@148  = ~Hung e Chester hanno raccontato una storia molto confusa riguardo la notte in cui Scar è stato assassinato.~
+@149  = ~Ti lascio al tuo lavoro, allora.~
+@150  = ~Cosa... di che stai parlando?~
+@151  = ~Il duca Eltan mi ha detto che il corpo di Scar è scomparso. vorrei trovarlo.~
+@152  = ~Voglio sapere dov'è il mio amico, tutto qui.~
+@153  = ~Cos'è successo la notte in cui Angelo ha assunto il controllo del Pugno Fiammante?~
+@154  = ~Niente, ora vado.~
+@155  = ~Duca... Il Duca Eltan? È vivo?~
+@156  = ~Si, lo è.~
+@157  = ~Oops.~
+@158  = ~Che cosa vuoi dire con questo?! Sei uno dei suoi aspiranti assassini?~
+@159  = ~Come pensi che lo sappia?~
+@160  = ~Beh, me l'hai appena detto, vero?~
+@161  = ~Si, ti credo. Questa è una grande notizia! No, non dirmi dove si nasconde. Non voglio saperlo, la mia vita è comunque in estremo pericolo già così com'è. Lo so bene.~
+@162  = ~Immagino che tu abbia saputo da Hung e Chester della confusione di quella notte. È stato tutto così veloce... Angelo era così ansioso di assumere il comando e di fare il prepotente con le persone. Quasi tutti i servitori fedeli furono mandati via quella notte. A quel punto, era già stato disposto che i sacerdoti si prendessero cura di Scar. Era mutilato, rianimarlo sembrava quasi impossibile. Ma ho sentito che si sono impegnati molto per preservarlo in qualche modo, per guadagnare più tempo per una possibile resurrezione~
+@163  = ~Quando Angelo ha scoperto che i sacerdoti stavano operando sul corpo di Scar, deve avergli ordinato di andarsene all'istante. Allora lavoravo ancora lì, ero solo un aiuto cuoco. Alcuni dei mercenari di Angelo hanno messo una cassa tra i bidoni della spazzatura della cucina. Non so come mi sia venuto in mente di darci un'occhiata dentro. Riesci a immaginare il mio orrore quando ho realizzato che fosse il cadavere del nostro secondo in comando?~
+@164  = ~Non ho avuto il tempo di pensare... così l'ho semplicemente spostato in un mucchio che era destinato ad essere portato fuori città. A quel punto avevo deciso che era giunto il momento di andarmene da lì. È divertente che Hung e Chester mi abbiano menzionato, sai. Perché penso che siano stati loro a occuparsi del mucchio, ed a portarlo al magazzino.~
+@165  = ~Perdonami, amico. So che avrei dovuto essere più coraggioso, ma non lo ero. Ho la debole speranza che la mia azione sia stata utile, dopo tutto. Dannazione, pensavo di poter stare fuori dai guai mantenendo un basso profilo qui, ma ho visto e detto troppo, e lo so. Fuggirò il più lontano possibile dalla città, e lo farò adesso. Buona fortuna per la tua indagine, e lo dico sul serio.~ ~Perdonami, amica. So che avrei dovuto essere più coraggioso, ma non lo ero. Ho la debole speranza che la mia azione sia stata utile, dopo tutto. Dannazione, pensavo di poter stare fuori dai guai mantenendo un basso profilo qui, ma ho visto e detto troppo, e lo so. Fuggirò il più lontano possibile dalla città, e lo farò adesso. Buona fortuna per la tua indagine, e lo dico sul serio.~
+@166  = ~Il Corpo di Scar
+
+Ho parlato con Duntrin, un ex servitore del Pugno Fiammante. Ha detto di aver visto il corpo di Scar dopo che Angelo ha cercato di sbarazzarsene. Dovrei parlare di nuovo con Hung e Chester nel magazzino del porto. Forse il corpo di Scar è ancora in una delle casse lì!~
+@167  = ~Un tuo Amico?~
+@168  = ~Sì un mio amico. È stato molto spiacevole per me scoprire in un negozio di seconda mano il boccale di birra a cui era così affezionato, vedi..~
+@169  = ~In ogni caso. Sai qualcosa di quella notte?~
+@170  = ~Immagino che l'impressione potrebbe sorgere. Ma no, non so niente. Ma non sono nemmeno stupido. Giravano voci che fosse ferito gravemente, ed era fin troppo ovvio che non fosse una coincidenza. Soprattutto non con tutte le cose che accaddero in quel periodo.~
+@171  = ~Beh, sia Lord Entar che il Secondo in Comando erano stati assassinati, e Angelo aveva assunto il comando. Molte persone sono state licenziate e io ero una di quelle.~
+@172  = ~Pensi che questo sia divertente? Devo pestarti per tirarti fuori le informazioni?~
+@173  = ~Non ha senso picchiare, se non sai nemmeno fare correttamente una domanda. Cosa vuoi sapere?~
+@174  = ~Immagino di no, in effetti.~
+@175  = ~Ah, cosa hai qui? Rigido, ma è stato conservato in qualche modo,si? Hm, quella faccia sembra familiare...~
+@176  = ~Questo è Scar, secondo in comando. È stato ucciso.~
+@177  = ~Sei un negromante, o perlomeno così ho capito. C'è qualche possibilità che tu possa resuscitarlo?~
+@178  = ~Giù le mani! Questo non è per te.~
+@179  = ~Ah! Mi pareva di averlo già visto da qualche parte..~
+@180  = ~Hm, per come sta messo ora sarebbe un ottimo zombie. Un uomo con la sua abilità nel combattimento sarebbe più che benvenuto! Ti va di lasciarmelo?~
+@181  = ~Ah, no, nemmeno uno come me dovrebbe cazzeggiare con i potenti della città. Portatelo via, vuoi? Portami cadaveri anonimi che nessuno cerca!~
+@182  = ~Che vuoi ancora?!~
+@183  = ~Quindi era lui? Che amarezza! (sbuffa)~
+@184  = ~Ascolta, scemo, stai giocando con forze che nemmeno capisci. Ti sembro uno a cui piaccia si portino cadaveri in casa? E per di più quello accoppato del vice comandante del Pugno Fiammante.~ ~Ascolta, scema, stai giocando con forze che nemmeno capisci. Ti sembro uno a cui piaccia si portino cadaveri in casa? E per di più quello accoppato del vice comandante del Pugno Fiammante.~
+@185  = ~Non mi intrometterò con le attuali forze che sono sorte in questa città. Vai via, e porta questo corpo altrove.~
+@186  = ~Guarda questo corpo. L'uomo è stato assassinato. C'è qualche possibilità che tu possa resuscitarlo?~
+@187  = ~Resuscitarlo? E a che pro?... C'è un limite raggiunto il quale devi accettare ciò che il destino ti sta mettendo davanti, arrenderti al modo in cui la vita è finita. (sospira) Per favore, lasciami solo.~
+@188  = ~Stai portando in casa mia un fagotto puzzolente di ossa e carne per chiedermi di fare cosa?! Aspetta... Hm, sembra essere stato preservato in qualche modo, il suo stato è migliore di quanto mi sarei aspettato.~
+@189  = ~Ma no, non posso e non voglio. Preservato o no, questo richiederebbe una potente magia che non ho intenzione di evocare. Vai in un tempio!~
+@190  = ~"Qualche possibilità"? Certo. Lo farei? No, e questo è definitivo. Prima che sia tu a chiamarmi vecchio idiota senza cuore: sono un vecchio idiota senza cuore. E oltre a questo, vedo che ha subito gravi ferite che richiederebbero una potente magia negromantica per essere risanate. Ci sono persone molto più adatte di me a fare una cosa del genere, principalmente perché lo farebbero di loro spontanea volontà. Non è il mio caso.~
+@191  = ~So bene che questo è il secondo in comando di Baldur's Gate, giovane avventuriero. Non sono sicuro di cosa stia succedendo lì al momento, ma forse dovresti metterlo via, prima che qualcuno cominci a chiedersi perché ti capita di averlo con te.~ ~So bene che questo è il secondo in comando di Baldur's Gate, giovane avventuriera. Non sono sicuro di cosa stia succedendo lì al momento, ma forse dovresti metterlo via, prima che qualcuno cominci a chiedersi perché ti capita di averlo con te.~
+@192  = ~Oh, con questo stai di gran lunga sopravvalutando i miei poteri, giovane avventuriero. No, non posso fare una simile magia.~
+@193  = ~Il tuo amico non solo è morto da molto tempo, ma è stato anche gravemente mutilato. Ci sono modi per resuscitare qualcuno che è morto in questo modo, ma richiedono una potente magia che va ben oltre ciò che posso fare da solo.~
+@194  = ~Mi dispiace molto, amico mio.~
+@195  = ~Mi dispiace, avventuriero. Ci sono modi per resuscitare qualcuno che è morto da molto tempo, ma richiedono della magia che va ben oltre ciò che questo tempio può offrirti.~ ~Mi dispiace, avventuriera. Ci sono modi per resuscitare qualcuno che è morto da molto tempo, ma richiedono della magia che va ben oltre ciò che questo tempio può offrirti.~
+@196  = ~Molte aurore sono passate da quando per costui violentemente è giunto il sonno eterno. Il mio cuore è grave, ma non posso aiutarti, giovane viaggiatore. Che Lathander ti benedica.~ ~Molte aurore sono passate da quando per costui violentemente è giunto il sonno eterno. Il mio cuore è grave, ma non posso aiutarti, giovane viaggiatrice. Che Lathander ti benedica.~
+@197  = ~<CHARNAME>, Perché? Tutti i tuoi sforzi, solo per avere la possibilità di uccidermi tu stesso? No, non sono pronto a rinunciare così facilmente a questa nuova vita.~ ~<CHARNAME>, Perché? Tutti i tuoi sforzi, solo per avere la possibilità di uccidermi tu stessa? No, non sono pronto a rinunciare così facilmente a questa nuova vita.~
+@198  = ~Il Corpo di Scar
+
+Ho incontrato Scar! È risorto e abbiamo fatto un'ultima... chiacchierata. Non credo che abbia ricevuto il saluto che si aspettava, però.~
+@199  = ~<CHARNAME>! Speravo che saresti venuto. Mi hai salvato, da quanto ho sentito.~ ~<CHARNAME>! Speravo che saresti venuta. Mi hai salvato, da quanto ho sentito.~
+@200  = ~Salve, vecchio amico. Nuovo di zecca!~
+@201  = ~Scar! Scar! Tu sei... tu sei... (Lacrime iniziano a scorrere dai tuoi occhi.)~
+@202  = ~Vedo che i tuoi amici hanno mantenuto la promessa.~
+@203  = ~Oh sei tu. Pensavo di trovare qualcuno di più importante qui.~
+@204  = ~Non c'è posto per te qui, Scar. Farò in modo che tu rimanga morto.~
+@205  = ~Oh, ma non era una promessa che mi avevano fatto, devo precisarlo. (ride)~
+@206  = ~È bello vederti.~
+@207  = ~Finalmente! Qualcuno che la vede come me.~
+@208  = ~Ma significa che non sei entusiasta di vedermi, vivo e vegeto?~
+@209  = ~Esattamente. Buon per te, ho visto abbastanza, ciao.~
+@210  = ~Ah, ma sì. Sono entusiasta, sto solo cercando di nasconderlo dietro l'ironia. *È* bello vederti.~
+@211  = ~Hm. Non il saluto che mi aspettavo, ma in fondo, quello che prevedevo.~
+@212  = ~Comunque, è stato bello rivederti.~
+@213  = ~Eccomi qui, tutto nuovo e splendente. E mi sono perfino fatto un bagno, aggiungerei.~
+@214  = ~Com'è possibile?~
+@215  = ~Ho tenuto tra le braccia il tuo corpo, Scar. L'ho tenuto ed ho gridato contro coloro ti avevano fatto questo. Vederti ora, vivo e vegeto, avvera le mie speranze più audaci!~
+@216  = ~Che piani hai, adesso?~
+@217  = ~È un piacere rivederti, ma devo andare.~
+@218  = ~Woah, <CHARNAME>. Prendi questo fazzoletto. Davvero, non c'è bisogno di piangere per me... Sono confuso.~
+@219  = ~Non chiedermi i dettagli, per favore. Tutto quello che so è che i chierici, miei buoni amici, hanno rischiato la vita realizzando una magia molto potente.~
+@220  = ~Io... Sono commosso, <CHARNAME>. A volte, quando giacevo nel mio letto, solo ed esausto, cercavo di immaginare la mia morte e cosa sarebbe potuto succedere dopo. E quasi ogni volta sentivo che probabilmente non ci sarebbe stata una sola persona che avrebbe pianto sul il mio cadavere.~
+@221  = ~I miei piani... Prima di tutto, volevo chiederti una cosa o due.~
+@222  = ~Hai inseguito il mio assassino, mi è stato detto.~
+@223  = ~Si! Non erano i Ladri Tenebrosi, come poteva sembrare. Erano doppelganger ed hanno agito agli ordini di Sarevok.~
+@224  = ~Si l'ho fatto. E credo di poter dire che colui che l'ha fatto non è vivo.~
+@225  = ~È importante?~
+@226  = ~Sarevok... Il figlio adottivo di Lord Rieltar, o così ho appreso. Il destino gioca perfidi scherzi ad alcuni. Essere portato alla morte da un bambino che hai cresciuto come tuo...~
+@227  = ~Ti ringrazio per questo. La consapevolezza che il mio omicidio è stato vendicato sembra... sorprendentemente piacevole.~
+@228  = ~Per me lo è, sì. Ma va bene, se non vuoi parlarne.~
+@229  = ~E poi hai localizzato il mio cadavere. Non so come ringraziarti per questo.~
+@230  = ~Vedi, se non si fossero raccolti attorno al mio cadavere, i miei amici non avrebbero giurato di rianimarmi. Perché nessuno di loro pensava di poter fare qualcosa da solo. Sai come funziona.~
+@231  = ~Quindi, senza di te, non sarei qui adesso, anche se non è il mio vecchio corpo quello che vedi davanti a te.~
+@232  = ~Hai fatto tanto per me. Ed io... non ho niente che posso darti in cambio. Nient'altro che i miei sinceri ringraziamenti ed un profondo senso di gratitudine.~
+@233  = ~Nient'altro che questo posso offrirti per tutte le tue azioni.~
+@234  = ~(Beffardamente) Cosa hai detto? Non l'ho capito davvero.~
+@235  = ~Sono così felice che sia andata così.~
+@236  = ~Non mi devi niente, Scar.~
+@237  = ~Per favore... Solo un abbraccio, tra amici. È così bello rivederti, devo sincerarmi che tu sia reale.~
+@238  = ~Almeno un bacio, Scar. Dopo quello che abbiamo condiviso, non lasciarmi andare senza almeno un bacio.~
+@239  = ~Abbastanza grato da farmi provare se... *tutte* le parti del tuo corpo funzionano di nuovo bene?~
+@240  = ~Per quanto mi sia piaciuto parlare con te, ora devo andare.~
+@241  = ~<CHARNAME>... Non hai idea di quanto ti desiderassi dal giorno in cui... abbiamo condiviso dei momenti intimi.~
+@242  = ~Ma no, questo non è qualcosa che possa offrirti. Né come ricompensa, né come promessa di qualcosa di più. Non sono quel tipo di uomo, <CHARNAME>.~
+@243  = ~Ma almeno un abbraccio! Fammi almeno sentire che sei di nuovo vivo, una volta sola.~
+@244  = ~Imbroglione! Mi hai detto che mi volevi, senza darmi la minima possibilità di soddisfare il mio desiderio di te.~
+@245  = ~Lo so. Ciò ti rende solo più attraente.~
+@246  = ~Allora no, immagino.~
+@247  = ~Ti darò un forte e fraterno abbraccio, <CHARNAME>. Abbastanza a lungo da farmi annusare di nuovo i tuoi meravigliosi capelli... Vieni qui, amico mio.~ ~Ti darò un forte e fraterno abbraccio, <CHARNAME>. Abbastanza a lungo da farmi annusare di nuovo i tuoi meravigliosi capelli... Vieni qui, amica mia.~
+@248  = ~Sei un vero amico. Mi sento onorato di poterti chiamare così.~ ~Sei una vera amica. Mi sento onorato di poterti chiamare così.~
+@249  = ~È strano, avere una tomba, *ed* essere vivi. Riesci a immaginarlo? Sul serio, prima mi chiedevo se dovrei portarci dei fiori.~
+@250  = ~Il mio corpo si sente... giovane. Più giovane di quanto dovrebbe, questo è certo.~
+@251  = ~La mia mente... non tanto. Ricordo la maggior parte di ciò che è successo, ma alcune parti sono sfocate. Beh, forse è meglio così.~
+@252  = ~Ah, che spreco. Tutta la magia che è stata consumata per questo... Avrebbero potuto usarla per qualcuno davvero degno.~
+@253  = ~E quindi? Cerchi complimenti?~
+@254  = ~Tu *sei* qualcuno degno.~
+@255  = ~Ma tu sei importante, Scar. Sei il secondo in comando!~
+@256  = ~Basta col millantare umiltà!~
+@257  = ~Che cosa? Stai scherzando, <CHARNAME>.~
+@258  = ~Sì, credo di si.~
+@259  = ~No, assolutamente no.~
+@260  = ~No, certo che no...~
+@261  = ~No, non sembra che tu stia scherzando...~
+@262  = ~Accidenti. Avrei dovuto pensarci decenni fa...~
+@263  = ~Perdonami, <CHARNAME>. Non volevo prenderti in giro. Ma non c'è niente che io possa darti... vero?~
+@264  = ~Ho pensato questo. Anche se questo corpo *si* sente un po'... sottoutilizzato. Ma non nel senso... Intendevo solo che ho ancora bisogno di tempo per abituarmici, finché non sembrerà di nuovo normale... Per favore, cambiamo argomento.~
+@265  = ~E questo arriva decisamente inaspettato.~
+@266  = ~Si, Anch'io. (Ride)~
+@267  = ~Ho detto che posso solo darti i miei *ringraziamenti* e un profondo senso di *grat...*~
+@268  = ~Oh, ma sei un buffone, <CHARNAME>! (ride)~ ~Oh, ma sei una buffona, <CHARNAME>! (ride)~
+@269  = ~Ma te lo sei guadagnato, quindi lo ripeto: hai i miei più sinceri ringraziamenti e gratitudine, mio salvatore!~ ~Ma te lo sei guadagnato, quindi lo ripeto: hai i miei più sinceri ringraziamenti e gratitudine, mia salvatrice!~
+@270  = ~Vuoi dire che sono tornato al mio vecchio io? E così in fretta! (ride)~
+@271  = ~Grazie per aver detto questo. Hai decisamente dimostrato di volerlo davvero, dopo tutto quello che hai fatto. Ma spero che tu l'abbia fatto, beh, per me, non per il Comandante in Seconda del Pugno Fiammante.~
+@272  = ~Non sarò mai più me stesso, mai più. Beh, forse riesco a sentirmi ed a comportarmi allo stesso modo... Ma non riavrò indietro la mia vecchia vita, ed un uomo viene definito dalla vita ha vissuto, sai.~
+@273  = ~È questo il problema, <CHARNAME>. Ero il secondo. Ma non lo sono più. e, francamente... non voglio più esserlo. Capirai, almeno tu... ehm, non sono sicuro di dove volessi andare a parare. Ti è mai capitato di morire? Stavo per dire qualcosa di paternalistico. Forse dovrei essere sollevato dal fatto che questo non sembra essere cambiato.~
+@274  = ~Ma seriamente, essere morto mi ha dato una nuova visione della mia vita e ho intenzione di fare una lunga vacanza in campagna. Da qualche parte il titolo Secondo in Comando del Pugno Fiammante non è che una eco lontana, e Baldur's Gate solo il nome di una grande città sulla costa. Ho dei parenti, seppur distanti, ma abbastanza prossimi da poterli considerare la mia famiglia, che mi accoglieranno.~
+@275  = ~Lì potrò riprendermi e e vivere una vita tranquilla. Sono perito di una morte abbastanza cruenta da essere morto anche nella percezione della gente, e non ho alcun desiderio di cambiarlo. L'ultima cosa di cui ho bisogno sono persone che cerchino di convincermi a tornare, una volta chiariti i fatti in città. Lord Eltan ha già fatto del suo meglio... Ma no.~
+@276  = ~Hai dimenticato di dire "Sono troppo vecchio per questo"!~
+@277  = ~Posso capire... Almeno penso.~
+@278  = ~È un peccato, però. La città avrebbe bisogno di un uomo come te per riprendersi dalle turbolenze delle ultime settimane.~
+@279  = ~Sarevok è fuggito e deve essere inseguito. Vendicati tu stesso e aiutami in questa lotta!~
+@280  = ~Che vigliaccheria è questa! Era un uomo di tale peso e rilievo, ed ora semplicemente fugge?!~
+@281  = ~Esatto! (ride) Anche se non sono sicuro che sarebbe la frase giusta. Teoricamente parlando, questo corpo non ha ancora una settimana.~
+@282  = ~Ti ringrazio. È bello non dover discutere sempre le stesse cose.~
+@283  = ~Questo è il problema, vedi: non sono me stesso, per niente. E come ho cercato di far capire, probabilmente non lo sarò mai più, per molte ragioni che ho già detto o e altre che non voglio dire.~
+@284  = ~Oh, vorrei poterlo fare. Ma anche il solo pensiero di sollevare una spada mi fa tremare le braccia, <CHARNAME>. Sono ancora troppo debole...~
+@285  = ~Capisco il tuo disgusto, ma mettiamola così: non credi che abbia già fatto abbastanza per questa città?~
+@286  = ~È così bello vederti, <CHARNAME>. Ma questo corpo è ancora debole e si esaurisce facilmente. La nostra conversazione mi ha stancato, per quanto odi ammetterlo. Dovrò dirti addio.~
+@287  = ~Prendi questo vaso, il tuo vaso. È stato la chiave per trovare il tuo cadavere, e comunque ti appartiene.~
+@288  = ~Anch'io ti dico addio, amico mio.~
+@289  = ~Ti auguro una vita serena, Scar. Te lo meriti.~
+@290  = ~Ci rivedremo?~
+@291  = ~Si, ciao.~
+@292  = ~Il... il mio boccale da birra di Baalor! <CHARNAME>, di tutte le mie cose, mi hai portato l'unica veramente a me cara. Questo è...~
+@293  = ~Accidenti a te, ora hai fatto venire le lacrime agli occhi di questo vecchio soldato. Fammi usare velocemente questo fazzoletto... (ride)~
+@294  = ~La mia reazione emotiva è probabilmente un po' difficile da capire. In parte è perché non sono ancora del tutto abituato a essere di nuovo vivo, quindi mi commuovo facilmente...~
+@295  = ~Ma in parte è perché mi piace davvero tanto questo dannatamente vecchio vaso. Lo porterò con me, <CHARNAME>, e mi ricorderà di me stesso come secondo in comando del pugno fiammante. Ma mi ricorderà anche di te, <CHARNAME>.~
+@296  = ~Io... ho paura, no.~
+@297  = ~<CHARNAME>, sei un amico del tipo che raramente si ottiene. In bocca al lupo per tutte le tue imprese. Io ed ogni abitante di questa città, di questa terra! Tutti ti siamo debitori.~ ~<CHARNAME>, sei un'amica del tipo che raramente si ottiene. In bocca al lupo per tutte le tue imprese. Io ed ogni abitante di questa città, di questa terra! Tutti ti siamo debitori.~
+@298  = ~Eltan mi ha detto cosa hai fatto per trovare il mio cadavere e per inseguire il mio assassino. Ti ringrazio per questo.~
+@299  = ~Allora lascia che ti auguri il meglio per il successo della tua impresa.~
+@300  = ~Ti auguro tutto il meglio. Addio.~
+@301  = ~Il Corpo di Scar
+
+Ho incontrato Scar! È risorto e abbiamo fatto un'ultima chiacchierata. Lascerà Baldur's Gate e vivrà con i suoi parenti, da qualche parte lontano.~
+@302  = ~Il Corpo di Scar~
+@303  = ~Un solido e fraterno abbraccio a te, <CHARNAME>. Vieni amico mio.~ ~Un solido e fraterno abbraccio a te, <CHARNAME>. Vieni amica mia.~
+
+@304  = ~Merci! Belle merci!~
+@305  = ~Usato ed antiquariato!~ 
+@306  = ~Cose vecchie per qualcuno, tesori nascosti per altri!~
+@307  = ~Venite a dare un'occhiata!~
+@308  = ~Nuovi articoli nel Negozio dell'Usato di Donnerjan!~
+
+@309   = ~Il Corpo di Scar
+
+Eltan mi ha detto che il corpo di Scar è stato perso la notte in cui è stato assassinato. Questa è davvero una triste notizia, ma temo di non poterci fare niente.~
+@310  = ~Da allora sono stato afflitto dal rimorso, <CHARNAME>, perché è morto ed è perduto. Con me fuori dai giochi, Scar sarebbe stato il capo del Pugno Fiammante. Ho perso il mio secondo in comando e uno dei miei uomini più capaci, e non posso nemmeno dargli una degna sepoltura, perché non so dove sia il suo corpo!~
+
+/* new for v3.0 */
+@311   = ~<CHARNAME>, nostro salvatore! La città è in debito con te.~ ~<CHARNAME>, nostra salvatrice! La città è in debito con te.~
+@312   = ~C'è un'altra faccenda di cui vorrei ti occupassi. Mi è stato detto che avevi un buon rapporto con il mio ex secondo in comando, Scar... sei stato visto visitare i suoi alloggi. Questo è più di quanto molti possano dire di aver fatto. Sai già che è stato assassinato e vorremmo seppellirlo adeguatamente. Per questo, abbiamo bisogno del corpo di Scar.~ ~C'è un'altra faccenda di cui vorrei ti occupassi. Mi è stato detto che avevi un buon rapporto con il mio ex secondo in comando, Scar... sei stata vista visitare i suoi alloggi. Questo è più di quanto molti possano dire di aver fatto. Sai già che è stato assassinato e vorremmo seppellirlo adeguatamente. Per questo, abbiamo bisogno del corpo di Scar.~
+@313   = ~Gli sgherri di Angelo non parleranno, quindi gli unici che potrebbero sapere qualcosa sono i precedenti fedeli servitori che furono mandati via quella notte. Probabilmente sono sparsi per tutta la città, se non ne sono fuggiti del tutto.~
+@314   = ~Ti prego trova il corpo di Scar, <CHARNAME>. Ho perso il mio secondo in comando e uno dei miei uomini più capaci, e non posso nemmeno dargli una degna sepoltura, perché non so dove sia il suo corpo!~
+@315   = ~Non è un miracolo? Ah, <CHARNAME>. È sempre bello avere amici. Non dimenticarlo mai, giovane avventuriero. Ho preso atto che Scar abbia già fatto i propri adii. Auguriamogli il meglio. Ho provato a convincerlo a restare per riprendere la sua posizione precedente, ma non c'è verso lo faccia. Comunque si merita di trovare un pò di pace. Se lo è guadagnato.~ ~Non è un miracolo? Ah, <CHARNAME>. È sempre bello avere amici. Non dimenticarlo mai, giovane avventuriera. Ho preso atto che Scar abbia già fatto i propri adii. Auguriamogli il meglio. Ho provato a convincerlo a restare per riprendere la sua posizione precedente, ma non c'è verso lo faccia. Comunque si merita di trovare un pò di pace. Se lo è guadagnato.~
+@316   = ~Il motivo per cui hai attaccato un uomo appena risorto sarà sempre un motivo di stupore per me. Vai, <CHARNAME>. Vattene, e quando ti inizieranno a chiamare il salvatore di questa città, non dimenticare mai quanto in basso sei caduto.~ ~Il motivo per cui hai attaccato un uomo appena risorto sarà sempre un motivo di stupore per me. Vai, <CHARNAME>. Vattene, e quando ti inizieranno a chiamare la salvatrice di questa città, non dimenticare mai quanto in basso sei caduta.~
+@317   = ~Ti prometto, amico leale, che farò qualsiasi cosa in mio potere per il mio ex secondo in comando. Se c'è un modo per resuscitarlo, lo troverò.~ ~Ti prometto, amica leale, che farò qualsiasi cosa in mio potere per il mio ex secondo in comando. Se c'è un modo per resuscitarlo, lo troverò.~
+@318   = ~Abbiamo dato al corpo un meritato riposo, giovane amico. È l'unica cosa che potevamo fare. È stata una sepoltura degna, anche se un po' silenziosa e non adeguata per il Secondo in Comando del Pugno Fiammante che ha prestato servizio per così tanti anni.~ ~Abbiamo dato al corpo un meritato riposo, giovane amica. È l'unica cosa che potevamo fare. È stata una sepoltura degna, anche se un po' silenziosa e non adeguata per il Secondo in Comando del Pugno Fiammante che ha prestato servizio per così tanti anni.~
+@319   = ~Dobbiamo essere pazienti. Queste cose richiedono tempo.~
+@320   = ~Perdonami, amico. So che avrei dovuto essere più coraggioso, ma non lo ero. Ho la debole speranza che la mia azione sia stata utile, dopo tutto. Questo è tutto quello che posso dirti, e ora devo tornare al lavoro.~ ~Perdonami, amica. So che avrei dovuto essere più coraggioso, ma non lo ero. Ho la debole speranza che la mia azione sia stata utile, dopo tutto. Questo è tutto quello che posso dirti, e ora devo tornare al lavoro.~
+@321   = ~Il corpo di Scar? Il duca Eltan non sa dov'è il corpo di Scar? Alla faccia dei miei sforzi per nasconderlo, sembra che sia stato troppo bravo. Gli dei pensano che sia divertente?~
+
+/* new for v5.0 */
+@322   = ~Ci hai salvato. Hai la gratitudine della città.~
+@323   = ~Prima, però, lascia che ti dica che finalmente abbiamo trovato Scar. Dei servitori leali hanno nascosto il suo corpo prima che Angelo ed i suoi scagnozzi potessero sbarazzarsene per sempre.~
+@324   = ~Il Corpo di Scar
+
+Eltan mi ha detto che il corpo di Scar è stato trovato e sepolto.~
+@325   = ~Se il mio ex secondo in comando rivedrà mai la luce del giorno dipenderà dagli dei, suppongo... Ed abbiamo questioni urgenti a portata di mano.~
+
+/* new for v7.0 */
+//@127 col Duca Eltan
+@326  = ~non farò niente! Andrete dal duca Eltan a palazzo e gliene parlerete. Era il miglior uomo del duca Eltan, il secondo in comando! Non volete che il suo corpo si perda in qualche cassa, vero?!~
+//@133 col Duca Eltan
+@327  = ~Ascoltate, ora andatevene, va bene? Mi dispiace sembrare senza cuore, ma questa notte mi ha davvero spaventato. Chiunque abbia fatto uccidere Scar, sono sicuro che non abbia problemi ad uccidere altri due testimoni. Prometto che lo diremo a Duca Eltan non appena ve ne sarete andati.~ ~Ascoltate, ora andatevene, va bene? Mi dispiace sembrare senza cuore, ma questa notte mi ha davvero spaventata. Chiunque abbia fatto uccidere Scar, sono sicura che non abbia problemi ad uccidere altri due testimoni. Prometto che lo diremo a Duca Eltan non appena ve ne sarete andati.~
+
+/* new for v10.0 */
+@328  = ~Mi sono preso cura degli assassini. Sto solo aspettando l'inizio dell'incoronazione per poter affrontare Sarevok davanti ai testimoni.~
+@329  = ~Ho rovinato i piani di Sarevok per uccidere gli altri duchi. Non preoccuparti, sono al sicuro.~
+@330  = ~Bene, va bene. Posso riposare più facilmente ora.~
+

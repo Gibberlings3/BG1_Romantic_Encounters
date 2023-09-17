@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~10.3pre~
+VERSION ~11.0~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -733,7 +733,6 @@ END
 
    /* TRAs declared in LANGUAGE must be reloaded - by hand, because of the copying (for non-EE version (for every running of installer!) - ALWAYS */
 
-  LOAD_TRA ~bg1re/tra/autotra/english/Setup_game.tra~
   LOAD_TRA ~bg1re/tra/autotra/%LANGUAGE%/Setup_game.tra~
 
 
@@ -767,6 +766,10 @@ LANGUAGE ~Francais (traduction par les d'Oghmatiques)~
 LANGUAGE ~Russian (Staylos, Apxu & Arcanecoast Team)~
          ~Russian~
 	~bg1re/tra/english/setup.tra~ ~bg1re/tra/Russian/setup_game.tra~
+
+LANGUAGE ~Italian~
+         ~italiano~
+         ~bg1re/tra/italiano/setup.tra~ ~bg1re/tra/italiano/setup_game.tra~
 
 /* First components: required */
 /* ~Amount of -ahem- details and BG-style vs. description text!~ */

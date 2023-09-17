@@ -1,0 +1,504 @@
+@0    = ~Chi farebbe una cosa del genere? Chi porterebbe via la nostra cara figlia solo un giorno dopo che l'abbiamo seppellita? (singhiozza) Vorrei che la trovassero, così potremmo finalmente farla riposare. Chi ruberebbe i corpi delle ragazze dalle loro tombe?~
+/* new for v3.0: changed location */
+@1    = ~Madre in lutto davanti al quartier generale del Pugno Fiammante
+
+C'è una madre in lutto davanti al quartier generale del Pugno Fiammante. Qualcuno ha rubato il corpo di sua figlia dalla sua tomba.~
+@2    = ~Chi fa una cosa del genere? Perché rubare una ragazza dalla sua tomba?...~
+@3    = ~Mi dispiace per la tua perdita.~
+@4    = ~So cos'è successo al corpo di tua figlia.~
+@5    = ~Ho tua figlia qui. Puoi metterla a riposare in pace ora.~
+@6    = ~Devo andare.~
+@7    = ~Grazie, straniero. Oh, piccola mia...~ ~Grazie, straniera. Oh, piccola mia...~
+@8    = ~Tu... Davvero? Dov'è?~
+@9    = ~È stata rubata da un negromante che ha perso la sua amata... piuttosto triste, in realtà.~
+@10   = ~So dov'è. Te la riporterò.~
+@11   = ~Oops, Avevo il cadavere di tua figlia, ma mi sembra di averlo smarrito in qualche modo. Non volevi davvero riaverlo indietro, vero?~
+@12   = ~Cari dei! Cosa ha fatto al corpo di mia figlia?~
+@13   = ~Niente, qualunque fossero i suoi piani. È stato fermato in tempo.~
+@14   = ~Beh... grazie per avermelo detto, straniero... (sospira) Cosa farò adesso...~ ~Beh... grazie per avermelo detto, straniera... (sospira) Cosa farò adesso...~
+@15   = ~Perché... perché diresti una cosa del genere. Allontanati da me e lasciami piangere la perdita di mia figlia.~
+@16   = ~Per favore, sai cosa le è successo?~
+@17   = ~Mio... mio tesoro! Oh, ti ringrazio, straniero... Sono sicura che i soldati si prenderanno cura del colpevole. Voglio solo farla riposare in pace...~ ~Mio... mio tesoro! Oh, ti ringrazio, straniera... Sono sicura che i soldati si prenderanno cura del colpevole. Voglio solo farla riposare in pace...~
+/* new for v3.0: changed location */
+@18   = ~Madre in lutto davanti al quartier generale del Pugno Fiammante
+
+Ho portato alla madre in lutto davanti al quartier generale del Pugno Fiammante il cadavere di sua figlia. Era così ansiosa di portarla al tempio che si è dimenticata completamente della ricompensa.~
+@19   = ~Oh, è troppo dolce da parte tua dirlo. Così tante persone hanno promesso di trovarla...~
+/* new for v3.0: changed location */
+@20   = ~La donna davanti al quartier generale piange il furto del corpo della figlia morta. Puoi darmi maggiori informazioni in merito?~
+@21   = ~Questa è una cosa molto strana, e non sono sicuro di cosa fare. Come già sai, il cadavere della ragazza è stato rubato la notte dopo la sua sepoltura, dopo essere stato esposto per tre giorni e tre notti nella cappella, come da desiderio dai genitori. Perché qualcuno si sia sforzato di aprire la tomba avendo avuto la possibilità di prendere facilmente il corpo le notti prima è un mistero per me.~
+@22   = ~Fortunatamente, è stato l'unico evento di questo tipo qui. Abbiamo avuto un altro cadavere scomparso, anche allora una giovane donna, più di sei mesi fa, e nessuna traccia su chi sia stato. Teniamo gli occhi aperti. Un pazzo che riesuma i corpi delle ragazze non è ciò di cui abbiamo bisogno in questo momento.~
+@23   = ~Ah, oh, quello è giovane, e piuttosto fresco. Non puzza per niente... È preparata in qualche modo? Strano... No, non credo che questo andrà bene, sai. me ne serve uno più maturo.~
+@24   = ~Prega, se la vedi, per favore assicurati che torni a casa bene!~
+@25   = ~Certo, signora. Terrò gli occhi aperti per tua figlia. ~
+@26   = ~È solo che a volte gioca in questa casa diroccata. Ho molta paura per il mio piccolo tesoro!~
+@27   = ~Sono sicuro che lo sei, signora. Come ho detto, ho controllato la casa, lei non c'è adesso. Come si chiama, di nuovo?~ ~Sono sicura che lo sei, signora. Come ho detto, ho controllato la casa, lei non c'è adesso. Come si chiama, di nuovo?~
+@28   = ~Susan. Oh, cara, dove può essere?...~
+@29   = ~Non appena vedrò la tua Susan, mi assicurerò che torni a casa.~
+@30   = ~La ringrazio, signore.~
+@31   = ~Povera donna, sta cercando sua figlia che stamattina sembra essere scappata. Beh, speriamo che la ragazza abbia dimenticato l'ora mentre giocava.~
+@32   = ~Susan Perduta
+
+Una madre sta cercando sua figlia Susan a nord della città di Baldur's Gate. Sembrava molto preoccupata riguardo a dove fosse di sua figlia.~
+@33   = ~(In qualche modo questa gatta è riuscita a entrare in casa attraverso una delle crepe nei muri marci. È giovane, indossa un collare rosa. Prima che tu possa provare a prenderla, lei sibila e si nasconde dietro una delle assi allentate.)~
+@34   = ~...fuori di qui, prima che la tua presenza attiri dentro altre sentinelle, eh? Dai, micio, fatti...~
+@35   = ~Oh, oh! Cosa ho appena detto!... Aspetta, non sembri del Pugno Fiammante. Fuori! Questa è, ehm, casa mia!~
+@36   = ~La tua casa? Questa casa abbandonata e marcia sarebbe la tua casa?~
+@37   = ~Chi sei?~
+@38   = ~Che ne dici di uscire tu?~
+@39   = ~Non bene! Non va sempre bene se iniziano a fare domande!~
+@40   = ~Non posso essere visto qui! Forse qualcuno verrà a cercarti. Ma tu non sei una Guardia! Correrò il rischio.~
+@41   = ~Sei troppo forte... non posso lasciarla. Non ancora! Non posso ancora morire. Per favore, lasciaci in pace!~
+@42   = ~Mi hai seguito! Perché le persone non possono essere felici di aver sconfitto l'avversario? Perché devi inseguirmi?~
+@43   = ~Mi hai appena attaccato!~
+@44   = ~Chi sei tu, che risiedi nelle caverne sotto una casa marcia e attacchi i passanti?~
+@45   = ~Ci sono cadaveri di ragazze morte tutt'intorno!~
+@46   = ~Hm, mi dispiace disturbare la festa privata! Vuoi presentarmi a una delle tue amiche?~
+@47   = ~Beh, allora il buon senso suggerirebbe di lasciarmi in pace, no? No, immagino di no...~
+@48   = ~Il mio nome non è importante. No, non è... Non finché non potrà dirlo di nuovo.~
+@49   = ~Io... ho ordinato il corpo che vedete giacere qui, ma non sono una minaccia. Non sono pericoloso! Non è stata uccisa per me. io...io...~
+@50   = ~Di cosa stai parlando?~
+/* new for v3.0: changed location */
+@51   = ~Ho incontrato una madre che piange la perdita del cadavere di sua figlia, proprio qui in città!~
+@52   = ~Che ne dici di seguirmi al quartier generale del Pugno Fiammante e dirlo alla gente lì!~
+@53   = ~Preparati a morire!~
+@54   = ~sì, è questo qui.~
+@55   = ~Avevo bisogno dei cadaveri... mi servivano per... io, potrei restituirli se è questo il problema, capisci? Voglio dire, la maggior parte di loro...~
+@56   = ~Lascia questo posto? No, non posso abbandonare il mio lavoro! non posso abbandonare *lei*!~
+@57   = ~No, non come l'ultima volta! Non adesso! Non adesso!~
+@58   = ~Sarcasmo! Riesco a rilevare il sarcasmo, sì, lo so.~
+@59   = ~Perché non vai e basta! Non capisci che non desidero essere disturbato?!~
+@60   = ~Hai rubato cadaveri qui! Non posso semplicemente "andarmene"!~
+@61   = ~I morti mancano ai loro parenti! Non puoi sinceramente aspettarti che le persone non vengano a cercare.~
+@62   = ~Voglio sapere dei corpi scomparsi e faresti meglio a negoziare!~
+@63   = ~Non sei degno di vivere. Ti ucciderò ora!~
+@64   = ~NO! Non pensare che io stia supplicando per la mia vita perché ho paura. Non temo la morte. Ma non pensare nemmeno che mi arrenderò facilmente! Ho solo... bisogno di più tempo.~
+@65   = ~Di cosa stai parlando? Rispondi!~
+@66   = ~Basta parole! Preparati a morire!~
+@67   = ~Oh, Beth! Beth! Non ho potuto mantenere la mia promessa!~
+@68   = ~Te lo dirò! Ti dirò cosa sto facendo qui. Io... sto facendo delle ricerche. Sono un negromante. Qualche... coincidenza è successa e ora sto facendo i miei studi. Studi speciali. Voglio resuscitare i morti in un modo speciale, capisci?~
+@69   = ~No, non capisco.~
+@70   = ~Ci sono ragazze morte in giro! Spiegati!~
+@71   = ~Un modo speciale? E per questo hai esplicitamente bisogno di corpi di giovani donne? Penso che tu debba spiegarlo meglio.~
+@72   = ~No, non è quello che pensi!...~
+@73   = ~(sospira) Ho deciso di non dirlo... La gente non capisce. Non capiscono mai...~
+@74   = ~Non posso capire se non lo spieghi.~
+@75   = ~Faresti meglio a dare una spiegazione ora, o ci saranno delle conseguenze!~
+@76   = ~Ciò... ha senso.~
+@77   = ~La ragazza nella cripta è la mia amata Beth, il mio amore, il mio unico e vero amore! Lei è la ragione per cui lo sto facendo... facendo tutto questo.~
+@78   = ~Io e Beth ci siamo innamorati, lei si è presa una malattia incurabile. Le ho promesso di guarirla: è morta, da allora ho cercato come resuscitarla... resuscitarla in buona salute.~
+@79   = ~Questo è... questo è tutto. Beth, oh Beth...~
+@80   = ~È tragico, davvero. Ma non puoi andare a rubare corpi lungo tutta la Costa della Spada!~
+@81   = ~Questa è ciò che stai facendo? Devi smetterla! Non puoi continuare!~
+@82   = ~E hai trovato un modo?~
+@83   = ~non posso, posso...~
+@84   = ~Per gli dei! Quello che hai fatto è malvagio. Devi fermarti, adesso!~
+@85   = ~La natura la voleva morta. Non puoi tradire la natura, amico mio.~
+@86   = ~Ripensandoci... Hai trovato un modo?~
+@87   = ~Ma gliel'ho promesso...~
+@88   = ~Pensi davvero che sarebbe felice di essere resuscitata in questo modo? Se sapesse cosa hai fatto per arrivarci...~
+@89   = ~Immaginala mentre si sveglia qui, tra tutti questi cadaveri e zombi. Le piacerebbe? *tu* saresti ancora lo stesso per lei? Pensi che sarebbe felice?~
+@90   = ~È morta, morta e sepolta. Ci sono dei limiti a questo tipo di magia, e va bene così.~
+@91   = ~Tu... hai ragione...~
+@92   = ~(sospira profondamente) Devo smetterla. Cosa ho fatto? Tutti quei cadaveri che ho rubato... ragazze morte... Erano amate e anche loro mancano... Proprio come Beth... ho fatto in modo che nessuno si facesse male. Ho pagato perché i cadaveri venissero portati fuori dalle tombe, dopo la cerimonia, in modo che le famiglie potessero salutarsi. E adesso...~
+@93   = ~Sei forte. Per favore, sii così gentile e ripulisci questo posto da quelle pietose creature che ho creato... Scendi le scale e uccidile.~
+@94   = ~Capisco il tuo desiderio e lo farò. Mi aspetto che tu rimanga qui.~
+@95   = ~Potrei farlo, ma non prima di averti portato al quartier generale del Pugno Fiammante.~
+@96   = ~Vuoi che affronti tutte le tue creature? Per fare cosa nel frattempo?~
+@97   = ~Le tue creazioni non sono affari miei.~
+@98   = ~No, ti finirò io, proprio qui.~
+@99   = ~Ho oltrepassato il confine. Anche se... Lei non sarebbe la stessa... Io non sono lo stesso... Lei non sarebbe felice...~
+@100  = ~Io... io non morirò senza combattere!~
+@101  = ~Ti porgo i miei più sinceri ringraziamenti.~
+@102  = ~No, non verrò con te. Voglio che vengano quaggiù, per vedere con i loro occhi il mostro che sono diventato.~
+@103  = ~La mia vita ha perso il suo significato, non c'è nessun posto dove possa andare.~
+@104  = ~Piangerò per gli errori che ho commesso e per il mostro che sono diventato.~
+@105  = ~Qualcuno deve occuparsene e io non ho più il potere per farlo.~
+@106  = ~Per favore, non voglio più parlare. Uccidi semplicemente quelle creature.~
+/* new for v3.0: removed location */
+@107  = ~Oh, e sentiti libero di riportare il corpo di quella ragazza ai suoi genitori. Non ho più bisogno di lei.~
+@108  = ~Sono pronto ad affrontare il mio destino...~
+/* new for v3.0: changed location */
+@109  = ~Madre in lutto davanti al quartier generale del Pugno Fiammante
+
+Ho trovato il cadavere della ragazza. Sarebbe una buona azione portarla dalla madre in lutto di fronte al quartier generale del Pugno Fiammante prima che perquisiscano i locali del negromante e la seppelliscano in un posto anonimo.~
+@110  = ~Ho provato molte cose...~
+@111  = ~(sospira) Perché non dirlo. Alla fine tutto si riduce a questo. Non posso farlo senza sangue. Sangue di una creatura amata, femmina, innocente. Deve essere raccolto mentre viene preparata la pozione magica principale... E la creatura deve morire donando il suo sangue.~
+@112  = ~È qui che i miei esperimenti si sono fermati... e poi il Pugno Fiammante ha iniziato a sorvegliare la casa.~
+@113  = ~Ascolta, ho qui il corpo di Scar, il Comandante in Seconda del Pugno Fiammante. Potresti rianimarlo?~
+@114  = ~Sangue? Non puoi procedere! Devi fermare questa follia, proprio ora!~
+@115  = ~Intendi appena uccisa?~
+@116  = ~Veramente? Sembra intrigante. Allora, perché non l'hai già fatto?~
+@117  = ~Chi? Beh, se questo e' finito e Beth e' resuscitata... Immagino che potrei ripetere la procedura, si... Questo tuo amico avrebbe bisogno di un altro sacrificio di sangue, pero'. Dovrei prima cercare quello giusto.~
+@118  = ~Ma non lo farò finché Beth sarà ancora morta. So di cosa avrei bisogno per lei. Sangue di una creatura amata, femmina, innocente...~
+@119  = ~Sì, appena uccisa proprio per questo scopo.~
+@120  = ~Io... ho iniziato a dubitare. Ho sempre pensato che fosse solo questione di trovare l'incantesimo giusto. Ma ora, tutto ciò che sembra essere rimasto da provare è per mezzo di arti oscure e malvagie e... sembra sbagliato.~
+@121  = ~A parte questo, non desidero uccidere... non sono sicuro che la mia coscienza possa sopportarlo.~
+@122  = ~È davvero malvagio. Non puoi procedere! Devi fermare questa follia, proprio ora!~
+@123  = ~Perché sarebbe sbagliato? Di che tipo di creature stiamo parlando, comunque?~
+@124  = ~Ehi, non preoccuparti dell'omicidio, amico, potrei farlo io.~
+@125  = ~No, non capisci. È una questione di principio, non importa chi uccide.~
+@126  = ~Credo invece che importi, dal momento che sarei io a dover pulire le mie lame e i miei vestiti.~
+@127  = ~Non c'è bisogno che mi dia così tanti dettagli... E' tutto sbagliato. Quello che sto facendo è sbagliato...~
+@128  = ~Andiamo, uccidere un po' è divertente. Sei comunque circondato da cadaveri, non noterai la differenza.~
+@129  = ~Non ne sono sicuro... Immagino che la cosa migliore sia "usare" la creatura più evoluta possibile...~
+@130  = ~Se ti porto il sangue, troveresti un modo per resuscitare Scar?~
+@131  = ~Tutto si riduce a ciò, quale tipo di "creatura" sia sufficiente. Quanti animali vengono uccisi ogni giorno per poterli mangiare? Ce li infiliamo in bocca, mastichiamo e deglutiamo per sostenerci. Tu, invece, vuoi ridare la vita alla tua amata... Non vedo uno scopo più puro per la morte di una creatura.~
+@132  = ~Ti prenderò il sangue di un animale, se è sufficiente. Non ucciderò nulla di umanoide, non preoccuparti.~
+@133  = ~Come ho detto, potrei cercare il giusto sacrificio per lui. Ma non lo farò, ora.~
+@134  = ~Tu... tu sei il male. Mi sento come se mi fossi finalmente svegliato. Cosa ho fatto!~
+@135  = ~Questo è quello che provo a dirmi...~
+@136  = ~Smetti di provare e fallo davvero. Dimmi solo di cosa hai bisogno per ricongiungerti con la tua amata!~
+@137  = ~Non pensarci. Sono qui e non ho problemi a procurarti il sangue.~
+@138  = ~Sembra ragionevole. Sì, mi piace questa idea.~
+@139  = ~Le tue parole suscitano in me una speranza che credevo già persa...~
+@140  = ~Sì, facciamo... facciamolo. Preparerò l'essenza della matrice. Mi ritroverai qui. Torna al più tardi tra un giorno.~
+@141  = ~Avrai tutto l'oro che ho e potrai tenere tutto quello che troverai qui, tranne le cose che mi servono per la cerimonia.~
+@142  = ~Non preoccuparti. Sarò qui, ma conto su di te per assicurarmi che il Pugno Fiammante non si intrometta.~
+@143  = ~(mormora) Oh, Beth, spero di essere nel giusto...~
+@144  = ~Sangue per il Negromante
+
+Il negromante ha bisogno di sangue per il suo esperimento. Il sangue di una creatura femminile innocente, amata. Dovrei scegliere con cura e uccidere solo se sono sicuro che questi criteri siano soddisfatti. Devo consegnare il sangue nelle prossime 24 ore, altrimenti il rituale non sarà completato.~
+@145  = ~Devi farlo, o il rituale verrà interrotto. So che significa che non potrai allontanarti tanto. Ci... ci dovrà pur essere qualche creatura amata da trovare in una città, giusto? Questo è il destino, amico mio. O ce la fai, o no. Si deciderà nelle prossime 24 ore.~ ~Devi farlo, o il rituale verrà interrotto. So che significa che non potrai allontanarti tanto. Ci... ci dovrà pur essere qualche creatura amata da trovare in una città, giusto? Questo è il destino, amica mia. O ce la fai, o no. Si deciderà nelle prossime 24 ore.~
+@146  = ~Ricorda: una creatura femmina, innocente, amata. Scegli con cura, poiché solo questo sangue sarà utilizzabile.~
+@147  = ~Aspetta... ho solo un giorno? E se non trovo il sangue di cui hai bisogno?~
+@148  = ~Mi muovo.~
+@149  = ~Sì, va bene, ma cosa ci guadagno?~
+@150  = ~Oh, a proposito, negro, non andare lontano, va bene? Semplicemente perché dopotutto potrei perdere interesse a fare commissioni per te.~
+@151  = ~Ho cambiato idea. Non prenderò sangue per te.~
+@152  = ~Troppo tardi! Sei troppo in ritardo. Ho mescolato e incantato finché l'essenza non si è consumata...~
+@153  = ~Beth... Oh, la mia Beth. Non ho potuto mantenere la promessa.~
+@154  = ~Sangue per il Negromante
+
+Il negromante si è ucciso. Non ho potuto impedirlo. Forse ora ha trovato la pace con la sua amata.~
+@155  = ~Non spaventarla, è abbastanza difficile prenderla così com'è.~
+@156  = ~Cosa stai facendo qui?~
+@157  = ~Sei Susan, per caso? Tua madre ti sta cercando!~
+@158  = ~Come diavolo hai fatto *tu* a entrare qui?~
+@159  = ~Esci da questa vecchia casa. È pericoloso!~
+@160  = ~Sono entrata allo stesso modo di Kitty. Sono ancora tutta impolverata e sporca!~
+@161  = ~Hai idea di quanto sia pericoloso?~
+@162  = ~Non sono venuta qui per divertimento! Sono qui per catturare Kitty. È entrata prima.~ 
+@163  = ~Amo *lei*, sì. È una lei. Puoi vederlo dal nastro rosa, sai?~
+@164  = ~Che coincidenza. Va bene, ragazza, puoi restare illesa. La gatta resta. Ho bisogno di lei, morta.~
+@165  = ~Dunque. Quindi, questo fa due creature femminili amate...~
+@166  = ~Oh... Hai conosciuto mia madre?~
+@167  = ~Non esattamente, ma so che ti sta cercando. Sembrava molto preoccupata!~
+@168  = ~Questa è la tua gattina? Ti piace, vero?~
+@169  = ~Basta parlare, ragazza, ho bisogno di ucciderti per avere il tuo sangue.~
+@170  = ~Devi uscire di qui!~
+@171  = ~Esci adesso. Questo posto è troppo pericoloso.~
+@172  = ~Che coincidenza. Va bene, ragazza, puoi restare illesa. La gatta resta. ho bisogno di lei.~
+@173  = ~Ho provato a tornare in strada prima, ma Kitty mi è sfuggita.~
+@174  = ~Abbiamo messo all'angolo la tua gattina. Ora prendila e lascia questa vecchia casa. Tutti saranno felici di rivederti.~
+@175  = ~Allora devi andare senza di lei.~
+@176  = ~Beh, non devi andare per forza. Potrei avere un compito perfetto per te e la tua gattina.~
+@177  = ~Tu... tu sei cattivo!~ ~Tu... tu sei cattiva!~
+@178  = ~Sangue per il Negromante
+
+Ho il sangue di una giovane gatta (femmina, amata). Vediamo se il negromante può servirsene.~
+@179  = ~Se lo fai, ti denuncerò alla guardia qui fuori!~
+@180  = ~Hm, è giusto. Meglio che uccida anche te, allora.~
+@181  = ~E dirgli che sei stata qui? Ne dubito.~
+@182  = ~Oh, diavolo, oggi mi sento buono. Prendi la tua gatta e vattene.~ ~Oh, diavolo, oggi mi sento buona. Prendi la tua gatta e vattene.~
+@183  = ~Aiuto! Aiuto!~
+@184  = ~Susan Perduta
+
+Io... ho trovato Susan. Peccato per sua madre, non ho assolutamente intenzione di raccontare a nessuno cosa le è successo.~
+@185  = ~Ma... Kitty!~
+@186  = ~Preferisci andartene senza di lei?~
+@187  = ~Che ne dici di andartene e io prendo la tua gatta. Sembra che ne abbia proprio l'uso giusto. Sta meglio con me comunque.~
+@188  = ~(sospira) Hai ragione, immagino.~
+@189  = ~...la giovane dama!~
+@190  = ~Ovviamente! Ero devastata, puoi credermi. Sono *così* felice che tu l'abbia trovata correre per strada! Non so come esprimere la mia gratitudine!~
+@191  = ~Signora, sono felice che tutto sia andato bene, può starne certa.~
+@192  = ~E tu, signorina, torna subito a casa. Darmi un tale spavento! Bene, ora va tutto bene, credo.~
+@193  = ~Vuoi che prenda Kitty?~
+@194  = ~Ce l'ho.~
+@195  = ~Non so cosa sia successo, però. È molto angosciata per la morte della sua gatta, ma non ha voluto aggiungere altro.~
+@196  = ~È una casa pericolosa, signora. Provvederò io a sigillarne la porta.~
+@197  = ~Sarebbe favoloso. Questa casa sembra così attraente per i bambini piccoli. Mi vengono i brividi a pensarci.~
+@198  = ~Vieni, tesoro. Andiamo a casa.~
+@199  = ~Buona giornata, signora.~
+@200  = ~Susan Perduta
+
+Susan e la sua famiglia sono felicemente riunite. Era andata a cercare la sua gatta. L'ho beccata dentro la casa diroccata.~
+@201  = ~Che lieto fine. Beh, più o meno. La ragazza è uscita dalla porta! Ho controllato appena un momento fa. Questa casa diroccata è una vera seccatura. Spero che qualcuno chiuda la porta prima che succeda qualcosa...~
+@202  = ~Cos'è tutto questo chiasso! Devo concentrarmi, ed è meglio che tu non attiri l'attenzione del Pugno Fiammante... (sussulta) Hai ucciso questa ragazza!~
+@203  = ~No... no, non dire una parola. Porterò il corpo di sotto. Presto, non si noterà tra tutte le altre.~
+@204  = ~Io... devo continuare l'incanto.~
+@205  = ~Sangue per il Negromante
+
+Ho il sangue di una ragazza e di una gatta (femmina, amata). Immagino che il negromante dovrebbe aver bisogno di almeno uno dei due.~
+@206  = ~Sei una creatura femmina, innocente, e ovviamente desiderata da più di un uomo, giusto? In questo caso ho bisogno del tuo sangue. Niente di personale, solo per un amico.~
+@207  = ~Sangue per il Negromante
+
+Ho abbastanza sangue di una ninfa. Questo dovrebbe essere perfetto per lo scopo del negromante.~
+@208  = ~Sei un mostro assoluto!~
+@209  = ~Hai una bella ninfa lì, e sembri amarla teneramente. Consegnamela, ho bisogno del suo sangue.~
+@210  = ~È una bella ninfa, e Ragefast sembrava amarla teneramente. Avrei bisogno di un po' del suo sangue.~
+@211  = ~Tu, avresti bisogno del sangue di ninfa? Non desidero condividere gli ingredienti.~
+@212  = ~Hai detto che volevi comunque usarla per fare oro. Perché non mi vendi direttamente un po' del suo sangue?~
+@213  = ~Non ti preoccupare, lo prenderò e basta!~
+@214  = ~Ho detto no. Vai fuori da casa mia!~
+@215  = ~Che cosa? Oh sei tu.~
+@216  = ~Vediamo un pò cos'hai.~
+@217  = ~Beh... Non è ancora morta, ma questo rende il sangue ancora più fresco. Ti presento: una ninfa.~
+@218  = ~Qui ho il sangue di una gatta, amata dalla sua padrona, una ragazzina. Me l'ha detto lei.~
+@219  = ~Questo è il sangue di una mucca amata...~
+@220  = ~Questo è il sangue di una ragazza e figlia amata.~
+@221  = ~Ebbene, ho qui il sangue di una Driade dei Picchi Nebbiosi...~
+@222  = ~Ho qui il sangue di una ninfa. Amata e desiderata da almeno un uomo che ha perso la testa per lei.~
+@223  = ~Non ho niente per te.~
+@224  = ~Ma ormai, hai promesso di portarmi il sangue di cui ho bisogno per la mia Beth. Per favore, vai a cercare il sangue di una creatura femminile amata, come abbiamo concordato, e affrettati!~
+@225  = ~Sbrigati! Non è rimasto molto tempo.~
+@226  = ~Non lo farai? (sospira profondamente) Devo ammettere che sono... un po' felice che tu lo dica...~
+@227  = ~Driade?~
+@228  = ~Cosa cosa cosa? Driade? Driade, mia Driade, <CHARNAME>, non puoi offrire il sangue della *mia* driade per questo?!~
+@229  = ~Il sangue di Driade è inutile. Chi l'amava? Non dirmi che il suo albero l'amava. Te l'ha detto? No, una Driade non serve! Hai massacrato l'innocente... creatura per niente...~
+@230  = ~No, no, non per niente. È molto importante e molto, molto, molto... segreto. Togli le mani!~
+@231  = ~Una gatta? Ho chiesto una creatura innocente e mi porti il sangue di una *gatta*? Quanto pensi che sia innocente una gatta che sgranocchia un uccellino? Anche se fosse una gattina, questo sangue è inutile!~
+@232  = ~Era... era la gattina del piano di sopra, vero? (sospira) Oh, bene.~
+@233  = ~Una ninfa... un'amata ninfa...~
+@234  = ~Non avevi detto che non avresti ucciso niente di umanoide? Ma... un'amata ninfa...~
+@235  = ~Perfetto. Questo e' il sangue perfetto di un innocente... Oh, Beth, cosa sto facendo...~
+@236  = ~Non c'è bisogno di cercare oltre. Questo *è* il sangue perfetto.~
+@237  = ~No... NO! Questa creatura è così fragile... e innocente. Innocente! Non posso... non posso... Perché l'hai trascinata qui, viva, in tutta la sua bellezza? Dovevi ucciderla proprio *qui*?~
+@238  = ~Ma cosa sto blaterando, è quello che ti ho chiesto, non è vero?... Questo... questo finalmente mi ha aperto gli occhi...~
+@239  = ~Una mucca. Una mucca amata. Sì, penso che dovrebbe funzionare.~
+@240  = ~Prendi questo, allora.~
+@241  = ~Fammi cercare qualcosa di più adatto.~
+@242  = ~Una r... una ragazza? La ragazza del piano di sopra? L'hai uccisa per il sangue? Speravo che tu avessi una motivazione migliore di questa...~
+@243  = ~una ragazza.~
+@244  = ~Ma, ma... Avevi detto che non avresti ucciso altro che un animale! Te l'ho sentito dire!~
+@245  = ~Oh, Beth (geme). Ma ora è morta. Questo dovrebbe andare. Una ragazza è decisamente innocente...~
+@246  = ~No, no, il sangue di una ragazza è meglio di quello. È meglio...~
+@247  = ~Ora ho il sangue necessario. Ti ringrazio... credo. Tutto quello che devo fare è mescolarlo...~
+@248  = ~Questo... sarebbe tutto. Questo *è* tutto! Ho l'essenza di cui ho bisogno per resuscitare Beth. Non c'è più tempo per pensare e ponderare! Devo farlo ora...~
+@249  = ~Sarò nella cripta. Prendi quello che trovi qui come ricompensa.~
+@250  = ~Perché... perché non *accade* niente? Ho fatto tutto secondo... Oh!~
+@251  = ~BETH! ...Beth?...~
+@252  = ~Ma... ma cosa *sei* tu! Uno zombi! Un non morto! ...Sangue di mucca! Sangue di mucca...~
+@253  = ~Whaaaaa...~
+@254  = ~NO! Non... non provarci nemmeno. Non provarci nemmeno a sembrare una creatura vivente. Non lo sei! Sei... (singhiozza) Sei morta! Morta!~
+@255  = ~Sembri star bene! Sembri... (prende fiato) Sembri viva!~
+@256  = ~Dì qualcosa, amore. Sei viva! Dì qualcosa!!~
+@257  = ~cosa? Cos'è questo borbottio! I tuoi occhi... Non guardi niente. Mi vedi? Mi vedi, amore? No, non lo fai. Ho resuscitato un corpo... Nient'altro che un corpo! E per questo ti ho lasciato uccidere una ragazza sana! (singhiozza) Cosa ho fatto!~
+@258  = ~Dove... dove sono?~
+@259  = ~Ah, Bet! Parli! I tuoi occhi sono svegli! Sei ancora debole, ma non temere, poiché ti riprenderai in poco...~
+@260  = ~Ti riconosco... Sei l'uomo che amo. Ma cosa ti è successo? Sembri vecchio... E questo posto... Questa è una cripta, vero?~
+@261  = ~Una cripta! Quindi è successo! Ero morta. Perché sono di nuovo qui, amore? Com'è possibile? Cosa... quali orrori hai compiuto per renderlo possibile? Rispondi!~
+@262  = ~Mi sono addentrato nella magia nera, amore... Ho lasciato che una ninfa venisse uccisa per questo... Era... Era sbagliato?~
+@263  = ~Si lo era. Non posso vivere con questa consapevolezza. Questa è follia! Lasciami riposare, amore. Lasciami riposare in pace e vieni da me quando sarà giunta la tua ora.~
+@264  = ~Non starai con me, vero? No, non lo farai. (singhiozza) Beth, oh Beth...~
+@265  = ~Ecco cosa ottengo dalla mia vanità!... Tu! Sei responsabile. Hai suscitato in me le speranze, ora guarda cosa mi hai fatto fare! Ho tradito la mia amata. ti ho lasciato uccidere...~
+@266  = ~Deve essere colpa tua! Deve!~
+@267  = ~Sangue per il Negromante
+
+Il negromante e la sua amata ora sono entrambi morti: la resurrezione non è andata come previsto e me ne ha dato la colpa. Quello stupido avrebbe potuto risparmiare a me e a se stesso un sacco di problemi semplicemente accettando il suo destino.~
+@268  = ~Sono un fiero membro del Pugno Fiammante. Il nostro quartier generale è a Baldur's Gate, ma operiamo anche a Beregost e alla locanda del Braccio Amico.  Siamo piuttosto preoccupati per l'improvvisa scarsità di ferro. Molti pensano che la nazione dell'Amn si stia preparando alla guerra contro la nostra grande città.  Se così fosse, non so come faremmo, mancandoci di una risorsa importante come il ferro.~
+@269  = ~Salute, posso aiutarti...? Aspetta un attimo, tu sei quello ricercato per omicidio!~ ~Salute, posso aiutarti...? Aspetta un attimo, tu sei quella ricercata per omicidio!~
+@270  = ~Cosa ti porta qui?~
+@271  = ~Voglio denunciare il nascondiglio di un negromante responsabile della scomparsa dei cadaveri di donne in tutto il paese. Ora è morto, comunque.~
+@272  = ~Non sei tu che hai fermato la vecchia con la sua mucca?~
+@273  = ~Vengo a salutarvi a nome della signora Thirsty..~
+@274  = ~Siamo qui per vedere Scar.~
+@275  = ~Vorremmo fare un giro.~
+@276  = ~Vogliamo arruolarci nel Pugno Fiammante.~
+@277  = ~Addio.~
+@278  = ~Ero stato avvertito del tuo arrivo. O è in fondo al corridoio o fuori dall'ingresso. Sta aspettando da un po' di parlare con te, quindi dovresti parlargli presto.~
+@279  = ~Non facciamo fare giri qui, mi spiace.~
+@280  = ~Il Pugno non arruola, al momento.~
+@281  = ~(sospira) Sì, hai assistito alla scena. Non mi sono mai sentito così male. La signora Thirsty è la vicina dei miei vecchi genitori nel villaggio in cui sono cresciuto. Era sempre così gentile, mi dava dolci e tutto il resto... È venuta in città dopo la morte del suo vecchio marito.~
+@282  = ~Ti sono debitore, non hai idea di quanto mi preoccupasse tutta questa faccenda. Alla povera signora Thirsty mancherà la sua mucca, ma almeno il problema è risolto. Devo dimostrarti la mia gratitudine!~
+@283  = ~Hai persino fatto in modo che lei e la sua mucca si trasferissero in una fattoria! Ti sono debitore, non hai idea di quanto mi preoccupasse tutta questa faccenda. Devo dimostrarti la mia gratitudine!~
+@284  = ~Ecco, prendi questo.~
+@285  = ~Oh, Bello! Grazie.~
+@286  = ~Devo continuare a pattugliare ora, sono in servizio. Buona giornata!~
+@287  = ~Davvero? Lo riferirò direttamente ai miei superiori. Temo che non abbiamo abbastanza uomini in questo momento per fare qualcosa per il posto se non per metterlo in sicurezza in modo che nessun cittadino sia in pericolo.~
+@288  = ~Ma ho sentito anche dei cadaveri scomparsi. È un bene che questa faccenda sia risolta. A nome del Pugno Fiammante, ti ringrazio per aver chiarito tutto questo!~
+@289  = ~Ah, prenditene cura con tutte le tue armi, va bene? Berta è tutto quello che ho, quindi assicurati che le tue lame affilate non le facciano male!~
+@290  = ~Signora Thirsty! Presumo correttamente che questa sia la tua mucca?~
+@291  = ~Si, perchè, Trevor? C'è qualche problema?~
+@292  = ~Qualcosa che non va in effetti c'è! Non sa che è proibito introdurre mucche all'interno delle mura della città?~
+@293  = ~Ma Trevor, sai che ho perso la fattoria quando Greg è morto e i bambini si sono sposati tutti così lontano... Berta è tutto ciò che mi resta! Mi ricorda casa e Greg! L'ho cresciuta io perché la nostra vecchia Greta è morta prima che Berta fosse svezzata... E sono sicura che Berta non dà fastidio a nessuno, giusto?~
+@294  = ~Lo so, signora Thirsty, e mi dispiace davvero... Temo che sia contro la legge. In qualità di proprietaria di questa mucca, dovrò multarla di 50 monete d'oro per aver tenuto impropriamente un animale da fattoria all'interno delle mura della città a meno che lei, uh... non rimuova questo animale dalla città entro 72 ore.~
+@295  = ~Trevor! 50 monete d'oro?! Non le ho. E ho bisogno che sia qui per mungerla finché è ancora possibile! Non saprei dove portare la mia Berta!~
+@296  = ~Mi... mi dispiace, signora Thirsty, ma è la legge. Se non rimuove la mucca, ci sarà un macellaio da chiamare.~
+@297  = ~Oh, dei!...~
+@298  = ~Una Mucca a Baldur's Gate
+
+Ho assistito al fermo di un'anziana signora perché teneva una mucca all'interno delle mura della città. Non aveva i soldi per pagare la multa e non sapeva nemmeno dove portare la sua mucca. Sembrava amare la sua mucca piuttosto teneramente, però...~
+@299  = ~Ehi, voi! Fermatevi subito!~
+@300  = ~Ehi, voi! Fermatevi dove siete!~
+@301  = ~Io rappresento il Pugno Fiammante e la legge dei Granduchi. Siete state viste uccidere quella mucca, che non era di tua proprietà! Siete in arresto per rapina.~
+@302  = ~Aspetta un momento! Possiamo pagarti dei soldi; che ne dici di 100 monete d'oro per lasciarci in pace.~
+@303  = ~Non vuoi arrestarci, soprattutto se ti dovessimo dare queste belle monete d'oro luccicanti. 200 di loro in realtà.~
+@304  = ~Ti faremo a pezzi, ipocrita custode della legge!~
+@305  = ~Mi insultate provando a corrompermi!~
+@306  = ~Ciò non può essere tollerato!~
+@307  = ~Una Mucca a Baldur's Gate
+
+Forse non avrei dovuto attaccare la mucca senza prima comprarla.~
+@308  = ~Non intrometterti, cittadino. Questi sono affari dell'autorità cittadina.~
+@309  = ~Oh, non essere sciocco, Trevor. Sicuramente quest'uomo gentile può esprimere la sua opinione?~
+@310  = ~Oh, non essere sciocco, Trevor. Sicuramente questa donna gentile può esprimere la sua opinione?~
+@311  = ~Ehm, certo, Sig.ra Thirsty...~
+@312  = ~Uh, che situazione... non posso tornare al quartier generale finché non sarà risolta.~
+@313  = ~Hai parlato di una multa. Forse potrei aiutare.~
+@314  = ~Hai parlato di un macellaio. Mi servirebbe questa mucca, anche morta.~
+@315  = ~Ho cambiato idea. Mi serve questa mucca, anche se morta.~
+@316  = ~Ho l'oro ora, per pagare la mucca.~
+@317  = ~Ho incontrato un contadino a nord-est di Baldur's Gate che ha perso suo figlio. Se sei ancora in grado di lavorare, immagino che potrebbe essere interessato ad accogliere te e la tua mucca.~
+@318  = ~Ho incontrato un contadino a nord-est di Baldur's Gate che ha perso suo figlio. Se sei ancora in grado di lavorare, potrebbe essere interessato ad accogliere te e la tua mucca.~
+@319  = ~Buona giornata, allora.~
+@320  = ~L'unico aiuto utile qui sarebbe l'oro per pagare il macellaio. Oppure trova un posto dove stare per la mucca, fuori città.~
+@321  = ~Allora vorrei pagare la mucca e il macellaio.~
+@322  = ~No, deve esserci un posto per questa mucca. continuerò a cercare.~
+@323  = ~Oh, ma tu non appartieni al Pugno Fiammante. (sospira) Speravo che tornassero in sé e che qualcuno venisse da me...~
+@324  = ~Ho assistito al suo fermo, sig.ra Thirsty.~
+@325  = ~Portare una mucca in città! Cosa stava pensando?!~
+@326  = ~Beh, buona giornata.~
+@327  = ~Ciao! Trevor insiste ancora che io venga *arrestata*!~
+@328  = ~Ho cambiato idea. Potrei avere un uso per questa mucca, anche se morta.~
+@329  = ~Ho dato la tua lettera al contadino Brun. Accetta le tue condizioni.~
+@330  = ~Penso di capire perché nessuno viene a trovarti. La gente non vuole che tu gli rompa le orecchie~
+@331  = ~Buona giornata a te.~
+@332  = ~Il mio nome è Sig.ra Thirsty, e per ben 40 anni sono stata sposata con il mio buon Greg. Che gli dei abbiano pietà di lui.~
+@333  = ~Oh, davvero?~
+@334  = ~Ho una mucca proprio qui, e non ho abbastanza oro per pagare qualche oscura multa. Stanno per macellare la mia povera Berta! Sono davvero delusa da Trevor. Trevor è la guardia che mi ha fermato.~
+@335  = ~Sì, sto parlando di te, giovanotto!~
+@336  = ~Trevor, assolutamente! Lo conosco dalla nascita, gli cantavo ninne nanne quando i suoi genitori erano impegnati. I nostri figli si sono sposati tutti così lontano, vedi, e quindi quando il mio Greg è morto, ho dovuto abbandonare la fattoria. Berta è tutto ciò che mi resta. Berta è il nome della mia mucca. Lei è tutto ciò che mi resta, e mi è cara... Lo è davvero. Beh, non sono una vecchia stupida. So che probabilmente dovrò venderla, ma...~
+@337  = ~Beh, fa male.~
+@338  = ~È una storia triste, sig.ra Thirsty.~
+@339  = ~Beh, le auguro il meglio.~
+@340  = ~Non c'è bisogno di usare quel tono, giovane!~
+@341  = ~Io... non pensavo sarebbe stato un problema. *Non è* un problema, tranne per il fatto che è contro alcune leggi cittadine che solo gli dei sanno chi ha inventato. Avevo paura che Berta venisse rapita o che si ammalasse per strada. Mai avrei immaginato di avere problemi con le autorità cittadine!~
+@342  = ~Buona giornata, davvero. ne avrei davvero bisogno.~
+@343  = ~Oh, grazie caro. Buona giornata a te.~ ~Oh, grazie cara. Buona giornata a te.~
+@344  = ~Beh... si. Grazie.~
+@345  = ~Cosa... cosa? Perché hai detto questo? Sei venuto qui per insultarmi? Sono solo una donna anziana e la vita non è sempre stata piacevole per me. Beh, è stata piacevole molte volte, comunque. Ho avuto un marito così amorevole. E avevamo la fattoria...~ ~Cosa... cosa? Perché hai detto questo? Sei venuta qui per insultarmi? Sono solo una donna anziana e la vita non è sempre stata piacevole per me. Beh, è stata piacevole molte volte, comunque. Ho avuto un marito così amorevole. E avevamo la fattoria...~
+@346  = ~No, ma è buffo. Potrei rifarlo. Vecchia ciabatta!~
+@347  = ~Oh, far caso a me. Sono solo una vecchia signora, persa nei suoi ricordi... Sai, penso davvero che non sia giusto che facciano pagare una multa a un'anziana signora. Pensi che potrei fare qualche genere di ricorso?~
+@348  = ~Non ne sono... molto sicuro.~
+@349  = ~Oh... oh, davvero? Non sono *così* vecchia, lo sai. Potrei lavorare per vivere! E lo vorrei anche io. Pensavo di essere troppo vecchia per la vita contadina e sono venuta qui in città, ma non mi piace. Troppe persone in troppo poco spazio, e gli odori... mi mancano le stalle, i muggiti e i belati del bestiame e delle pecore, l'abbaiare dei cani...~
+@350  = ~Voglio dire... Trevor? Posso spostare la mucca in un altro posto, sì?~
+@351  = ~Si, è corretto.~
+@352  = ~Aspetta un minuto, giovane amico, puoi?... solo un attimo...~ ~Aspetta un minuto, giovane amica, puoi?... solo un attimo...~
+@353  = ~Ecco. Ti dispiacerebbe portare questa lettera al tuo amico contadino? Ho scritto tutto. Sarei felice di essere di nuovo utile. Ma solo, guardami bene quando dico questo! *Solo* se accoglie Berta e la tratta come una delle sue mucche! L'ho scritto anche qui. Lo stesso cibo, e un posto nelle stalle se fa troppo freddo! L'ho scritto in questa lettera, ma glielo dici tu, va bene? SÌ? Oh, Berta, questa sarebbe la nostra salvezza...~
+@354  = ~Una Mucca a Baldur's Gate
+
+La signora Thirsty mi ha dato una lettera per il contadino Brun. Sembra che debba fare il messaggero, di nuovo...~
+@355  = ~Beh, è quello che pensavo. (sospira) Non saprei a chi rivolgere una simile richiesta, comunque. Ah, è tutto così complicato in città.~
+@356  = ~Che impertinenza! Sembra che ti diverta. Marmocchio, sii felice che ci sia con noi una guardia del Pugno Fiammante perché altrimenti ti avrei insegnato le buone maniere. Pff. La gioventù di oggi!~ ~Che impertinenza! Sembra che ti diverta. Marmocchia, sii felice che ci sia con noi una guardia del Pugno Fiammante perché altrimenti ti avrei insegnato le buone maniere. Pff. La gioventù di oggi!~
+@357  = ~Questo... questo è stupendo!~
+@358  = ~Trevor, hai sentito?~
+@359  = ~Grazie dei... Voglio dire, è davvero una buona notizia.~
+@360  = ~andrò subito. Subito!~
+@361  = ~Grazie molte. Pensavo che non ne sarei mai uscito. Ho accettato questo caso perché conoscevo la signora Thirsty fin dall'infanzia, ma non sono sicuro che sia stata una buona idea.. Sono contento che questo caso sia risolto. Il Pugno Fiammante ti ringrazia.~
+@362  = ~Berta, vieni, cara. Attenta al tuo passo, non pestare i piedi della guardia, eh?~
+@363  = ~Una Mucca a Baldur's Gate
+
+È tutto stabilito per la signora Thirsty e la sua mucca che si trasferiranno dal contadino Brun. Dovrei visitarle prima o poi, per vedere come funziona...~
+@364  = ~Infatti? Questa è una svolta interessante...~
+@365  = ~Che cosa? Macellare la mia Berta? semplicemente così? Come potrebbe essere una soluzione al mio problema?~
+@366  = ~Nella misura in cui questa brava persona qui potrebbe darti tanti soldi per la tua mucca quanto pensi che valga, compreso l'oro per il latte che ti aspettavi che ti desse.~
+@367  = ~Oh.~
+@368  = ~(E la mucca sarebbe fuori di qui per sempre, grazie agli dei.)~
+@369  = ~Ho *sentito* ch...~
+@370  = ~Signora Thirsty, questo non è un compito facile per me, mi creda. Ma o lei rimuove la mucca oltre le mura della città, viva, o ci penserà il macellaio. Ha un posto diverso dove far stare la sua mucca? Ha l'oro per pagare la multa?~
+@371  = ~N... no, non ce l'ho.~
+@372  = ~Allora le consiglio caldamente di prendere in considerazione questa proposta, signora Thirsty.~
+@373  = ~Ora a te. Stai proponendo di pagare il macellaio per questa mucca?~
+@374  = ~Sì, se ottengo le parti di cui ho bisogno.~
+@375  = ~Sì, se questo toglie la multa alle spalle della signora.~
+@376  = ~Per prima cosa dovremmo concordare di quanto oro stiamo parlando.~
+@377  = ~No, ho cambiato idea. Non mi servono parti di questa mucca.~
+@378  = ~Direi 50 monete d'oro! Almeno! Non un centesimo di meno!~
+@379  = ~Ehm, fai 500. E' giovane e in salute... e la signora Thirsty non conosce gli attuali prezzi di mercato.~
+@380  = ~500 sia. Accetta?~
+@381  = ~Accetto.~
+@382  = ~Sembra che non abbia abbastanza soldi, ma tornerò.~
+@383  = ~Saremo qui... (sospira) Probabilmente.~
+@384  = ~Va tutto bene, signora Thirsty. Le porterò i soldi. Tu, seguimi con la mucca...~
+@385  = ~Una Mucca a Baldur's Gate
+
+Ho lasciato che la mucca venisse macellata. La donna dovrebbe avere abbastanza soldi per un pò.~
+@386  = ~Oh, ora *grazie* agli dei!~
+@387  = ~Con il dovuto rispetto, signora Thirsty, ma questo non risolve il suo problema, vero?~
+@388  = ~Oh...~
+@389  = ~Allora così sarà.~
+@390  = ~Io... io *non* posso assistere a questo...~
+@391  = ~Quindi, tutto è fatto. Grazie, signor Macellaio.~
+@392  = ~Prego.~
+@393  = ~Povera signora Thirsty... ma non c'era altra soluzione, vero?~
+@394  = ~Sangue per il Negromante
+
+Ho il sangue di una mucca (femmina, amata). Questo dovrebbe servire allo scopo del negromante.~
+@395  = ~Brun, devi proprio accorciare quella barba. Non c'è bisogno di andare in giro con l'aria di un barbaro.~
+@396  = ~Hmph.~
+@397  = ~Non con quel tono, signore. Domani è giorno di mercato e voglio che tu faccia una buona impressione alla sorella della vedova del contadino Harting. È una brava persona e la vita è stata dura con lei. Ha bisogno di una nuova casa e questa fattoria ha bisogno di una moglie.~
+@398  = ~Stai cercando di accoppiarmi?~
+@399  = ~No, sto solo affermando l'ovvio. Adesso vai a farti la barba.~
+@400  = ~Ah, è <CHARNAME>! Saluti, giovane amico. È sempre bello vederti.~ ~Ah, è <CHARNAME>! Saluti, giovane amica. È sempre bello vederti.~
+@401  = ~<CHARNAME>, mio ??figlio era morto quando l'hai trovato, ma questa donna che hai portato qui è letteralmente mia madre reincarnata.~
+@402  = ~Ho sentito.~
+@403  = ~Ora a te. È bello rivederti. Mi hai aiutato tanto... io e la mia Berta. E ora devo occuparmi anche di Inga, Gertrud e Luisa... (sorride)~
+@404  = ~Il signor Brun è una persona così gentile! Beh... non è molto loquace, ma lo capisco, con suo figlio morto e tutto il resto. Ha detto che avrei parlato per due, quindi sarebbe stato sufficiente. Ah, avrei voluto che lui e mio marito si fossero conosciuti. Sarebbero andati così d'accordo!~
+@405  = ~Saluta il giovane Trevor da parte mia, se lo vedi. Un ragazzo così bravo, un pò ottuso, ma va bene per un guardia, immagino.~
+@406  = ~Una Mucca a Baldur's Gate
+
+La signora Thirsty e la sua mucca sono tutte sane e salve dal contadino Brun. Spero che quei due riescano a sopportarsi a vicenda... ma sembra funzionare bene.~
+@407  = ~Rimani quanto desideri. Non abbiamo molto da condividere ma sei il benvenuto quando vuoi.~ ~Rimani quanto desideri. Non abbiamo molto da condividere ma sei la benvenuta quando vuoi.~
+@408  = ~C'è un'anziana signora a Baldur's Gate che avrebbe bisogno di un posto per la sua mucca.~
+@409  = ~Avresti posto per un'altra mucca?~
+@410  = ~Questa lettera è della signora Thirsty, l'anziana donna con la mucca di cui ho parlato prima. La sua più grande preoccupazione è che la sua mucca venga trattata come le altre, se la accogli.~
+@411  = ~Ho qui una lettera della signora Thirsty. È un'anziana signora della città che ha bisogno di un posto per una mucca. Sarebbe pronta a dare una mano nella fattoria, se permetti che la sua mucca stia nelle tue stalle.~
+@412  = ~Fin qui tutto bene. Non potrò occuparmi della fattoria per tutta la vita, ma per ora me la cavo.~
+@413  = ~È una buona notizia. Buongiorno a te.~
+@414  = ~Me lo aspetterei, dopo tutto quello che ho fatto per te.~
+@415  = ~Per favore, prima devo sapere cos'è successo a mio figlio.~
+@416  = ~La sua mucca? Cosa pensano quei nobili della città, che io sono una specie di ostello per animali? Ho problemi a mantenere questa fattoria già così, senza mio figlio. Non posso accogliere un'altra mucca!~
+@417  = ~Non è nobile, mi sono spiegato male. Si tratta di una donna che fino a non molto tempo fa viveva in una fattoria. È abituata a lavorare, anche se non è più giovanissima. Ora ha perso la sua fattoria e la mucca è tutto ciò che le è rimasto.~ ~Non è nobile, mi sono spiegata male. Si tratta di una donna che fino a non molto tempo fa viveva in una fattoria. È abituata a lavorare, anche se non è più giovanissima. Ora ha perso la sua fattoria e la mucca è tutto ciò che le è rimasto.~
+@418  = ~Non avresti davvero spazio per un'altra mucca?~
+@419  = ~Beh, valeva la pena provare, ma se non hai spazio per una mucca, allora non importa.~
+@420  = ~Allora, buona giornata.~
+@421  = ~Ah... Così è diverso. Dille che se può ancora lavorare nella fattoria, allora lei e la sua mucca sarebbero le benvenute.~
+@422  = ~Ho abbastanza spazio. Ma anche se questa nobildonna mi pagasse per tenere la sua mucca, mi mancano le braccia per prendermi cura di più bestiame di quello che ho.~
+@423  = ~Stanza ne ho un sacco. Non sono in grado di prendermi cura di un'altra mucca! Ho bisogno di qualcuno che non rifugga dal lavoro. Se avessi una mano amica, un'altra mucca non sarebbe un problema.~
+@424  = ~Una Mucca a Baldur's Gate
+
+Il contadino Brun potrebbe aver bisogno di una mano nella sua fattoria, in quel caso non gli dispiacerebbe un'altra mucca.~
+@425  = ~Una lettera? Beh... Fammi dare un'occhiata. Hm, calligrafia molto chiara...~
+@426  = ~Scrive di aver perso il marito e la sua fattoria...~
+@427  = ~"...stia certo che non rifuggerò, e me lo lasci sottolineare, dal lavoro che so che deve essere fatto..."~
+@428  = ~(sospira) un'altra pagina. Eccoci qui...~
+@429  = ~"...insisto, e lo ripeto, insisto che la mia Berta sia trattata come una delle sue..." Scrive mezza pagina su come si aspetta che tratti la sua mucca!~
+@430  = ~Sì, è stata molto... chiara su questo punto.~
+@431  = ~Allora è un sì o un no?~
+@432  = ~(sospira) Se lavora quanto scrive, potrebbe essere utile... Non ho abbastanza per sfamare un'altra bocca affamata. Se lo deve guadagnare. Vai e diglielo. Non ho più tempo ora, il lavoro mi aspetta. Per favore scusami.~
+@433  = ~Una Mucca a Baldur's Gate
+
+Il contadino Brun ha accettato di accogliere la signora Thirsty e la sua mucca. Ora devo tornare indietro e dirglielo.~
+@434  = ~Madre in lutto davanti al quartier generale del Pugno Fiammante~
+@435  = ~Susan Perduta~
+@436  = ~Sangue per il Negromante~
+@437  = ~Una Mucca a Baldur's Gate~
+
+/* new for v2.4 */
+@438  = ~Hai bisogno di sangue di ninfa? Dai, è il più facile da vendere e comunque non mi serve tutto. Torna tra dieci giorni e ne avrai una bottiglia.~
+@439  = ~Ne ho bisogno adesso, o sarà troppo tardi.~
+@440  = ~No, ora non è possibile. Ucciderla ora rovinerebbe tutti gli ingredienti. Guarda come Ragefast l'aveva lasciata deteriorare. Ha bisogno di riprendersi per almeno altri due giorni prima che io possa usarla correttamente. Ucciderla prima non è un'opzione.~
+
+/* new for v6.0 */
+@441  = ~Per quanto comprenda la tua disperazione, sei sicuro di farlo per lei?~
+@442  = ~Io... Io... non lo so...~
+@443  = ~Beh... potremmo chiederglielo direttamente. Conosco un trucco o due sull'evocazione degli spiriti.~
+@444  = ~Cosa ti dice il tuo cuore? La conoscevi meglio di chiunque altro.~
+@445  = ~Non ne abbiamo mai parlato. Ero così sicuro... così *sicuro* che sarei stato in grado di guarirla. Allora non ero un negromante...~
+@446  = ~Se la immagino davanti a me, in tutta la sua bellezza e saggezza, il suo grande cuore e la sua gentilezza... Mi chiamerebbe stupido... Ma...~
+@447  = ~Chiederglielo?... Intendi, *lei*, la mia Beth, parlale davvero, dopo tutti questi anni... Per sentire la sua voce, ancora una volta... E cosa vedrebbe qui, vedrebbe questa tomba, vedrebbe quanto sono invecchiato, vedrebbe...~
+@448  = ~Non c'è bisogno che tu evochi il suo spirito. Se la immagino davanti a me, in tutta la sua bellezza e saggezza, il suo grande cuore e la sua gentilezza... Mi chiamerebbe sciocco! Come potevo essere così cieco.~
+@449  = ~Le ha promesso cosa? Di resuscitarla con la magia nera a qualunque costo? Non mi pare la promessa fosse questa.~
+@450  = ~Questo non è quello che le hai promesso, e sono sicuro che non è quello che vorrebbe per te. Sii onesto con te stesso.~
+@451  = ~Non hai mai parlato di questo argomento con lei?~

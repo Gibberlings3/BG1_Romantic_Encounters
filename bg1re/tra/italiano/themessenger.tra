@@ -1,0 +1,238 @@
+@0    = ~<CHARNAME>! Potrei forse chiederti un favore? Ho sentito che tu e Gorion lascerete presto la Rocca.~
+@1    = ~Come l'hai sentito? Cosa? *io* non lo sapevo fino a mezz'ora fa!~
+@2    = ~Così credo, anche se non so dove.~
+@3    = ~Fatti gli affari tuoi, vecchia!~
+@4    = ~Stai al sicuro sulle strade, bambino.~ ~Stai al sicuro sulle strade, bambina.~
+@5    = ~Hm? Oh... *hcchiù*... Ciao, bambino.~ ~Hm? Oh... *hcch*... Ciao, bambina.~
+@6    = ~Allora viaggia sano e salvo, bambino.~ ~Allora viaggia sana e salva, bambina.~
+@7    = ~Come vuoi, bambino. Starò qui ancora un po', a prendere aria.~ ~Come vuoi, bambina. Starò qui ancora un po', a prendere aria.~
+@8    = ~Ho le orecchie vecchie ma ascolto molto. Con tutti i guai, il normale servizio di posta è stato terribilmente interrotto. So che tu e Gorion viaggerete lontano. Posso chiederti di prendere una lettera per me? Se i tuoi passi ti portano oltre il Tempio del Canto del Mattino a est di Beregost, vorrei che lo consegnassi al Sacerdote dell'Alba Blaise che risiede lì, nel Vestibolo.~
+@9    = ~Non so dove stiamo andando o quando. Potrei non essere mai in grado di consegnarlo.~
+@10   = ~Se mai ci capitasse di passare da quella parte, suppongo che potrei passare.~
+@11   = ~Farò del mio meglio!~
+@12   = ~Cosa c'è per me?~
+@13   = ~Questa discussione mi annoia. Voglio l'avventura! Voglio colpire le cose! Consegnare la posta non è quello che voglio fare della mia vita.~
+@14   = ~Penso che correrò il rischio e conto che passerai di lì. E, bambino, qualcosa mi dice che quello che hai deciso di fare, lo *farai*.~ ~Penso che correrò il rischio e conto che passerai di lì. E, bambina, qualcosa mi dice che quello che hai deciso di fare, lo *farai*.~
+@15   = ~Posso solo ringraziare. Il mio ordine scoraggia l'accumulo di ricchezze (le spendiamo tutte in libri, invece). Ma i miei ringraziamenti sono sinceri.~
+@16   = ~Penso di no. Trova un altro messaggero.~
+@17   = ~Va bene. Dammi la lettera.~
+@18   = ~Grazie, <CHARNAME>! Eccola, tutta avvolta nella tela cerata contro le intemperie. Ricordati di prenderti cura dei tuoi piedi mentre cammini, è difficile averne di nuovi. E hai visto la giovane Imoen? Ci aspetta un'altra lezione di (sospira) calligrafia...~
+@19   = ~Il Messaggero: La Lettera di Sorella Sapientia
+
+Sorella Sapientia del Tempio di Oghma mi ha chiesto di consegnare una lettera a un Chierico dell'Alba Blaise del Tempio del Canto del Mattino, a est di Beregost. Ha detto che poteva essere trovato nel vestibolo a sinistra del tempio principale.~
+@20   = ~*hcchiù* Va bene, allora?~
+@21   = ~Heya. sono io, Imoen.~
+@22   = ~Oh. Ah. Imoen. Ssei sstata occupata con le tue faccende, allora, piccola?~
+@23   = ~Ma. Sono stata via. Tutto questo tempo. Con <CHARNAME>. Non ti siamo mancati?~
+@24   = ~Certo, certo. Perdonami, *hcchiù*, la mia memoria non è più quella di prima.~
+@25   = ~*hcchiù* (tossisce) Ho la tosse. non ssto bene.~
+@26   = ~Ho un libro per te, dal Chierico dell'Alba Blaise.~
+@27   = ~Non hai un bell'aspetto, Sorella Sapientia. Hai dormito?~
+@28   = ~Ho degli affari in biblioteca. Forse ci vediamo più tardi.~
+@29   = ~Ma perché dovrebbe? non importa. È preziosso? *hcchiù* Lo prendo.~
+@30   = ~Il Messaggero: Il Libro di Blaise
+
+Ho consegnato il libro di preghiere del Prete dell'Alba Blaise a Sorella Sapientia, anche se sembrava sorpresa di ricevere regali da molto lontano. Qualcosa... qualcosa nel modo in cui parlava mi metteva a disagio.~
+@31   = ~Camminando nella notte, ssono sstata, *hcchiù*, a caccia... voglio dire, di *ssolenni penssieri*. Quessti ssono tempi difficili.~
+@32   = ~Il Messaggero: Il Libro di Blaise
+
+Ho trovato Sorella Sapientia, ma prima che potessi darle il libro del Sacerdote dell'Alba Blaise, è andata a cercare.. o cacciare... uno dei gatti di Candlekeep. C'è qualcosa di molto sbagliato qui.~
+@33   = ~Devo Lassciarti. Oh! Quello è un gatto? Qui, gattino, gattino, gattino...~
+@34   = ~Allora stai bene, <CHARNAME>? sembri stanco.~
+@35   = ~Oh, mia cara ragazza! Sei diventata più alta?~
+@36   = ~Sono una grande avventuriera! Io e <CHARNAME>, ci conoscono in tutta la Costa della Spada! E ho letto: un giorno diventerò anch'io una grande maga. Scommetto che non pensavi che avrei toccato i libri, eh?~
+@37   = ~Non credevo che l'istruzione e l'erudizione fossero le tue passioni guida, no. Ma sapevo che avresti avuto successo negli sforzi che avresti scelto, qualunque essi fossero.~
+@38   = ~Uh. Grazie?~
+@39   = ~*hcchiù* (tossisce) Scusa, <CHARNAME>, Sono stato afflitto da una tosse nell'ultimo mese.~
+@40   = ~È solo una leggera tosse. Starò bene abbastanza presto. *hcchiù* (tossisce)~
+@41   = ~Ma perché dovrebbe...? Oh ,cielo! L'ha finito? Bene, sarò una focaccina imburrata! Per favore, posso vedere?~
+@42   = ~Oh, guarda i colori! E il dettaglio!~
+@43   = ~Penso che dovresti andare a trovare il tuo amico.~
+@44   = ~Beh, ho degli affari in biblioteca. Forse ci vediamo più tardi.~
+@45   = ~Il Messaggero: Il Libro di Blaise
+
+Ho consegnato il libro di preghiere del Prete dell'Alba Blaise a Sorella Sapientia. Era sorpresa e felicissima di riceverlo, e stava leggendo attentamente le pagine mentre la lasciavo.~
+@46   = ~Non ho potuto! Un bastoncino secco come me che va in giro per le strade come una adolescente innamorata?~
+@47   = ~Ma tutto scorre in modo così sfuggente... non vuoi vedere la faccia di Blaise, anche solo una volta nella vita?~
+@48   = ~Quando ho visto il tuo amico al tempio di Lathander, era terribilmente malato. Continuava a tossire, tossendo catarro oleoso e aveva grossi brufoli verdi! *Potrebbe morire*.~
+@49   = ~Vedo che conosci il tuo animo, Sorella Sapientia. Addio, allora.~
+@50   = ~Che cosa? Ma no, non può essere...~
+@51   = ~E, *e* non era affatto interessato a leggere. Questo è un segno sicuro di un destino imminente, se mai ne ho visto uno.~
+@52   = ~Non vuoi vedere la faccia di Blaise, anche solo una volta nella vita?~
+@53   = ~Hai posto un argomento valido, <CHARNAME>. Molto bene, lo farò!~
+@54   = ~Viaggia bene lungo la strada.~
+@55   = ~Il Messaggero: Il Libro di Blaise
+
+Ho consegnato il libro di preghiere del Prete dell'Alba Blaise a Sorella Sapientia. Era sorpresa e felice di riceverlo. Le ho suggerito di visitare il suo amico e lei ha accettato.~
+@56   = ~Ecco, questa 50 monete d'oro dovrebbero assicurarti il passaggio su un carro mercantile e le stanze della locanda lungo la strada.~
+@57   = ~Viaggia con stile, Sorella Sapientia! Queste 200 monete d'oro dovrebbero procurarti un passaggio comodo e sicuro fino al Tempio.~
+@58   = ~Devo andare. E, qualunque sia il tuo lavoro qui nella tua vecchia casa, per favore stai attento. Le cose sono state così *strane* in questi ultimi giorni...~ ~Devo andare. E, qualunque sia il tuo lavoro qui nella tua vecchia casa, per favore stai attenta. Le cose sono state così *strane* in questi ultimi giorni...~
+@59   = ~Saluti, bambino. Se hai bisogno di cure o altri servizi, vai al tempio principale. Siamo tutti qui per il servizio di pulizia oggi.~~Saluti, bambina. Se hai bisogno di cure o altri servizi, vai al tempio principale. Siamo tutti qui per il servizio di pulizia oggi.~
+@60   = ~Ciao. Come puoi vedere, sono abbastanza occupato a pulire i pavimenti. (sospira) Oh, cosa darei per una pagina bianca e inchiostro per adornarla...~
+@61   = ~Ho una lettera per te da Sorella Sapientia di Candlekeep.~
+@62   = ~Sembri turbato. C'è qualcosa che posso fare per te?~
+@63   = ~Ti trattengono davvero alle tue faccende...~
+@64   = ~Hai consegnato il libro a suor Sapientia? Sta bene?~
+@65   = ~Non ancora, Blaise. Candlekeep è un osso duro da spezzare.~
+@66   = ~È un po' imbarazzante... quando ho lasciato Candlekeep, mi ha dato una lettera per te. E io... l'ho smarrita. Ma la buona notizia è che, eccola qui!~
+@67   = ~Io... non penso che sia proprio la donna a cui hai scritto in tutti questi anni...~
+@68   = ~L'ho fatto, ma... lei era... non importa.~
+@69   = ~L'ho fatto! A lei, uh, il libro è piaciuto molto.~
+@70   = ~L'ho fatto! Il libro le è piaciuto molto.~
+@71   = ~L'ho fatto! Aveva una leggera tosse, ma per il resto stava abbastanza bene. Il libro le è piaciuto molto.~
+@72   = ~L'ho fatto! Aveva una tosse terribile e macchie verdi virulente. *Potrebbe morire*. Le rallegrerebbe il cuore vederti prima di tirare le cuoia, ne ho la certezza.~
+@73   = ~L'ho fatto! Le è piaciuto molto, e poi ha dichiarato che sarebbe venuta a trovarti molto presto.~
+@74   = ~L'ho fatto! Lei lo ha adorato. Tu, uh, potresti ricevere una bella sorpresa molto presto...~
+@75   = ~No, non l'ho fatto e, francamente, sono stufo di giocare a prendere e portare cose per ogni mendicante pigro che incontro. Muovi il tuo sedere magro e *fai* qualcosa per te stesso! Ecco il tuo libro indietro!~ ~No, non l'ho fatto e, francamente, sono stufa di giocare a prendere e portare cose per ogni mendicante pigro che incontro. Muovi il tuo sedere magro e *fai* qualcosa per te stesso! Ecco il tuo libro indietro!~
+@76   = ~mi dispiace sentirlo.~
+@77   = ~Ma... mi scusi, signorina, i suoi capelli rosa. Sei... Imoen di Candlekeep?~
+@78   = ~Hai sentito, <CHARNAME>? Sono famosa lo sono! Una grande avventuriera! Mi conoscono in tutta la Costa della Spada!~
+@79   = ~Sono sicuro che lo fanno, giovane Imoen. Ma ti conoscevo da altre fonti: ho un'amica a Candlekeep con la quale ci scriviamo regolarmente. Hai tenuto il passo con i tuoi studi in viaggio? Leggere un po' tutte le sere? E gli esercizi di calligrafia! La capacità di redigere una bella lettera diritta ti sarà utile in futuro, ne sono certo.~
+@80   = ~Umm. Faccio pratica... le cose... molto diligentemente. Quando ho tempo. (Aiutami, <CHARNAME>!)~
+@81   = ~'<CHARNAME>'? Sei il figlio di Gorion? Anche la mia amica ha scritto spesso di te.~ ~'<CHARNAME>'? Sei la figlia di Gorion? Anche la mia amica ha scritto spesso di te.~
+@82   = ~Non ho mai sentito parlare di quell'illustre mago e studioso in vita mia.~
+@83   = ~Sì, era il mio padre adottivo. Ma è morto...~
+@84   = ~Non ho idea di chi tu stia parlando... ho incontrato questa strana ragazza dai capelli rosa per strada.~
+@85   = ~O posso aiutarti in qualche altra questione?~
+@86   = ~Mi scusi, sto cercando il chierico dell'Alba Blaise. Mi ha mandato Sorella Sapientia di Candlekeep.~
+@87   = ~Salve, sono una grande avventuriera(TM). Suppongo che tu non abbia dei lavoretti da fare che aumenterebbero la mia fama, fletterebbero i miei muscoli e magari mi facciano guadagnare un bel po' di soldi?~
+@88   = ~Ciao. Sono <CHARNAME> di Candlekeep, in giro per il mondo. E tu?~
+@89   = ~Sembri turbato. C'è qualcosa in cui posso aiutarti?~ ~Sembri turbata. C'è qualcosa in cui posso aiutarti?~
+@90   = ~No, proverò al tempio principale. Grazie per le tue indicazioni.~
+@91   = ~Non ho bisogno di niente. Stavo solo esplorando la zona.~
+@92   = ~Io sono il Sacerdote dell'Alba Blaise. Suor Sapientia ti ha mandato? Lei sta bene? Ha un messaggio? Ma scusami, dimentico le buone maniere. A volte scriveva dei bambini di Candlekeep e tu fatti dare un'occhiata... Saresti <CHARNAME> di Candlekeep? Il figlio di Gorion?~ ~Io sono il Sacerdote dell'Alba Blaise. Suor Sapientia ti ha mandato? Lei sta bene? Ha un messaggio? Ma scusami, dimentico le buone maniere. A volte scriveva dei bambini di Candlekeep e tu fatti dare un'occhiata... Saresti <CHARNAME> di Candlekeep? La figlia di Gorion?~
+@93   = ~Sì, Gorion era il mio padre adottivo. Ma lui... è morto.~
+@94   = ~Sì, sono stato cresciuto da Gorion, anche se non eravamo esattamente... vicini.~ ~Sì, sono stata cresciuta da Gorion, anche se non eravamo esattamente... vicini.~
+@95   = ~Non ho mai sentito parlare di quell'illustre avventuriera in vita mia! Ma sembra una donna meravigliosa. E anche carina.~
+@96   = ~Non ho mai sentito parlare di quell'illustre avventuriero in vita mia! Ma sembra un bravo ragazzo. E davvero bello.~
+@97   = ~Conosci Suor Sapientia? Ah... a volte scriveva dei bambini di Candlekeep e tu dai un'occhiata a te... Saresti <CHARNAME> di Candlekeep? Il figlio di Gorion?~ ~Conosci Suor Sapientia? Ah... a volte scriveva dei bambini di Candlekeep e tu dai un'occhiata a te... Saresti <CHARNAME> di Candlekeep? la figlia di Gorion?~
+@98   = ~Io sono il Sacerdote dell'Alba Blaise. <CHARNAME> di Candlekeep? Devi essere il figlio di Gorion.~ ~Io sono il Sacerdote dell'Alba Blaise. <CHARNAME> di Candlekeep? Devi essere la figlia di Gorion.~
+@99   = ~Sai... chi sono? Quante cospirazioni oscure e patti segreti stanno inseguendo i miei passi? Non posso avere un momento di intimità? Argh!~
+@100  = ~Sono già famoso! Presto gli echi dei miei passi scuoteranno la terra! Heh heh heh.~ ~Sono già famosa! Presto gli echi dei miei passi scuoteranno la terra! Heh heh heh.~
+@101  = ~No, ti starai riferendo a qualche *altro* <CHARNAME> di Candlekeep. È un nome molto comune.~ ~No, ti starai riferendo a qualche *altra* <CHARNAME> di Candlekeep. È un nome molto comune.~
+@102  = ~Niente di così sinistro. Corrispondo regolarmente con una residente di Candlekeep. Ti ha menzionato, diverse volte.~
+@103  = ~Niente di imbarazzante, spero.~
+@104  = ~Sono bugie, tutte bugie! (Ehm, cosa ha detto, esattamente?)~
+@105  = ~Intendi Sorella Sapientia, del Tempio di Oghma?~
+@106  = ~Uhm, sono sicuro che lo faranno. Ma io ti conoscevo diversamente: corrispondo regolarmente con un residente di Candlekeep. Ti ha menzionato, diverse volte.~
+@107  = ~Ma sì, è così!~
+@108  = ~Non ha scritto altro che bene di te e Lucina Rosa... ehm, voglio dire, della giovane Imoen. Ma ho un pensiero! Forse potresti aiutarmi con qualcosa.~
+@109  = ~Certo, certo. *Errore mio.*~
+@110  = ~Comunque...~
+@111  = ~Ho pianto quando la notizia della morte di Gorion ha raggiunto questo tempio. Il mondo della scolastica monastica è tranquillo e difficilmente scuoterà il mondo, ma era una delle nostre stelle luminose.~
+@112  = ~Ma ho un pensiero! Forse potresti aiutarmi con qualcosa.~
+@113  = ~Aspetta, ho una lettera per te!~
+@114  = ~sto ascoltando.~
+@115  = ~Continua.~
+@116  = ~Una lettera? Da suor Sapientia? Oh, fammi vedere!~
+@117  = ~Sta bene... hm, pensieri interessanti sulla metempsicosi...~
+@118  = ~Cos'è questa storia delle rane?~
+@119  = ~Il Messaggero: La Lettera di Sorella Sapientia
+
+Ho trovato il Prete dell'Alba Blaise che lavava i pavimenti al Tempio della Canzone del Mattino. È stato felicissimo di ricevere la lettera di suor Sapientia. Si scopre che si corrispondono fedelmente da quarant'anni e non si sono mai incontrati faccia a faccia. Questa è la vita monastica, immagino.~
+@120  = ~Rane? Ah ah ah. Non c'erano rane. Deve essere stato uno strano incidente. Incidenti strani accadono di continuo a Candlekeep. *Sono i libri*. Non so altro... ora lasciami andare!~
+@121  = ~... Signorina Imoen...?~
+@122  = ~Oh, lo *strano incidente*. Sì, Candlekeep è ben nota per i suoi strani incidenti.~
+@123  = ~Uh?~
+@124  = ~Io-non-c'entro-niente-con-quello-che-è-stato-un-incidente-non-puoi-provare-niente.~
+@125  = ~Sì, è stato divertente.~
+@126  = ~Non importa. Oh, ma grazie mille! Vorrei solo poterti ricompensare come meriti, ma appartengo a un ordine mendicante.~
+@127  = ~Forse dovresti andare a trovare di più la tua amica: preparare una tazza di tè, ricordare i vecchi tempi, quel genere di cose.~
+@128  = ~Da quanto tempo vi scrivete?~
+@129  = ~Ci scambiamo lettere avanti e indietro da, oh, quarant'anni ormai. Sapientia e io non ci siamo mai incontrati, però. I monaci non escono molto, sai com'è.~
+@130  = ~Devi essere il giovane <CHARNAME>, figlio di Gorion.~ ~Devi essere la giovane <CHARNAME>, figlia di Gorion.~
+@131  = ~È... beh, quando dico che è una cosa da poco, mi riferisco solo al numero dei adepti ed alla nostra relativa importanza per il mondo in generale. Significa molto per *me*. Da qualche tempo sono in corrispondenza con una suora del Tempio di Oghma a Candlekeep, una certa Sorella Sapientia. Con i tempi difficili e tutti i banditi sulla strada, la posta regolare è stata interrotta. Non ricevo una sua lettera da parecchio tempo.~
+@132  = ~(zzzzzz)~
+@133  = ~Allora ho buone notizie per te! Suor Sapientia mi ha affidato una lettera del genere, ed eccola qui!~
+@134  = ~Hai ragione: è una cosa da poco.~
+@135  = ~Ah. Capisco. Beh, non vedo come posso aiutarti in questo.~
+@136  = ~Tutto questo suona terribilmente banale. Scusami, ma vado a punire qualcosa. Mi sento così... eccitato quando colpisco le cose. Buona giornata.~ ~Tutto questo suona terribilmente banale. Scusami, ma vado a punire qualcosa. Mi sento così... eccitata quando colpisco le cose. Buona giornata.~
+@137  = ~C'è un'altra questione.~
+@138  = ~Tra i miei doveri per il Tempio della Canzone del Mattino c'è il mio lavoro di illuminatore. Preparo manoscritti e rendo le loro pagine gioiose agli occhi di Lathander.~
+/* new for v2.6: lines @139, @140 split in two */
+@139  = ~Per qualche tempo ho usato le abilità che ho imparato al servizio di Lathander per ragioni un po' egoistiche: ho miniato un libro di preghiere e uffici quotidiani come regalo per la mia cara amica.~
+@140  = ~Per qualche tempo ho usato le abilità che ho imparato al servizio di Lathander per ragioni un po' egoistiche: ho miniato un libro di preghiere e uffici quotidiani come regalo per la mia cara amica Sorella Sapientia di Candlekeep.~
+@141  = ~Un messaggio per Suor Sapientia? Io la conosco!~
+@142  = ~(zzzzz)... Uh? Stavi dicendo qualcosa?~
+@143  = ~Beh, forse potrei consegnare per te il libro, pagando un piccolo compenso.~
+@144  = ~Io stesso sono escluso da Candlekeep, senza un libro di meraviglie e misteri che mi compri l'ingresso.~ ~Io stessa sono esclusa da Candlekeep, senza un libro di meraviglie e misteri che mi compri l'ingresso.~
+@145  = ~Potrei essere in grado di prendere il libro per te. Mi sembra di andare a prendere e trasportare per metà della Costa della Spada così com'è.~
+@146  = ~Sembra che tu sia in un bel pasticcio.~
+@147  = ~Forse...~
+@148  = ~Dovrei affidarti questo libro? Ma no. Perdonami, straniero, ma non ti conosco e, dal tuo sguardo, prenderesti il libro e ne strapperesti le pagine per pulirti il sedere invece di saccheggiare il cespuglio più vicino delle foglie.~ ~Dovrei affidarti questo libro? Ma no. Perdonami, straniera, ma non ti conosco e, dal tuo sguardo, prenderesti il libro e ne strapperesti le pagine per pulirti il sedere invece di saccheggiare il cespuglio più vicino delle foglie.~
+@149  = ~Io... perdonami se ho giudicato male la situazione. Ma questo libro, e suor Sapientia, sono preziosi per me.~
+@150  = ~Dovrei affidarti questo libro? Hai un aspetto sinistro, ma a Sorella Sapientia piacevi. Io... mi fiderò del suo giudizio su questa faccenda.~
+@151  = ~Vuoi prendere il libro, prendertene cura e consegnarlo sano e salvo alla mia amica? Sembri robusto, capace e abituato a risolvere le difficoltà. Non ho oro da dare, solo i miei ringraziamenti, anche se sarebbero sinceri. Lo consegnerai?~ ~Vuoi prendere il libro, prendertene cura e consegnarlo sano e salvo alla mia amica? Sembri robusta, capace e abituata a risolvere le difficoltà. Non ho oro da dare, solo i miei ringraziamenti, anche se sarebbero sinceri. Lo consegnerai?~
+@152  = ~Questo libro è un tomo di mistero e meraviglia tale che Candlekeep mi permetterebbe di entrare?~
+@153  = ~Farò quello che posso.~
+@154  = ~Non so dove mi porteranno i miei viaggi, ma se mi affidi questo libro, giuro che te lo consegnerò o troverò qualcuno affidabile che lo porti oltre i cancelli.~
+@155  = ~Sono stato escluso da Candlekeep e, francamente, non vedo perché mai vorrei tornarci. Trova un altro messaggero.~ ~Sono stata esclusa da Candlekeep e, francamente, non vedo perché mai vorrei tornarci. Trova un altro messaggero.~
+@156  = ~Non credo sia probabile che torni a Candlekeep. Sarebbe meglio cercare un altro messaggero.~
+@157  = ~Anche suor Sapientia ti tiene caro nei suoi pensieri: mi ha affidato una lettera per te.~
+@158  = ~No. è solo un libro.~
+@159  = ~è sufficiente.~
+@160  = ~Grazie. Oh *grazie*.~
+@161  = ~Il Messaggero: Il Libro di Blaise
+
+Il Sacerdote dell'Alba Blaise mi ha chiesto di consegnare un piccolo libro di preghiere a Sorella Sapientia del Tempio di Oghma a Candlekeep se dovessi tornare lì. Ahimè, il libro non è un volume di mistero e meraviglia che mi permetterebbe di entrare nella Rocca, sebbene sia ben miniato.~
+@162  = ~Capisco. Se mai dovessi cambiare idea, io sarò qui. (sospira) Lavando i pavimenti.~
+@163  = ~Io... lei è malata. Oh dei, oh dei. Io... dovrei farle visita presto.~
+@164  = ~È una buona notizia.~
+@165  = ~Lei... lei viene qui? Per il corno dell'unicorno improprio!~
+@166  = ~Sta venendo davvero!~
+@167  = ~Sei preoccupato che trovi una moglie segreta e figli nascosti nel retro?~
+@168  = ~Questo è quello che ha detto.~
+@169  = ~Oh, il mio cuore è tutto un battito! No, va bene. Devo rispolverare immediatamente il mio incunabolo!~
+@170  = ~È così che lo chiamano ora?~
+@171  = ~La inviterai a vedere le tue incisioni?~
+@172  = ~Non vedo come altro chiamare la mia collezione... di incunaboli?~
+@173  = ~No certo che no. Le chiederò di salire per vedere le mie *illuminazioni*.~
+@174  = ~Addio amico mio. Devo prepararmi.~
+@175  = ~Mi scusi, sto cercando il prete dell'alba Blaise.~
+@176  = ~Il Sacerdote dell'Alba Blaise oggi è impegnato nelle faccende domestiche, bambino. Può essere trovato nel vestibolo a ovest del tempio principale.~ ~Il Sacerdote dell'Alba Blaise oggi è impegnato nelle faccende domestiche, bambina. Può essere trovato nel vestibolo a ovest del tempio principale.~
+@177  = ~Laggiù.~
+@178  = ~Sta lavando, come tutti noi, laggiù nell'angolo. Non è che abbiamo qualcosa di *meglio* da fare che pulire i pavimenti. Noi *potremmo* glorificare il mondo agli occhi del Signore dell'Alba, curare i malati, whoa, persino colpire un po' di male. Ma no, far brillare le piastrelle a specchio è * importante *...~
+@179  = ~Il Messaggero~
+@180  = ~Il sacerdote dell'alba Blaise è morto.~
+@181  = ~Che cosa?! Era malato? Oh, perché non me l'ha *detto*, se solo l'avessi saputo, sarei potuta andare lì e accudirlo, se, se solo. Oh mio caro...~
+@182  = ~Sì, lui, uh... è morto nel sonno. Molto pacificamente. I suoi ultimi pensieri erano per te.~
+@183  = ~È morto coraggiosamente, difendendo il Tempio di Lathander. Qualsiasi avventuriero sarebbe orgoglioso.~
+@184  = ~È stato un terribile incidente, è tutto quello che posso dirti.~
+@185  = ~Hai sempre avuto fiducia che facessi la cosa giusta, Sorella Sapientia. *Essere buoni*. Non ho mai saputo perché. Tutto quello che posso dire è che... ucciderlo... è stato *bello*. Che altro dire...~
+@186  = ~Sono felice di sentirlo. Eppure mi sarebbe tanto piaciuto rivedere la sua faccia solo una volta prima che lui... beh.....~
+@187  = ~mi addoloro con te.~
+@188  = ~Ma per anni, decenni, voi due vi siete visti con la *mente*. (Non che io abbia letto le tue lettere o altro.) C'è un'altra cosa: Blaise aveva un libro, che penso volesse che tu avessi.~
+@189  = ~Peccato, adesso è un po' tardi.~
+@190  = ~Oh, pover'uomo.~
+@191  = ~È stato veloce, almeno. E... ha lasciato un libro. Penso che lo intendesse per te.~
+@192  = ~Gli strani incidenti di pulizie sono semplicemente i *peggiori*, giusto?~
+@193  = ~Avrei preferito che *vivesse* per il Tempio.~
+@194  = ~Sembra che abbia avuto una bella vita. Prima di, sai, *quello*. Ma, ecco, ho trovato questo libro. Sono sicuro che avrebbe voluto che tu l'avessi.~
+@195  = ~Sono sicuro che hanno valutato la sua esperienza con una scopa.~
+@196  = ~Ma cos'è... oh! L'ha finito!~
+@197  = ~(tira su col naso) È bellissimo...~
+@198  = ~Il Messagero: La Morte di Blaise
+ 
+Ho portato la notizia della morte del Prete dell'Alba Blaise a Sorella Sapientia. Era addolorata, ma il libro di preghiere miniato che ho trovato potrebbe alleviare un po' il suo dolore.~
+@199  = ~Grazie, figlio mio. Penserò al mio amico e cercherò di ricordare non il dolore della sua scomparsa, ma la gioia dei suoi giorni.~ ~Grazie, figlia mia. Penserò al mio amico e cercherò di ricordare non il dolore della sua scomparsa, ma la gioia dei suoi giorni.~
+@200  = ~The Messenger: Blaise's Death
+ 
+Ho portato la notizia della morte del Prete dell'Alba Blaise a Sorella Sapientia. Era addolorata, ma farà del suo meglio per ricordare la gioia che entrambi hanno provato nello scriversi.~
+@201  = ~Sei crudele oltre il necessario, <CHARNAME>. È la strada che ti ha irruvidito, forse. E forse il tempo ti ammorbidirà... Ma non importa. Penserò al mio amico e cercherò di ricordare non il dolore della sua scomparsa, ma la gioia dei suoi giorni.~
+@202  = ~Il Messagero: La Morte di Blaise
+ 
+Ho portato la notizia della morte del Prete dell'Alba Blaise a Sorella Sapientia. Certa gente non sopporta uno scherzo.~
+@203  = ~<CHARNAME>, cosa ti è successo?~
+@204  = ~Non è successo niente. Sono sempre stato così. Semplicemente non volevi vederlo.~
+@205  = ~Da quando Gorion è morto tutto è stato... e questi sogni... aiutami!~
+@206  = ~Sono stata così cieca...~
+@207  = ~Il Messagero: La Morte di Blaise
+ 
+Ho detto a Sorella Sapientia quello che ho fatto al suo piccolo amico. Questa suora ha finalmente visto il mio vero volto dietro questa capricciosa maschera da sempliciotto che pensava di aver educato. Non importa: ho altre cose da fare a Candlekeep.~
+@208  = ~Non credo di poterlo fare. Perdonami, <CHARNAME>. Oh, mio caro Blaise...~
+@209  = ~Il Messagero: La Morte di Blaise
+ 
+Ho detto a suor Sapientia quello che ho fatto al suo amico. Ricordo almeno perché? Ne ho uccisi così tanti da quando ho lasciato Candlekeep, ma *questa* morte è stata sbagliata? Non dovrebbe essere più facile capire la differenza?~
+/* new for v2.6 (second half of line @139) */
+@210 = ~Ma ora, con tutti i guai: la crisi di ferro, i banditi che saltano per le siepi e i boschi cedui, voci di guerra con l'Amn...~
+@211 = ~È difficile trovare un messaggero affidabile.~
