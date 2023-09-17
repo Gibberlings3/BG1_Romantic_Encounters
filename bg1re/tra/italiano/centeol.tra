@@ -1,0 +1,30 @@
+@0    = ~Sono sicuro che ti piacerà, caro amico.~ ~Sono sicuro che ti piacerà, cara amica.~
+@1    = ~Poe, potresti farmi un favore? Ho trovato un diario con dentro una storia romantica ma tragica. Vorrei che tu la immortalassi.~
+@2    = ~Sono tornato per ascoltare la poesia sul Centeol.~
+@3    = ~Devo andare.~
+@4    = ~Ah, Certo! Dovrei! Ci sono molte storie con un finale così tragico, così triste... devono essere raccontate ancora e ancora. Fino a quando le persone non si renderanno conto di quanto sia veramente fragile il confine tra gioia e tragedia!~
+@5    = ~Ah, Ovviamente! È già finita. L'ho chiamata "Il fantasma dell'amore strisciante". Ora ascolta.~
+@6    = ~"Sotto l'astri splendenti, sotto la luna d'argento
+Si nasconde la storia; la tragedia; del fato il lamento.
+L'eventi della Dama Ragno che morì nell'ottenebramento."~
+@7    = ~"Una volta innamorata; nella culla del cuore,
+La sua anima ha perso; spezzata in un grande fragore.
+Amava un individuo dall'intento ignobile,
+Bruciata è lei, il cigno più fragile."~
+@8    = ~"Ha urlato, ha implorato, ha pianto mesta,
+Ma sola, disperata, in tal modo resta.
+Lacerata, abbandonata, e pure mai baciata,
+ad alcuno per niente in nessun modo mancata."~
+@9    = ~"Ha ucciso, ha amato, annebbiato è il suo sguardo,
+Si nutriva di speranza, col suo verbo bugiardo,
+Solo per vivere, per stare nel suo groviglio,
+Per non lasciare mai la bruma obliata, il suo nascondiglio."~
+@10   = ~"Ma è morta anche se, nell'ultimo atto,
+Lontana nei boschi; lontana dal tratto.
+Per sempre sarà di rosso macchiata,
+Povera Centolo. In eterno ammazzata."~
+@11   = ~Questa è la fine. È tutto quello che potevo fare, amico mio. So che è morta. Ma va bene. Almeno lei può finalmente riposare.~ ~Questa è la fine. È tutto quello che potevo fare, amica mia. So che è morta. Ma va bene. Almeno lei può finalmente riposare.~
+@12   = ~Addio.~
+
+/* New for v2.0 */
+@13   = ~(La forma spettrale ti porge una bacchetta sottile avvolta in ragnatele, avvolgendoti in un senso di pace e gratitudine.)~
