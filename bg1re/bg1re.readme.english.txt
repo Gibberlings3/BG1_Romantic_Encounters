@@ -1349,9 +1349,10 @@ tibicina: contributor, alpha tester, proof reader
 Twani: contributor, alpha tester, proof reader
 Vanguard: beta tester
 
-German translations: Gerri, jastey. 
+German translations: Gerri, jastey, Belryll. 
 French translations by les d'Oghmatiques (Le Marquis, Galathée, Lothringen, Shaywen, Zooloo) and Jazira ; proofreading by Graoumf.
 Russian translations: Staylos, Apxu & Arcanecoast Team.
+Italian translation: Zaramorte, Stoneangel (first version of Bjornin component), Janvitus (proofreading).
 
 ----------------
 XI. Tools Used
@@ -1384,9 +1385,10 @@ XII. History
 ----------------
 
 Version 11.0:
--Added more tracking variables for crossmod with Husam component ("Husam's Personal Preparation").
--"Husam's Personal Preparation": PC can also offer Husam intimacies in second encounter for Teen Version.
+-Italian version completed, by Zaramorte, proofreading by Janvitus.
+-"Husam's Personal Preparation": PC can also offer Husam intimacies in second encounter for Teen Version; Added more tracking variables for crossmod with Husam component; added German translation for this component, by Belryll.
 -Icon for the bag centered for BGT when dragged in the inventory ("Camryn and Tamah").
+-Typo correction.
 
 Version 10.2:
 -Fixed bug where cutscene would only start for "Descriptive version" install option ("Ender Sai: The Hero's Reward").
