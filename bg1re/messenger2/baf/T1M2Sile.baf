@@ -34,7 +34,7 @@ THEN
     SetGlobal("T1M2SilenceLetter","GLOBAL",3)
 	CreateCreature("T1M2GHOS",[705.281]%FACE_2%) // TODO set spawn point
 	ActionOverride("T1M2GHOS",DestroyItem("%tutu_var%CLCK16"))
-	GiveItemCreate("%tutu_var%misc50","Silence",0,0,0)
+	GiveItemCreate("%tutu_var%misc50","silenc",0,0,0)
 	Continue()
 END
 

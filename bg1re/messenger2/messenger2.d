@@ -1044,7 +1044,7 @@ AddExperienceParty(100)
 FadeToColor([20.0],0) 
 CreateCreature("T1M2GHOS",[705.281]%FACE_2%) // TODO set spawn point
 ActionOverride("T1M2GHOS",DestroyItem("%tutu_var%CLCK16"))
-GiveItemCreate("%tutu_var%misc50","Silence",0,0,0)
+GiveItemCreate("%tutu_var%misc50","silenc",0,0,0)
 Wait(2)
 FadeFromColor([20.0],0) EndCutSceneMode()~ %UNSOLVED_JOURNAL% @276 EXIT
 
