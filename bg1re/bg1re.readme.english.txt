@@ -1384,6 +1384,10 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
+Version 11.1:
+- "Purchased Love (Gunther and Friends)": Isobel Whitley should not have 999 of each ring in her inventory: reduced to 1 each.
+-Silence EE DV should be used in all instances, not patched with a different one.
+
 Version 11.0:
 -Italian version completed, by Zaramorte, proofreading by Janvitus.
 -"Husam's Personal Preparation": PC can also offer Husam intimacies in second encounter for Teen Version; Added more tracking variables for crossmod with Husam component; added German translation for this component, by Belryll.
