@@ -4152,7 +4152,11 @@ SAY NAME2 @202
 /* Give Silence a script name and override script */
 COPY_EXISTING ~%tutu_var%SILENC.cre~ ~override/%tutu_var%SILENC.cre~
 WRITE_EVALUATED_ASCII 0x248 ~%tutu_var%SILENC~ #8   // Override script
+<<<<<<< Updated upstream
 WRITE_EVALUATED_ASCII 0x280 ~silenc~ #32   // script name / DV
+=======
+WRITE_EVALUATED_ASCII 0x280 ~Silenc~ #32   // script name / DV
+>>>>>>> Stashed changes
 BUT_ONLY
 
 /* Create Barkis */
