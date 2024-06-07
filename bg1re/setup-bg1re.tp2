@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~11.1~
+VERSION ~12~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -1706,7 +1706,7 @@ REQUIRE_FILE ~bg1re/backup/RE1_WarningMature.G3~ @77 /* ~This component has no t
 
 
 COPY_EXISTING ~%tutu_var%niklos.cre~ ~override~
-WRITE_EVALUATED_ASCII 0x280 ~%tutu_var%niklos~ #32   // script name / DV
+WRITE_EVALUATED_ASCII 0x280 ~niklos~ #32   // script name / DV
 BUT_ONLY_IF_IT_CHANGES
 
 COMPILE EVALUATE_BUFFER ~bg1re/niklos/RE1Niklos.d~ 
@@ -2625,6 +2625,10 @@ WRITE_ASCII 0x2cc ~T1ENDER~  #8  // dialogue
 WRITE_ASCII 0x280 ~T1ENDER~ #32  // death variable
 SAY NAME1 @100 /* ~Ender Sai~ */
 SAY NAME2 @100
+
+/* give ender.cre a DV */
+COPY_EXISTING ~%tutu_var%ENDER.cre~ ~override~
+WRITE_ASCII 0x280 ~ender~ #32  // death variable
 
 
 ACTION_IF GAME_IS ~bgt eet~ THEN BEGIN
