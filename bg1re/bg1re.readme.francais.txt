@@ -1383,6 +1383,12 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
+Version 12:
+-niklos.cre now patched with "niklos" DV. This also fixes a Tutu bug.
+-ender.cre now patched with "ender" DV.
+-Ender Sai should not reappear if he was killed.
+-French version completed, by Selphira.
+
 Version 11.1:
 - "Purchased Love (Gunther and Friends)": Isobel Whitley should not have 999 of each ring in her inventory: reduced to 1 each.
 -Silence EE DV should be used in all instances, not patched with a different one.

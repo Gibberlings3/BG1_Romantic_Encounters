@@ -5,6 +5,7 @@
 
 IF 
   Global("T1EnderCreation","GLOBAL",0)
+  !Dead("Ender")
   Global("Chapter","GLOBAL",%tutu_chapter_4%)
 THEN
   RESPONSE #100
