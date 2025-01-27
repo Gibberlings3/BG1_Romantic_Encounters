@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~12~
+VERSION ~13pre~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -4024,7 +4024,7 @@ REQUIRE_FILE ~override/RE1_Installed.G3~ @14 /*~The Component "Amount of -ahem -
 /* Letters */
 
 
-ADD_JOURNAL TITLE (@277) @263 @264 @265 @266 @267 @268 @269 @270 @271 @272 @273 @274 @275 @276 USING ~bg1re/tra/autotra/%LANGUAGE%/messenger2.tra~
+ADD_JOURNAL TITLE (@277) @263 @264 @265 @266 @267 @268 @269 @270 @271 @272 @273 @274 @275 @276 @302 @303 USING ~bg1re/tra/autotra/%LANGUAGE%/messenger2.tra~
 
 /* BGT: remove journal entries upon transition to BGII */
 ACTION_IF GAME_IS ~bgt~ THEN BEGIN
