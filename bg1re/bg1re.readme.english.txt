@@ -624,7 +624,7 @@ Listen to two very specific ghosts and decide if you want to end their torture, 
 ------------------------------------------------------------------
 
 Type: Quest 
-Availability: N Baldur's Gate, the house with the blue roof, at the far right. Sidequests: Nashkel cemetary, N Baldur's Gate behind the Temple of Helm.
+Availability: N Baldur's Gate, the house with the blue roof, at the far right. Sidequests: SW Baldur's Gate in front of FF Heaquarters, N Baldur's Gate behind the Temple of Helm.
 Rating: Teen content
 PC restrictions: No restrictions
 Variables: No relevant variables
@@ -1065,6 +1065,7 @@ E, Silence's Shop: 					The Messenger 2: Rain or Snow or Gloom of Night
 							The Novelists (if accepted)
 
 SW, Flaming Fist Headquarters and in front of it: 	Scar's Spare Time
+							Necromancer's Trouble
 
 SE, Blade and Stars ground floor: 			The Novelists
 							The Messenger 2: Rain or Snow or Gloom of Night
@@ -1190,7 +1191,6 @@ Main area:						Bardolan's Briefing,
 							Late Night with Jaheira, 
 							Phoenix Flame 
 							The Honest Lies of Two Riversides
-							Necromancer's Trouble
 
 Belching Dragon: 					Mikala the Monk
 
@@ -1383,6 +1383,11 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 13:
+-Messenger 2: sort all journal entries into journal for EE
+-No Regrets: correct text format for German version
+-Correct hints for Necromancer's Trouble in readme
 
 Version 12:
 -niklos.cre now patched with "niklos" DV. This also fixes a Tutu bug.
