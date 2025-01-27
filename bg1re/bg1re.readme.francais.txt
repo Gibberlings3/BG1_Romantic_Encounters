@@ -612,7 +612,7 @@ Ecoutez deux fantômes très particuliers et décidez si vous souhaitez mettre f
 Avertissement : cette rencontre peut contenir de la violence (non sexuelle) envers un jeune enfant. Bien qu'il soit possible d'éviter complètement cette voie lors de la quête, le contenu peut cependant être désagréable, voire choquant pour certains joueurs.
 
 Type : quête
-Lieu : Nord de la Porte de Baldur, maison au toit bleu, tout à fait à droite de la carte. Quêtes secondaires : cimetière de Nashkel, Nord de la Porte de Baldur derrière le temple de Heaum.
+Lieu : Nord de la Porte de Baldur, maison au toit bleu, tout à fait à droite de la carte. Quêtes secondaires : Sud-ouest de la Porte de Baldur, devant QG du Poing Enflammé, Nord de la Porte de Baldur derrière le temple de Heaum.
 Classification : contenu adolescent
 Restrictions au niveau du personnage principal : aucune
 Variables : aucune
@@ -1049,7 +1049,8 @@ Est, guilde des voleurs : 					L'entrainement très spécial de Husam (2)
 Est, magasin du Silence : 					Le messager 2 : pluie, neige et noirceur de la nuit
 							Les romanciers (si vous acceptez)
 
-Sud-ouest, QG du Poing Enflammé et devant : 			Du temps libre pour La Balafre
+Sud-ouest, QG du Poing Enflammé et devant : Du temps libre pour La Balafre
+							Le dilemme d'un nécromancien
 
 Sud-Est, Lame et Etoiles, rez-de-chaussée :			Les romanciers
 							Le messager 2 : pluie, neige et noirceur de la nuit
@@ -1186,7 +1187,6 @@ Zone principale :						Le briefing de Bardolan
 							Fin de soirée avec Jaheira
 							La flamme du phoenix 
 							Les honnêtes mensonges des Deux Rives
-							Le dilemme d'un nécromancien
 
 Dragon qui Rote : 						Mikala la moniale
 
@@ -1382,6 +1382,11 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 13:
+-Messenger 2: sort all journal entries into journal for EE
+-No Regrets: correct text format for German version
+-Correct hints for Necromancer's Trouble in readme
 
 Version 12:
 -niklos.cre now patched with "niklos" DV. This also fixes a Tutu bug.
