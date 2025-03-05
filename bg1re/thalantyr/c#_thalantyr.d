@@ -327,6 +327,8 @@ SAY @327
 IF ~~ THEN DO ~SetGlobal("C#LC_ThalantyrAsked","GLOBAL",16) SetGlobalTimer("C#LC_ThalantyrChessTimer","GLOBAL",ONE_DAY) 
 ActionOverride("Thalantyr",TakePartyItem("c#lcthbs")) 
 ActionOverride("Thalantyr",DestroyItem("c#lcthbs"))
+ActionOverride("Thalantyr",TakePartyItem("c#lcthke"))
+ActionOverride("Thalantyr",DestroyItem("c#lcthke"))
 %ERASEJOURNALENTRY_307%
 %ERASEJOURNALENTRY_283%~ %UNSOLVED_JOURNAL% @328 EXIT
 END
@@ -1028,8 +1030,7 @@ SetGlobal("C#LC_ThalantyrAsked","GLOBAL",5) SetGlobalTimer("C#LC_ThalantyrTimer"
 APPEND %tutu_var%THALAN
 
 IF WEIGHT #-1
-~
-//GlobalTimerExpired("C#LC_ThalantyrTimer","GLOBAL") 
+~GlobalTimerExpired("C#LC_ThalantyrTimer","GLOBAL") 
 Global("C#LC_ThalantyrAsked","GLOBAL",5)~ THEN dinner
 SAY @82
 = @83
