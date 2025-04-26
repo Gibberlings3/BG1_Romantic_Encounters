@@ -1387,6 +1387,7 @@ XII. History
 Version xx:
 -"Dinner with Thalantyr": Thalantyr should take the knights-errand if he offers to make a magic item out of the bishop piece.
 -Dinner dialogue didn't check for timer.
+-"Mikala": fixed a typo that also lead to translation error (English, Italian).
 
 Version 13:
 -Messenger 2: sort all journal entries into journal for EE
