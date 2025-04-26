@@ -1,8 +1,8 @@
 /* "The Mourning of Centeol, the Spider Lady", by Lava */
 
 
-ADD_STATE_TRIGGER %tutu_var%poe 20 ~True()~ UNLESS ~GlobalGT("PoePoemat","GLOBAL",1)~
-
+ADD_STATE_TRIGGER %tutu_var%poe 20 ~!NumberOfTimesTalkedTo(0) !StateCheck(Myself,STATE_CHARMED)~ UNLESS ~GlobalGT("PoePoemat","GLOBAL",1)~
+SET_WEIGHT %tutu_var%poe 20 #-1
 
 EXTEND_BOTTOM %tutu_var%poe 20
 IF ~PartyHasItem("c#lccenb") Global("RE1_CenteolPoeRequest","GLOBAL",0)~ THEN + RE1_CenteolPoe00
