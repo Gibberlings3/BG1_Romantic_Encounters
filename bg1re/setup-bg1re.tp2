@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~13.xpre~
+VERSION ~14~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -171,6 +171,10 @@ END
     
     OUTER_SPRINT "eet_var" ""
     OUTER_SPRINT ~DAYNIGHT~ ~<DAYNIGHT>~
+    OUTER_SPRINT ~EE_BGT_ONLY_SLASH~ ~~
+    OUTER_SPRINT ~EE_BGT_ONLY_ASTERIKS~ ~~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_SLASH~ ~/~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_ASTERIKS~ ~*~
 
 
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
@@ -228,6 +232,10 @@ END
 
     OUTER_SPRINT "eet_var" ""
     OUTER_SPRINT ~DAYNIGHT~ ~<DAYNIGHT>~
+    OUTER_SPRINT ~EE_BGT_ONLY_SLASH~ ~/~
+    OUTER_SPRINT ~EE_BGT_ONLY_ASTERIKS~ ~*~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_SLASH~ ~~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_ASTERIKS~ ~~
 
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
     OUTER_SPRINT ~GARRICK_KICKOUT_STATE~ ~0~
@@ -297,6 +305,10 @@ END
 
     OUTER_SPRINT "eet_var" ""
     OUTER_SPRINT ~DAYNIGHT~ ~day~
+    OUTER_SPRINT ~EE_BGT_ONLY_SLASH~ ~~
+    OUTER_SPRINT ~EE_BGT_ONLY_ASTERIKS~ ~~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_SLASH~ ~/~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_ASTERIKS~ ~*~
 
 
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
@@ -363,6 +375,10 @@ END
 
     OUTER_SPRINT "eet_var" ""
     OUTER_SPRINT ~DAYNIGHT~ ~<DAYNIGHT>~
+    OUTER_SPRINT ~EE_BGT_ONLY_SLASH~ ~/~
+    OUTER_SPRINT ~EE_BGT_ONLY_ASTERIKS~ ~*~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_SLASH~ ~~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_ASTERIKS~ ~~
 
 
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
@@ -411,6 +427,10 @@ END
     OUTER_SPRINT ~Class_Player1_Shaman~ ~Class(Player1,SHAMAN)~ 
     OUTER_SPRINT ~JAHEIRA_DREAM_BCS~ ~JAHEID.BCS~
     OUTER_SPRINT ~DAYNIGHT~ ~<DAYNIGHT>~
+    OUTER_SPRINT ~EE_BGT_ONLY_SLASH~ ~/~
+    OUTER_SPRINT ~EE_BGT_ONLY_ASTERIKS~ ~*~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_SLASH~ ~~
+    OUTER_SPRINT ~TUTU_BG1_ONLY_ASTERIKS~ ~~
 
 
 /* component "Messenger 2" adds to Garrick kickout dialogue, for vanilla BG1, the joined dialogue is used upon kickout and xxxP.dlg upon rejoin */
@@ -3178,7 +3198,7 @@ When wholly consumed, this meat restores 9 hit points to the person.~ */
 COPY ~bg1re/necromancer/bams~ ~Override~
 
 
-EXTEND_BOTTOM ~%NBaldursGate_BCS%.bcs~ ~bg1re/necromancer/Scripts/c#q11_ar0200.baf~
+EXTEND_TOP ~%NBaldursGate_BCS%.bcs~ ~bg1re/necromancer/Scripts/c#q11_ar0200.baf~
       EVALUATE_BUFFER
 
    EXTEND_BOTTOM ~%SWBaldursGate_FlamingFistHQ_L1_BCS%.bcs~ ~bg1re/necromancer/Scripts/c#q11_ar0607.baf~
