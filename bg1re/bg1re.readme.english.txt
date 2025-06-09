@@ -1389,6 +1389,8 @@ Version 14:
 -Dinner dialogue didn't check for timer.
 -"Mikala": fixed a typo that also lead to translation error (English, Italian).
 -"Eltan's Spare Minute": for BGT, BG:EE, and EET; reply options will patched directly to DELTAN2.dlg state 2 (instead of working with an INTERJECTION), this is better for compatibility with other mods that want to add reply options, too.
+-Melicamp's dialogue should not assume that they kissed at first meeting.
+-"Necromancer's Trouble": Trevor should have a dialogue before talking to Mrs. Sutherland; quest charactrs whould spawn in NBG (changed patching of scripts to TOP).
 
 Version 13:
 -Messenger 2: sort all journal entries into journal for EE
