@@ -5,6 +5,7 @@ THEN
 	CreateCreature("c#q11wat",[4218.2493]%FACE_2%) //watchman
 	CreateCreature("c#q11mo2",[4193.2563]%FACE_10%) //searching mom
     SetGlobal("C#Q11_Necroquest","GLOBAL",1)  
+    Continue()
 END
 
 /* girl is alive */
@@ -17,6 +18,7 @@ THEN
 	CreateCreature("c#q11mo2",[4193.2563]%FACE_10%) //searching mom
 	CreateCreature("c#q11gir",[4195.2565]%FACE_10%) //Susan
     SetGlobal("C#Q11_Necroquest","GLOBAL",14)  
+    Continue()
 END
 
 IF 
@@ -30,6 +32,7 @@ THEN
 	CreateCreature("c#q11wat",[2135.646]%FACE_0%)
 	CreateCreature("c#q11mrs",[2075.658]%FACE_0%)
 	CreateCreature("c#q11cow",[2064.491]%FACE_0%)
+    Continue()
 END
 
 IF 
@@ -42,6 +45,7 @@ THEN
 	CreateCreature("c#q11wat",[2135.646]%FACE_0%)
 	CreateCreature("c#q11mrs",[2075.658]%FACE_0%)
 	CreateCreature("c#q11cow",[2064.491]%FACE_0%)
+    Continue()
 END
 
 IF 
@@ -50,6 +54,7 @@ IF
 THEN
   RESPONSE #100
 	ActionOverride("c#q11mrs",EscapeArea())
+    Continue()
 END
 
 
