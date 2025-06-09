@@ -1384,10 +1384,11 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
-Version xx:
+Version 14:
 -"Dinner with Thalantyr": Thalantyr should take the knights-errand if he offers to make a magic item out of the bishop piece.
 -Dinner dialogue didn't check for timer.
 -"Mikala": fixed a typo that also lead to translation error (English, Italian).
+-"Eltan's Spare Minute": for BGT, BG:EE, and EET; reply options will patched directly to DELTAN2.dlg state 2 (instead of working with an INTERJECTION), this is better for compatibility with other mods that want to add reply options, too.
 
 Version 13:
 -Messenger 2: sort all journal entries into journal for EE

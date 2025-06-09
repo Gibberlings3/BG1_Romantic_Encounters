@@ -4,6 +4,10 @@ it would appear after PC brought poisoned Eltan to the harbourmaster.
 
 Global("EltanMove","GLOBAL",2)*/
 
+/* leave old way of doing it for tutu, obg1 */
+
+%EE_BGT_ONLY_SLASH%%EE_BGT_ONLY_ASTERIKS%
+
 INTERJECT %ELTANDLG_HARBORMASTER% %ELTANDLG_STATE% c#lc_eltan
 == %ELTANDLG_HARBORMASTER% IF ~Global("EltanMove","GLOBAL",2)~ THEN @0
 END
@@ -25,6 +29,36 @@ GlobalLT("C#RE1_ToldProgress","LOCALS",2)~ +  @329 /* ~I've ruined Sarevok's pla
 + ~Global("C#RE1_ScarRetrieval","GLOBAL",12)~ + @5 DO ~SetGlobal("c#lc_eltan","GLOBAL",0)~ + rising_scar
 ++ @6 DO ~SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan
 ++ @7 DO ~SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_01
+
+%EE_BGT_ONLY_ASTERIKS%%EE_BGT_ONLY_SLASH%
+
+/* change this to compatible way for bg:ee, eet, bgt */
+/* also see end of file */
+
+%TUTU_BG1_ONLY_SLASH%%TUTU_BG1_ONLY_ASTERIKS%
+
+EXTEND_BOTTOM %ELTANDLG_HARBORMASTER% %ELTANDLG_STATE%
+/* Slythe and bimbo are dead but coronation hasn't happened */
++ ~Global("SarevokBehavior","GLOBAL",0)
+Dead("Slythe")
+Dead("Krystin")
+Global("C#RE1_ToldProgress","LOCALS",0)~ + @328 /* ~I've taken care of the assassins.  I'm just waiting for the coronation to start so I can confront Sarevok in front of witnesses.~ */ DO ~SetGlobal("C#RE1_ToldProgress","LOCALS",1)~ + rest_easier
+/* Slythe and bimbo are dead and coronation has been busted up */
++ ~GlobalGT("SarevokBehavior","GLOBAL",0)
+Dead("Slythe")
+Dead("Krystin")
+!Dead("Sarevok")
+GlobalLT("C#RE1_ToldProgress","LOCALS",2)~ +  @329 /* ~I've ruined Sarevok's plans to murder the other dukes. Don't worry, they're safe.~ */ DO ~SetGlobal("C#RE1_ToldProgress","LOCALS",2)~ + rest_easier
++ ~PartyHasItem("c#re1sr5")~ + @1 DO ~TakePartyItem("c#re1sr5") SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_06
++ ~PartyHasItem("c#re1sr6")~ + @2 DO ~TakePartyItem("c#re1sr6") SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_06_receit
++ ~Global("C#RE1_ScarRetrieval","GLOBAL",10)~ + @3 DO ~SetGlobal("C#RE1_ScarRetrieval","GLOBAL",12) SetGlobal("c#lc_eltan","GLOBAL",0)~ + heard_scar
++ ~Global("C#RE1_ScarRetrieval","GLOBAL",11)~ + @4 DO ~SetGlobal("C#RE1_ScarRetrieval","GLOBAL",12) SetGlobal("c#lc_eltan","GLOBAL",0)~ + burying_scar
++ ~Global("C#RE1_ScarRetrieval","GLOBAL",12)~ + @5 DO ~SetGlobal("c#lc_eltan","GLOBAL",0)~ + rising_scar
+++ @6 DO ~SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan
+++ @7 DO ~SetGlobal("c#lc_eltan","GLOBAL",0)~ + eltan_01
+END
+
+%TUTU_BG1_ONLY_ASTERIKS%%TUTU_BG1_ONLY_SLASH%
 
 APPEND %ELTANDLG_HARBORMASTER%
 
@@ -313,3 +347,8 @@ IF ~~ THEN EXIT
 END
 
 END //APPEND
+
+
+%TUTU_BG1_ONLY_SLASH%%TUTU_BG1_ONLY_ASTERIKS%
+ADD_TRANS_TRIGGER %ELTANDLG_HARBORMASTER% %ELTANDLG_STATE% ~False()~ DO 0 UNLESS ~False()~
+%TUTU_BG1_ONLY_ASTERIKS%%TUTU_BG1_ONLY_SLASH%
