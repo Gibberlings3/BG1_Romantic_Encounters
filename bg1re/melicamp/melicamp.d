@@ -251,8 +251,8 @@ IF~~THEN REPLY @88 EXTERN %tutu_var%MELICA RE#Melica04x02
 IF~~THEN REPLY @89 EXTERN %tutu_var%MELICA RE#Melica04x03
 IF~~THEN REPLY @90 EXTERN %tutu_var%MELICA RE#Melica04x04
 IF~PartyHasItem("BOOK08")~THEN REPLY @91 DO ~TakePartyItem("BOOK08") DestroyItem("BOOK08") AddExperienceParty(3500) ReputationInc(1)~ EXTERN %tutu_var%MELICA RE#Melica04x05
-IF~~THEN REPLY @92 EXTERN %tutu_var%MELICA RE#Melica04x06
-IF~~THEN REPLY @93 EXTERN %tutu_var%MELICA RE#Melica04x07
+IF~Global("RE1_MelicampSex","GLOBAL",1)~THEN REPLY @92 EXTERN %tutu_var%MELICA RE#Melica04x06
+IF~Global("RE1_MelicampSex","GLOBAL",1)~THEN REPLY @93 EXTERN %tutu_var%MELICA RE#Melica04x07
 IF~~THEN REPLY @94 EXTERN %tutu_var%MELICA RE#Melica04x08
 
 CHAIN %tutu_var%MELICA RE#Melica04x01
@@ -336,6 +336,7 @@ DO ~~ EXIT
 
 CHAIN %tutu_var%MELICA RE#Melica04x06
 @129
+DO ~SetGlobal("RE1_MelicampSex","GLOBAL",1)~
 ==%tutu_var%MELICA @130
 DO ~~ EXIT
 
