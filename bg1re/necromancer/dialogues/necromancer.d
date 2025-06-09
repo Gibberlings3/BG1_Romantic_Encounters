@@ -1494,6 +1494,13 @@ IF ~!Global("C#Q11_SearchBlood","GLOBAL",1)~ THEN DO ~SetGlobal("C#Q11_CowQuest"
 ActionOverride("c#q11but",EscapeArea()) EscapeArea()~ EXIT
 //## EraseJournalEntry()
 
+/* give trevor some dialogue before the quests start */
+APPEND c#q11wat
+IF ~True()~ THEN filler
+SAY @312
+IF ~~ THEN EXIT
+END
+END //APPEND
 
 
 
