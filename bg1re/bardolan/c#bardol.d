@@ -15,6 +15,24 @@ EXTEND_BOTTOM %tutu_var%HICK 0
 + ~GlobalGT("C#LC_BardolanMoves","GLOBAL",0)~ + @0 + 2
 END
 
+/* if JAP is installed: add reply options to soldier in the barracks, too */
+%JAP_BARDOL_ONLY_SLASH%%JAP_BARDOL_ONLY_ASTERIKS%
+/* JAP's soldier in the baracks */
+/*
+@0    = ~What are you doing here! This is the Amnian military barracks. Unless you have a very good reason for being here, it would be prudent for you to leave.~
+*/
+EXTEND_BOTTOM ~JA#AMNI2~ 0
++ ~GlobalGT("C#LC_BardolanMoves","GLOBAL",0)~ + @0 + bg1re_invite
+END
+
+APPEND ~JA#AMNI2~
+IF ~~ THEN bg1re_invite
+SAY @43
+IF ~~ THEN EXIT
+END
+END //APPEND
+%JAP_BARDOL_ONLY_ASTERIKS%%JAP_BARDOL_ONLY_SLASH%
+
 
 INTERJECT ~%tutu_var%BARDOL~ 1 c#bardol_lc1
 == %tutu_var%BARDOL @1
