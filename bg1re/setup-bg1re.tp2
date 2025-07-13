@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~14~
+VERSION ~15pre~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -940,6 +940,17 @@ COPY_EXISTING ~%tutu_var%bardol.cre~ ~override/c#bardol.cre~ EVALUATE_BUFFER
 WRITE_EVALUATED_ASCII 0x250 ~~ #8   // Class script: get rid of the INITDLG.BCS
 
 
+/* JAP component "RESTORED: Nashkel Garrison soldier" */
+ACTION_IF MOD_IS_INSTALLED ~Setup-JA#BGT_AdvPack.tp2~ 13 THEN BEGIN
+OUTER_SPRINT ~JAP_BARDOL_ONLY_SLASH~ ~~
+OUTER_SPRINT ~JAP_BARDOL_ONLY_ASTERIKS~ ~~
+END ELSE BEGIN
+/* no JAP detected */
+OUTER_SPRINT ~JAP_BARDOL_ONLY_SLASH~ ~/~
+OUTER_SPRINT ~JAP_BARDOL_ONLY_ASTERIKS~ ~*~
+END
+
+
 COMPILE EVALUATE_BUFFER ~bg1re/bardolan/c#bardol.d~
 COMPILE EVALUATE_BUFFER ~bg1re/bardolan/c#lcban1.baf~
 COMPILE EVALUATE_BUFFER ~bg1re/bardolan/c#lcban2.baf~
@@ -954,27 +965,40 @@ EXTEND_TOP ~%tutu_var%ar4810.bcs~ ~bg1re/bardolan/c#ar4810.baf~
       EVALUATE_BUFFER 
 END 
 
-/* In case Jarl's Adventure Pack is installed before bg1re: Bardolan would remain standing at the bridge. bg1re makes him EscapeArea(). [JAP will respawn him after the bg1re encounter.] */
-/* not for Tutu - if JAP gets a Tutu version this needs to be adjusted */
+/* In case Jarl's Adventure Pack is installed: Bardolan would remain standing at the bridge. bg1re makes him EscapeArea(), then respawn him after talking to bg1re-him in the barracks is done. */
 
-ACTION_IF MOD_IS_INSTALLED ~Setup-JA#BGT_AdvPack.tp2~ "1" BEGIN
-
+/* JAP component "~Nashkel~" - Bardolan in Nashkel */
+ACTION_IF MOD_IS_INSTALLED ~Setup-JA#BGT_AdvPack.tp2~ 40 THEN BEGIN
 COPY_EXISTING ~%tutu_var%bardol.CRE~ ~override/%tutu_var%bardol.cre~
 WRITE_EVALUATED_ASCII 0x280 ~Bardolan~ #32 // script name / DV
 
 <<<<<<<< ...inlined/bardolan_jap_ar4800.baf
 
 IF
-Exists("Bardolan")
-Global("C#LC_BardolanJAPComp","MYAREA",0)
-Global("C#LC_BardolanMoves","GLOBAL",1)
+    Exists("Bardolan")
+    Global("C#LC_BardolanJAPComp","MYAREA",0)
+    Global("C#LC_BardolanMoves","GLOBAL",1)
 THEN 
-RESPONSE #100
-SetGlobal("C#LC_BardolanJAPComp","MYAREA",1)
-ActionOverride("Bardolan",EscapeArea())
-Continue()
+    RESPONSE #100
+        SetGlobal("C#LC_BardolanJAPComp","MYAREA",1)
+        ActionOverride("Bardolan",EscapeArea())
+        Continue()
 END
 
+IF
+    !Exists("C#BARDOL")
+	!Exists("Bardolan")
+	OR(2)
+		Global("C#LC_BardolanMoves","GLOBAL",0)
+		Global("C#LC_BardolanMoves","GLOBAL",5)
+	Global("C#LC_#BardolanRespawn","MYAREA",0)
+THEN
+	RESPONSE #100
+		SetGlobal("C#LC_#BardolanRespawn","MYAREA",1)
+		CreateCreature("BARDOL",[1104.722],11)
+		ActionOverride("Bardolan",SetNumTimesTalkedTo(1))
+		Continue()
+END
 
 >>>>>>>>
 
