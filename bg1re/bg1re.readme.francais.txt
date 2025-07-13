@@ -1383,7 +1383,14 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 XII. History
 ----------------
 
+Version 15:
+-crossmod with JAP: bg1re will now only consider JAP v1 and higher. If JAP's component "RESTORED: Nashkel Garrison soldier" is installed, PC invited by Bardolan can tell him off, too. If JAP's component "Nashkel" is installed, handling of Bardolan so that he always exists, but not twice, will be handled by bg1re fully.
+
 Version 14:
+-Fixed compatibility between EEFP and component "Centeol".
+
+Version 15:
+-crossmod with JAP: bg1re will now only consider JAP v1 and higher. If JAP's component "RESTORED: Nashkel Garrison soldier" is installed, PC invited by Bardolan can tell him off, too. If JAP's component "Nashkel" is installed, handling of Bardolan so that he always exists, but not twice, will be handled by bg1re fully.
 -"Dinner with Thalantyr": Thalantyr should take the knights-errand if he offers to make a magic item out of the bishop piece.
 -Dinner dialogue didn't check for timer.
 -"Mikala": fixed a typo that also lead to translation error (English, Italian).
