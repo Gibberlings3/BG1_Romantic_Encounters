@@ -2650,6 +2650,7 @@ END
 
 BEGIN @99 /* ~Ender Sai, the Hero's Reward, by Thimblerig~ */ DESIGNATED 27 
 LABEL bg1re_ender_sai_heros_reward
+FORBID_COMPONENT ~Setup-JA#BGT_AdvPack.tp2~ 48 @99188 /* ~This component is not compatible with Ender Sai from Jarl's Adventure Pack~ */
 REQUIRE_FILE ~bg1re/backup/RE1_WarningTeen.G3~ @14 /*~The Component "Amount of -ahem - details and BG-style vs. description text" is not installed.~ */
 
 COMPILE EVALUATE_BUFFER ~bg1re/endersai/endersai.d~
