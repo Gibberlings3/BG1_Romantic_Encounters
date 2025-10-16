@@ -18,6 +18,7 @@ END
 
 IF
   GlobalGT("Chapter","GLOBAL",%tutu_chapter_4%)
+  Exists("T1ENDER")
 THEN
   RESPONSE #100
     SetGlobal("T1EnderCreation","GLOBAL",99)
@@ -29,6 +30,7 @@ END
 
 IF
   Global("RE1_EnderSex","GLOBAL",1)
+  Exists("T1ENDER")
 THEN
   RESPONSE #100
     SetGlobal("T1EnderCreation","GLOBAL",99)
