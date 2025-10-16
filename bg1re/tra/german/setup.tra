@@ -114,3 +114,4 @@
 @99185  = ~"Beschreibungstexte" [nicht jugendfrei] und Komponenten mit Warnung werden uebersprungen.~
 @99186  = ~"Beschreibungstexte" [nicht jugendfrei] und alle Komponenten werden beruecksichtigt.~
 @99187  = ~Die Mod muss vor EET_End installiert werden.~
+@99188  = ~Diese Komponente ist nicht mit Ender Sai aus Jarl's Adventure Pack kompatibel.~

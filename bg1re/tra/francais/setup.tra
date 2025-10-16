@@ -157,6 +157,8 @@
 
 @99187  = ~Ce mod doit etre installe avant EET_End et apres EET, comme tous les mods ajoutant un PNJ dans un jeu EET.~
 
+@99188  = ~This component is not compatible with Ender Sai from Jarl's Adventure Pack~
+
 // WeiDU prompts
 @-1000= "Le mod %TP2_FILE_NAME% contient"
 @-1001= "composants optionnels distincts.
