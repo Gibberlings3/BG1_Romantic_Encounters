@@ -790,7 +790,11 @@ LANGUAGE ~Russian (Staylos, Apxu & Arcanecoast Team)~
 LANGUAGE ~Italian~
          ~italiano~
          ~bg1re/tra/italiano/setup.tra~ ~bg1re/tra/italiano/setup_game.tra~
-
+		 
+LANGUAGE ~Chinese~
+         ~schinese~
+         ~bg1re/tra/schinese/setup.tra~ ~bg1re/tra/schinese/setup_game.tra~
+		 
 /* First components: required */
 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
 //Choose the level of details and style 
