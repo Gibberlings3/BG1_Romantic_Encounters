@@ -103,7 +103,7 @@ The courtesan Bartus had a very unpleasant incident with a very angry fiancé. I 
 
 /* this line needs to work for both sexes */
 @94   = ~Hm, how about starting right here? You have to get into practice again, do you not? And it would be such a nice reward for your savior...~
-@95   = ~Farewell, my savior. Have a look into the Low Lantern, if you reach Baldur's Gate. I owe you. And I am sure there will *just* be the place to repay my dept, in the only way I know... If you are interested.~
+@95   = ~Farewell, my savior. Have a look into the Low Lantern, if you reach Baldur's Gate. I owe you. And I am sure there will *just* be the place to repay my debt, in the only way I know... If you are interested.~
 @96   = ~Bartus the Romantic
 
 The courtesan Bartus had to be saved by me from a very angry fiancé. He took off to Baldur's Gate. He will try to get work in the Low Lantern where he has a friend, Gunther.~
@@ -152,7 +152,7 @@ The courtesan Bartus had to be saved by me from a very angry fiancé. He took off
 @139  = ~I am very happy you found your way without problems.~
 @140  = ~I don't think you are where you belong, Bartus. You wanted to be a romantic seducer, not a common hooker.~
 @141  = ~I didn't really appreciate what you said on our last good-byes, Bartus. I did save you, but you do not owe me. Especially not with selling your body in intimate ways.~
-@142  = ~I liked what you said on our last farewell, you know. Something about repaying a dept...~
+@142  = ~I liked what you said on our last farewell, you know. Something about repaying a debt...~
 @143  = ~Thank you. It is very kind of you to say so!~
 @144  = ~You are very kind, <CHARNAME>. Kind, and strong, and honorable... What in the nine hells are you doing in such a place as the Low Lantern? (laughs)~
 @145  = ~Meeting a friend I care about.~
