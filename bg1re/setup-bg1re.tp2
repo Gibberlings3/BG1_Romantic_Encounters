@@ -7,7 +7,7 @@ BACKUP ~bg1re/backup~
 AUTHOR ~Please post in the G3 forum for help, refer to readme.~ //for bugreports
 
 //MODDER
-VERSION ~15pre~
+VERSION ~16~
 
 README ~bg1re/bg1re.readme.%LANGUAGE%.txt~ ~bg1re/bg1re.readme.english.txt~
 
@@ -790,11 +790,11 @@ LANGUAGE ~Russian (Staylos, Apxu & Arcanecoast Team)~
 LANGUAGE ~Italian~
          ~italiano~
          ~bg1re/tra/italiano/setup.tra~ ~bg1re/tra/italiano/setup_game.tra~
-		 
+
 LANGUAGE ~Chinese~
          ~schinese~
          ~bg1re/tra/schinese/setup.tra~ ~bg1re/tra/schinese/setup_game.tra~
-		 
+
 /* First components: required */
 /* ~Amount of -ahem- details and BG-style vs. description text!~ */
 //Choose the level of details and style 
