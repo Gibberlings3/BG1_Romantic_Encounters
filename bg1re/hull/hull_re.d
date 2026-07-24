@@ -5,9 +5,9 @@
 ///////////////%tutu_var%hull PROLOGUE/////////////////////
 /////////////////////////////////////////////////
 
-REPLACE_STATE_TRIGGER %tutu_var%hull 1 ~CheckStatGT(Player1,12,CHR) HasItem("%tutu_var%SW1H12",LastTalkedToBy)~ 
+REPLACE_STATE_TRIGGER %tutu_var%hull 1 ~CheckStatGT(Player1,12,CHR) PartyHasItem("%tutu_var%SW1H12")~
 
-REPLACE_STATE_TRIGGER %tutu_var%hull 3 ~CheckStatLT(Player1,13,CHR) HasItem("%tutu_var%SW1H12",LastTalkedToBy)~ 
+REPLACE_STATE_TRIGGER %tutu_var%hull 3 ~CheckStatLT(Player1,13,CHR) PartyHasItem("%tutu_var%SW1H12")~
 
 INTERJECT %tutu_var%hull 1 RE#hull01x00
 == %tutu_var%hull @0
