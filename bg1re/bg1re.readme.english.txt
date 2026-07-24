@@ -950,7 +950,7 @@ Rating: teen content, with slightly suggestive language.
 PC restrictions: none
 Variables: "C#LCINT_Spawn" is incremented along the encounters.
 
-Elfong Tavern has a neat little room for private encounters but it's difficult to have private meetings when there is no door that can be locked... So, it's not the PC's fault if s/he interrupts a flirtatious dinner by walking into it once or twice, or thrice... is it?
+Elfsong Tavern has a neat little room for private encounters but it's difficult to have private meetings when there is no door that can be locked... So, it's not the PC's fault if s/he interrupts a flirtatious dinner by walking into it once or twice, or thrice... is it?
 
 Note: There are 7 encounters in total. To see the next one, just leave the second floor of the Elfsong Tavern once and return. The last encounter does not happen before chapter 6.
 
@@ -1353,6 +1353,7 @@ German translations: Gerri, jastey, Belryll.
 French translations by les d'Oghmatiques (Le Marquis, Galathée, Lothringen, Shaywen, Zooloo) and Jazira ; proofreading by Graoumf.
 Russian translations: Staylos, Apxu & Arcanecoast Team.
 Italian translation: Zaramorte, Stoneangel (first version of Bjornin component), Janvitus (proofreading).
+Simplified Chinese translation: MephistoSatanDevil.
 
 ----------------
 XI. Tools Used
@@ -1383,6 +1384,14 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 ----------------
 XII. History
 ----------------
+
+Version 16:
+-Simplified Chinese version added, by MephistoSatanDevil.
+-Russian version revised, by Neoko5.
+-Ender Sai component: Add constraint if JAP's component is detected. Also, Ender Sai should not spwan if already present.
+-Hull's Sword component: changed trigger for sword item to PartyHasItem.
+-English: typo corrections, by visionok.
+-deleted doubled minus signs in texts.
 
 Version 15:
 -crossmod with JAP: bg1re will now only consider JAP v1 and higher. If JAP's component "RESTORED: Nashkel Garrison soldier" is installed, PC invited by Bardolan can tell him off, too. If JAP's component "Nashkel" is installed, handling of Bardolan so that he always exists, but not twice, will be handled by bg1re fully.
